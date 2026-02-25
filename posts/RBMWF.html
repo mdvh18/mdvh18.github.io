@@ -36,9 +36,9 @@
     }
 
     .header-title {
-        color: white;
-        font-size: 20px;
-        font-weight: bold;
+        background: linear-gradient(135deg,#f78f90,#D79BBB);
+        font-size: 28px;
+        font-weight: 700;
         letter-spacing: 1px;
     }
 
@@ -79,57 +79,62 @@
     }
 
     /* Phần Logo và Brand */
-    .brand-container {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        gap: 15px;
-        margin-bottom: 20px;
+.sub-nav-wrapper {
+        background: 
+            linear-gradient(135deg,#f78f90,#D79BBB) bottom / 100% 3px no-repeat,
+            transparent !important; 
+        padding: 15px 0 !important; 
+        width: 100% !important; /* Chỉnh lại 100% để khớp với container GitHub */
+        position: relative !important; 
+        margin-bottom: 30px !important; 
+        display: block !important;
     }
 
-    .brand-logo {
-        width: 80px; /* Chỉnh kích thước logo theo ý ông */
-        height: auto;
+    .sub-nav-container { max-width: 1100px !important; margin: 0 auto !important; }
+
+    .sub-nav-list { 
+        display: flex !important; 
+        justify-content: center !important; 
+        list-style: none !important; 
+        margin: 0 !important; 
+        padding: 0 !important; 
+        gap: 50px !important; 
+        flex-wrap: wrap; /* Hỗ trợ xuống dòng trên mobile */
     }
 
-    .brand-name {
-        color: #f78f90; /* Màu chữ hồng nhạt */
-        font-size: 28px;
-        font-weight: bold;
-        letter-spacing: 1px;
+    .sub-nav-list li a { 
+        color: #E6E6EB !important; 
+        font-size: 18px !important; 
+        font-weight: 600 !important; 
+        text-decoration: none !important; 
+        transition: 0.3s !important; 
     }
 
-    /* Thanh Menu Nhãn */
-    .nav-labels {
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap;
-        gap: 25px;
-        padding: 10px 0;
+    /* Hiệu ứng Hover và Active giữ nguyên màu và text-shadow */
+    .sub-nav-list li a:hover, .sub-nav-list li a.active {
+        background: linear-gradient(135deg,#e66465,#D79BBB); 
+        -webkit-background-clip: text; 
+        background-clip: text; 
+        -webkit-text-fill-color: transparent !important; 
+        color: transparent !important; 
+        text-shadow: 0 0 1px rgba(230,100,101,.5), 0 0 2px rgba(215,155,187,.8);
     }
 
-    .nav-link {
-        color: #ffffff;
-        text-decoration: none;
-        font-size: 15px;
-        font-weight: 500;
-        transition: 0.3s;
+    .sub-nav-list li a:hover { 
+        background-size: 200% 200%; 
+        animation: glowMove 3s ease infinite; 
     }
 
-    .nav-link:hover {
-        color: #f78f90;
-    }
-
-    /* Highlight cho trang chủ hoặc mục đang chọn */
-    .nav-link.active {
-        color: #f78f90;
+    @keyframes glowMove {
+        0% { background-position: left center; }
+        50% { background-position: right center; }
+        100% { background-position: left center; }
     }
 
     @media (max-width: 768px) {
+        .sub-nav-list { gap: 20px !important; }
+        .sub-nav-list li a { font-size: 14px !important; }
         .brand-name { font-size: 18px; }
-        .nav-labels { gap: 10px; }
-        .nav-link { font-size: 13px; }
-        .brand-logo { width: 50px; }
     }
 </style>
 
