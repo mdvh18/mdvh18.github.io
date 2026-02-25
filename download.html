@@ -57,5 +57,66 @@
             document.querySelector('.box').innerHTML = "<h3>LỖI ĐƯỜNG DẪN</h3><p>Link không hợp lệ hoặc đã hết hạn.</p>";
         }
     </script>
+    <script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // 1. Lấy URL hiện tại của trang download
+    const currentUrl = window.location.href;
+    let targetUrl = "";
+
+    try {
+      // 2. Kiểm tra nếu trang đang chứa tham số ?url=
+      if (currentUrl.includes('?url=')) {
+        const base64String = currentUrl.split('?url=')[1].split('&')[0]; // Lấy chuẩn đoạn Base64
+        targetUrl = atob(base64String); // Giải mã
+      }
+
+      // 3. Nếu "soi" ra đúng là link Pixeldrain thì hiện thông báo ngay lập tức
+      if (targetUrl.includes('pixeldrain.com')) {
+        setTimeout(showPixeldrainFAQ, 1000); // Hiện sau 1s cho nó chuyên nghiệp
+      }
+    } catch (err) {
+      console.log("Không soi được link rồi bro!");
+    }
+  });
+
+  function showPixeldrainFAQ() {
+    if (document.getElementById('pixeldrain-toast')) return;
+    
+    var toast = document.createElement('div');
+    toast.id = 'pixeldrain-toast';
+    toast.style = 'position:fixed; bottom:30px; right:30px; background:#1a1131; color:#fff; padding:20px; border:2px solid #f78f90; border-radius:15px; box-shadow:0 15px 40px rgba(0,0,0,0.6); z-index:100000; font-family:"Segoe UI",sans-serif; max-width:320px; animation: slideIn 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);';
+    
+    toast.innerHTML = 
+      '<div style="display:flex; align-items:center; margin-bottom:12px;">' +
+        '<span style="font-size:24px; margin-right:10px;">🚀</span>' +
+        '<strong style="color:#f78f90; font-size:16px;">Phát hiện Pixeldrain!</strong>' +
+      '</div>' +
+      '<p style="font-size:14px; line-height:1.5; margin-bottom:15px; color:#e0e0e0;">Link này có giới hạn 6GB/ngày. Bro nhớ xem FAQ để biết mẹo tải không giới hạn nhé!</p>' +
+      '<div style="text-align:right;">' +
+        '<a href="https://mdvh18.blogspot.com/p/faq.html" target="_blank" style="background:#f78f90; color:#1a1131; padding:8px 15px; border-radius:20px; text-decoration:none; font-weight:bold; font-size:13px; transition:0.3s; display:inline-block;">XEM FAQ NGAY</a>' +
+      '</div>';
+
+    document.body.appendChild(toast);
+    
+    // Tự biến mất sau 10 giây (cho người dùng dư dả thời gian bấm)
+    setTimeout(function() {
+      toast.style.transform = 'translateX(120%)';
+      toast.style.transition = '0.8s ease-in';
+      setTimeout(function() { toast.remove(); }, 800);
+    }, 10000);
+  }
+</script>
+
+<style>
+  @keyframes slideIn {
+    from { transform: translateX(120%); opacity: 0; }
+    to { transform: translateX(0); opacity: 1; }
+  }
+  #pixeldrain-toast a:hover {
+    background: #fff !important;
+    box-shadow: 0 0 10px #f78f90;
+    transform: translateY(-2px);
+  }
+</style>
 </body>
 </html>
