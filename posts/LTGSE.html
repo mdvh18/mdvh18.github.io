@@ -254,71 +254,7 @@
     font-weight: bold;
 }
 
-/* KHUNG CHỨA ẢNH LINH HOẠT */
-.image-grid {
-    width: 77vw !important;
-    margin: 0 auto !important;
-    display: flex;
-    flex-wrap: wrap; /* Cho phép tự xuống hàng khi nhiều ảnh */
-    justify-content: space-between;
-    gap: 15px; /* Khoảng cách giữa các ảnh */
-}
-
-/* TỰ ĐỘNG CHỈNH KÍCH THƯỚC */
-.image-grid img {
-    border-radius: 10px;
-    width: calc(50% - 8px) !important; /* Chia đôi trừ đi gap */
-    height: auto;
-    object-fit: cover;
-    margin-bottom: 5px;
-    transition: 0.3s;
-}
-
-.image-grid img:hover {
-    transform: scale(1.02); /* Di chuột vào ảnh hơi to ra cho sang */
-}
-/* Hiệu ứng khi di chuột vào ảnh */
-.image-grid img:hover {
-    transform: scale(1.03);
-    /* Viền sáng rực lên và đổ bóng hào quang */
-    border: 2px solid rgba(247, 143, 144, 1);
-    box-shadow: 0 0 20px rgba(247, 143, 144, 0.6);
-    cursor: pointer;
-}
-/* TẠO VIỀN MÀU GRADIENT CHO ẢNH */
-.image-grid img {
-    width: 100% !important;
-    height: auto;
-    border-radius: 7px;
-    object-fit: cover;
-    display: block;
-    transition: 0.3s ease;
-    
-    /* Dùng padding và background để giả lập viền gradient đúng màu ông yêu cầu */
-    padding: 3px; 
-    background: radial-gradient(circle, rgba(247, 143, 144, 0.8) 52%, rgba(215, 155, 187, 1) 100%);
-}    
-/* Mobile: Xếp 1 cột cho dễ nhìn */
-@media (max-width: 768px) {
-    .image-grid {
-        width: 95vw !important;
-    }
-    .image-grid img {
-        width: 100% !important;
-    }
-}
-
-/* Mobile: Bung 100% cho dễ nhìn */
-@media (max-width: 768px) {
-    .game-info, .download-box {
-    border: 1px solid rgba(247, 143, 144, 0.3); /* Viền hồng mờ */
-    box-shadow: 0 0 20px rgba(230, 100, 101, 0.2); /* Đổ bóng phát sáng */
-}
-    .img-container img { width: 100%; }
-}
-</style>
-<style>
-/* Tiêu đề hình ảnh nới rộng theo tỷ lệ chung */
+/* 1. Tiêu đề phần ảnh */
 .section-title {
     width: 77vw !important;
     margin: 35px auto 15px auto !important;
@@ -330,34 +266,45 @@
     -webkit-text-fill-color: transparent;
 }
 
-/* Khung chứa ảnh để đảm bảo ảnh không bị lệch */
+/* 2. Khung lưới chứa ảnh - CHIA 2 CỘT CỐ ĐỊNH */
 .image-grid {
     width: 77vw !important;
     margin: 0 auto !important;
-    display: flex;
-    justify-content: space-between;
-    gap: 10px;
+    display: grid !important; /* Dùng Grid cho chuẩn */
+    grid-template-columns: 1fr 1fr !important; /* Ép chia đúng 2 cột */
+    gap: 15px !important;
 }
 
-/* Ảnh trong game nới rộng ra */
+/* 3. Ảnh với viền Gradient đúng màu ông yêu cầu */
 .image-grid img {
-    border-radius: 10px;
-    width: 49.5% !important; /* Tận dụng tối đa không gian 77vw */
+    width: 100% !important; /* Ảnh chiếm hết 1 cột trong Grid */
     height: auto;
+    border-radius: 7px;
     object-fit: cover;
+    display: block;
+    transition: 0.3s ease;
+    
+    /* Viền Gradient bằng padding */
+    padding: 3px; 
+    background: radial-gradient(circle, rgba(247, 143, 144, 0.8) 52%, rgba(215, 155, 187, 1) 100%);
 }
 
-/* Mobile: Tự động tràn màn hình cho dễ nhìn */
+/* 4. Hiệu ứng Hover cho máu */
+.image-grid img:hover {
+    transform: translateY(-4px) scale(1.02);
+    box-shadow: 0 10px 20px rgba(247, 143, 144, 0.4);
+    background: radial-gradient(circle, rgba(247, 143, 144, 1) 40%, rgba(215, 155, 187, 1) 100%);
+    cursor: pointer;
+}
+
+/* 5. Mobile: Giữ 2 cột hoặc về 1 cột tùy ông, ở đây t để 1 cột cho rõ ảnh */
 @media (max-width: 768px) {
-    .section-title, .image-grid {
+    .section-title {
         width: 95vw !important;
     }
     .image-grid {
-        flex-direction: column;
-    }
-    .image-grid img {
-        width: 100% !important;
-        margin-bottom: 10px;
+        width: 95vw !important;
+        grid-template-columns: 1fr !important; /* Điện thoại thì 1 cột cho to */
     }
 }
 </style>
