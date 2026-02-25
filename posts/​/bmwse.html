@@ -506,31 +506,49 @@
     50% { transform: translateY(-8px); }
 }
     /* Trạng thái khi Header dính lên đầu và thu nhỏ */
+/* HIỆU ỨNG KHI CUỘN XUỐNG (SCROLLED) */
 .header-section.scrolled {
-    padding: 5px 0 0 0 !important; /* Thu hẹp khoảng cách trên dưới */
-    background-color: rgba(26, 17, 49, 0.85) !important; /* Làm mờ nhẹ (0.85) */
-    backdrop-filter: blur(8px); /* Hiệu ứng mờ đục xuyên thấu cực đĩ */
-    transition: all 0.4s ease; /* Chuyển cảnh mượt mà */
+    padding: 5px 0 0 0 !important;
+    background-color: rgba(26, 17, 49, 0.85) !important;
+    backdrop-filter: blur(8px);
+    transition: all 0.4s ease;
 }
 
-/* Thu nhỏ logo và chữ khi kéo xuống */
+/* Thu nhỏ logo - FIX LỖI MÉO ẢNH */
 .header-section.scrolled .brand-logo {
-    width: 40px !important; /* Logo bé lại một nửa */
+    width: 40px !important; 
+    height: 40px !important; /* Thêm dòng này để ảnh không bị dẹt */
+    border-radius: 50%; /* Giữ nguyên độ tròn */
 }
 
+/* Thu nhỏ chữ */
 .header-section.scrolled .brand-name {
-    font-size: 18px !important; /* Chữ bé lại */
+    font-size: 18px !important; 
+    line-height: 1 !important;
 }
 
+/* Căn chỉnh lại container khi cuộn */
 .header-section.scrolled .brand-container {
-    margin-bottom: 5px !important; /* Bớt khoảng cách thừa */
+    padding: 5px 0 !important; /* Thu gọn padding thay vì margin để cân đối hơn */
+    margin-bottom: 0 !important;
+    gap: 10px !important; /* Thu hẹp khoảng cách chữ và logo */
 }
 
+/* Điều chỉnh nút 3 gạch khi cuộn xuống để không bị lệch */
+.header-section.scrolled .menu-trigger {
+    top: 50%;
+    transform: translateY(-50%); /* Căn giữa lại nút 3 gạch theo chiều cao mới của Header */
+}
+
+/* Thanh menu dưới gọn lại */
 .header-section.scrolled .sub-nav-wrapper {
-    padding: 10px 0 !important; /* Thanh menu cũng gọn lại */
+    padding: 8px 0 !important;
     margin-bottom: 0 !important;
 }
-</style>
+
+.header-section.scrolled .sub-nav-list {
+    gap: 30px !important; /* Thu hẹp khoảng cách các mục menu cho gọn */
+}
 
 <style>
   /* ĐỔI TRỎ CHUỘT TOÀN TRANG */
