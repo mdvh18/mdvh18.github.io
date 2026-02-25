@@ -38,10 +38,11 @@
         font-family: 'Segoe UI', Arial, sans-serif;
         
     position: sticky !important;
-        top: 0 !important;
-        z-index: 9999 !important; /* Đảm bảo luôn nằm trên các ảnh nội soi */
-        box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5); /* Thêm bóng đổ cho sang */
-    }
+    top: 0 !important;
+    z-index: 9999 !important;
+    transition: all 0.3s ease-in-out !important; /* Thêm dòng này để mượt hơn */
+    will-change: padding, background-color; /* Báo trước cho trình duyệt để tránh lag */
+}
 
     .brand-container {
         display: flex;
