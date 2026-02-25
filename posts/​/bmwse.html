@@ -67,7 +67,7 @@
   letter-spacing: 1px;
   align-items: center;
   justify-content: center;
-  height: 200; /* Đảm bảo nó lấy hết chiều cao của khung Header */
+  height: 100%; /* Đảm bảo nó lấy hết chiều cao của khung Header */
   margin: 0 15px; /* Khoảng cách vừa phải với 2 logo bên cạnh */
 }
 
@@ -172,7 +172,7 @@
     left: 50%;
     transform: translateX(-50%); /* Căn giữa hoàn hảo */
     box-shadow: 0 10px 30px rgba(0,0,0,0.5);
-  padding-top: 100px;    /* Tạo khoảng cách phía trên cho cân đối */
+  padding-top: 60px;    /* Tạo khoảng cách phía trên cho cân đối */
 }
 
 .game-banner img {
@@ -187,7 +187,8 @@
     bottom: 0;
     left: 0;
     width: 100%;
-    padding: 3vw; /* Padding theo đơn vị vw để co giãn theo màn hình */
+    padding: 3vw;
+    padding-top: 60px;/* Padding theo đơn vị vw để co giãn theo màn hình */
     background: linear-gradient(
         to top,
         rgba(230,100,101,0.75) 0%,
