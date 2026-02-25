@@ -30,69 +30,157 @@
 }
     </style>
     <style>
-    /* Tổng thể Header */
+    /* 1. GIỮ NGUYÊN TỔNG THỂ HEADER TỪ BLOGSPOT */
     .header-section {
-        background-color: #1a1131;
-        padding: 20px 0 0 0;
-        text-align: center;
-        font-family: 'Segoe UI', Arial, sans-serif;
-        
-    position: fixed !important; 
+    background-color: #1a1131;
+    position: fixed !important;
     width: 100%;
     top: 0;
     left: 0;
     z-index: 9999 !important;
-    transition: all 0.3s ease-in-out !important;
-    will-change: padding, background-color;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    padding: 10px 0 0 0;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.5);
 }
 
-    .brand-container {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        gap: 15px;
-        margin-bottom: 20px;
-    }
-    body {
-        padding-top: 160px !important; 
-    }
-    .brand-logo { width: 80px; height: auto; }
-    .brand-name { color: #f78f90; font-size: 28px; font-weight: bold; letter-spacing: 1px; }
+body {
+    padding-top: 100px !important; 
+}
 
-    /* THANH NAV LINK - GIỮ NGUYÊN STYLE CỦA ÔNG */
-    .sub-nav-wrapper {
-        background: 
-            linear-gradient(135deg,#f78f90,#D79BBB) bottom / 100% 3px no-repeat,
-            transparent !important; 
-        padding: 15px 0 !important; 
-        width: 100% !important; /* Chỉnh lại 100% để khớp với container GitHub */
-        position: relative !important; 
-        margin-bottom: 30px !important; 
-        display: block !important;
-    }
+.brand-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 0;
+    position: relative;
+}
 
-    .sub-nav-container { max-width: 1100px !important; margin: 0 auto !important; }
+/* --- MENU 3 GẠCH --- */
+.menu-trigger {
+    position: absolute;
+    left: 30px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    z-index: 10001;
+    padding: 10px;
+}
 
-    .sub-nav-list { 
-        display: flex !important; 
-        justify-content: center !important; 
-        list-style: none !important; 
-        margin: 0 !important; 
-        padding: 0 !important; 
-        gap: 50px !important; 
-        flex-wrap: wrap; /* Hỗ trợ xuống dòng trên mobile */
-    }
+.menu-trigger span {
+    display: block;
+    width: 35px;
+    height: 3px;
+    background: #ffffff;
+    transition: all 0.3s ease;
+}
 
-    .sub-nav-list li a { 
+.menu-trigger:hover span {
+    background: #f78f90;
+    box-shadow: 0 0 8px rgba(215,155,187,0.8);
+}
+
+/* --- DROPDOWN LOGIC (RÊ CHUỘT LÀ HẠ) --- */
+.menu-container {
+    position: absolute;
+    left: 20px;
+    top: 80%; /* Nằm ngay dưới nút 3 gạch */
+    z-index: 10002;
+    padding-top: 20px;
+    visibility: hidden;
+    opacity: 0;
+    transition: all 0.3s ease;
+    transform: translateY(-10px);
+}
+
+/* Kích hoạt khi hover vào nút hoặc chính menu */
+.menu-trigger:hover + .menu-container,
+.menu-container:hover {
+    visibility: visible;
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.dropdown-content {
+    background: #111111 !important;
+    width: 280px;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.8);
+    overflow: hidden;
+    border: 1px solid #222;
+}
+
+.dropdown-header {
+    color: #f78f90;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 20px 25px 12px;
+    border-bottom: 3px solid #f78f90;
+    text-transform: uppercase;
+    background: #151515;
+}
+
+.dropdown-content ul { list-style: none; padding: 0; margin: 0; }
+.dropdown-content li { border-bottom: 1px solid #1a1a1a; }
+
+.dropdown-content li a {
+    color: #ffffff !important;
+    padding: 14px 25px;
+    display: block;
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 15px;
+    transition: 0.3s ease;
+}
+
+.dropdown-content li a:hover {
+    background: rgba(247, 143, 144, 0.1);
+    color: #f78f90 !important;
+    padding-left: 35px;
+}
+
+.sub-item {
+    background: #0a0a0a !important;
+    padding-left: 45px !important;
+    font-size: 13px !important;
+    color: #aaa !important;
+}
+
+.dropdown-content ul:last-child {
+    border-bottom: 8px solid #f78f90;
+}
+
+/* --- LOGO VÀ NAV NGANG --- */
+.brand-link { display: flex; align-items: center; gap: 20px; text-decoration: none; }
+.brand-logo { width: 80px; height: 80px; border-radius: 50%; object-fit: cover; }
+.brand-name {
+    font-size: 28px; font-weight: 700;
+    background: linear-gradient(135deg,#f78f90,#D79BBB);
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    white-space: nowrap; line-height: 1;
+}
+
+.sub-nav-wrapper {
+    background: linear-gradient(135deg,#f78f90,#D79BBB) bottom / 100% 3px no-repeat;
+    padding: 15px 0 !important;
+    width: 100% !important;
+}
+
+.sub-nav-list {
+    display: flex !important; justify-content: center !important;
+    list-style: none !important; margin: 0 !important; padding: 0 !important; gap: 50px !important;
+}
+
+.sub-nav-list li a { 
         color: #E6E6EB !important; 
         font-size: 18px !important; 
         font-weight: 600 !important; 
         text-decoration: none !important; 
         transition: 0.3s !important; 
-    }
-
-    /* Hiệu ứng Hover và Active giữ nguyên màu và text-shadow */
-    .sub-nav-list li a:hover, .sub-nav-list li a.active {
+}
+ .sub-nav-list li a:hover, .sub-nav-list li a.active {
         background: linear-gradient(135deg,#e66465,#D79BBB); 
         -webkit-background-clip: text; 
         background-clip: text; 
@@ -104,9 +192,8 @@
     .sub-nav-list li a:hover { 
         background-size: 200% 200%; 
         animation: glowMove 3s ease infinite; 
-    }
-
-    @keyframes glowMove {
+    }       
+@keyframes glowMove {
         0% { background-position: left center; }
         50% { background-position: right center; }
         100% { background-position: left center; }
@@ -117,29 +204,91 @@
         .sub-nav-list li a { font-size: 14px !important; }
         .brand-name { font-size: 18px; }
     }
+/* Hiệu ứng khi cuộn chuột (Scrolled) */
+.header-section.scrolled .brand-logo { width: 45px !important; height: 45px !important; }
+.header-section.scrolled .brand-name { font-size: 18px !important; }
+.header-section.scrolled { padding: 5px 0 0 0 !important; }
 </style>
+
 <header class="header-section">
-    <div class="brand-container">
-        <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgwvx69wmc1Toc5J6nbK75cqCVKVH20kh7Smzd-9htx9UulnhAIaailkHZ0pcP5fL8-o4CmBr6AUWBC8GvRuRaJBeKQOk291W2WaZ1I1h1yH1icqGjuQaoCMlhgSuENa5q3MLhie9OtGWnjY4dijUy5XXqzL8_gdzf38zdKsZCqyxEy2fA9K4_PIHL6njU=w800" class="brand-logo" alt="MDVH18">
-        <span class="brand-name">MDVH18 - Việt Hóa Game Visual Novel ++</span>
-        <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgwvx69wmc1Toc5J6nbK75cqCVKVH20kh7Smzd-9htx9UulnhAIaailkHZ0pcP5fL8-o4CmBr6AUWBC8GvRuRaJBeKQOk291W2WaZ1I1h1yH1icqGjuQaoCMlhgSuENa5q3MLhie9OtGWnjY4dijUy5XXqzL8_gdzf38zdKsZCqyxEy2fA9K4_PIHL6njU=w800" class="brand-logo" alt="MDVH18">
+    <div class="menu-trigger">
+        <span></span>
+        <span></span>
+        <span></span>
     </div>
 
-    <div class="sub-nav-wrapper">
-        <div class="sub-nav-container">
-            <ul class="sub-nav-list">
-                <li><a href="https://mdvh18.blogspot.com/" class="active">Trang chủ</a></li>
+    <div class="menu-container">
+        <div class="dropdown-content">
+            <div class="dropdown-header">DANH MỤC</div>
+            <ul>
+                <li><a href="https://mdvh18.blogspot.com">HOME</a></li>
+                <li><a href="#">GENRE</a></li>
+                <li><a href="https://mdvh18.blogspot.com/search/label/2DCG" class="sub-item">» 2DCG</a></li>
+                <li><a href="https://mdvh18.blogspot.com/search/label/3DCG" class="sub-item">» 3DCG</a></li>
+                <li><a href="https://mdvh18.blogspot.com/search/label/Android" class="sub-item">» Android</a></li>
+                <li><a href="https://mdvh18.blogspot.com/search/label/Animated" class="sub-item">» Animated</a></li>
+                <li><a href="https://mdvh18.blogspot.com/search/label/PC" class="sub-item">» Game PC</a></li>
+                <li><a href="https://mdvh18.blogspot.com/search/label/Point%20%26%20Click" class="sub-item">» Point and Click</a></li>
+                <li><a href="https://mdvh18.blogspot.com/search/label/Puzzle" class="sub-item">» Puzzle</a></li>
+                <li><a href="#">GAME</a></li>
+                <li><a href="https://mdvh18.blogspot.com/search/label/MDVH18" class="sub-item">» Việt Hóa MDVH18</a></li>
+                <li><a href="https://mdvh18.blogspot.com/search/label/OtherVH" class="sub-item">» Việt Hóa Khác</a></li>
+                <li><a href="https://mdvh18.blogspot.com/search/label/English" class="sub-item">» English</a></li>
+                <li><a href="#">REQUEST</a></li>
                 <li><a href="https://mdvh18.blogspot.com/search/label/MDVH18">MDVH18</a></li>
-                <li><a href="https://mdvh18.blogspot.com/search/label/AllVH">Tiếng Việt</a></li>
-                <li><a href="https://mdvh18.blogspot.com/search/label/PC">PC</a></li>
-                <li><a href="https://mdvh18.blogspot.com/search/label/Android">Android</a></li>
-                <li><a href="https://mdvh18.blogspot.com/search/label/English">English</a></li>
-                <li><a href="https://mdvh18.blogspot.com/search/label/All">All Game</a></li>
-                <li><a href="https://www.facebook.com/profile.php?id=61575869116469">Fanpage</a></li>
             </ul>
         </div>
     </div>
+
+    <div class="brand-container">
+        <a href="https://mdvh18.blogspot.com" class="brand-link">
+            <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgwvx69wmc1Toc5J6nbK75cqCVKVH20kh7Smzd-9htx9UulnhAIaailkHZ0pcP5fL8-o4CmBr6AUWBC8GvRuRaJBeKQOk291W2WaZ1I1h1yH1icqGjuQaoCMlhgSuENa5q3MLhie9OtGWnjY4dijUy5XXqzL8_gdzf38zdKsZCqyxEy2fA9K4_PIHL6njU=w800" class="brand-logo" alt="Logo">
+            <span class="brand-name">MDVH18 - Việt Hóa Game Visual Novel ++</span>
+            <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgwvx69wmc1Toc5J6nbK75cqCVKVH20kh7Smzd-9htx9UulnhAIaailkHZ0pcP5fL8-o4CmBr6AUWBC8GvRuRaJBeKQOk291W2WaZ1I1h1yH1icqGjuQaoCMlhgSuENa5q3MLhie9OtGWnjY4dijUy5XXqzL8_gdzf38zdKsZCqyxEy2fA9K4_PIHL6njU=w800" class="brand-logo" alt="Logo">
+        </a>
+    </div>
+
+    <div class="sub-nav-wrapper">
+        <ul class="sub-nav-list">
+            <li><a class="active" href="https://mdvh18.blogspot.com">Trang chủ</a></li>
+            <li><a href="https://mdvh18.blogspot.com/search/label/MDVH18">MDVH18</a></li>
+            <li><a href="https://mdvh18.blogspot.com/search/label/AllVH">Tiếng Việt</a></li>
+            <li><a href="https://mdvh18.blogspot.com/search/label/PC">PC</a></li>
+            <li><a href="https://mdvh18.blogspot.com/search/label/Android">Android</a></li>
+            <li><a href="https://mdvh18.blogspot.com/search/label/English">English</a></li>
+            <li><a href="https://mdvh18.blogspot.com/search/label/All">All Game</a></li>
+            <li><a href="https://www.facebook.com/profile.php?id=61575869116469">Fanpage</a></li>
+        </ul>
+    </div>
 </header>
+
+<script>
+    function toggleMenu() {
+        document.getElementById('side-menu').classList.toggle('active');
+        const overlay = document.getElementById('overlay');
+        if (overlay.style.display === 'block') {
+            overlay.style.display = 'none';
+        } else {
+            overlay.style.display = 'block';
+        }
+    }
+</script>
+
+<div style="margin-top: 180px;"></div>
+
+<script>
+    function toggleMenu() {
+        document.getElementById('side-menu').classList.toggle('active');
+        const overlay = document.getElementById('overlay');
+        if (overlay.style.display === 'block') {
+            overlay.style.display = 'none';
+        } else {
+            overlay.style.display = 'block';
+        }
+    }
+</script>
+
+<div style="margin-top: 180px;"></div>
 <style>
 /* Reset lại một chút để bài viết không bị bóp nghẹt */
 .main-container {
@@ -174,7 +323,8 @@
     bottom: 0;
     left: 0;
     width: 100%;
-    padding: 3vw; /* Padding theo đơn vị vw để co giãn theo màn hình */
+    padding: 3vw;
+    padding-top: 60px;/* Padding theo đơn vị vw để co giãn theo màn hình */
     background: linear-gradient(
         to top,
         rgba(230,100,101,0.75) 0%,
@@ -394,29 +544,48 @@
     50% { transform: translateY(-8px); }
 }
     /* Trạng thái khi Header dính lên đầu và thu nhỏ */
+/* HIỆU ỨNG KHI CUỘN XUỐNG (SCROLLED) */
 .header-section.scrolled {
-    padding: 5px 0 0 0 !important; /* Thu hẹp khoảng cách trên dưới */
-    background-color: rgba(26, 17, 49, 0.85) !important; /* Làm mờ nhẹ (0.85) */
-    backdrop-filter: blur(8px); /* Hiệu ứng mờ đục xuyên thấu cực đĩ */
-    transition: all 0.4s ease; /* Chuyển cảnh mượt mà */
+    padding: 5px 0 0 0 !important;
+    background-color: rgba(26, 17, 49, 0.85) !important;
+    backdrop-filter: blur(8px);
+    transition: all 0.4s ease;
 }
 
-/* Thu nhỏ logo và chữ khi kéo xuống */
+/* Thu nhỏ logo - FIX LỖI MÉO ẢNH */
 .header-section.scrolled .brand-logo {
-    width: 40px !important; /* Logo bé lại một nửa */
+    width: 40px !important; 
+    height: 40px !important; /* Thêm dòng này để ảnh không bị dẹt */
+    border-radius: 50%; /* Giữ nguyên độ tròn */
 }
 
+/* Thu nhỏ chữ */
 .header-section.scrolled .brand-name {
-    font-size: 18px !important; /* Chữ bé lại */
+    font-size: 18px !important; 
+    line-height: 1 !important;
 }
 
+/* Căn chỉnh lại container khi cuộn */
 .header-section.scrolled .brand-container {
-    margin-bottom: 5px !important; /* Bớt khoảng cách thừa */
+    padding: 5px 0 !important; /* Thu gọn padding thay vì margin để cân đối hơn */
+    margin-bottom: 0 !important;
+    gap: 10px !important; /* Thu hẹp khoảng cách chữ và logo */
 }
 
+/* Điều chỉnh nút 3 gạch khi cuộn xuống để không bị lệch */
+.header-section.scrolled .menu-trigger {
+    top: 50%;
+    transform: translateY(-50%); /* Căn giữa lại nút 3 gạch theo chiều cao mới của Header */
+}
+
+/* Thanh menu dưới gọn lại */
 .header-section.scrolled .sub-nav-wrapper {
-    padding: 10px 0 !important; /* Thanh menu cũng gọn lại */
+    padding: 8px 0 !important;
     margin-bottom: 0 !important;
+}
+
+.header-section.scrolled .sub-nav-list {
+    gap: 30px !important; /* Thu hẹp khoảng cách các mục menu cho gọn */
 }
 </style>
 
