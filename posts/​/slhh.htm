@@ -256,31 +256,34 @@
 
 /* 1. Tiêu đề phần ảnh */
 .section-title {
-    width: 77vw !important;
-    margin: 35px auto 15px auto !important;
-    font-size: 24px;
-    font-weight: bold;
-    display: block;
-    background: linear-gradient(135deg, rgb(247, 143, 144), rgb(215, 155, 187));
+    width: 100% !important; /* Phủ rộng để dễ căn giữa */
+    margin: 25px 0 15px 0 !important;
+    font-size: 22px !important; /* To rõ ràng */
+    font-weight: 800 !important;
+    text-align: center !important;
+    text-transform: uppercase !important; /* Chữ in hoa cho ngầu */
+    letter-spacing: 2px !important;
+    display: block !important;
+    /* Hiệu ứng màu Gradient cho chữ */
+    background: linear-gradient(135deg, #f78f90, #D79BBB);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .image-grid {
     width: 77vw !important;
     margin: 0 auto !important;
-    display: flex !important; /* Quay lại dùng Flex */
-    flex-wrap: wrap !important; /* Để nó tự xuống hàng khi quá 2 ảnh */
+    display: flex !important;
+    flex-wrap: wrap !important;
     gap: 15px !important;
-    justify-content: center; /* Căn giữa cho đẹp */
+    justify-content: center;
 }
 
 .image-grid img {
-    /* Đây là mấu chốt: */
-    flex: 1 1 calc(45%) !important; /* Nó sẽ cố gắng chiếm 45-50%, nhưng có thể nở ra */
+    flex: 1 1 calc(45%) !important;
     max-width: 100% !important;
-    min-width: 300px; /* Đảm bảo ảnh không bị bé quá mức trên PC */
-    
+    min-width: 300px;
     height: auto;
     border-radius: 7px;
     object-fit: cover;
@@ -295,13 +298,39 @@
     background: radial-gradient(circle, rgba(247, 143, 144, 1) 40%, rgba(215, 155, 187, 1) 100%);
 }
 
-/* Mobile: Bung lụa 100% */
 @media (max-width: 768px) {
     .image-grid { width: 95vw !important; }
     .image-grid img { 
         flex: 1 1 100% !important;
         min-width: 100%;
     }
+}
+
+/* 2. STYLE RIÊNG CHO LỚP PHỦ (KHÔNG CHẠM VÀO ẢNH) */
+.mdvh18-spoiler-container {
+    position: relative;
+    margin: 20px auto;
+    border-radius: 15px;
+    overflow: hidden;
+    border: 1px solid rgba(247, 143, 144, 0.3);
+    width: fit-content; /* Ôm vừa khít nội dung bên trong */
+}
+
+#blur-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(15, 12, 41, 0.85);
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    z-index: 100;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: 0.5s;
 }
 <style>
 /* CSS NÚT BACK TO TOP - GIỮ NGUYÊN STYLE CỦA ÔNG */
@@ -384,13 +413,26 @@ a, button, .image-grid img, .hentry {
   <div><b>Genre:</b> 3DCG, Animated, English, Simulation, Casual</div>
     </div>
 
-    <h2 class="section-title">Hình ảnh trong game</h2>
+    <span class="section-title">Hình ảnh trong game</span> </div>
 
-<div class="image-grid">
-    <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgJR3aP-C63Cb-4zNgxOhO7mloGNd5sD8JeTxrnGESvQyfquOhcc0DXHikgGsuKY9MB95DjgFAQgFPtO1sbxQTDtQPY1NEHSJ2MeRPvRm1fmGZhaC2Ma1lrNGaWJXoFxWU1r5XfNhMvjKkfZcTnUnIXPXGEywP7ByyONzJw4RR5U81ccfUd9N6PiH4lf2Q" />
-    <img src="https://blogger.googleusercontent.com/img/a/AVvXsEg835sVp8XxOhMi14fOobvOFx2LFX2yxIkQBm8vNtS8E7jpAJSehCP7FkcpwSaA6HwRb6N_-xISgpVm7YZ_8oB35EWOALjnONt7br1eOF8SWW7-gCzmBX4PPkr1WCb7Y89p1r2AmFXye530M0yu38Ck8GHW1eIwGexk4mUzp8ThbE8XejtZTRU5i1EAwVM" />
-    <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgKoglKyGb8-If4cfuKB-PQJ2BN7JRivPMvFXO3wwNRbRe8oAgRWTfz8d3IDra0uOfVZmvG0_fw0CnVwNBrR4HHL5i-YH-JnJw7oUjQ6th4MTBxbILvRszhnkQusotHYaHVbjTB-Mz7Ju5zKPKyVLWztiTq1xjxhcFqnnfrDMW6skuz11UNrcREHqwiWqw" />
-    <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgPXjrvIaxuLHOT5pNcM4f1j4IAXKfaAq8m02cGhjgOa5wBzv8BFXGfq9Bq0_WMTSlj98rfu8VuN9fum43B4Q0KEhM5VdL70oQW9GPl83fP6zJzT03ygilgTBJzwPEso4X8j6Cy1DEeiAWamXzxhUVemYSvEYIBN5P2iA6j3_L5ej47oLO3RNzrDRrKLq8" />
+<div class="mdvh18-spoiler-container">
+    
+    <div id="blur-overlay">
+        <p style="color: #f78f90; font-weight: bold; margin-bottom: 15px; font-family: sans-serif;">NỘI DUNG NHẠY CẢM</p>
+        <button onclick="this.parentElement.style.opacity='0'; setTimeout(()=>{this.parentElement.style.display='none'},500)" 
+                style="background: linear-gradient(135deg, #f78f90, #D79BBB); color: white; border: none; padding: 12px 25px; border-radius: 50px; font-weight: bold; cursor: pointer; box-shadow: 0 5px 15px rgba(215, 155, 187, 0.4);">
+            ẤN ĐỂ XEM SIUUU
+        </button>
+    </div>        
+        <div class="image-grid">
+            <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgJR3aP-C63Cb-4zNgxOhO7mloGNd5sD8JeTxrnGESvQyfquOhcc0DXHikgGsuKY9MB95DjgFAQgFPtO1sbxQTDtQPY1NEHSJ2MeRPvRm1fmGZhaC2Ma1lrNGaWJXoFxWU1r5XfNhMvjKkfZcTnUnIXPXGEywP7ByyONzJw4RR5U81ccfUd9N6PiH4lf2Q" />
+            <img src="https://blogger.googleusercontent.com/img/a/AVvXsEg835sVp8XxOhMi14fOobvOFx2LFX2yxIkQBm8vNtS8E7jpAJSehCP7FkcpwSaA6HwRb6N_-xISgpVm7YZ_8oB35EWOALjnONt7br1eOF8SWW7-gCzmBX4PPkr1WCb7Y89p1r2AmFXye530M0yu38Ck8GHW1eIwGexk4mUzp8ThbE8XejtZTRU5i1EAwVM" />
+            <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgKoglKyGb8-If4cfuKB-PQJ2BN7JRivPMvFXO3wwNRbRe8oAgRWTfz8d3IDra0uOfVZmvG0_fw0CnVwNBrR4HHL5i-YH-JnJw7oUjQ6th4MTBxbILvRszhnkQusotHYaHVbjTB-Mz7Ju5zKPKyVLWztiTq1xjxhcFqnnfrDMW6skuz11UNrcREHqwiWqw" />
+            <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgPXjrvIaxuLHOT5pNcM4f1j4IAXKfaAq8m02cGhjgOa5wBzv8BFXGfq9Bq0_WMTSlj98rfu8VuN9fum43B4Q0KEhM5VdL70oQW9GPl83fP6zJzT03ygilgTBJzwPEso4X8j6Cy1DEeiAWamXzxhUVemYSvEYIBN5P2iA6j3_L5ej47oLO3RNzrDRrKLq8" />
+        </div>
+        
+        <p style="font-size: 11px; color: #888; margin-top: 15px;">© MDVH18 - Nội soi Visual Novel</p>
+    </div>
 </div>
 
     <div class="download-box">
