@@ -293,4 +293,138 @@ function showLinks() {
 </style>
 
 </body>
+<style>
+    /* Tổng thể Footer */
+    .footer-section {
+        background-color: #1a1a1a; /* Nền đen xám theo ảnh */
+        padding: 40px 20px 20px 20px;
+        color: #ccc;
+        font-family: 'Segoe UI', Arial, sans-serif;
+        position: relative;
+        margin-top: 50px;
+        border-top: 1px solid rgba(255,255,255,0.05);
+    }
+
+    .footer-container {
+        max-width: 1100px;
+        margin: 0 auto;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        gap: 30px;
+    }
+
+    /* Cột Truy Cập Nhanh */
+    .footer-col { flex: 1; min-width: 200px; }
+    .footer-col h4 { color: #fff; margin-bottom: 15px; font-size: 16px; }
+
+    .tag-cloud { display: flex; flex-wrap: wrap; gap: 8px; }
+    .tag-item {
+        background: #333;
+        color: #eee;
+        padding: 5px 12px;
+        border-radius: 4px;
+        text-decoration: none;
+        font-size: 12px;
+        transition: 0.3s;
+    }
+    .tag-item:hover { background: #f78f90; color: #fff; }
+
+    /* Thông tin bản quyền */
+    .footer-info { margin-top: 25px; }
+    .footer-logo { width: 40px; margin-bottom: 10px; }
+    .copyright-text { font-size: 13px; margin: 5px 0; }
+    .social-icons { display: flex; gap: 15px; margin-top: 15px; }
+    .social-icons a { color: #fff; font-size: 20px; text-decoration: none; opacity: 0.7; }
+    .social-icons a:hover { opacity: 1; color: #f78f90; }
+
+    /* Cột Help & DMCA */
+    .help-links a {
+        display: block;
+        color: #888;
+        text-decoration: none;
+        margin-bottom: 8px;
+        font-size: 14px;
+    }
+    .help-links a:hover { color: #f78f90; }
+
+    /* Nhân vật Megumin ở góc */
+    .footer-char {
+        position: absolute;
+        right: 20px;
+        bottom: 0;
+        width: 180px; /* Chỉnh to nhỏ tùy ý */
+        z-index: 5;
+    }
+
+    /* Nút Top */
+    .top-btn {
+        position: absolute;
+        right: 40px;
+        bottom: 150px;
+        background: #f78f90;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: white;
+        font-weight: bold;
+        box-shadow: 0 0 15px rgba(247,143,144,0.5);
+        cursor: pointer;
+        text-decoration: none;
+    }
+
+    @media (max-width: 768px) {
+        .footer-char { display: none; } /* Ẩn nhân vật trên mobile cho đỡ chật */
+        .footer-container { flex-direction: column; }
+    }
+</style>
+
+<footer class="footer-section">
+    <div class="footer-container">
+        <div class="footer-col">
+            <h4>Truy Cập Nhanh</h4>
+            <div class="tag-cloud">
+                <a href="#" class="tag-item">All</a>
+                <a href="#" class="tag-item">MDVH18</a>
+                <a href="#" class="tag-item">Tiếng Việt</a>
+                <a href="#" class="tag-item">Tiếng Anh</a>
+                <a href="#" class="tag-item">PC</a>
+            </div>
+            
+            <div class="footer-info">
+                <img src="LINK_LOGO_CUA_ONG" class="footer-logo">
+                <p class="copyright-text">Copyright © 2026 MDVH18 - Game Việt Hóa Đỉnh Cao. All Rights Reserved</p>
+                <p style="font-size: 11px; color: #555;">Theme by EmissionHex</p>
+                <div class="social-icons">
+                    <a href="#">FB</a> <a href="#">DI</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer-col" style="text-align: center;">
+            <h4>DMCA</h4>
+            <img src="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=..." alt="DMCA.com Protection Status">
+        </div>
+
+        <div class="footer-col">
+            <h4>Help</h4>
+            <div class="help-links">
+                <a href="#">Contact</a>
+                <a href="#">FAQ</a>
+                <a href="#">Request</a>
+            </div>
+        </div>
+    </div>
+
+    <a href="#" class="top-btn">TOP</a>
+
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAWkPOxJVqkc0xIyKBoulfxbN9BXFI1j6jQMc9SnV2HjiESbR7VvDZM6FheAGZ86P57AnIEhX0Wy8HFw0xkd8lGV4svCOHtD9oecMQr22ItBvEVrLcJMixvPtvN31uIZZY-z0clWZD4iPkQ8A7Gpo_JkJkI9tW0dOvw9nmT1Lr1znL3xKJaLbq49s_Yw/s1600/IMG_20220521_032343.png" class="footer-char" alt="char">
+
+    <div style="text-align: center; margin-top: 30px; font-size: 11px; color: #444; padding: 0 20px;">
+        Disclaimer: This site does not store any files on its server. All contents are provided by non-affiliated third parties.
+    </div>
+</footer>    
 </html>
