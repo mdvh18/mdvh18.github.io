@@ -60,7 +60,18 @@
         padding-top: 160px !important; 
     }
     .brand-logo { width: 80px; height: auto; }
-    .brand-name { color: #f78f90; font-size: 28px; font-weight: bold; letter-spacing: 1px; }
+    .brand-name {
+  color: #f78f90;
+  font-size: 28px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  /* Thêm đống này vào bro nhé */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%; /* Đảm bảo nó lấy hết chiều cao của khung Header */
+  margin: 0 15px; /* Khoảng cách vừa phải với 2 logo bên cạnh */
+}
 
     /* THANH NAV LINK - GIỮ NGUYÊN STYLE CỦA ÔNG */
     .sub-nav-wrapper {
@@ -163,6 +174,7 @@
     left: 50%;
     transform: translateX(-50%); /* Căn giữa hoàn hảo */
     box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+  padding-top: 10px;    /* Tạo khoảng cách phía trên cho cân đối */
 }
 
 .game-banner img {
