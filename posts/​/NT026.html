@@ -303,7 +303,6 @@
     .image-grid img { 
         flex: 1 1 100% !important;
         min-width: 100%;
-    }
 }
 
 /* 2. STYLE RIÊNG CHO LỚP PHỦ (KHÔNG CHẠM VÀO ẢNH) */
@@ -334,6 +333,27 @@
     justify-content: center;
     transition: 0.5s;
 }
+.dmca-footer {
+    width: 77vw;
+    margin: 40px auto 20px auto;
+    padding-top: 20px;
+    border-top: 1px solid rgba(247, 143, 144, 0.2);
+    text-align: center;
+    font-size: 12px;
+    color: #888;
+    line-height: 1.6;
+    font-family: sans-serif;
+}
+
+.dmca-footer a {
+    color: #f78f90;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.dmca-footer a:hover {
+    text-decoration: underline;
+}    
 <style>
 /* CSS NÚT BACK TO TOP - GIỮ NGUYÊN STYLE CỦA ÔNG */
 #back-to-top {
@@ -574,11 +594,12 @@ function showLinks() {
                 </div>
             </div>
         </div>
-
-        <div class="footer-col" style="text-align: center;">
-            <h4>DMCA</h4>
-            <img src="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=..." alt="DMCA.com Protection Status">
-        </div>
+    
+    <div style="margin: 15px 0;">
+        <a href="https://www.dmca.com/Protection/Status.aspx?ID=e0c7002e-0f2b-4563-a483-24ed9d65adf1" title="DMCA.com Protection Status"> 
+            <img src="https://images.dmca.com/Badges/dmca_protected_sml_120n.png?ID=e0c7002e-0f2b-4563-a483-24ed9d65adf1" alt="DMCA.com Protection Status" />
+        </a>
+    </div>
 
         <div class="footer-col">
             <h4>Help</h4>
