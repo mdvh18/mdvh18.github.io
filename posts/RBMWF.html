@@ -254,21 +254,35 @@
     font-weight: bold;
 }
 
+.section-title {
+    width: 100% !important; /* Phủ rộng để dễ căn giữa */
+    margin: 25px 0 15px 0 !important;
+    font-size: 22px !important; /* To rõ ràng */
+    font-weight: 800 !important;
+    text-align: center !important;
+    text-transform: uppercase !important; /* Chữ in hoa cho ngầu */
+    letter-spacing: 2px !important;
+    display: block !important;
+    /* Hiệu ứng màu Gradient cho chữ */
+    background: linear-gradient(135deg, #f78f90, #D79BBB);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
 .image-grid {
     width: 77vw !important;
     margin: 0 auto !important;
-    display: flex !important; /* Quay lại dùng Flex */
-    flex-wrap: wrap !important; /* Để nó tự xuống hàng khi quá 2 ảnh */
+    display: flex !important;
+    flex-wrap: wrap !important;
     gap: 15px !important;
-    justify-content: center; /* Căn giữa cho đẹp */
+    justify-content: center;
 }
 
 .image-grid img {
-    /* Đây là mấu chốt: */
-    flex: 1 1 calc(45%) !important; /* Nó sẽ cố gắng chiếm 45-50%, nhưng có thể nở ra */
+    flex: 1 1 calc(45%) !important;
     max-width: 100% !important;
-    min-width: 300px; /* Đảm bảo ảnh không bị bé quá mức trên PC */
-    
+    min-width: 300px;
     height: auto;
     border-radius: 7px;
     object-fit: cover;
@@ -283,7 +297,6 @@
     background: radial-gradient(circle, rgba(247, 143, 144, 1) 40%, rgba(215, 155, 187, 1) 100%);
 }
 
-/* Mobile: Bung lụa 100% */
 @media (max-width: 768px) {
     .image-grid { width: 95vw !important; }
     .image-grid img { 
@@ -291,49 +304,34 @@
         min-width: 100%;
     }
 }
-</style>
-<style>
-/* Tiêu đề hình ảnh nới rộng theo tỷ lệ chung */
-.section-title {
-    width: 77vw !important;
-    margin: 35px auto 15px auto !important;
-    font-size: 24px;
-    font-weight: bold;
-    display: block;
-    background: linear-gradient(135deg, rgb(247, 143, 144), rgb(215, 155, 187));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+
+/* 2. STYLE RIÊNG CHO LỚP PHỦ (KHÔNG CHẠM VÀO ẢNH) */
+.mdvh18-spoiler-container {
+    position: relative;
+    margin: 20px auto;
+    border-radius: 15px;
+    overflow: hidden;
+    border: 1px solid rgba(247, 143, 144, 0.3);
+    width: 79vw; /* Ôm vừa khít nội dung bên trong */
+    padding-top: 10px !important;
+    padding-bottom: 5px !important;
 }
 
-/* Khung chứa ảnh để đảm bảo ảnh không bị lệch */
-.image-grid {
-    width: 77vw !important;
-    margin: 0 auto !important;
+#blur-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(15, 12, 41, 0.85);
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    z-index: 100;
     display: flex;
-    justify-content: space-between;
-    gap: 10px;
-}
-
-/* Ảnh trong game nới rộng ra */
-.image-grid img {
-    border-radius: 10px;
-    width: 49.5% !important; /* Tận dụng tối đa không gian 77vw */
-    height: auto;
-    object-fit: cover;
-}
-
-/* Mobile: Tự động tràn màn hình cho dễ nhìn */
-@media (max-width: 768px) {
-    .section-title, .image-grid {
-        width: 95vw !important;
-    }
-    .image-grid {
-        flex-direction: column;
-    }
-    .image-grid img {
-        width: 100% !important;
-        margin-bottom: 10px;
-    }
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: 0.5s;
 }
 </style>
 <style>
@@ -415,12 +413,21 @@ a, button, .image-grid img, .hentry {
         <div><b>Genre:</b> 2DCG, Animated, Point and Click, Puzzle</div>
     </div>
 
-    <h2 class="section-title">Hình ảnh trong game</h2>
+    <span class="section-title">Hình ảnh trong game</span> </div>
 
-<div class="image-grid">
+<div class="mdvh18-spoiler-container">
+    
+    <div id="blur-overlay">
+        <p style="color: #f78f90; font-weight: bold; margin-bottom: 15px; font-family: sans-serif;">NỘI DUNG NHẠY CẢM</p>
+        <button onclick="this.parentElement.style.opacity='0'; setTimeout(()=>{this.parentElement.style.display='none'},500)" 
+                style="background: linear-gradient(135deg, #f78f90, #D79BBB); color: white; border: none; padding: 12px 25px; border-radius: 50px; font-weight: bold; cursor: pointer; box-shadow: 0 5px 15px rgba(215, 155, 187, 0.4);">
+            ẤN ĐỂ XEM SIUUU
+        </button>
+    </div>        
+        <div class="image-grid">
     <img src="https://images.g2a.com/1024x576/1x1x1/rebirthmr-wang-pc-steam-key-global-i10000218876001/5f7aed4246177c25f7550a42" />
     <img src="https://images.g2a.com/1024x576/1x1x1/rebirthmr-wang-pc-steam-key-global-i10000218876001/5f7aed4346177c34a6044642" />
-</div>
+        </div>
 
     <div class="download-box">
         <h3 style="margin-top: 0; letter-spacing: 1px;">LINK TẢI GAME</h3>
