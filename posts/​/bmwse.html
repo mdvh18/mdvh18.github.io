@@ -31,96 +31,109 @@
     </style>
     <style>
     /* Tổng thể Header */
-    .header-section {
-        background-color: #1a1131;
-        padding: 20px 0 0 0;
-        text-align: center;
-        font-family: 'Segoe UI', Arial, sans-serif;
-        
+    /* Tổng thể Header */
+.header-section {
+    background-color: #1a1131;
     position: fixed !important; 
     width: 100%;
     top: 0;
     left: 0;
     z-index: 9999 !important;
-    transition: all 0.3s ease-in-out !important;
-    will-change: padding, background-color;
-    padding-bottom: 15px; /* Tạo khoảng cách giữa chữ menu và thanh kẻ hồng ở dưới */
-  padding-top: 10px;    /* Tạo khoảng cách phía trên cho cân đối */
+    font-family: 'Segoe UI', Arial, sans-serif;
+    padding: 10px 0; /* Thu hẹp lại cho gọn */
+    box-shadow: 0 2px 10px rgba(0,0,0,0.5);
 }    
+
+.brand-container {
+    display: flex;
+    align-items: center; /* Đẩy chữ lên giữa logo */
+    justify-content: center;
+    gap: 15px;
+    position: relative;
+    padding: 10px 20px;
 }
 
-   .brand-container {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        gap: 15px;
-        margin-bottom: 20px;
-    }
-    body {
-        padding-top: 160px !important; 
-    }
-    .brand-logo { width: 80px; height: auto; }
-    .brand-name { background: linear-gradient(135deg,#f78f90,#D79BBB);-webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 28px; font-weight: bold; letter-spacing: 1px; text-align: center; }
-    /* THANH NAV LINK - GIỮ NGUYÊN STYLE CỦA ÔNG */
-    .sub-nav-wrapper {
-        background: 
-            linear-gradient(135deg,#f78f90,#D79BBB) bottom / 100% 3px no-repeat,
-            transparent !important; 
-        padding: 15px 0 !important; 
-        width: 100% !important; /* Chỉnh lại 100% để khớp với container GitHub */
-        position: relative !important; 
-        margin-bottom: 30px !important; 
-        display: block !important;
-    }
+/* Menu 3 gạch (Nằm bên trái) */
+.menu-trigger {
+    position: absolute;
+    left: 20px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
 
-    .sub-nav-container { max-width: 1100px !important; margin: 0 auto !important; }
+.menu-trigger span {
+    display: block;
+    width: 30px;
+    height: 3px;
+    background: #fff;
+    transition: 0.3s;
+}
 
-    .sub-nav-list { 
-        display: flex !important; 
-        justify-content: center !important; 
-        list-style: none !important; 
-        margin: 0 !important; 
-        padding: 0 !important; 
-        gap: 50px !important; 
-        flex-wrap: wrap; /* Hỗ trợ xuống dòng trên mobile */
-    }
+.menu-trigger:hover span {
+    background: #f78f90; /* Hover đổi màu trắng sang hồng */
+}
 
-    .sub-nav-list li a { 
-        color: #E6E6EB !important; 
-        font-size: 18px !important; 
-        font-weight: 600 !important; 
-        text-decoration: none !important; 
-        transition: 0.3s !important; 
-    }
+/* Logo & Brand */
+.brand-logo { width: 60px; height: auto; display: block; }
+.brand-name { 
+    background: linear-gradient(135deg,#f78f90,#D79BBB);
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent; 
+    font-size: 24px; 
+    font-weight: bold; 
+    letter-spacing: 1px;
+    line-height: 1; /* Triệt tiêu khoảng trống thừa */
+}
 
-    /* Hiệu ứng Hover và Active giữ nguyên màu và text-shadow */
-    .sub-nav-list li a:hover, .sub-nav-list li a.active {
-        background: linear-gradient(135deg,#e66465,#D79BBB); 
-        -webkit-background-clip: text; 
-        background-clip: text; 
-        -webkit-text-fill-color: transparent !important; 
-        color: transparent !important; 
-        text-shadow: 0 0 1px rgba(230,100,101,.5), 0 0 2px rgba(215,155,187,.8);
-    }
+/* Thư mục con của Menu (Sidebar ẩn) */
+.sidebar-menu {
+    position: fixed;
+    top: 0;
+    left: -280px; /* Ẩn đi */
+    width: 250px;
+    height: 100%;
+    background: #111;
+    z-index: 10000;
+    transition: 0.3s;
+    padding-top: 60px;
+    text-align: left;
+    box-shadow: 5px 0 15px rgba(0,0,0,0.5);
+}
 
-    .sub-nav-list li a:hover { 
-        background-size: 200% 200%; 
-        animation: glowMove 3s ease infinite; 
-    }
+.sidebar-menu.active { left: 0; }
 
-    @keyframes glowMove {
-        0% { background-position: left center; }
-        50% { background-position: right center; }
-        100% { background-position: left center; }
-    }
+.sidebar-menu ul { list-style: none; padding: 0; }
+.sidebar-menu li { padding: 15px 25px; border-bottom: 1px solid #222; }
+.sidebar-menu li a { color: #fff; text-decoration: none; font-weight: 600; display: block; transition: 0.3s; }
+.sidebar-menu li a:hover { color: #f78f90; padding-left: 10px; }
 
-    @media (max-width: 768px) {
-        .sub-nav-list { gap: 20px !important; }
-        .sub-nav-list li a { font-size: 14px !important; }
-        .brand-name { font-size: 18px; }
-    }
+/* Các mục con (Sub-menu) */
+.sub-item { padding-left: 20px !important; font-size: 14px; color: #888 !important; }
+
+/* Navbar Link bên dưới */
+.sub-nav-wrapper {
+    background: linear-gradient(135deg,#f78f90,#D79BBB) bottom / 100% 2px no-repeat;
+    padding: 10px 0;
+}
+.sub-nav-list { display: flex; justify-content: center; list-style: none; gap: 30px; }
+.sub-nav-list li a { color: #E6E6EB; text-decoration: none; font-weight: 600; transition: 0.3s; font-size: 15px; }
+.sub-nav-list li a:hover { color: #f78f90; }
+
+@media (max-width: 768px) {
+    .sub-nav-wrapper { display: none; } /* Mobile dùng menu 3 gạch thôi cho gọn */
+    .brand-name { font-size: 16px; }
+    .brand-logo { width: 45px; }
+}
 </style>
 <header class="header-section">
+    <div class="menu-trigger" onclick="document.getElementById('side-menu').classList.toggle('active')">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+
     <div class="brand-container">
         <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgwvx69wmc1Toc5J6nbK75cqCVKVH20kh7Smzd-9htx9UulnhAIaailkHZ0pcP5fL8-o4CmBr6AUWBC8GvRuRaJBeKQOk291W2WaZ1I1h1yH1icqGjuQaoCMlhgSuENa5q3MLhie9OtGWnjY4dijUy5XXqzL8_gdzf38zdKsZCqyxEy2fA9K4_PIHL6njU=w800" class="brand-logo" alt="MDVH18">
         <span class="brand-name">MDVH18 - Việt Hóa Game Visual Novel ++</span>
@@ -128,20 +141,33 @@
     </div>
 
     <div class="sub-nav-wrapper">
-        <div class="sub-nav-container">
-            <ul class="sub-nav-list">
-                <li><a href="https://mdvh18.blogspot.com/" class="active">Trang chủ</a></li>
-                <li><a href="https://mdvh18.blogspot.com/search/label/MDVH18">MDVH18</a></li>
-                <li><a href="https://mdvh18.blogspot.com/search/label/AllVH">Tiếng Việt</a></li>
-                <li><a href="https://mdvh18.blogspot.com/search/label/PC">PC</a></li>
-                <li><a href="https://mdvh18.blogspot.com/search/label/Android">Android</a></li>
-                <li><a href="https://mdvh18.blogspot.com/search/label/English">English</a></li>
-                <li><a href="https://mdvh18.blogspot.com/search/label/All">All Game</a></li>
-                <li><a href="https://www.facebook.com/profile.php?id=61575869116469">Fanpage</a></li>
-            </ul>
-        </div>
+        <ul class="sub-nav-list">
+            <li><a href="https://mdvh18.blogspot.com">Trang chủ</a></li>
+            <li><a href="https://mdvh18.blogspot.com/search/label/MDVH18">MDVH18</a></li>
+            <li><a href="https://mdvh18.blogspot.com/search/label/AllVH">Tiếng Việt</a></li>
+            <li><a href="https://mdvh18.blogspot.com/search/label/PC">PC</a></li>
+            <li><a href="https://mdvh18.blogspot.com/search/label/Android">Android</a></li>
+        </ul>
     </div>
 </header>
+
+<div id="side-menu" class="sidebar-menu">
+    <div style="color: #f78f90; font-weight: bold; padding: 0 25px 20px;">DANH MỤC</div>
+    <ul>
+        <li><a href="/">HOME</a></li>
+        <li><a href="#">GENRE</a></li>
+        <li><a href="https://mdvh18.blogspot.com/search/label/2DCG" class="sub-item">» 2DCG</a></li>
+        <li><a href="https://mdvh18.blogspot.com/search/label/3DCG" class="sub-item">» 3DCG</a></li>
+        <li><a href="https://mdvh18.blogspot.com/search/label/Animated" class="sub-item">» Animated</a></li>
+        <li><a href="https://mdvh18.blogspot.com/search/label/GAME">GAME</a></li>
+        <li><a href="https://mdvh18.blogspot.com/search/label/PC" class="sub-item">» Game PC</a></li>
+        <li><a href="https://mdvh18.blogspot.com/search/label/Android" class="sub-item">» Game Android</a></li>
+        <li><a href="#">REQUEST</a></li>
+        <li><a href="https://mdvh18.blogspot.com/search/label/MDVH18">MDVH18</a></li>
+    </ul>
+</div>
+
+<div id="overlay" onclick="document.getElementById('side-menu').classList.remove('active')" style="position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.5); display:none; z-index:9998;"></div>
 <style>
 /* Reset lại một chút để bài viết không bị bóp nghẹt */
 .main-container {
