@@ -254,21 +254,61 @@
     font-weight: bold;
 }
 
-/* Khung chứa ảnh screenshot */
-.img-container {
-    width: 77vw;
-    margin: 0 auto;
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    gap: 10px;
+<style>
+/* 1. Tiêu đề phần ảnh */
+.section-title {
+    width: 77vw !important;
+    margin: 35px auto 15px auto !important;
+    font-size: 24px;
+    font-weight: bold;
+    display: block;
+    background: linear-gradient(135deg, rgb(247, 143, 144), rgb(215, 155, 187));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
-.img-container img {
-    border-radius: 10px;
-    width: 49%; /* Chia đôi màn hình */
-    height: auto;
+/* 2. Khung lưới chứa ảnh - CHIA 2 CỘT CỐ ĐỊNH */
+.image-grid {
+    width: 77vw !important;
+    margin: 0 auto !important;
+    display: grid !important; /* Dùng Grid cho chuẩn */
+    grid-template-columns: 1fr 1fr !important; /* Ép chia đúng 2 cột */
+    gap: 15px !important;
 }
+
+/* 3. Ảnh với viền Gradient đúng màu ông yêu cầu */
+.image-grid img {
+    width: 100% !important; /* Ảnh chiếm hết 1 cột trong Grid */
+    height: auto;
+    border-radius: 7px;
+    object-fit: cover;
+    display: block;
+    transition: 0.3s ease;
+    
+    /* Viền Gradient bằng padding */
+    padding: 3px; 
+    background: radial-gradient(circle, rgba(247, 143, 144, 0.8) 52%, rgba(215, 155, 187, 1) 100%);
+}
+
+/* 4. Hiệu ứng Hover cho máu */
+.image-grid img:hover {
+    transform: translateY(-4px) scale(1.02);
+    box-shadow: 0 10px 20px rgba(247, 143, 144, 0.4);
+    background: radial-gradient(circle, rgba(247, 143, 144, 1) 40%, rgba(215, 155, 187, 1) 100%);
+    cursor: pointer;
+}
+
+/* 5. Mobile: Giữ 2 cột hoặc về 1 cột tùy ông, ở đây t để 1 cột cho rõ ảnh */
+@media (max-width: 768px) {
+    .section-title {
+        width: 95vw !important;
+    }
+    .image-grid {
+        width: 95vw !important;
+        grid-template-columns: 1fr !important; /* Điện thoại thì 1 cột cho to */
+    }
+}
+</style>
 
 /* Mobile: Bung 100% cho dễ nhìn */
 @media (max-width: 768px) {
