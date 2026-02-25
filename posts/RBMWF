@@ -80,3 +80,162 @@
         <a href="request.html" class="nav-item">Yêu Cầu</a>
     </nav>
 </header>
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>[Việt Hóa] REBIRTH MR WANG - MDVH18</title>
+    <style>
+        /* CSS CHUNG */
+        body {
+            margin: 0; padding: 0;
+            background-color: #0f0c29; 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #fff;
+            line-height: 1.6;
+        }
+
+        /* HEADER CHUẨN BLOGSPOT */
+        .header-wrapper {
+            background: #15113a; padding: 12px 20px;
+            display: flex; align-items: center; justify-content: space-between;
+            border-bottom: 2px solid #f78f90; position: sticky; top: 0; z-index: 1000;
+        }
+        .header-left { display: flex; align-items: center; text-decoration: none; color: white; }
+        .header-logo { width: 40px; height: 40px; border-radius: 50%; border: 2px solid #f78f90; margin-right: 12px; }
+        .nav-item { color: #ccc; text-decoration: none; font-size: 14px; margin-left: 18px; font-weight: bold; text-transform: uppercase; }
+        .nav-item:hover { color: #f78f90; }
+
+        /* KHUNG NỘI DUNG */
+        .main-container {
+            max-width: 850px; 
+            margin: 30px auto;
+            padding: 0 20px;
+        }
+
+        /* BANNER */
+        .game-banner {
+            position: relative; border-radius: 12px; overflow: hidden;
+            margin-bottom: 25px; aspect-ratio: 21 / 9;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+        }
+        .game-banner img { width: 100%; height: 100%; object-fit: cover; }
+        .game-banner .overlay {
+            position: absolute; bottom: 0; left: 0; width: 100%; padding: 30px;
+            background: linear-gradient(to top, rgba(230,100,101,0.9) 0%, rgba(215,155,187,0.4) 70%, transparent 100%);
+            color: #fff;
+        }
+        .game-banner h1 { margin: 0 0 10px; font-size: 28px; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); }
+
+        /* INFO BOX */
+        .game-info {
+            background: linear-gradient(135deg,#f78f90,#D79BBB);
+            padding: 20px; border-radius: 12px; margin-bottom: 25px;
+            box-shadow: 0 5px 15px rgba(247, 143, 144, 0.2);
+        }
+        .game-info div { margin-bottom: 5px; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 5px; }
+
+        /* DOWNLOAD BOX */
+        .download-box {
+            background: linear-gradient(135deg,#f78f90,#D79BBB);
+            padding: 30px; border-radius: 12px; text-align: center; margin-top: 30px;
+        }
+        .download-btn {
+            display: inline-block; background: #B76E79; color: white;
+            padding: 12px 28px; margin: 10px; border-radius: 8px;
+            text-decoration: none; font-weight: 600; border: none; cursor: pointer;
+            transition: 0.3s;
+        }
+        .download-btn:hover { background: #A45C66; transform: translateY(-3px); box-shadow: 0 5px 15px rgba(0,0,0,0.3); }
+
+        h2 { 
+            background: linear-gradient(135deg, #f78f90, #D79BBB); 
+            -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+            border-bottom: 1px solid rgba(247, 143, 144, 0.3);
+            padding-bottom: 10px; margin-top: 30px;
+        }
+
+        .img-grid { display: flex; flex-wrap: wrap; gap: 2%; margin-top: 15px; }
+        .img-grid img { border-radius: 10px; width: 49%; transition: 0.3s; }
+        .img-grid img:hover { transform: scale(1.02); }
+
+        @media (max-width: 600px) {
+            .img-grid img { width: 100%; margin-bottom: 10px; }
+            .game-banner h1 { font-size: 20px; }
+        }
+    </style>
+</head>
+<body>
+
+<header class="header-wrapper">
+    <a href="../index.html" class="header-left">
+        <img src="https://blogger.googleusercontent.com/img/a/AVvXsEj2Gf7p18_8w5Wf6KjWzR7rD0O_S-D7vF..." class="header-logo" alt="MDVH18">
+        <span style="font-weight: bold; font-size: 22px; letter-spacing: 1px;">MDVH18</span>
+    </a>
+    <nav>
+        <a href="../index.html" class="nav-item">Trang Chủ</a>
+        <a href="../donate.html" class="nav-item" style="color:#f78f90">Donate</a>
+        <a href="../request.html" class="nav-item">Yêu Cầu</a>
+    </nav>
+</header>
+
+<div class="main-container">
+    <div class="game-banner">
+        <img alt="Rebirth Mr Wang" src="https://images.igdb.com/igdb/image/upload/t_720p/ar12uh.webp" />
+        <div class="overlay">
+            <h1>[Việt Hóa] REBIRTH MR WANG</h1>
+            <p>Hãy vận dụng đầu óc của bạn để giúp đỡ những người hàng xóm!</p>
+        </div>
+    </div>
+
+    <div class="game-info">
+        <div><b>Thể loại:</b> Visual Novel</div>
+        <div><b>Ngôn ngữ:</b> Tiếng Việt</div>
+        <div><b>Nền Tảng:</b> PC</div>
+        <div><b>Dung lượng:</b> 909MB</div>
+        <div><b>Developer:</b> DSGAME</div>
+        <div><b>Genre:</b> 2DCG, Animated, Point and Click, Puzzle</div>
+    </div>
+
+    <p style="color: #e0e0e0; font-size: 16px;">
+        Nhìn bên ngoài, Wang chỉ là một gã thợ sửa chữa chung cư tận tụy, luôn có mặt để giúp các chị em hàng xóm giải quyết những rắc rối vặt vãnh. Đây là hành trình của anh ta...
+    </p>
+
+    <h2>Hình ảnh trong game</h2>
+    <div class="img-grid">
+        <img src="https://images.g2a.com/1024x576/1x1x1/rebirthmr-wang-pc-steam-key-global-i10000218876001/5f7aed4246177c25f7550a42" />
+        <img src="https://images.g2a.com/1024x576/1x1x1/rebirthmr-wang-pc-steam-key-global-i10000218876001/5f7aed4346177c34a6044642" />
+    </div>
+
+    <div class="download-box">
+        <h3 style="margin-top: 0; letter-spacing: 1px;">LINK TẢI GAME</h3>
+        <button class="download-btn" id="btn-show" onclick="showLinks()">NHẤN ĐỂ HIỆN LINK TẢI</button>
+        
+        <div id="real-links" style="display: none; margin-top: 20px; animation: fadeIn 0.5s;">
+            <a class="download-btn" href="https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9wY1d0Skg=" target="_blank">LINK GOFILE</a>
+            <a class="download-btn" href="https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3RtRnBlRXRy" target="_blank">LINK PIXELDRAIN</a>
+            <p style="margin-top: 15px; border-top: 1px solid rgba(255,255,255,0.2); padding-top: 10px;">
+                Mật khẩu giải nén: <b style="color: white; font-size: 18px;">MDVH18</b>
+            </p>
+        </div>
+    </div>
+
+    <footer style="text-align: center; margin-top: 50px; padding: 20px; color: #666; font-size: 12px;">
+        © 2026 MDVH18 - Dịch Thuật
+    </footer>
+</div>
+
+<script>
+function showLinks() {
+    document.getElementById("real-links").style.display = "block";
+    document.getElementById("btn-show").style.display = "none";
+}
+</script>
+
+<style>
+@keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+</style>
+
+</body>
+</html>
