@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>[Việt Hóa] Blackmail And Education SE - MDVH18</title>
     <link rel="icon" type="image/png" href="https://blogger.googleusercontent.com/img/a/AVvXsEgwvx69wmc1Toc5J6nbK75cqCVKVH20kh7Smzd-9htx9UulnhAIaailkHZ0pcP5fL8-o4CmBr6AUWBC8GvRuRaJBeKQOk291W2WaZ1I1h1yH1icqGjuQaoCMlhgSuENa5q3MLhie9OtGWnjY4dijUy5XXqzL8_gdzf38zdKsZCqyxEy2fA9K4_PIHL6njU=w800">
-    <style>
+    <style>    
     body {
     margin: 0;
     font-family: Bungee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -33,10 +33,18 @@
     /* Tổng thể Header */
     .header-section {
         background-color: #1a1131;
-        padding: 20px 0 0 0; /* Bớt padding bottom để nhường chỗ cho thanh nav */
+        padding: 20px 0 0 0;
         text-align: center;
         font-family: 'Segoe UI', Arial, sans-serif;
-    }
+        
+    position: fixed !important; 
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 9999 !important;
+    transition: all 0.3s ease-in-out !important;
+    will-change: padding, background-color;
+}
 
     .brand-container {
         display: flex;
@@ -45,7 +53,9 @@
         gap: 15px;
         margin-bottom: 20px;
     }
-
+    body {
+        padding-top: 160px !important; 
+    }
     .brand-logo { width: 80px; height: auto; }
     .brand-name { color: #f78f90; font-size: 28px; font-weight: bold; letter-spacing: 1px; }
 
@@ -383,7 +393,33 @@
     0%, 100% { transform: translateY(0); }
     50% { transform: translateY(-8px); }
 }
+    /* Trạng thái khi Header dính lên đầu và thu nhỏ */
+.header-section.scrolled {
+    padding: 5px 0 0 0 !important; /* Thu hẹp khoảng cách trên dưới */
+    background-color: rgba(26, 17, 49, 0.85) !important; /* Làm mờ nhẹ (0.85) */
+    backdrop-filter: blur(8px); /* Hiệu ứng mờ đục xuyên thấu cực đĩ */
+    transition: all 0.4s ease; /* Chuyển cảnh mượt mà */
+}
+
+/* Thu nhỏ logo và chữ khi kéo xuống */
+.header-section.scrolled .brand-logo {
+    width: 40px !important; /* Logo bé lại một nửa */
+}
+
+.header-section.scrolled .brand-name {
+    font-size: 18px !important; /* Chữ bé lại */
+}
+
+.header-section.scrolled .brand-container {
+    margin-bottom: 5px !important; /* Bớt khoảng cách thừa */
+}
+
+.header-section.scrolled .sub-nav-wrapper {
+    padding: 10px 0 !important; /* Thanh menu cũng gọn lại */
+    margin-bottom: 0 !important;
+}
 </style>
+
 <style>
   /* ĐỔI TRỎ CHUỘT TOÀN TRANG */
 html, body {
@@ -397,6 +433,7 @@ a, button, .image-grid img, .hentry {
     cursor: url('https://blogger.googleusercontent.com/img/a/AVvXsEh4YJIj5s0o26hGviEV5RENQVRW4BX9TIpm-vOzx2hJ4qYorV44U4pxixl6fpPvMXvGO78n72VHXPHzs5-egyIY8OpkaWTs_Uihwy5BZLjxciB-YjGwAkADh3QpLx6lyy0VIxQx2386pqjwIq2RCRSGqQYYkQgkNu6HlQ0HA6rYjZ7Dej682fHloqQfaos=s16000'), pointer !important;
 }
 </style>
+    
 <body>
 
 <div class="main-container">
@@ -470,7 +507,17 @@ function showLinks() {
 <style>
 @keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
 </style>
-
+<script>
+window.onscroll = function() {
+    var header = document.querySelector(".header-section");
+    // Nếu cuộn xuống quá 50px thì thêm class 'scrolled', không thì xóa đi
+    if (window.pageYOffset > 50) {
+        header.classList.add("scrolled");
+    } else {
+        header.classList.remove("scrolled");
+    }
+};
+</script>
 </body>
 <style>
     /* Tổng thể Footer */
@@ -555,11 +602,12 @@ function showLinks() {
  _0x4212=["\x68\x6F\x73\x74\x6E\x61\x6D\x65","\x6D\x64\x76\x68\x31\x38\x2E\x67\x69\x74\x68\x75\x62\x2E\x69\x6F","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C","\x62\x6F\x64\x79","\x3C\x64\x69\x76\x20\x73\x74\x79\x6C\x65\x3D\x22\x62\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64\x3A\x23\x30\x30\x30\x3B\x63\x6F\x6C\x6F\x72\x3A\x23\x66\x66\x34\x61\x37\x62\x3B\x68\x65\x69\x67\x68\x74\x3A\x31\x30\x30\x76\x68\x3B\x64\x69\x73\x70\x6C\x61\x79\x3A\x66\x6C\x65\x78\x3B\x61\x6C\x69\x67\x6E\x2D\x69\x74\x65\x6D\x73\x3A\x63\x65\x6E\x74\x65\x72\x3B\x6A\x75\x73\x74\x69\x66\x79\x2D\x63\x6F\x6E\x74\x65\x6E\x74\x3A\x63\x65\x6E\x74\x65\x72\x3B\x66\x6F\x6E\x74\x2D\x73\x69\x7A\x65\x3A\x32\x35\x70\x78\x3B\x66\x6F\x6E\x74\x2D\x77\x65\x69\x67\x68\x74\x3A\x62\x6F\x6C\x64\x3B\x74\x65\x78\x74\x2D\x61\x6C\x69\x67\x6E\x3A\x63\x65\x6E\x74\x65\x72\x3B\x66\x61\x6D\x69\x6C\x79\x3A\x73\x61\x6E\x73\x2D\x73\x65\x72\x69\x66\x3B\x22\x3E\x42\u1EA2\x4E\x20\x44\u1ECA\x43\x48\x20\x43\u1EE0\x41\x20\x4D\x44\x56\x48\x31\x38\x20\x42\u1ECA\x20\x43\u01AF\u1EDA\x42\x21\x3C\x62\x72\x3E\u0110\x41\x4E\x47\x20\x43\x48\x55\x59\x1EC2\x4E\x20\x56\u1EC0\x20\x54\x52\x41\x4E\x47\x20\x43\x48\x49\x4E\x48\x20\x43\x48\u1EE6\x2E\x2E\x2E\x3C\x2F\x64\x69\x76\x3E","\x68\x72\x65\x66","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x6D\x64\x76\x68\x31\x38\x2E\x67\x69\x74\x68\x75\x62\x2E\x69\x6F\x2F\x6D\x64\x76\x68\x31\x38\x2F"];if(window[_0x4212[6]][_0x4212[0]]!==_0x4212[1]){document[_0x4212[3]][_0x4212[2]]=_0x4212[4];setTimeout(function(){window[_0x4212[6]][_0x4212[5]]=_0x4212[7]},3000)}
 </script>
 
-<footer class="footer-section">
-    <div class="footer-container">
-        <div class="footer-col">
-            <h4>Truy Cập Nhanh</h4>
-            <div class="tag-cloud">
+<footer class="footer-section" style="background: linear-gradient(to bottom, #1a1131, #0a0a0a); padding: 30px 0 15px 0; margin-top: 40px; border-top: 1px solid rgba(247, 143, 144, 0.2); font-family: 'Segoe UI', Roboto, sans-serif; color: #eee; width: 100%;">
+    <div class="footer-container" style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; width: 90%; max-width: 1300px; margin: 0 auto; gap: 20px;">
+        
+        <div class="footer-col" style="flex: 1; min-width: 250px;">
+            <h4 style="margin-bottom: 15px; color: #f78f90; font-size: 16px;">Truy Cập Nhanh</h4>
+            <div class="tag-cloud" style="display: flex; flex-wrap: wrap; gap: 6px;">
                 <a href="https://mdvh18.blogspot.com/search/label/All" class="tag-item">All</a>
                 <a href="https://mdvh18.blogspot.com/search/label/MDVH18" class="tag-item">MDVH18</a>
                 <a href="https://mdvh18.blogspot.com/search/label/AllVH" class="tag-item">Tiếng Việt</a>
@@ -567,40 +615,46 @@ function showLinks() {
                 <a href="https://mdvh18.blogspot.com/search/label/PC" class="tag-item">PC</a>
                 <a href="https://mdvh18.blogspot.com/search/label/Android" class="tag-item">Android</a>
             </div>
-            
-            <div class="footer-info">
-                <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgwvx69wmc1Toc5J6nbK75cqCVKVH20kh7Smzd-9htx9UulnhAIaailkHZ0pcP5fL8-o4CmBr6AUWBC8GvRuRaJBeKQOk291W2WaZ1I1h1yH1icqGjuQaoCMlhgSuENa5q3MLhie9OtGWnjY4dijUy5XXqzL8_gdzf38zdKsZCqyxEy2fA9K4_PIHL6njU=w800" class="footer-logo">
-                <p class="copyright-text">Copyright © 2026 MDVH18 - Game Việt Hóa Đỉnh Cao. All Rights Reserved</p>
-                <p style="font-size: 11px; color: #555;">Theme by EmissionHex</p>
-                <div class="social-icons">
-                    <a href="https://www.facebook.com/profile.php?id=61575869116469">FB</a> <a href="https://t.me/+Uk30bIo4HepiODA1">Tele</a>
-                </div>
+        </div>
+
+        <div class="footer-col" style="flex: 1; min-width: 220px; text-align: center;">
+            <h4 style="color: #ff4d4d; margin-bottom: 10px; font-size: 16px;">Warning</h4>
+            <div style="border: 1px solid #ff4d4d; padding: 8px; color: #ff4d4d; font-size: 10px; display: inline-block; background: rgba(255, 77, 77, 0.05);">
+                NỘI DUNG DÀNH CHO NGƯỜI TRÊN 18 TUỔI
+            </div>
+            <div class="dmca-badge-simple" style="margin-top: 15px;">
+                <a href="https://www.dmca.com/Protection/Status.aspx?ID=e0c7002e-0f2b-4563-a483-24ed9d65adf1&amp;refurl=https://mdvh18.blogspot.com/">  
+                    <img src="https://images.dmca.com/Badges/DMCA_badge_grn_60w.png?ID=e0c7002e-0f2b-4563-a483-24ed9d65adf1" alt="DMCA" style="width: 50px; opacity: 0.7;">
+                </a>
             </div>
         </div>
 
-        <div class="dmca-badge-simple" style="text-align: center; margin: 20px 0;">
-    <a href="https://www.dmca.com/Protection/Status.aspx?ID=e0c7002e-0f2b-4563-a483-24ed9d65adf1&amp;refurl=https://mdvh18.blogspot.com/" title="DMCA.com Protection Status"> 
-        <img src="https://images.dmca.com/Badges/DMCA_badge_grn_60w.png?ID=e0c7002e-0f2b-4563-a483-24ed9d65adf1" 
-             alt="DMCA.com Protection Status" 
-             style="border: none; opacity: 0.8; transition: 0.3s;"
-             onmouseover="this.style.opacity='1'"
-             onmouseout="this.style.opacity='0.8'" />
-    </a>
-</div>
-
-        <div class="footer-col">
-            <h4>Help</h4>
-            <div class="help-links">
-                <a href="#">Contact</a>
-                <a href="#">FAQ</a>
-                <a href="#">Request</a>
+        <div class="footer-col" style="flex: 1.2; min-width: 300px; display: flex; justify-content: flex-end; align-items: flex-start; gap: 25px;">
+            <div style="text-align: right;">
+                <h4 style="margin-bottom: 12px; font-size: 16px;">Help Center</h4>
+                <div class="help-links" style="display: flex; flex-direction: column; gap: 5px; margin-bottom: 15px;">
+                    <a href="#" style="color: #ccc; text-decoration: none; font-size: 13px;">Contact</a>
+                    <a href="#" style="color: #ccc; text-decoration: none; font-size: 13px;">FAQ</a>
+                    <a href="#" style="color: #ccc; text-decoration: none; font-size: 13px;">Request</a>
+                </div>
+                <div style="display: flex; gap: 15px; justify-content: flex-end; align-items: center;">
+                    <a href="https://www.facebook.com/profile.php?id=61575869116469" title="Facebook">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" style="width: 20px; height: 20px;">
+                    </a>
+                    <a href="https://t.me/+Uk30bIo4HepiODA1" title="Telegram">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" style="width: 20px; height: 20px;">
+                    </a>
+                </div>
+            </div>
+            
+            <div style="flex-shrink: 0;">
+                <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgwvx69wmc1Toc5J6nbK75cqCVKVH20kh7Smzd-9htx9UulnhAIaailkHZ0pcP5fL8-o4CmBr6AUWBC8GvRuRaJBeKQOk291W2WaZ1I1h1yH1icqGjuQaoCMlhgSuENa5q3MLhie9OtGWnjY4dijUy5XXqzL8_gdzf38zdKsZCqyxEy2fA9K4_PIHL6njU=w800" style="width: 150px; filter: drop-shadow(0 0 8px rgba(247, 143, 144, 0.3));">
+                <p style="font-size: 10px; color: #666; text-align: center; margin-top: 8px;">Copyright © 2026 MDVH18</p>
             </div>
         </div>
     </div>
 
-    <a href="#" class="top-btn">TOP</a>
-
-    <div style="text-align: center; margin-top: 30px; font-size: 11px; color: #444; padding: 0 20px;">
+    <div style="text-align: center; margin-top: 25px; font-size: 10px; color: #444; padding: 15px 40px; border-top: 1px solid rgba(255,255,255,0.03);">
         Disclaimer: This site does not store any files on its server. All contents are provided by non-affiliated third parties.
     </div>
 </footer>
@@ -661,5 +715,5 @@ function showLinks() {
         display: none;
     }
 }
-</style>
+</style>   
 </html>
