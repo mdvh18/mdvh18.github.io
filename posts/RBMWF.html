@@ -174,6 +174,87 @@
     .game-banner p { font-size: 13px; }
 }
 </style>
+<style>
+/* CSS CHO INFO VÀ DOWNLOAD - NỚI RỘNG ĐỒNG BỘ 77VW */
+.game-info {
+    background: linear-gradient(135deg,#f78f90,#D79BBB);
+    padding: 20px;
+    border-radius: 12px;
+    color: #fff;
+    width: 77vw !important; /* Độ rộng đồng bộ */
+    margin: 0 auto 20px auto !important; /* Căn giữa */
+    box-sizing: border-box;
+}
+
+.game-info b { color: #fff; }
+
+.download-box {
+    background: linear-gradient(135deg,#f78f90,#D79BBB);
+    padding: 25px;
+    margin: 20px auto !important; /* Căn giữa */
+    border-radius: 12px;
+    text-align: center;
+    color: #fff;
+    width: 77vw !important; /* Độ rộng đồng bộ */
+    box-sizing: border-box;
+}
+
+.download-box h3 { color: #fff; margin-top: 0; }
+
+.download-btn {
+    display: inline-block;
+    background: #B76E79;
+    color: white;
+    padding: 10px 20px;
+    margin: 8px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    border: none;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.download-btn:hover {
+    background: #A45C66;
+    transform: translateY(-2px);
+}
+
+/* Fix tiêu đề Hình ảnh game cho to ra */
+.content-title {
+    width: 77vw;
+    margin: 30px auto 15px auto;
+    font-size: 24px;
+    background: linear-gradient(135deg, rgb(247, 143, 144), rgb(215, 155, 187));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+}
+
+/* Khung chứa ảnh screenshot */
+.img-container {
+    width: 77vw;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.img-container img {
+    border-radius: 10px;
+    width: 49%; /* Chia đôi màn hình */
+    height: auto;
+}
+
+/* Mobile: Bung 100% cho dễ nhìn */
+@media (max-width: 768px) {
+    .game-info, .download-box, .content-title, .img-container {
+        width: 95vw !important;
+    }
+    .img-container img { width: 100%; }
+}
+</style>
 <body>
 
 <div class="main-container">
