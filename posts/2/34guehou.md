@@ -1,0 +1,22 @@
+---
+layout: game
+title: "[ENG] Guest House v0.2.9 - MDVH18"
+namebanner: "[ENG] Guest House v0.2.9 - [1.7GB]"
+mota: |
+ Sau khi ra nước ngoài tham gia chương trình trao đổi tại vùng viễn đông, bạn chuyển đến sống trong một khu nhà trọ thuộc sở hữu của một người phụ nữ quyền lực và đầy bí ẩn. Những gì bắt đầu như một thỏa thuận thuê nhà thông thường đã nhanh chóng trở nên thân mật hơn rất nhiều. Khi dần hòa nhập vào cuộc sống thường nhật, bạn bắt đầu tương tác với những người thuê trọ khác... Mỗi người đều có những hoài bão, nỗi bất an và những khao khát thầm kín riêng. Từ những cuộc trò chuyện đêm khuya cho đến những lời thú nhận bất ngờ, mỗi ngày tại Nhà Khách này đều là một kỷ niệm khó quên.
+
+infor: |
+ After traveling overseas for an exchange program in the far east, you find yourself living in a boarding house, owned by a well-connected and enigmatic woman. What begins as a practical living arrangement, quickly becomes something far more intimate. As you settle into daily life, you begin interacting with the other tenants... Each with their own ambitions, insecurities, and unspoken desires. From late-night conversations, to unexpected confessions, every day in the Guest House is as unforgettable as the last.
+gametype: "Visual Novel"
+language: "English"
+mdvh18: ""
+platform: PC/APK"
+dungluong: "1.7GB"
+phienban: "0.2.9"
+dev: "Soft Whisper Games"
+genre: "3DCG, Ahegao, Animated, Harem, Kinetic novel, Milf, Romance, Toys, Mobile-game"
+
+linkgofileapkpc: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC8xN1hyZVg"
+linkpixel: ""
+linkteraapkpc: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xLWRuekpBWVpzeUtaci1MbEJGNHNWdw="
+---
