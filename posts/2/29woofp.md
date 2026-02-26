@@ -9,7 +9,6 @@ infor: |
  Halima is a 24-year-old woman who resides with her mother and stepfather in a modest dwelling. She is endeavoring to enhance her quality of life and secure her own residence, yet she confronts numerous challenges due to her challenging financial circumstances.
 gametype: "Visual Novel"
 language: "English"
-mdvh18: ""
 platform: PC/APK"
 dungluong: "662MB"
 phienban: "0.3"
