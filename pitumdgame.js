@@ -43,7 +43,7 @@ const PITU_DATABASE = [
                "https://blogger.googleusercontent.com/img/a/AVvXsEjNp-j_X1sPjDHNW6oeOGY_21HxTglFU22HZOrMFtBZX2QL4kyy4UvmMiNmG6XoJbGJfv7VKeQ6M9zOZqiNc63WZe1X1MmiKpsDF5IdUz8clmWcPvtBs_j_B3iCCNFDyqE0E7rm3dfvQHM4zY7dVxCSJoOq8q13jhzj7CVDaCoh1Y-FUPRXwig-6I1CpcM=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEg2p6o0s1fudRX-mt2H2B2w5ppoMS8aDO5ll-HEDtLRswt8JScv2_rdQqYey2I0g-uDWrTG5XJqp8PJ7_BPs3PLSA3v-ZGWK7jPhXm6cZHXmBXO2rP_51vsd5asD1Jm_n1D5huYSKeiF3k4lP72H1UKHLQTppH1EppOK3oh2b8XaqUwhO4Si0w1AU7nL3g=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEj2pWehsUzCzK6--aLBZ6s89dLQLtCXmcFoocg4BZmBCX_W5WkQ7ISh0z57F8cMDtD5B_XLs36381q3EJfEYAu0_YjAHotOEZZ7swZ8wwsbwfYIwEtT1NR_LPa69smwYNfPRRk2FESR40zFum7_wzokOpCRB5EPELPSPGtUhYIJ6sgkxWpmOTyYaEjxtAo=s16000"]},
-    {id: "celsector",
+    {id: "28celsector",
     name: "ENG CelSector v1.1.1",
     banner: "https://blogger.googleusercontent.com/img/a/AVvXsEi06DeKyAXJ9oN4H-s16FGIeqKttSmp4AxrfiDPlIdFfCV3FFF6vxhQoxBFLmjVtq4WCRUBbbZFPiPUCXCZesXvlCEsadR9dnaNXbifnLKeVUDD1eiheHAAVloB1zOFwKuhdHgpEuFFWJART-9-H7E8x-i4j8MPDg13-Dx3pwafB0q38DxKdeT6UacRyYM=s16000",
     previews: ["https://blogger.googleusercontent.com/img/a/AVvXsEiQN5YhS1pgL7Bf6CDA5-KkyssrsFGlQ9DFWnQWfwY1BzV9jdpbF6J0lL3OcBVjDk7YkLrTf-Qn1WtpzsBswnOqYz6NFWT5LQPAtxA30Pah1ne0ua-Xy_hHrUwm5Jd8g4rOe53fNgGDFGcii5OmhaLsWclJIjyaxvbMAb0BKI8H-V-jFaT2J_H2HTcNcgA=s16000",
