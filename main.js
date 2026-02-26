@@ -41,7 +41,7 @@ function pituRender() {
     previews.forEach((img, i) => {
         if (game.previews[i]) {
             img.src = game.previews[i];
-            img.alt = game.name + " Preview " + (i + 1);
+            img.alt = game.name + " Việt Hóa Screenshot " + (i + 1);
             img.setAttribute('loading', 'lazy');
             // Tối ưu Pagespeed
             img.width = 533; img.height = 300;
