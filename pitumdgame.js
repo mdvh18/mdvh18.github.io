@@ -106,7 +106,7 @@ const PITU_DATABASE = [
                "https://blogger.googleusercontent.com/img/a/AVvXsEhbE0YxQVQh8cEPc5pEmSDEyyzXhlT53U5MDjGw3OWFALjvK1JsFmTivKPwSKqe-V6S9HQm76EcplfAahaiGyMIeBZqgCnO-NmUkLRGpaK0GhYrWYfFGDE-LkULRVbxdWCCAgqd2O1b177QPRk97_OI_d9WOPRhO7jyNOfQgczw71cCwBt0v8cT8WKve84=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEjQ9gaGMAUkGY1iq0l46Wpx7Z-LECrP__KtMSw6GtraSF17BPOxRwRUXZBGz_00hg7HKJ5pdP9UWXGwDWQ6nEBP_2ZPBdAK47YneguP3CoMUnm1C5uyW4KxDZXs19E050Cd16Sa5r4Qk7nIlHsdorbUD5_ZDnburzB8vI06_zzyh2JJdT2Zuv3t5tv6F5s=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEhFEWxP7plYzyq0f7aqxgd2zIxxXLvrqAjKXCg6b_6J4wn1ap1C24xc_hqN2PUEGtz_Cs-S72yMB7NONajdz9qH6426YjgOuA4Hfqv7IuFc7KjO6t2Jf5A_foi2rT72y2MYAnTtCHEeAPqt1gvEqIkC2tb8ov1Mlie40Mz00QKmqEWgNaylEaG-52PZ8ZY=s16000"]},
-    {id: "reheroa",
+    {id: "25reheroa",
     name: "RE: Hero Academia v0.30b",
     banner: "https://blogger.googleusercontent.com/img/a/AVvXsEhNDOox0IB48Un1iGKsCBJZxC4U3_dt_gPR_j8mSs7O08UTpYf0WqquuNzHH0D0XbeLAQ1XJY0miz5A0hnAq6b4wxA3UPIsLINr_2GTrT9gziPX-U_yCjcQLQbUVX0PqnvZVMNMn3SI0dHTAETPF6ZjK1O7YR2of9x2WuYd5lbrweQyeTgLmFG8G8XQ7bI=s16000",
     previews: ["https://blogger.googleusercontent.com/img/a/AVvXsEjOwqvPrhBr5TBDaY_rf1JDQU_2hkiA7EpAnaWJAG5Fsyx4J9sddWYZAdGbUk_F9iSKtlQgtnnVy54qQmHzyo36h5qTk7fHufivucMmtAbbqHLH5ufuP1JlBIbL-cTDGVWktvP20lxPQB-g4R2riOeiidicAnabuyUvTtu3dOfADLk-R_nNjUfwuP0k7jQ=s16000",
