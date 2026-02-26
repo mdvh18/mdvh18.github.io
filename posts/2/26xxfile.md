@@ -1,0 +1,22 @@
+---
+layout: game
+title: "[ENG] xxxFiles v0.1.5 - APK/PC - MDVH18"
+namebanner: "[ENG] xxxFiles v0.1.5 - APK/PC - [3.9GB]"
+mota: |
+ Về trò chơi thì nó giống như game Prototype (hoặc Venom) nhưng có thêm yếu tố tình dục. Cũng chẳng có gì nhiều để nói ở đây cả. Bạn không có một quá khứ đau thương hay bất cứ thứ gì đại loại thế, bạn chỉ đơn giản là một sinh vật ngoài hành tinh thích làm ... mà thôi.
+
+infor: |
+ About this game. Basically Prototype (or Venom) but with sex. Not much to say here. You don't have a traumatic past or anything, just an alien who enjoys copulating.​.
+gametype: "Visual Novel"
+language: "English"
+mdvh18: ""
+platform: "PC/APK"
+dungluong: "3.9GB"
+phienban: "0.1.5"
+dev: "Caine.Totally.Sane"
+genre: "3DCG, Exhibitionism, Monster, Sci-fi, Tentacles, Management, Multiple Endings, Corruption, Romance, Sandbox, Harem, Superpowers, Cosplay, Animated, Milf, Teasing, Adventure, Combat"
+
+linkgofileapkpc: ""
+linkpixelpc: "download-btn" href="https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1B5ZDdYRzdW"
+linkteraapkpc: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRE0tOGNZVnlvSm84Q0pvQ2xCTEh0QQ=="
+---
