@@ -7,7 +7,7 @@ const PITU_DATABASE = [
             "https://blogger.googleusercontent.com/img/a/AVvXsEiLM_waqHmatpbBQXDiAMeIg795i_Rabpaxlgip4CetfB3DLOmkh98DVOOnJrn0R7Y-6_2xicj7NHwm6Ak96rVP2DvgxCb9ukRALHEJflYGRtHJYBcO4b4TnQyHfCUuESfjkb0Y5M7Q8RCYz3H5ZAJgShIsdN_YYNa_WkjUtYpzhAvw6r3WpCJ39tBoaJQ=s16000",
             "https://blogger.googleusercontent.com/img/a/AVvXsEjkNymu18iUgQh12c9ior8GvR4EIMxHQFRHc4zqglIy3B9XRI6WfghnL_r0E5P5Pt5aYH9AcAKJ2c425VVaxrb3L4P3Gbi57kHv2MDKwph9EhZDqnnd8GE0JiWPXqEpLjY_cJeozIg8xVOKqefZNtTeCi8heDWU9__O_WXbXZBdce0238ct-pGJuiOXHZk=s16000",
             "https://blogger.googleusercontent.com/img/a/AVvXsEjZSI7CBjVZtLErdl0b4fSMtuKTeVhguN88oTS2yQTNzya3r2DbfXH27_4_uPRTjH-oO3sJTw7hmDOWI2woh00cVFv293EhyPGEfRcHogdWIlbZGtMBL5n05WxVVk3Fh8qpNACWinUS6RapufO-uMRlthdsgq60fPcjCnCO7kxq9nRiHjlRD1ZKhkVRHbc=s16000"]},
-    {id: "6nt026",
+    {id: "7nt026",
     name: "Việt Hóa Naughty Tail",
     banner: "https://blogger.googleusercontent.com/img/a/AVvXsEiZvkfNSupeLMNtWUuD0JDOWmRaapvTgmU4b5Bx2MewBCa6qwoqFMZUjS70ubwY6baH4C78i_ypNGQeZK3E-RyVvrEkp8yd3mrbIHsi46rnvkiHqKs9wbTQWinCYvWTVJTuhmPXe09nlk9ZhfSVk0S4OOJecdG4lCwAhEVPtmTN7t12DekJw3Fmxfb4vhM=s16000",
     previews: [
