@@ -16,7 +16,7 @@ phienban: "1.0.51"
 dev: "NTRMAN"
 genre: "2DCG, Milf, Fantasy, Adventure, Groping, Voiced, Netorare, Animated"
 
-linkgofile: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0dnQVMzMndX"
+linksave: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0dnQVMzMndX"
 linkpixel: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0o1TWdzUGdW"
 linktera: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdkE0V1lLektXNDNQNnV2S1J6d3h3QQ=="
 ---
