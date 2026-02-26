@@ -612,7 +612,7 @@ a, button, .image-grid img, .hentry {
     <div class="game-banner">
         <img src="{{ page.banner }}">
         <div class="overlay">
-            <h1>{{ page.tengamebanner }}</h1>
+            <h1>{{ page.banner }}</h1>
             <p>{{ page.mota }}</p>
         </div>
     </div>
@@ -649,6 +649,10 @@ a, button, .image-grid img, .hentry {
 
   {% if page.dev %}
   <div><b>Developer:</b> {{ page.dev }}</div>
+  {% endif %}
+
+  {% if page.genre %}
+  <div><b>Genre:</b> {{ page.genre }}</div>
   {% endif %}
 </div>
 <span class="section-title">Hình ảnh trong game</span>
