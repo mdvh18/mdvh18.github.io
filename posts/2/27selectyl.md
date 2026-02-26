@@ -5,8 +5,6 @@ namebanner: "[Việt Hóa] SELECT YOUR LOVER v0.4 - [1.19GB]"
 mota: |
  Select Your Lover là một trò chơi kết hợp giữa nhiều thể loại như Visual Novel, Mini-game, Mô phỏng, Nhập vai (RPG) và Phiêu lưu, cho phép người chơi khám phá một thế giới đầy rẫy tình yêu và những chuyến hành trình kỳ thú. Bạn có thể tương tác với nhiều nhân vật khác nhau và đưa ra những lựa chọn làm thay đổi diễn biến câu chuyện theo nhiều hướng khác nhau.
 
-infor: |
-
 gametype: "Visual Novel"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
@@ -16,7 +14,6 @@ phienban: "v0.4"
 dev: "IDOL3D"
 genre: "3DCG, 2DCG, Animated, Cosplay, Sound"
 
-linkgofile: ""
 linkpixel: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1dFZHIzdkNU"
 linktera: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcHZ3LTZYLUJ6QmJJQVpLNFFmSFc4QQ=="
 ---
