@@ -9,14 +9,12 @@ infor: |
  About this game. Basically Prototype (or Venom) but with sex. Not much to say here. You don't have a traumatic past or anything, just an alien who enjoys copulating.​
 gametype: "Visual Novel"
 language: "English"
-mdvh18: ""
 platform: "PC/APK"
 dungluong: "3.9GB"
 phienban: "0.1.5"
 dev: "Caine.Totally.Sane"
 genre: "3DCG, Exhibitionism, Monster, Sci-fi, Tentacles, Management, Multiple Endings, Corruption, Romance, Sandbox, Harem, Superpowers, Cosplay, Animated, Milf, Teasing, Adventure, Combat"
 
-linkgofileapkpc: ""
 linkpixelpc: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1B5ZDdYRzdW"
 linkteraapkpc: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRE0tOGNZVnlvSm84Q0pvQ2xCTEh0QQ=="
 ---
