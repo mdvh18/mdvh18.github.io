@@ -36,7 +36,7 @@ const PITU_DATABASE = [
                "https://blogger.googleusercontent.com/img/a/AVvXsEhZqBUN_NJiKVoFzCzwWl5heTvoGn_aLbYEhXGs5Xfu21Jk3XMohpLOhzUYbYhO0tLsgfBOc-3GsEfILnSp-PsI3AmcD3RkFeTeHPDROpZdsU2Q5ESXKaiJ0DrbrZ1lAj9WsMxox_Mm-o-8UbPJ98hpZPeHTaLR6fW3B9EdKLNC_I-xCLRVxiIUpGHqLsk=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEhZqBUN_NJiKVoFzCzwWl5heTvoGn_aLbYEhXGs5Xfu21Jk3XMohpLOhzUYbYhO0tLsgfBOc-3GsEfILnSp-PsI3AmcD3RkFeTeHPDROpZdsU2Q5ESXKaiJ0DrbrZ1lAj9WsMxox_Mm-o-8UbPJ98hpZPeHTaLR6fW3B9EdKLNC_I-xCLRVxiIUpGHqLsk=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEidNrT3BY9cpxf5vEHcnhD87mPHz6kdGAwxfjB2sY5DsfVZZGA4WbzeZ2iIL2mWDs6zUQ2zUuOxsc6FUPY7lR6sxUxBOylTkQ4hT3Blk8aT5A6PxoKBg4ojnxeEIaSU6QFNTCILbHAhUPoydPeXL4B-WzKLmDJ2iSC1lHOHEM29LKOork3LpGrbhNR3JUs=s16000"]},
-    {id: "bmwse",
+    {id: "9bmwse",
     name: "Việt Hóa Blackmail And Education",
     banner: "https://blogger.googleusercontent.com/img/a/AVvXsEj31h4YT7Yjsa3LNfhtHBByyqdxmqoKlsgVsfxXdrufNe9IyTcAw7_G9SqTdB0Tgr5rfmhvoW6ysLF8xfOLbKZlZcdEPHtmnEorpf-FWn3-LOciGr1f0bI2ltTFPN2Jxe_4U_uF0nRxzCqIxsyM03TZAJLfiP5gtFzjbdPL9LKsjDXEu_gF1t39b-GaAE8",
     previews: ["https://blogger.googleusercontent.com/img/a/AVvXsEhuHqLFKmOOrCcFxOzW33-78lwjTpuwqSOrrNyGGj5AXp8t-UQplaObjoIoNa5GvIw1XLKSe6ub3no35wOlM8RtjcxPSUEILLlIHTKBNTCff5hoBzHKyFKoZ_A62eSYq8XhiInZAs-ciUAaELcUJBK8-VQKIaOxiyFIceOlgGI9CaHmJGjDQALHvrxNlAs=s16000",
