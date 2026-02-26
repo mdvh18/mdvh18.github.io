@@ -197,7 +197,7 @@ const PITU_DATABASE = [
                "https://blogger.googleusercontent.com/img/a/AVvXsEi4tJUiYXJOkaMHo-3d_jlrY9qIaS2FLD02k7rMAL7OdC0rePlpvbD_0dWe4XW7JyuQf2lCON3xck8K5gu9mlFSBCbY4Z1wZfPT4X9GfGHC2jT6eXGR4yc9qi3vTARs-ahYyxKrBLguylxP4kU3fT0R8reywVE5hTxwF95EMH5_hRnh7IKzw8JcklAFYgQ=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEhnXG5b2h2UKC5UePzu8xoji7OntqIKrqsERk1er-hakP-bHmadNjkLexNtWCQiZpBqRLQyub4w_btrxWwiu2BUoE3mHVsPl4SmUGyOLEm_BCVExkuugrKJKLDok7xTp7bkY3QS29ltbcjB12bXF3x-OhD-xQBSLiyg_tZf9YaGFk_XSPBmSZ0YF-MsxLY=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEhR6_tgJcwIO0dDa-1Qf4NgFMiCD7CK80PDzVPCXTfdfMip8yQvP4hiQFSvZe_Pjm8jKP7HFOBuIdq1CVQou2O1NZwoQa_0AgCMTK0PnXGCFd7i10muPM7tkm6veXRXo8omsbMECuC7PBFgN-bJJV1aAgY7vJrE-ZCeExQNzK-dZWC4hpQOHlYgV6MjaF8=s16000"]},
-    {id: "RBMWF",
+    {id: "1RBMWF",
     name: "Việt Hóa Rebirth Mr Wang",
     banner: "https://blogger.googleusercontent.com/img/a/AVvXsEjFLIrtoMiFw78FOAInc1JGDxE5DL4FMtZw9X6IG7-COof0DuSuhPXqtxiPqw1rkKvvftVSRB0SoHnns44dpvn1lhbsxG4i-T3Fmk_RyXmYDZyqfXgtvOwDx_P-5pHHjgFn5sxVxjGX0imW4SF-nmMmt1fgel5Yjo8gF27ao3LVRsDDLfUwU6Fb82QkxYU=s16000",
     previews: ["https://blogger.googleusercontent.com/img/a/AVvXsEj_249eMfglpvh-h4EmjzXo3wL3siwpi6mdCX5t8WEPqstPOszh7dDdJeKvxQh-IzBIGZpGeDx7bsQIRDmIgyahAQc3tR3IuMbqOrucxpqD4H4Q_7G7fysj8AO25E39jdcBH1pViVF--F2OKMGYx11eYLbhhvDgaZ77wYN--MoX4AIBy4T15mIUHSYVsjA=s16000",
