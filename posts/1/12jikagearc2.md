@@ -1,6 +1,6 @@
 ---
 layout: game
-title: "[Việt Hóa] Jikage Rising Arc1 Full - MDVH18"
+title: "[Việt Hóa] Jikage Rising Arc2 Full - MDVH18"
 namebanner: "[Việt Hóa] Jikage Rising Arc2 Full - [673MB]"
 mota: |
  Chưa bao giờ đạt được thành tựu gì đáng kể ở làng Lá, đột nhiên bạn thấy mình được quay trở lại quá khứ. Với sự giúp đỡ của Saru bí ẩn, bạn đã mở khóa được sức mạnh dòng tộc của mình và có được khả năng biến người khác thành những kẻ phục tùng mình. Bạn sẽ phải săn lùng và truyền giáo cho những kunoichi nòng cốt, những người sẽ hữu ích trong hành trình khôi phục lại gia tộc của bạn.
