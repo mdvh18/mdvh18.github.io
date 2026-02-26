@@ -9,7 +9,6 @@ infor: |
  Beyond that LCD resides something inexplicably sinister: A black hole poised as authentic innocence -- the absence of moral pretension and consciousness of cruelty whatsoever. Under the guise of objective omnipresent observation, the facades' appeal is the dedication it implies, the need to serve humanity's wellbeing.
 gametype: "Visual Novel"
 language: "English"
-mdvh18: ""
 platform: "PC"
 dungluong: "139MB"
 phienban: "1.0"
