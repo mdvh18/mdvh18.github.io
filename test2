@@ -1,0 +1,45 @@
+---
+layout: game
+title: ""
+namebanner: ""
+mota: |
+
+
+infor: |
+
+gametype: "Visual Novel"
+language: "Tiếng Việt"
+mdvh18: "MDVH18"
+platform: "PC"
+dungluong: ""
+phienban: ""
+dev: ""
+genre: ""
+
+linkgofile: ""
+linkpixel: ""
+linktera: ""
+---
+
+---
+layout: game
+title: ""
+namebanner: ""
+mota: |
+
+
+infor: |
+
+gametype: "Visual Novel"
+language: "English"
+mdvh18: ""
+platform: PC/APK"
+dungluong: ""
+phienban: ""
+dev: ""
+genre: ""
+
+linkgofileapkpc: ""
+linkpixel: ""
+linkteraapkpc: ""
+---
