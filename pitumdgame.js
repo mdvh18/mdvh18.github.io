@@ -57,7 +57,7 @@ const PITU_DATABASE = [
                "https://blogger.googleusercontent.com/img/a/AVvXsEhWUF2ZZPlhs7Xr7ujhx7qRcHZleVgUm6BgY1mpZK6Byf8OfPSgAGdF0tlUbGaYd3XNe-L5uEMhavNE1YhOpHyE1XDMUjH0jA4kG870iPR8CAm3aHILkh-tetYB7nl5aYMIURV9oK3AGYO1ia_EQaZAhu-fj8T63pK0acNOSvAHQyuLKlasUy7UG2ye6Us=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEiDK_KtBH4HGT7XrHDlC6soC383lxLturBsVsOoFnI6mIecCmUiaWMdu9Bqzgqajdxn0Fd3uPlYJcbaK_y76AzydOemd6EjHVgWc_cQSuzpbejUzgAcijpLIYqNkoYJDPZ4JYyyMcOi7_KY8f60ERWZSiKxFC2cwSgTputuvnh6IaAKGhWmIv9Wg7Dy5u4=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEgNAfMePLb1E_9swYJnzajYaqEDCzt2F2JfgA1WOH2QvnJAOarFhStKUVfZf_3C-G9hM6gCpXinwzAOpzIOqkfHI6mIyU45PECeDRj4jkLbaAfB1Z_tNmVPulXhwc4rUOB2CpObiEye9pT0lP_Vw0q3PPJAFGIEmRngsnc5tZx0OoFdQEwh9SGQn9HoA4o=s16000"]},
-    {id: "isekaib",
+    {id: "15isekaib",
     name: "Việt Hóa Isekai Brothel",
     banner: "https://blogger.googleusercontent.com/img/a/AVvXsEiXCr3tSJE7n810LYQIui8rh8-C5ltTMcJ444m6OCi5Rtsz73X070rNYrEMWG56BhLY4frrbQqVeMBStLw_J94qHn3CaUo016IXvfx4lRI6YF35dfr5sYQ_C-_8jjMSBHSUJhwlRyNHUa1TsH1aXZNwRd73QE7-1JbB_B04fAV-GnMMI23Xkc6zcQ7Ubyk=s16000",
     previews: ["https://blogger.googleusercontent.com/img/a/AVvXsEiXCr3tSJE7n810LYQIui8rh8-C5ltTMcJ444m6OCi5Rtsz73X070rNYrEMWG56BhLY4frrbQqVeMBStLw_J94qHn3CaUo016IXvfx4lRI6YF35dfr5sYQ_C-_8jjMSBHSUJhwlRyNHUa1TsH1aXZNwRd73QE7-1JbB_B04fAV-GnMMI23Xkc6zcQ7Ubyk=s16000",
