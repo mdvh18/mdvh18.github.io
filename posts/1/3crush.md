@@ -1,0 +1,20 @@
+---
+layout: game
+title: "[Việt Hóa] CRUSH V0.3 - MDVH18"
+namebanner: "[Việt Hóa] CRUSH V0.3 - [3.33GB]"
+mota: "Hôn nhân luôn là một mớ bòng bong phức tạp, nhất là khi ông lại là một thành viên của gia đình nhà Carter. Phát ngán với cái kiếp nội trợ quẩn quanh, Camilla quyết định dấn thân vào chuyến phiêu lưu của riêng mình, rời xa cái tổ ấm gia đình đó. Cô nàng đã đăng ký vào Đại học Nghiên cứu Sức khỏe Cummingbrook! Trong phiên bản v0.3, cuộc săn lùng Harper chính thức bắt đầu! Camilla và Jessica phải gạt bỏ những mâu thuẫn cá nhân sang một bên để cùng nhau "lấy bướm mở đường", dấn thân vào thế giới ngầm tăm tối của Cummingbrook để tìm lại cô bạn đang mất tích. Và có vẻ như Harper là một cô nàng cực kỳ bận rộn! Cô ta vừa chơi cho ban nhạc The Hex Dolls, vừa xả stress tại Câu lạc bộ Bí ẩn Huyền bí đầy sau giờ hành chính, lại còn làm thêm (glory hole) ở quán Bar Rickie, và kiếm bộn tiền nhờ công việc chính là phân phối một loại thuốc mới tên là Crush cho giới Mafia! Cơn lốc của sự cám dỗ đã kéo theo hàng loạt những nhân vật nóng bỏng xoay quanh cô ta, vì vậy Cam và Jess cần phải thẩm vấn tất cả bọn họ bằng chính những kỹ năng đặc biệt của mình! Hãy cùng tham gia với cặp đôi hay cãi vã này khi bọn họ tìm ra sự thật trong CRUSH The Game 0.3..."
+
+infor: ""
+gametype: "Visual Novel"
+language: "Tiếng Việt"
+mdvh18: "MDVH18"
+platform: "PC"
+dungluong: "3.33GB"
+phienban: "0.3"
+dev: "DKL"
+genre: "2DCG, 3DCG, Animated, Les, Solo, Sound"
+
+linkgofile: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9UODFwM1g="
+linkpixel: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1gxd3NvOEdo"
+linktera: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMVNtVVpUMWljcFVOU2ZFS2VoU2F4UQ"
+---
