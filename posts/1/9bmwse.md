@@ -1,0 +1,22 @@
+---
+layout: game
+title: "[Việt Hóa] Blackmail And Education SE - MDVH18"
+namebanner: "[Việt Hóa] Blackmail And Education SE - [2.56GB]"
+mota: |
+ Bạn chỉ là một gã bình thường, đang ngồi nhậu nhẹt với mấy thằng bạn trong quán bar. Đột nhiên, một cánh cổng không gian xuất hiện. Chỉ có mình bạn bị lôi tuột vào trong đó. Bạn nghe thấy một giọng nói vang lên trong bóng tối, kể cho bạn nghe về thế giới mang tên Naughty Tail. Đó là một thế giới của phép thuật và những người đàn bà. Liệu bạn sẽ bắt bọn họ phải khuất phục dưới ý muốn của mình hay sẽ cứu họ khỏi thảm họa?
+
+infor: |
+
+gametype: "Visual Novel"
+language: "Tiếng Việt"
+mdvh18: "MDVH18"
+platform: "PC"
+dungluong: "2.56GB"
+phienban: "SE"
+dev: "DKL"
+genre: "3DCG, Animated, Sound"
+
+linkgofile: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9URGhHcW0="
+linkpixel: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0xMMmFYZENE"
+linktera: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xeVZLWGNkak1laC05czNsYWttcmJDUQ=="
+---
