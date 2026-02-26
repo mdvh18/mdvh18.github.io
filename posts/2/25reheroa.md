@@ -9,7 +9,6 @@ infor: |
  In the game, you play as a Pro Hero, who was killed in action but was saved by some mysterious people and sent back in time. Given a second chance, it's time to hone your power, get closer to allies in order to solve the mystery of your future and try to avoid your impending doom.
 gametype: "Visual Novel"
 language: "English"
-mdvh18: ""
 platform: "PC/APK"
 dungluong: "128MB"
 phienban: "0.30b"
@@ -17,6 +16,5 @@ dev: "Double-H"
 genre: "2DCG, Point Click, Exhibitionism, Voyeurism, Groping, School setting"
 
 linkgofileapkpc: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC8wM2hsN0Q="
-linkpixel: ""
 linkteraapkpc: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZmJvZ3ZueFFNeXhMY1lxdEZwa2laQQ=="
 ---
