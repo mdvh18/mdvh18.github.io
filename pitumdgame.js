@@ -92,7 +92,7 @@ const PITU_DATABASE = [
                "https://blogger.googleusercontent.com/img/a/AVvXsEjeNX8U-Kr_yI0tEE3kgWB2RUK84Wp6Be870blJPEZ00xDZHnfzeo11C6yf_bSNvsI8y2sZhGJ_8UJYqs1R6-8KgWgC-RQYrsEZ2oKNMNMcmdenf8k_pGXNjDV0toQrUCm4Q3NsV6HW3dAs_M_EO_UsovpxxwcmYvErmgQViQ3TILQlx2efsrwOsfb0xzU=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEjeNX8U-Kr_yI0tEE3kgWB2RUK84Wp6Be870blJPEZ00xDZHnfzeo11C6yf_bSNvsI8y2sZhGJ_8UJYqs1R6-8KgWgC-RQYrsEZ2oKNMNMcmdenf8k_pGXNjDV0toQrUCm4Q3NsV6HW3dAs_M_EO_UsovpxxwcmYvErmgQViQ3TILQlx2efsrwOsfb0xzU=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEg9nxEdSfaL0pi94sqSOOWFYV3QjPJAbBW3lc6EVXSV0RXYRHetMPvRtTDIhCUtcJzyoJ9tftuDpkldxnRpIMtJ8dtH0qBqEBpMx1E36UvT6Er4y1Xp0YTzX8BcEVutU6fUWIIvKPfmmGMyxcAqXGBIB3eaD1OGodHgS2dCu2p3ZuSeK4buUV7K-QQE294=s16000"]},
-    {id: "mylopetse",
+    {id: "22mylopetse",
     name: "Việt Hóa My Loyal Pets",
     banner: "https://blogger.googleusercontent.com/img/a/AVvXsEjPLRtA6M7HOcU49kaCHhilb7yQqSlR_xHMqb_MiZCZilGKD--ayMCrupL2iSbKH6vmIkjCWGYQIJNet6EPLJhPSgw-sg3gdLbfbzrNVUT-JJUFzDrwpD3OqyP0M5FlBHRnWYAeZ0j-sGnlsxXUFfdFKC9Dlu_B1BsWWVJeItmXbXIC6D0GN0csrFMSOfs=s16000",
     previews: ["https://blogger.googleusercontent.com/img/a/AVvXsEiAbnnoaod46xyOWKXPPUa0SB3YfsY_mN8GkL7EOe9uei7H0GQ-KS_xTn3mSkS2TS9G9vTy6TPOCc9yP90prIeN3JNk0dIhSeDdb9zgV_iPW2MY1UYX3P2njB_ZgsYYfY7DRsyghkhrnpM52svKycYIyLsTh25mUlvdXzauj7IxOhTooVU_f62uNfI5WwQ=s16000",
