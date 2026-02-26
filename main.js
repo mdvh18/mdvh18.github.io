@@ -1,10 +1,17 @@
 function pituRender() {
-    // 1. Lấy ID từ tên file HTML hiện tại
-    const currentPageId = window.location.pathname.split("/").pop().replace(".html", "");
+    // Cách lấy ID cực chuẩn kể cả khi nằm trong thư mục con
+    const path = window.location.pathname;
+    const filename = path.split("/").pop(); // Lấy "jikage-arc-2.html"
+    const currentPageId = filename.replace(".html", ""); // Lấy "jikage-arc-2"
     
-    // 2. Tìm dữ liệu game
+    console.log("ID tìm kiếm:", currentPageId); // Dòng này để ông check F12
+
     const game = PITU_DATABASE.find(item => item.id === currentPageId);
-    if (!game) return; // Không có trong data thì thôi
+    
+    if (!game) {
+        console.error("Không tìm thấy ID: " + currentPageId);
+        return;
+    }
 
     // 3. Đổ Banner
     const banner = document.querySelector('.game-banner');
