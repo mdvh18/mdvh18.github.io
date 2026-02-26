@@ -5,8 +5,6 @@ namebanner: "[Việt Hóa] Isekai Brothel v0.77 - [2.56GB]"
 mota: |
  Chúng tôi không chỉ là một cái ổ bình thường, chúng tôi sử dụng công nghệ du hành giữa các vũ trụ! Với công nghệ này, bạn có thể dịch chuyển đến bất kỳ vũ trụ nào mình muốn, hoặc bạn có thể dịch chuyển các em gái của chúng tôi đến vũ trụ của bạn. Tại đây, bạn có thể thỏa mãn mọi ảo tưởng của mình với các cô nàng đến từ các vũ trụ khác, từ Hẹn hò, cho đến các thể loại BDSM (Fetishes), vân vân...
 
-infor: |
-
 gametype: "Sandbox"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
@@ -16,7 +14,6 @@ phienban: "0.77"
 dev: "Isekai Brothel"
 genre: "3DCG, Animated, Teasing, Interracial, Cosplay, Oral, Footjob, Parody, Trainer"
 
-linkgofile: ""
 linkpixel: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzdUdVl5TEd3"
 linktera: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUnhPSC1neFdVUnNtaVNRU0M4NHNjQQ=="
 ---
