@@ -74,7 +74,7 @@ const PITU_DATABASE = [
     {id: "jikagearc2",
     name: "[Việt Hóa] Jikage Rising Arc2 Full - [673MB]",
     banner: "https://blogger.googleusercontent.com/img/a/AVvXsEjgn_IknltDylTOYcR9tXIm87DbvUTuafC4d9anEj0p86kGaFQfRX9OrzTOhq5x9OUFgni4k_Hife6BpCYNIN8EY8fN-EO-TzWDBYLsJrQhf7P59ZvwCEBlnG-OHDqsvLdQXYfAijSnfCn--PeWkUD7j4QJGmyqTzSZgxHtgJWYNOgG3ihUkDeaxNKfj10",
-    previews: ["hhttps://blogger.googleusercontent.com/img/a/AVvXsEgWUs1bjPRQ3WbSV8tjHAd4n-yXQ4ct-Svi7-TANPqU36BVBovpDHPUvWaaY6h3N7k4IA3gd7X9uKpartnL73L692V5pceVcRLpjY6kPqr2d1AVCA41zZAkDyKurtD6tsOTpPvGwOXefqDeqkSGJ8TlezI4XZAsBBt1Kewinc4G1PBqvv5_LYsg6rwS4jY",
+    previews: ["https://blogger.googleusercontent.com/img/a/AVvXsEgWUs1bjPRQ3WbSV8tjHAd4n-yXQ4ct-Svi7-TANPqU36BVBovpDHPUvWaaY6h3N7k4IA3gd7X9uKpartnL73L692V5pceVcRLpjY6kPqr2d1AVCA41zZAkDyKurtD6tsOTpPvGwOXefqDeqkSGJ8TlezI4XZAsBBt1Kewinc4G1PBqvv5_LYsg6rwS4jY",
                "https://blogger.googleusercontent.com/img/a/AVvXsEh0SJRyOW6d1Svrsoye6w1b86J_37d9syr3tzigrlTMrOMn8Caaou1P7xK_UxXOIMmW85DM4KxiF0tcE22j3XsMqgyPwifRKnP8QwOPWEWxWmqJLTj2qjPvB9WrCng19MHeRzxXqdv_rozn8gtOHI-62helBQGeJKiuR206X63dgD-PDdKS72bYZ56al3g",
                "https://blogger.googleusercontent.com/img/a/AVvXsEhkOpjy_t75k1iPfVBVFmhmviLRolIe7M32TbWGYDWCgrxBXvr7T6juSuKgPTx9Jd3OKiu7_Vl9AbLNuoorErqNmDu0ieLOwU1_IFuQ_l-VOy8ntDfo4nbXmuAAmqZQISFdjMGcRtcYGFQ9wPHyoZvMJK4FWK_KwedYdM1Zw151OITmBzlN999Odk63Wyw",
                "https://blogger.googleusercontent.com/img/a/AVvXsEie5rgHseHcAgLCcPbdLfQLLWTY9K-Wajlzfg5YCxqhuq-p4kG3a5pUpK4wRRH2I1k5lu7_O--Y8qfIiFeALuDSFXPPEoGKnejFH67_dkXPWBqXfL24tarePCAHRBVmIzWtpzWuxFm29KnqxQCNakB1FjoAuisz3MfKyQw98rFc5bestEuntIn3mbialyY"]},
