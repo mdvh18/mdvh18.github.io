@@ -9,7 +9,6 @@ infor: |
  The game screen is composed like a comic book, with the panels divided into “subjective” and “cross-sectional” views, In the “Subjective” frame, you can see the heroine’s cute face.
 gametype: "Visual Novel"
 language: "Japanese, English, Chinese, Korean"
-mdvh18: ""
 platform: "PC"
 dungluong: "206MB"
 phienban: "2.0"
