@@ -5,8 +5,6 @@ namebanner: "[Việt Hóa] Arrival of the Goddess v1.051 - [773MB]"
 mota: |
  Khi đại dịch thây ma gieo rắc nỗi kinh hoàng trên toàn thế giới, hai nhà khoa học dũng cảm được cử đi thực hiện nhiệm vụ tìm kiếm bí mật của thứ duy nhất có thể cứu rỗi nhân loại. Loài cây mang tên "Hoa Trăng" được cho là một loại thảo dược thần kỳ với khả năng chữa trị không tưởng, có thể dùng làm thuốc giải. Vấn đề duy nhất là trên Trái Đất chỉ còn đúng một nơi duy nhất sở hữu chúng. Hãy cùng theo chân John và Claire dấn thân lên hòn đảo bí ẩn với hy vọng tìm thấy câu trả lời, nhưng họ sớm nhận ra rằng có "những" bí mật luôn đi kèm với cái giá phải trả.
 
-infor: |
-
 gametype: "Visual Novel"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
