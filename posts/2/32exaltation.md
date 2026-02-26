@@ -9,7 +9,6 @@ infor: |
  Exaltation! is a short visual novel about a man struggling with insecurity who connects with a dominant woman online and finally meets her in person. Will he find pleasure in his first step into the world of power dynamics and submission?
 gametype: "Visual Novel"
 language: "English, Russian"
-mdvh18: ""
 platform: PC"
 dungluong: "764MB"
 phienban: "v1,1"
@@ -17,6 +16,5 @@ dev: "isvrat"
 genre: "Adult, Erotic, Femdom, Romance, Visual Novel"
 
 linkgofile: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9yUmFDd0o="
-linkpixel: ""
 linkteraapkpc: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNUVCVUxPanZwamp5M090RHhhWUxkUQ=="
 ---
