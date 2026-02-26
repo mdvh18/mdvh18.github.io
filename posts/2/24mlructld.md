@@ -16,6 +16,5 @@ dev: "Riot-Cryo"
 genre: "Censored, Romance, Simulator, Oral, Japanese"
 
 linkgofileapkpc: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC92d0lINXU="
-linkpixel: ""
 linkteraapkpc: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYjdXZVkwR1JyNE1DVVM0VWZVY0Utdw=="
 ---
