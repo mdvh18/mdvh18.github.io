@@ -1,18 +1,17 @@
 function pituRender() {
-    // Cách lấy ID cực chuẩn kể cả khi nằm trong thư mục con
+    // Cách này sẽ lấy chính xác cái tên file cuối cùng, bất chấp thư mục sâu bao nhiêu
     const path = window.location.pathname;
-    const filename = path.split("/").pop(); // Lấy "jikage-arc-2.html"
-    const currentPageId = filename.replace(".html", ""); // Lấy "jikage-arc-2"
+    const filename = path.split("/").filter(Boolean).pop(); // Lấy phần cuối cùng của path
+    const currentPageId = filename ? filename.replace(".html", "") : "index";
     
-    console.log("ID tìm kiếm:", currentPageId); // Dòng này để ông check F12
+    console.log("Dò ID game:", currentPageId);
 
     const game = PITU_DATABASE.find(item => item.id === currentPageId);
     
     if (!game) {
-        console.error("Không tìm thấy ID: " + currentPageId);
+        console.error("Lỗi: Không tìm thấy data cho ID '" + currentPageId + "'");
         return;
     }
-
     // 3. Đổ Banner
     const banner = document.querySelector('.game-banner');
     if (banner) {
