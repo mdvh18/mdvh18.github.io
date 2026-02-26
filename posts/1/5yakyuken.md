@@ -3,11 +3,7 @@ layout: game
 title: "[Việt Hóa] Yakyuken V0.3.7 - MDVH18"
 namebanner: "[Việt Hóa] Yakyuken V0.3.7 - [2.47GB]"
 mota: |
- ...chơi oẳn tù tì......để được.....
-✔ Chơi oẳn tù tì, Cham Cham Cham, và giờ có cả pha chế cocktail
-✔ Bốn chương hoàn chỉnh, nhiều nữ chính, các nhánh rẽ câu chuyện khác nhau
-✔ Mở khóa các đoạn phim cắt cảnh đặc biệt và các kết thúc khác nhau bằng cách giành chiến thắng
-✔ Lối chơi đơn giản, gây nghiện và được lồng tiếng toàn bộ
+ chơi oẳn tù tì......để được..... ✔ Chơi oẳn tù tì, Cham Cham Cham, và giờ có cả pha chế cocktail ✔ Bốn chương hoàn chỉnh, nhiều nữ chính, các nhánh rẽ câu chuyện khác nhau ✔ Mở khóa các đoạn phim cắt cảnh đặc biệt và các kết thúc khác nhau bằng cách giành chiến thắng ✔ Lối chơi đơn giản, gây nghiện và được lồng tiếng toàn bộ
 
 infor: ""
 gametype: "Visual Nove"
