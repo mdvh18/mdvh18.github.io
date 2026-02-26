@@ -183,7 +183,7 @@ const PITU_DATABASE = [
                "https://blogger.googleusercontent.com/img/a/AVvXsEjuHt1sTkyy81EzqsnaGQMqouUSw4xO9NYTM6V8JQB0XD_UmERUl5i3ZPmSeQNDFQKaDnCUR7ereyqQogmPsZNCzEfj3xhG33sy3KScCQfJ8CkmLNr53L8ytDjQQToLGUfqnKAktXBp2Sshfc4gzFmfcV-ZaWWVz32vAZcouziHyy0XRsbwCqLb0TXzDxg=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEiuXT08FB2HONWl0svaEmaUThDY2LlxqGsGSB5KNJuIP0ITZiNwvrKwaxKj5tz-zo23kasxv62K5OsfIo_qDqB5V4JA4ZWtNsYc3b4W23Efgt9yssbzXFYS07S23Ta4eP7OJmPNjeLQCeUm2NyqAu0kR0EOyHlqoBbMfn_sqn2PiNZRrWSWQYIMnu0byKE=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEg7BG2fT0200yPkfM8_kRzb0Hgd1uTMZdbreiHftblpTiTLzEmCqGF8MNxXhpxBIw2pzJXNpxwSm9sqYN3ZaYy2JXJqFI4__i2yplqOSBQiLPoi0t22VLGE5yxXo4UVZ-B2HJnFq8LZxmAG2tUEWb2hakufM_AZisjrWsfJT7TFT5-UFLhIIjW09E-r1DM=s16000"]},
-    {id: "3crush",
+    {id: "4crush",
     name: "Việt Hóa CRUSH",
     banner: "https://blogger.googleusercontent.com/img/a/AVvXsEjwbmthLjL7QwwOlMygK1dd5fFiqoLS9NmwjvNvH7Q2vevrG4rTmtP9rvxnEHKaAN64bvLJ0yxdgtUar1HUA1FC_8c3TvhTQPnTFU2EMuLcMfz0g2BdcyzwFEIsG-GIDlfRQXZLtAhIOxvSo2SVjS1GInhZermbSX4V_ieVi9BhO-lsBHvCqzqtU9X9s5k=s16000",
     previews: ["https://blogger.googleusercontent.com/img/a/AVvXsEgKvEGqApZamlQZKMNdKNU7GAgAjV3vg_FPLAhlhrnMXt13efgS2Lj46_CeNeAfmvOX2aeEOiMiVyJmhLd5174mcXtUUZRZsoCtvJ5HV0FKzFcwRB_s6U8XPMjyIHSOKgaYLKIXmSoZYXSOdjzLEKbCQ6KBEPakDRQGIgsAiVc3uWqTgEezCgXRkrDqQtM=s16000",
