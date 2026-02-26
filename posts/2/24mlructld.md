@@ -1,0 +1,22 @@
+---
+layout: game
+title: "[ENG] Moka Love ReLive♪ ~Up-Close True-Love Distance~ v2.0 - MDVH18"
+namebanner: "[ENG] Moka Love ReLive♪ ~Up-Close True-Love Distance~ v2.0 - APK/PC - [206MB]"
+mota: |
+ Bạn có thể nhìn thấy khuôn mặt dễ thương và bộ ngực đang đung đưa của nhân vật nữ chính.
+
+infor: |
+ The game screen is composed like a comic book, with the panels divided into “subjective” and “cross-sectional” views, In the “Subjective” frame, you can see the heroine’s cute face.
+gametype: "Visual Novel"
+language: "Japanese, English, Chinese, Korean"
+mdvh18: ""
+platform: "PC"
+dungluong: "206MB"
+phienban: "2.0"
+dev: "Riot-Cryo"
+genre: "Censored, Romance, Simulator, Oral, Japanese"
+
+linkgofileapkpc: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC92d0lINXU="
+linkpixel: ""
+linkteraapkpc: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYjdXZVkwR1JyNE1DVVM0VWZVY0Utdw=="
+---
