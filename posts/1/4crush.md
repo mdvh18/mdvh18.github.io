@@ -1,5 +1,6 @@
 ---
 layout: game
+pitu_id: "4crush"
 title: "[Việt Hóa] CRUSH V0.3 - MDVH18"
 namebanner: "[Việt Hóa] CRUSH V0.3 - [3.33GB]"
 mota: |
