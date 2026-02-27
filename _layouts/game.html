@@ -199,6 +199,10 @@ body {padding-top: 100px !important; }
             <li><a href="https://www.facebook.com/profile.php?id=61575869116469">Fanpage</a></li>
         </ul>
     </div>
+    <div class="mini-search">
+  <input type="text" id="quickSearch" placeholder="Tìm game khác..." autocomplete="off" />
+  <div id="searchResults" class="search-results"></div>
+</div> 
 </header>
 <script>
     function toggleMenu() {document.getElementById('side-menu').classList.toggle('active'); const overlay = document.getElementById('overlay'); if (overlay.style.display === 'block') {overlay.style.display = 'none';} else {overlay.style.display = 'block';}}
@@ -717,11 +721,7 @@ window.onscroll = function() {
 @media (max-width: 1100px) {
     .megumin-left {
         display: none;}}
-</style>
-<div class="mini-search">
-  <input type="text" id="quickSearch" placeholder="Tìm game khác..." autocomplete="off" />
-  <div id="searchResults" class="search-results"></div>
-</div>    
+</style>   
 <script src="{{ site.baseurl }}/pitumdgame.js"></script>
 <script src="{{ site.baseurl }}/main.js"></script>  
 </html>
