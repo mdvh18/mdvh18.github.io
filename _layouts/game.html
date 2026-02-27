@@ -732,9 +732,9 @@ input.addEventListener('input', function() {
   a.href = post.url;
   a.classList.add("search-item");
 
-  // tìm trong PITU_DATABASE theo title
+  // tìm game trong PITU_DATABASE theo title
   const game = PITU_DATABASE.find(item =>
-    item.name.toLowerCase() === post.title.toLowerCase()
+    post.title.toLowerCase().includes(item.name.toLowerCase())
   );
 
   const banner = game ? game.banner : "";
