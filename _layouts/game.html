@@ -676,6 +676,8 @@ a, button, .image-grid img, .hentry {cursor: url('https://blogger.googleusercont
     </div>
 
     <footer style="text-align: center; margin-top: 50px; padding: 20px; color: #666; font-size: 12px;">© 2026 MDVH18 - Dịch Thuật</footer></div>
+<script src="{{ site.baseurl }}/pitumdgame.js"></script>
+<script src="{{ site.baseurl }}/main.js"></script>      
 <script>
 function showLinks() {
     document.getElementById("real-links").style.display = "block"; document.getElementById("btn-show").style.display = "none";}
@@ -725,16 +727,25 @@ input.addEventListener('input', function() {
   console.log("Found:", filtered.length);
 
   filtered.slice(0, 10).forEach(post => {
-    const a = document.createElement('a');
-    a.href = post.url;
-    a.classList.add("search-item");
 
-a.innerHTML = `
-  <img src="${post.banner}" alt="">
-  <span>${post.title}</span>
-`;
-    results.appendChild(a);
-  });
+  const a = document.createElement('a');
+  a.href = post.url;
+  a.classList.add("search-item");
+
+  // tìm trong PITU_DATABASE theo title
+  const game = PITU_DATABASE.find(item =>
+    item.name.toLowerCase() === post.title.toLowerCase()
+  );
+
+  const banner = game ? game.banner : "";
+
+  a.innerHTML = `
+    ${banner ? `<img src="${banner}" alt="">` : ""}
+    <span>${post.title}</span>
+  `;
+
+  results.appendChild(a);
+});
 
   results.style.display = filtered.length ? 'block' : 'none';
 });
@@ -885,7 +896,5 @@ a.innerHTML = `
 @media (max-width: 1100px) {
     .megumin-left {
         display: none;}}
-</style>   
-<script src="{{ site.baseurl }}/pitumdgame.js"></script>
-<script src="{{ site.baseurl }}/main.js"></script>  
+</style> 
 </html>
