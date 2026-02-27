@@ -673,52 +673,59 @@ window.onscroll = function() {
     var header = document.querySelector(".header-section"); if (window.pageYOffset > 50){header.classList.add("scrolled");}else {header.classList.remove("scrolled");}};
 </script>
 <script>
-let posts = [];
+document.addEventListener("DOMContentLoaded", function () {
 
-fetch('{{ "/search.json" | relative_url }}')
-  .then(res => res.json())
-  .then(data => {
-    posts = data;
-    console.log("Loaded posts:", posts.length);
-  })
-  .catch(err => console.error("Search JSON lỗi:", err));
-
-const toggle = document.getElementById('search-toggle');
-const box = document.getElementById('search-box');
-const input = document.getElementById('search-input');
-const results = document.getElementById('search-results');
-
-toggle.addEventListener('click', () => {
-  box.classList.toggle('active');
-  input.focus();
-});
-
-input.addEventListener('input', function() {
-  const query = this.value.toLowerCase().trim();
-  results.innerHTML = '';
-
-  if (!query) {
-    results.style.display = 'none';
+  if (typeof PITU_DATABASE === "undefined") {
+    console.error("PITU_DATABASE chưa load!");
     return;
   }
 
-  const filtered = posts.filter(post => {
-    if (!post.title) return false;
-    return post.title.toLowerCase().includes(query);
+  const input = document.getElementById("searchInput");
+  const results = document.getElementById("searchResults");
+
+  if (!input || !results) {
+    console.error("Thiếu searchInput hoặc searchResults");
+    return;
+  }
+
+  input.addEventListener("input", function () {
+
+    const keyword = this.value.trim().toLowerCase();
+    results.innerHTML = "";
+
+    if (!keyword) {
+      results.style.display = "none";
+      return;
+    }
+
+    const filtered = PITU_DATABASE.filter(item =>
+      item.name.toLowerCase().includes(keyword)
+    );
+
+    if (filtered.length === 0) {
+      results.innerHTML = "<div>Không tìm thấy</div>";
+      results.style.display = "block";
+      return;
+    }
+
+    filtered.forEach(item => {
+      const a = document.createElement("a");
+      a.href = "/mdvh18/" + item.id + "/";
+      a.className = "search-item";
+
+      a.innerHTML = `
+        <img src="${item.banner}" />
+        <span>${item.name}</span>
+      `;
+
+      results.appendChild(a);
+    });
+
+    results.style.display = "block";
   });
 
-  console.log("Found:", filtered.length);
-
-  filtered.slice(0, 10).forEach(post => {
-    const a = document.createElement('a');
-    a.href = post.url;
-    a.textContent = post.title;
-    results.appendChild(a);
-  });
-
-  results.style.display = filtered.length ? 'block' : 'none';
 });
-</script>    
+</script>   
 </body>
 <style>
     .footer-section {
