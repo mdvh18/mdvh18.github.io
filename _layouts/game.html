@@ -162,19 +162,44 @@ body {padding-top: 100px !important; }
     transform: translateY(-50%);
 }
 
+/* 1. Khung chứa Icon - Căn giữa tuyệt đối */
 .search-icon {
+    font-family: 'Bungee', sans-serif; /* Giữ font đồng bộ */
+    cursor: pointer;
+    font-size: 26px; /* Chỉnh kích thước icon vừa tầm */
+    color: #fff;
+    width: 40px;
+    height: 40px;
     display: flex !important;
     align-items: center !important;
     justify-content: center !important;
-    width: 40px;
-    height: 40px;
-    background: transparent !important; /* Xóa nền cũ nếu có */
-    border: none !important;
-}       
+    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275); /* Hiệu ứng nảy nhẹ */
+    position: relative;
+    user-select: none; /* Không cho bôi đen icon */
+}
+
+/* 2. Diệt sạch "Bóng ma" icon cũ từ Template */
+.search-icon::before, 
+.search-icon::after,
+#search-toggle::before, 
+#search-toggle::after {
+    content: none !important;
+    display: none !important;
+    opacity: 0 !important;
+}
+
+/* 3. Hiệu ứng Hover - Đổi màu và Phát sáng */
 .search-icon:hover {
-    color: #ff4757;
-    text-shadow: 2px 2px 0px #fff, 4px 4px 15px rgba(255, 71, 87, 0.6);
-    transform: translateY(-2px);
+    color: #ff4757 !important; /* Đổi sang màu đỏ/hồng */
+    transform: scale(1.2) translateY(-2px); /* Phóng to và nhấc nhẹ lên */
+    /* Hiệu ứng đổ bóng Neon */
+    text-shadow: 0 0 8px rgba(255, 71, 87, 0.8), 
+                 0 0 15px rgba(255, 71, 87, 0.4);
+}
+
+/* 4. Đảm bảo thẻ i hoặc span cũ không chen ngang */
+.search-icon i, .search-icon span {
+    display: none !important;
 }
 .search-box {
     position: absolute;
