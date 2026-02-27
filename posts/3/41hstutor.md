@@ -1,0 +1,19 @@
+---
+layout: game
+pitu_id: "41hstutor"
+title: "[Việt Hóa] HS Tutor - MDVH18"
+namebanner: "[Việt Hóa] HS Tutor 0.20.2 - [7.14GB]"
+mota: |
+ Người chơi sẽ vào vai Robert, một chàng trai vừa thi trượt đại học và đang kiếm thêm thu nhập bằng cách làm gia sư cho các cô gái. Hãy khám phá thành phố vào những thời điểm và ngày khác nhau để tìm kiếm những điều mới mẻ để thực hiện!
+
+gametype: "Visual Novel"
+language: "Tiếng Việt"
+mdvh18: "MDVH18"
+platform: "PC"
+dungluong: "7.14GB"
+phienban: "0.20.2"
+dev: "TK800"
+genre: "3DCG, Parody, Animated, Groping, Hand, Mastur, Milf, Toys, Teasing, Prostitution, Spanking, Harem, Interracial, Stripping, School setting"
+
+linkpixel: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1NEVERWU1hM"
+---
