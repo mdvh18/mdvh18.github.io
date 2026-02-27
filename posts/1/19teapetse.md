@@ -1,5 +1,6 @@
 ---
 layout: game
+pitu_id: "19teapetse"
 title: "[Việt Hóa] Teachers Pet SE - MDVH18"
 namebanner: "[Việt Hóa] Teachers Pet SE - [247MB]"
 mota: |
