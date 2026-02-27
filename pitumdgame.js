@@ -86,7 +86,7 @@ const PITU_DATABASE = [
                "https://blogger.googleusercontent.com/img/a/AVvXsEjbBqi4ZIUPrSZQS9DA7BUYCm8fMGzPjBgWOm8k3MWlGnnHQ6-rb0UzYL4R1EApaUvdpRYdKBckVzvvUWw8UGctvLngW1wql2UsL0JlzsSjPvEpwNkbxMSWDc4_xICIHYUfr-xdMsVNi5pLdw8jS6LY4zRF1XXy0GOIpGldPhR_FrdbXTdaWHlznF2SjFA",
                "https://blogger.googleusercontent.com/img/a/AVvXsEiphgd0LasbyelwAQgnJLesmsHkofroFWZCGknP8GAW17Myr1OrvInkeX9jmHWe8JBWxoLe96jsZwaHFRhD4grwOolcnSihRTFPVkWQDJeILIi6-fI3pVFKyHklG0XGeLVSf37jaPQO-oYLTbKbqyp82N48LW-sswmNb2yl1v5VL4Ly173lsdyi2ewObuI"]},
     {id: "24mlructld",
-    name: "Moka Love ReLive♪ ~Up-Close True-Love Distance~ v2.0",
+    name: "Moka Love ReLive Up-Close True-Love Distance v2.0",
     banner: "https://blogger.googleusercontent.com/img/a/AVvXsEhZmmCt64bXdflIIv2PNmcSKihuYmpbMB3XtIAAU0dWSZEXrKhD4EmKYcGs24VOzWJ5caVNp064i-ObG5EX1mdbpw413z1sOzetYKzOvcJwdtEqJZVrmS-bHmE3CZdqE8m4rIrRzgtwo09rzz31T6ATZvwHYiFLUynbMSGhB3RFFmPSchIeVqp9hHXppa4=s16000",
     previews: ["https://blogger.googleusercontent.com/img/a/AVvXsEg9nxEdSfaL0pi94sqSOOWFYV3QjPJAbBW3lc6EVXSV0RXYRHetMPvRtTDIhCUtcJzyoJ9tftuDpkldxnRpIMtJ8dtH0qBqEBpMx1E36UvT6Er4y1Xp0YTzX8BcEVutU6fUWIIvKPfmmGMyxcAqXGBIB3eaD1OGodHgS2dCu2p3ZuSeK4buUV7K-QQE294=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEjeNX8U-Kr_yI0tEE3kgWB2RUK84Wp6Be870blJPEZ00xDZHnfzeo11C6yf_bSNvsI8y2sZhGJ_8UJYqs1R6-8KgWgC-RQYrsEZ2oKNMNMcmdenf8k_pGXNjDV0toQrUCm4Q3NsV6HW3dAs_M_EO_UsovpxxwcmYvErmgQViQ3TILQlx2efsrwOsfb0xzU=s16000",
