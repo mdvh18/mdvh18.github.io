@@ -163,9 +163,18 @@ body {padding-top: 100px !important; }
 }
 
 .search-icon {
-    cursor: pointer;
-    font-size: 20px;
-    color: #fff;
+    content: "";
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    background: url('https://uxwing.com/wp-content/themes/uxwing/download/user-interface/search-icon.png') no-repeat center;
+    background-size: contain;
+}
+
+.search-icon:hover {
+    color: #ff4fa3; /* Đổi sang màu hồng/tím khi hover */
+    transform: scale(1.2) rotate(10deg); /* Phóng to và xoay nhẹ */
+    text-shadow: 0 0 20px rgba(255, 79, 163, 0.8);
 }
 
 .search-box {
