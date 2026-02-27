@@ -1,5 +1,6 @@
 ---
 layout: game
+pitu_id: "22mylopetse"
 title: "[Việt Hóa] My Loyal Pets SE - MDVH18"
 namebanner: "[Việt Hóa] My Loyal Pets SE - [882MB]"
 mota: |
