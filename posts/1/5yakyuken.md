@@ -1,5 +1,6 @@
 ---
 layout: game
+pitu_id: "5yakyuken"
 title: "[Việt Hóa] Yakyuken V0.3.7 - MDVH18"
 namebanner: "[Việt Hóa] Yakyuken V0.3.7 - [2.47GB]"
 mota: |
