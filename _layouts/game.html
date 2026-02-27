@@ -740,7 +740,7 @@ input.addEventListener('input', function() {
     .trim()
     .toLowerCase();
 
-  return cleanTitle.includes(item.name.toLowerCase());
+  return item.name.toLowerCase().includes(cleanTitle);
 });
 
   const banner = game ? game.banner : "";
