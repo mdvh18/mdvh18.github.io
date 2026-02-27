@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>{{ page.title }}</title>
     <link rel="icon" type="image/png" href="https://blogger.googleusercontent.com/img/a/AVvXsEgwvx69wmc1Toc5J6nbK75cqCVKVH20kh7Smzd-9htx9UulnhAIaailkHZ0pcP5fL8-o4CmBr6AUWBC8GvRuRaJBeKQOk291W2WaZ1I1h1yH1icqGjuQaoCMlhgSuENa5q3MLhie9OtGWnjY4dijUy5XXqzL8_gdzf38zdKsZCqyxEy2fA9K4_PIHL6njU=w800">
-    <style>    
+    <style>
     body {
     margin: 0;
     font-family: Bungee, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
@@ -162,10 +162,15 @@ body {padding-top: 100px !important; }
     transform: translateY(-50%);
 }
 
-.search-icon {
-    cursor: pointer;
-    font-size: 20px;
-    color: #fff;
+.custom-cursor {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: #d4487f;
+  position: fixed;
+  pointer-events: none;
+  transform: translate(-50%, -50%);
+  z-index: 9999;
 }
 
 .search-box {
@@ -180,32 +185,63 @@ body {padding-top: 100px !important; }
 }
 
 .search-box input {
-    padding: 6px 12px;
-    border-radius: 20px;
-    border: none;
+    padding: 8px 16px;
+    border-radius: 30px;
+    border: 1px solid rgba(255,255,255,0.15);
     outline: none;
-    width: 200px;
+    width: 220px;
+    background: rgba(255,255,255,0.08);
+    color: #fff;
+    backdrop-filter: blur(10px);
+    transition: all 0.3s ease;
+}
+
+.search-box input::placeholder {
+    color: rgba(255,255,255,0.6);
+}
+
+.search-box input:focus {
+    border-color: #d4487f;
+    box-shadow: 0 0 12px rgba(212,72,127,0.5);
 }
 
 .search-results {
-    background: #1a1131;
-    margin-top: 8px;
-    border-radius: 10px;
-    max-height: 250px;
+    background: rgba(26,17,49,0.95);
+    backdrop-filter: blur(15px);
+    border: 1px solid rgba(255,255,255,0.08);
+    margin-top: 10px;
+    border-radius: 16px;
+    max-height: 320px;
     overflow-y: auto;
-    padding: 8px;
+    padding: 10px 14px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    animation: fadeIn 0.2s ease;
 }
 
 .search-results a {
     display: block;
-    padding: 6px 0;
-    color: #fff;
-    text-decoration: none;
+    padding: 8px 6px;
+    border-radius: 8px;
+    font-size: 14px;
+    transition: all 0.2s ease;
 }
 
 .search-results a:hover {
-    color: #d4487f;
-}       
+    background: rgba(212,72,127,0.15);
+    color: #ff7eb3;
+}
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-5px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+.search-results::-webkit-scrollbar {
+    width: 6px;
+}
+
+.search-results::-webkit-scrollbar-thumb {
+    background: #d4487f;
+    border-radius: 10px;
+}        
 </style>   
 <header class="header-section">
     <div class="menu-trigger">
@@ -262,6 +298,16 @@ body {padding-top: 100px !important; }
     </div>
 </div>   
     </div>
+<script>
+const cursor = document.createElement('div');
+cursor.classList.add('custom-cursor');
+document.body.appendChild(cursor);
+
+document.addEventListener('mousemove', e => {
+  cursor.style.left = e.clientX + 'px';
+  cursor.style.top = e.clientY + 'px';
+});
+</script>    
 </header>
 <script>
     function toggleMenu() {document.getElementById('side-menu').classList.toggle('active'); const overlay = document.getElementById('overlay'); if (overlay.style.display === 'block') {overlay.style.display = 'none';} else {overlay.style.display = 'block';}}
