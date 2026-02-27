@@ -151,6 +151,51 @@ body {padding-top: 100px !important; }
 .header-section.scrolled .brand-logo { width: 45px !important; height: 45px !important; }
 .header-section.scrolled .brand-name { font-size: 18px !important; }
 .header-section.scrolled { padding: 5px 0 0 0 !important; }
+ .sub-nav-wrapper {
+    position: relative;
+}
+
+.nav-search {
+    position: absolute;
+    right: 40px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.nav-search input {
+    padding: 6px 12px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    font-size: 14px;
+    width: 180px;
+}
+
+.search-results {
+    position: absolute;
+    top: 40px;
+    right: 0;
+    background: #1a1131;
+    width: 250px;
+    max-height: 300px;
+    overflow-y: auto;
+    border-radius: 10px;
+    display: none;
+    padding: 10px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.4);
+}
+
+.search-results a {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    padding: 6px 0;
+    font-size: 14px;
+}
+
+.search-results a:hover {
+    color: #d4487f;
+}       
 </style>   
 <header class="header-section">
     <div class="menu-trigger">
@@ -198,6 +243,10 @@ body {padding-top: 100px !important; }
             <li><a href="https://mdvh18.blogspot.com/search/label/All">All Game</a></li>
             <li><a href="https://www.facebook.com/profile.php?id=61575869116469">Fanpage</a></li>
         </ul>
+    <div class="nav-search">
+    <input type="text" id="search-input" placeholder="Tìm game...">
+    <div id="search-results" class="search-results"></div>
+</div>    
     </div>
 </header>
 <script>
@@ -432,6 +481,10 @@ body {padding-top: 100px !important; }
     margin-bottom: 0 !important;}
 .header-section.scrolled .sub-nav-list {
     gap: 30px !important;}
+ .header-section.scrolled .nav-search input {
+    width: 140px;
+    font-size: 12px;
+}   
 </style>
 <style>
  .mini-search {
@@ -571,6 +624,39 @@ function showLinks() {
 window.onscroll = function() {
     var header = document.querySelector(".header-section"); if (window.pageYOffset > 50){header.classList.add("scrolled");}else {header.classList.remove("scrolled");}};
 </script>
+<script>
+let posts = [];
+
+fetch('{{ "/search.json" | relative_url }}')
+  .then(res => res.json())
+  .then(data => posts = data);
+
+const input = document.getElementById('search-input');
+const results = document.getElementById('search-results');
+
+input.addEventListener('input', function() {
+  const query = this.value.toLowerCase();
+  results.innerHTML = '';
+
+  if (query.length < 1) {
+    results.style.display = 'none';
+    return;
+  }
+
+  const filtered = posts.filter(post =>
+    post.title.toLowerCase().includes(query)
+  );
+
+  filtered.slice(0,10).forEach(post => {
+    const a = document.createElement('a');
+    a.href = post.url;
+    a.textContent = post.title;
+    results.appendChild(a);
+  });
+
+  results.style.display = 'block';
+});
+</script>    
 </body>
 <style>
     .footer-section {
