@@ -163,8 +163,14 @@ body {padding-top: 100px !important; }
 }
 
 .search-icon {
-    cursor: pointer;
-}        
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 40px;
+    height: 40px;
+    background: transparent !important; /* Xóa nền cũ nếu có */
+    border: none !important;
+}       
 .search-icon:hover {
     color: #ff4757;
     text-shadow: 2px 2px 0px #fff, 4px 4px 15px rgba(255, 71, 87, 0.6);
