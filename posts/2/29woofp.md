@@ -1,5 +1,6 @@
 ---
 layout: game
+pitu_id: "29woofp"
 title: "[ENG] World of Pleasure v0.3  - APK/PC - MDVH18"
 namebanner: "[ENG] World of Pleasure v0.3  - APK/PC - [662MB]"
 mota: |
