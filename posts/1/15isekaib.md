@@ -1,5 +1,6 @@
 ---
 layout: game
+pitu_id: "15isekaib"
 title: "[Việt Hóa] Isekai Brothel v0.77 - MDVH18"
 namebanner: "[Việt Hóa] Isekai Brothel v0.77 - [2.56GB]"
 mota: |
