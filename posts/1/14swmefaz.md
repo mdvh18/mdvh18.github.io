@@ -1,5 +1,6 @@
 ---
 layout: game
+pitu_id: "14swmefaz"
 title: "[Việt Hóa] Stuck with my Exs Family and Zombies 1.3 DLC - MDVH18"
 namebanner: "[Việt Hóa] Stuck with my Exs Family and Zombies 1.3 DLC - [606MB]"
 mota: |
