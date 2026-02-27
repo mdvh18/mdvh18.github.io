@@ -6,7 +6,7 @@ layout: null
 {% for page in site.pages %}
   {
     "title": "{{ page.title }}",
-    "url": "{{ page.url }}"
+    "url": {{ page.url | relative_url | jsonify }}"
   }
 {% endfor %}
 ]
