@@ -1,5 +1,6 @@
 ---
 layout: game
+pitu_id: "23senses"
 title: "[ENG] senescence v1.0 - APK/PC - MDVH18"
 namebanner: "[ENG] senescence v1.0 - APK/PC - [139MB]"
 mota: |
