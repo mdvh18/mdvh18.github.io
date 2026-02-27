@@ -151,6 +151,99 @@ body {padding-top: 100px !important; }
 .header-section.scrolled .brand-logo { width: 45px !important; height: 45px !important; }
 .header-section.scrolled .brand-name { font-size: 18px !important; }
 .header-section.scrolled { padding: 5px 0 0 0 !important; }
+.sub-nav-wrapper {
+    position: relative;
+}
+
+.nav-search {
+    position: absolute;
+    right: 40px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.search-icon {
+    cursor: pointer;
+    font-size: 20px;
+    color: #fff;
+}
+
+.search-box {
+    position: absolute;
+    right: 0;
+    top: 40px;
+    display: none;
+}
+
+.search-box.active {
+    display: block;
+}
+
+.search-box input {
+    padding: 6px 12px;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    width: 200px;
+}
+
+.search-results {
+    background: rgba(26,17,49,0.95);
+    backdrop-filter: blur(15px);
+    border: 1px solid rgba(255,255,255,0.08);
+    margin-top: 10px;
+    border-radius: 16px;
+    max-height: 320px;
+    overflow-y: auto;
+    padding: 10px 14px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    animation: fadeIn 0.2s ease;
+}
+
+.search-results a {
+    display: block;
+    padding: 8px 6px;
+    border-radius: 8px;
+    font-size: 14px;
+    transition: all 0.2s ease;
+}
+
+.search-results a:hover {
+    background: rgba(212,72,127,0.15);
+    color: #ff7eb3;
+}
+.search-box input {
+    padding: 8px 16px;
+    border-radius: 30px;
+    border: 1px solid rgba(255,255,255,0.15);
+    outline: none;
+    width: 220px;
+    background: rgba(255,255,255,0.08);
+    color: #fff;
+    backdrop-filter: blur(10px);
+    transition: all 0.3s ease;
+}
+
+.search-box input::placeholder {
+    color: rgba(255,255,255,0.6);
+}
+
+.search-box input:focus {
+    border-color: #d4487f;
+    box-shadow: 0 0 12px rgba(212,72,127,0.5);
+}
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-5px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+.search-results::-webkit-scrollbar {
+    width: 6px;
+}
+
+.search-results::-webkit-scrollbar-thumb {
+    background: #d4487f;
+    border-radius: 10px;
+}        
 </style>   
 <header class="header-section">
     <div class="menu-trigger">
@@ -198,6 +291,14 @@ body {padding-top: 100px !important; }
             <li><a href="https://mdvh18.blogspot.com/search/label/All">All Game</a></li>
             <li><a href="https://www.facebook.com/profile.php?id=61575869116469">Fanpage</a></li>
         </ul>
+    <div class="nav-search">
+    <div class="search-icon" id="search-toggle">🔍</div>
+
+    <div class="search-box" id="search-box">
+        <input type="text" id="search-input" placeholder="Tìm game...">
+        <div id="search-results" class="search-results"></div>
+    </div>
+</div>    
     </div>
 </header>
 <script>
@@ -571,6 +672,53 @@ function showLinks() {
 window.onscroll = function() {
     var header = document.querySelector(".header-section"); if (window.pageYOffset > 50){header.classList.add("scrolled");}else {header.classList.remove("scrolled");}};
 </script>
+<script>
+let posts = [];
+
+fetch('{{ "/search.json" | relative_url }}')
+  .then(res => res.json())
+  .then(data => {
+    posts = data;
+    console.log("Loaded posts:", posts.length);
+  })
+  .catch(err => console.error("Search JSON lỗi:", err));
+
+const toggle = document.getElementById('search-toggle');
+const box = document.getElementById('search-box');
+const input = document.getElementById('search-input');
+const results = document.getElementById('search-results');
+
+toggle.addEventListener('click', () => {
+  box.classList.toggle('active');
+  input.focus();
+});
+
+input.addEventListener('input', function() {
+  const query = this.value.toLowerCase().trim();
+  results.innerHTML = '';
+
+  if (!query) {
+    results.style.display = 'none';
+    return;
+  }
+
+  const filtered = posts.filter(post => {
+    if (!post.title) return false;
+    return post.title.toLowerCase().includes(query);
+  });
+
+  console.log("Found:", filtered.length);
+
+  filtered.slice(0, 10).forEach(post => {
+    const a = document.createElement('a');
+    a.href = post.url;
+    a.textContent = post.title;
+    results.appendChild(a);
+  });
+
+  results.style.display = filtered.length ? 'block' : 'none';
+});
+</script>    
 </body>
 <style>
     .footer-section {
