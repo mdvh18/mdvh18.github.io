@@ -1,5 +1,6 @@
 ---
 layout: game
+pitu_id: "37freshman"
 title: "[ENG]  FRESHMAN Final - MDVH18"
 namebanner: "[ENG]  FRESHMAN Final - [928MB]"
 mota: |
