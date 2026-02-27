@@ -1,5 +1,6 @@
 ---
 layout: game
+pitu_id: "6tmon"
 title: "[Việt Hóa] The mystery of NTR 0.9 - MDVH18"
 namebanner: "[Việt Hóa] The mystery of NTR 0.9 - [1.16GB]"
 mota: |
