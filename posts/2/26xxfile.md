@@ -1,5 +1,6 @@
 ---
 layout: game
+pitu_id: "26xxfile"
 title: "[ENG] xxxFiles v0.1.5 - APKPC - MDVH18"
 namebanner: "[ENG] xxxFiles v0.1.5 - APKPC - [3.9GB]"
 mota: |
