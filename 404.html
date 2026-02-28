@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Đang chuyển hướng...</title>
+    <script>
+        // Nội soi và sửa link trực tiếp từ thanh địa chỉ
+        (function() {
+            var currentUrl = window.location.href;
+            if (currentUrl.includes('/mdvh18/')) {
+                // Gọt bỏ đoạn /mdvh18/ thừa
+                var newUrl = currentUrl.replace('/mdvh18/', '/');
+                // Chuyển hướng sang link sạch ngay lập tức
+                window.location.replace(newUrl);
+            }
+        })();
+    </script>
+</head>
+<body>
+    <p>Đang xử lý liên kết, vui lòng chờ...</p>
+</body>
+</html>
