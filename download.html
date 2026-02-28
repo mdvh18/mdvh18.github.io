@@ -5,16 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Đang Chuyển Hướng An Toàn... | MDVH18</title>
     <style>
-        body { background: #0f0c29; color: white; font-family: 'Segoe UI', sans-serif; display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0; }
-        .box { text-align: center; background: rgba(255, 255, 255, 0.05); padding: 40px; border-radius: 20px; backdrop-filter: blur(15px); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 0 30px rgba(215, 155, 187, 0.2); max-width: 400px; }
+        body { background: #0f0c29; color: white; font-family: 'Segoe UI', sans-serif; display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0; overflow: hidden; }
+        .box { text-align: center; background: rgba(255, 255, 255, 0.05); padding: 40px; border-radius: 20px; backdrop-filter: blur(15px); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 0 30px rgba(215, 155, 187, 0.2); max-width: 400px; width: 90%; }
         .loader { border: 4px solid rgba(255,255,255,0.1); border-top: 4px solid #f78f90; border-radius: 50%; width: 50px; height: 50px; animation: spin 1s linear infinite; margin: 0 auto 20px; }
         @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
         #timer { font-size: 3em; color: #d79bbb; font-weight: bold; margin: 10px 0; }
-        .btn-manual { display: none; background: #f78f90; color: white; text-decoration: none; padding: 10px 20px; border-radius: 30px; font-weight: bold; margin-top: 20px; }
+        .btn-manual { display: none; background: #f78f90; color: white; text-decoration: none; padding: 12px 25px; border-radius: 30px; font-weight: bold; margin-top: 20px; transition: 0.3s; }
+        .btn-manual:hover { background: #fff; color: #f78f90; box-shadow: 0 0 15px #f78f90; }
+        
+        /* Toast thông báo Pixeldrain */
+        #pixeldrain-toast { position: fixed; bottom: 30px; right: 30px; background: #1a1131; color: #fff; padding: 20px; border: 2px solid #f78f90; border-radius: 15px; box-shadow: 0 15px 40px rgba(0,0,0,0.6); z-index: 10000; font-family: "Segoe UI", sans-serif; max-width: 320px; animation: slideIn 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275); }
+        @keyframes slideIn { from { transform: translateX(120%); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
     </style>
 </head>
 <body>
-    <div class="box">
+    <div class="box" id="main-box">
         <div class="loader"></div>
         <h3>HỆ THỐNG ĐANG KIỂM TRA</h3>
         <p>Vui lòng chờ trong giây lát để lấy liên kết tải game an toàn.</p>
@@ -23,100 +28,73 @@
     </div>
 
     <script>
-        // Hàm giải mã link
-        function getLink() {
+        (function() {
             const urlParams = new URLSearchParams(window.location.search);
             const encoded = urlParams.get('url');
+            const timerEl = document.getElementById('timer');
+            const manualBtn = document.getElementById('manual-link');
+            const boxEl = document.getElementById('main-box');
+            
+            let targetUrl = "";
+
             if (encoded) {
                 try {
-                    return atob(encoded); // Giải mã Base64
+                    // 1. Giải mã Base64
+                    targetUrl = atob(encoded);
+
+                    // 2. XỬ LÝ FIX LINK CŨ: Nếu link chứa /mdvh18/ thì xóa nó đi
+                    // Ví dụ: https://mdvh18.github.io/mdvh18/game.html -> https://mdvh18.github.io/game.html
+                    if (targetUrl.includes('mdvh18.github.io/mdvh18/')) {
+                        targetUrl = targetUrl.replace('mdvh18.github.io/mdvh18/', 'mdvh18.github.io/');
+                        console.log("Đã fix link cũ cho bro!");
+                    }
+
+                    // 3. Kiểm tra Pixeldrain để hiện Toast
+                    if (targetUrl.includes('pixeldrain.com')) {
+                        showPixeldrainFAQ();
+                    }
+
+                    // 4. Chạy đếm ngược
+                    let timeLeft = 4;
+                    const countdown = setInterval(() => {
+                        timeLeft--;
+                        timerEl.innerText = timeLeft;
+                        if (timeLeft <= 0) {
+                            clearInterval(countdown);
+                            window.location.href = targetUrl;
+                            manualBtn.style.display = 'inline-block';
+                            manualBtn.href = targetUrl;
+                        }
+                    }, 1000);
+
                 } catch (e) {
-                    return null;
+                    boxEl.innerHTML = "<h3>LỖI GIẢI MÃ</h3><p>Dữ liệu link không đúng định dạng.</p>";
                 }
+            } else {
+                boxEl.innerHTML = "<h3>LỖI ĐƯỜNG DẪN</h3><p>Không tìm thấy liên kết yêu cầu.</p>";
             }
-            return null;
-        }
 
-        const targetUrl = getLink();
-        let timeLeft = 4;
-        const timerEl = document.getElementById('timer');
-        const manualBtn = document.getElementById('manual-link');
-
-        if (targetUrl) {
-            const countdown = setInterval(() => {
-                timeLeft--;
-                timerEl.innerText = timeLeft;
-                if (timeLeft <= 0) {
-                    clearInterval(countdown);
-                    window.location.href = targetUrl; // Tự động chuyển hướng
-                    manualBtn.style.display = 'inline-block';
-                    manualBtn.href = targetUrl;
-                }
-            }, 1000);
-        } else {
-            document.querySelector('.box').innerHTML = "<h3>LỖI ĐƯỜNG DẪN</h3><p>Link không hợp lệ hoặc đã hết hạn.</p>";
-        }
+            function showPixeldrainFAQ() {
+                const toast = document.createElement('div');
+                toast.id = 'pixeldrain-toast';
+                toast.innerHTML = `
+                    <div style="display:flex; align-items:center; margin-bottom:12px;">
+                        <span style="font-size:24px; margin-right:10px;">🚀</span>
+                        <strong style="color:#f78f90; font-size:16px;">Phát hiện Pixeldrain!</strong>
+                    </div>
+                    <p style="font-size:14px; line-height:1.5; margin-bottom:15px; color:#e0e0e0;">Link này có giới hạn 6GB/ngày. Bro nhớ xem FAQ để biết mẹo tải không giới hạn nhé!</p>
+                    <div style="text-align:right;">
+                        <a href="https://mdvh18.blogspot.com/p/faq.html" target="_blank" style="background:#f78f90; color:#1a1131; padding:8px 15px; border-radius:20px; text-decoration:none; font-weight:bold; font-size:13px; display:inline-block;">XEM FAQ NGAY</a>
+                    </div>`;
+                document.body.appendChild(toast);
+                
+                setTimeout(() => {
+                    toast.style.transform = 'translateX(120%)';
+                    toast.style.transition = '0.8s ease-in';
+                    setTimeout(() => toast.remove(), 800);
+                }, 10000);
+            }
+        })();
     </script>
-    <script>
-  document.addEventListener('DOMContentLoaded', function() {
-    // 1. Lấy URL hiện tại của trang download
-    const currentUrl = window.location.href;
-    let targetUrl = "";
-
-    try {
-      // 2. Kiểm tra nếu trang đang chứa tham số ?url=
-      if (currentUrl.includes('?url=')) {
-        const base64String = currentUrl.split('?url=')[1].split('&')[0]; // Lấy chuẩn đoạn Base64
-        targetUrl = atob(base64String); // Giải mã
-      }
-
-      // 3. Nếu "soi" ra đúng là link Pixeldrain thì hiện thông báo ngay lập tức
-      if (targetUrl.includes('pixeldrain.com')) {
-        setTimeout(showPixeldrainFAQ, 1000); // Hiện sau 1s cho nó chuyên nghiệp
-      }
-    } catch (err) {
-      console.log("Không soi được link rồi bro!");
-    }
-  });
-
-  function showPixeldrainFAQ() {
-    if (document.getElementById('pixeldrain-toast')) return;
-    
-    var toast = document.createElement('div');
-    toast.id = 'pixeldrain-toast';
-    toast.style = 'position:fixed; bottom:30px; right:30px; background:#1a1131; color:#fff; padding:20px; border:2px solid #f78f90; border-radius:15px; box-shadow:0 15px 40px rgba(0,0,0,0.6); z-index:100000; font-family:"Segoe UI",sans-serif; max-width:320px; animation: slideIn 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);';
-    
-    toast.innerHTML = 
-      '<div style="display:flex; align-items:center; margin-bottom:12px;">' +
-        '<span style="font-size:24px; margin-right:10px;">🚀</span>' +
-        '<strong style="color:#f78f90; font-size:16px;">Phát hiện Pixeldrain!</strong>' +
-      '</div>' +
-      '<p style="font-size:14px; line-height:1.5; margin-bottom:15px; color:#e0e0e0;">Link này có giới hạn 6GB/ngày. Bro nhớ xem FAQ để biết mẹo tải không giới hạn nhé!</p>' +
-      '<div style="text-align:right;">' +
-        '<a href="https://mdvh18.blogspot.com/p/faq.html" target="_blank" style="background:#f78f90; color:#1a1131; padding:8px 15px; border-radius:20px; text-decoration:none; font-weight:bold; font-size:13px; transition:0.3s; display:inline-block;">XEM FAQ NGAY</a>' +
-      '</div>';
-
-    document.body.appendChild(toast);
-    
-    // Tự biến mất sau 10 giây (cho người dùng dư dả thời gian bấm)
-    setTimeout(function() {
-      toast.style.transform = 'translateX(120%)';
-      toast.style.transition = '0.8s ease-in';
-      setTimeout(function() { toast.remove(); }, 800);
-    }, 10000);
-  }
-</script>
-
-<style>
-  @keyframes slideIn {
-    from { transform: translateX(120%); opacity: 0; }
-    to { transform: translateX(0); opacity: 1; }
-  }
-  #pixeldrain-toast a:hover {
-    background: #fff !important;
-    box-shadow: 0 0 10px #f78f90;
-    transform: translateY(-2px);
-  }
-</style>
 </body>
 </html>
