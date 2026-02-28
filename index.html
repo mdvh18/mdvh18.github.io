@@ -95,5 +95,18 @@
         ☕ Ủng hộ tôi (Donate)
     </a>
 </div>
+    <script>
+  // Máy lọc link tổng lực cho MDVH18
+  (function() {
+    var currentUrl = window.location.href;
+    
+    // Nếu thấy trong link có chứa /mdvh18/ ở phần đường dẫn
+    if (currentUrl.includes('/mdvh18/')) {
+      // Gọt bỏ nó đi và chuyển hướng sang link đúng ngay lập tức
+      var newUrl = currentUrl.replace('/mdvh18/', '/');
+      window.location.replace(newUrl);
+    }
+  })();
+</script>
 </body>
 </html>
