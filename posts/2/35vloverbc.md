@@ -16,7 +16,7 @@ phienban: "V1.0.9"
 dev: "Hentopia"
 genre: "2DCG, Animated,  Cosplay, Dating sim, Footjob, Groping, Management, Milf"
 
-linkgofile: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC8wd3B4cGc="
+linkgofile: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9jOTY1ZWM2ZS02MTRiLTQ4ODUtOGIyNS05NGIzMjUxY2UxOWM="
 linkpixel: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3g3S29LNXVT"
-linktera: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZThiRnNBVDVOUXRzVnlsRnhfVUkzZw=="
+linktera: "https://mdvh18.github.io/mdvh18/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xb08xMlVxa0JncE40dHVLaTN4TnpzZw=="
 ---
