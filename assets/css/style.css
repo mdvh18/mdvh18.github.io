@@ -503,6 +503,10 @@ a, button, .image-grid img, .hentry {cursor: url('https://blogger.googleusercont
 .game-card:hover .card-thumb::after {
     opacity: 1;
 }
+.game-card a {
+    text-decoration: none !important; /* Mất vạch kẻ xanh/tím dưới chữ */
+    outline: none;
+}
 .download-icon {
     position: absolute;
     top: 50%;
@@ -538,13 +542,15 @@ a, button, .image-grid img, .hentry {cursor: url('https://blogger.googleusercont
 /* Thông tin game */
 .card-info {
     padding: 12px;
-    background: #d4487f !important; /* Đổi từ tím sang hồng toàn phần */
+    background: #d4487f !important; /* Hồng chiếm toàn bộ */
     text-align: center;
-    border-top: none; /* Xóa vạch chia nếu muốn nó liền khối với ảnh */
+    border: none !important; /* Khử vạch kẻ trắng/đen ở viền */
+    margin-top: -1px; /* Mẹo để phần hồng khít sát vào ảnh, không hở khe tím */
 }
 
 .card-info h3 {
     font-size: 13px;
+    text-decoration: none !important; /* Khử nốt nếu h3 nằm trong thẻ a */
     color: #fff !important; /* Giữ chữ màu trắng cho nổi trên nền hồng */
     margin: 0;
     font-weight: bold; /* Cho chữ đậm lên cho xịn */
