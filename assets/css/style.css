@@ -330,7 +330,7 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
     overflow: hidden;
     border-radius: 20px;
     position: relative;
-    margin-bottom: 100px !important;
+    margin-bottom: 80px !important;
     z-index: 1; 
     cursor: pointer !important;}
 
