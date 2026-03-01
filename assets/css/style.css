@@ -479,6 +479,7 @@ a, button, .image-grid img, .hentry {cursor: url('https://blogger.googleusercont
     aspect-ratio: 16 / 9; /* Tỉ lệ vàng cho ảnh game */
     position: relative;
     overflow: hidden;
+    border-radius: 14px 14px 5px 5px;
     background: #12091d; /* Nền tối khi chưa có ảnh */
 }
 .card-thumb img {
