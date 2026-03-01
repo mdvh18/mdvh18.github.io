@@ -383,6 +383,11 @@ button,
 .game-card *, /* Ép mọi thứ bên trong card như Badge, Title */
 .hero-slider,
 .hero-slider *, /* Ép Slider và ảnh trong Slider */
+.slick-list, 
+.slick-track, 
+.swiper-wrapper,
+.swiper-container,
+.slider-container {   
 .search-item,
 .search-item *,
 .top-btn,
