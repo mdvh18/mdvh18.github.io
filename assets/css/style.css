@@ -508,13 +508,14 @@ a, button, .image-grid img, .hentry {cursor: url('https://blogger.googleusercont
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%) scale(0.5);
-    font-size: 50px; /* Có thể tăng size cho hầm hố */
-    color: #d4487f !important; /* Đổi từ trắng sang hồng full */
+    /* Dùng mã màu hồng của bro */
+    color: #d4487f !important; 
+    font-size: 60px; /* Cho to hẳn lên */
     opacity: 0;
+    z-index: 10;
     transition: 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-    z-index: 2;
-    /* Thêm đổ bóng trắng để icon hồng nổi bật trên nền ảnh tối */
-    filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5)); 
+    /* Mẹo: Đổ bóng cùng màu hồng để tạo cảm giác dày và đặc hơn */
+    text-shadow: 0 0 2px #d4487f, 0 0 10px rgba(212, 72, 127, 0.5);
 }
 .game-card:hover .download-icon {
     opacity: 1;
