@@ -52,3 +52,24 @@ document.addEventListener("DOMContentLoaded", function () {
 
     setInterval(nextSlide, 5000); // Tự động chạy mỗi 5s
 });
+document.addEventListener("DOMContentLoaded", function () {
+  // Hàm này sẽ tự gọi lại chính nó cho đến khi PITU_DATABASE xuất hiện
+  function syncSliderImages() {
+    if (typeof PITU_DATABASE === "undefined") {
+      console.log("Đang đợi Database từ assets/js...");
+      setTimeout(syncSliderImages, 100); 
+      return;
+    }
+
+    document.querySelectorAll(".slide-img").forEach(img => {
+      const id = img.dataset.pitu;
+      const game = PITU_DATABASE.find(item => item.id === id);
+      if (game && game.banner) {
+        img.src = game.banner;
+      }
+    });
+    console.log("Slider đã khớp ảnh xong!");
+  }
+
+  syncSliderImages();
+});
