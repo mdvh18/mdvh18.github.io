@@ -554,3 +554,42 @@ a, button, .image-grid img, .hentry {cursor: url('https://blogger.googleusercont
 @media (max-width: 1100px) {
     .megumin-left {
         display: none;}}
+#back-to-top {
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #fff;
+    text-transform: uppercase;
+    background: radial-gradient(circle, #241032, #4a1e4c, #752b62, #a43973, #d4487f);
+    box-shadow: 0 0 15px rgba(230,100,101,.6),
+                0 0 35px rgba(215,155,187,.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(30px) scale(1);
+    transition: all .4s cubic-bezier(.2,.8,.2,1);
+    z-index: 9999;}
+#back-to-top.show {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0) scale(1);
+    /* Lưu ý: animeFloat sẽ được kết hợp ở đây */
+    animation: animeFloat 2.5s ease-in-out infinite;}
+#back-to-top:hover {
+    transform: scale(1.15);
+    box-shadow: 0 0 25px #f78f90,
+                0 0 50px #D79BBB;}
+@keyframes animeFloat {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-8px); }}
