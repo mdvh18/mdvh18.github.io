@@ -21,6 +21,7 @@ html, body {
     width: 100%;
     overflow: hidden; /* Chặn đứng vạch đen tràn lề */
     background: transparent;
+    flex: 1;
 }
    .header-section {
     background: linear-gradient(to bottom, #12091d, #1b0e2a) !important;
@@ -635,13 +636,17 @@ a, button, .image-grid img, .hentry {cursor: url('https://blogger.googleusercont
 .prev { left: 15px; }
 .next { right: 15px; }
 .footer-section {
-        background-color: #1a1a1a;
-        padding: 40px 20px 20px 20px;
-        color: #ccc;
-        font-family: 'Segoe UI', Arial, sans-serif;
-        position: relative;
-        margin-bottom: 0 !important;
-        border-top: 1px solid rgba(255,255,255,0.05);}
+    background-color: #1a1a1a;
+    padding: 60px 20px 30px 20px; /* Tăng padding trên để thay cho margin */
+    color: #ccc;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    position: relative;
+    width: 100%;
+    /* XÓA margin-top: 50px; */
+    border-top: 2px solid #d4487f; /* Đổi vạch kẻ sang màu hồng của bro cho chất */
+    margin-bottom: 0 !important; /* Ép sát đáy tuyệt đối */
+}
+    
     .footer-container {
         max-width: 1100px;
         margin: 0 auto;
@@ -681,7 +686,7 @@ a, button, .image-grid img, .hentry {cursor: url('https://blogger.googleusercont
         font-size: 14px;}
     .help-links a:hover { color: #f78f90; }
     .top-btn {
-        position: absolute;
+        position: fixed;
         right: 40px;
         bottom: 150px;
         background: #f78f90;
