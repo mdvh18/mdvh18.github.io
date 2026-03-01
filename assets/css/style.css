@@ -469,3 +469,64 @@ a, button, .image-grid img, .hentry {cursor: url('https://blogger.googleusercont
     0%, 100% { transform: translateY(0); }
     50% { transform: translateY(-8px); }}
 <button id='back-to-top'>.&#10022; &#1857;&#726; Top</button>
+.hero-slider {
+  position: relative;
+  margin: 30px auto;
+  max-width: 1200px;
+  border-radius: 20px;
+  overflow: hidden;
+  background: #1b0f2e;
+}
+
+.hero-image img {
+  width: 100%;
+  display: block;
+}
+
+.hero-content {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 40px;
+  background: linear-gradient(to top, rgba(90,0,120,0.95), rgba(90,0,120,0.6), transparent);
+  color: #fff;
+}
+
+.hero-content h1 {
+  font-size: 32px;
+  margin-bottom: 15px;
+}
+
+.hero-content p {
+  max-width: 800px;
+  margin-bottom: 20px;
+  opacity: 0.9;
+}
+
+.hero-buttons {
+  display: flex;
+  gap: 15px;
+}
+
+.btn {
+  padding: 12px 25px;
+  border-radius: 30px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.btn.view {
+  background: #ffffff;
+  color: #5a0078;
+}
+
+.btn.download {
+  background: transparent;
+  border: 2px solid #fff;
+  color: #fff;
+}
+
+.btn:hover {
+  transform: scale(1.05);
+}
