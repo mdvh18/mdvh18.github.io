@@ -114,7 +114,7 @@ layout: default
                    data-pitu="{{ game_id }}" 
                    alt="{{ post.title }}">
               
-              <span class="download-icon">&#x2B07;&#xFE0F;</span> {% if post.categories.size > 0 %}
+              <i class="fa-solid fa-angles-down download-icon-fa"></i> {% if post.categories.size > 0 %}
                 <div class="card-badge">{{ post.categories | first | replace: "-", " " }}</div>
               {% endif %}
             </div>
