@@ -112,7 +112,46 @@ layout: default
       <p>{{ post.mota }}</p>
    </div>
    <div class="buttons">...</div>
-</div>   
+</div> 
+<div class="game-grid">
+  {% for post in paginator.posts %}
+    <div class="game-card">
+      <a href="{{ post.url | relative_url }}">
+        <div class="card-thumb">
+          <img src="https://pitu-database.com/images/{{ post.pitu_id }}.jpg" alt="{{ post.title }}">
+          <div class="card-badge">{% if post.lang == 'vi' %}[Việt Hóa]{% else %}[ENG]{% endif %}</div>
+        </div>
+        <div class="card-info">
+          <h3>{{ post.title | truncate: 45 }}</h3>
+          <span class="card-size">{{ post.size }}</span>
+        </div>
+      </a>
+      <div class="card-plus">+</div>
+    </div>
+  {% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Trước</a>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <span class="current-page">{{ page }}</span>
+    {% elsif page == 1 %}
+      <a href="{{ '/' | relative_url }}">1</a>
+    {% else %}
+      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}">Sau &raquo;</a>
+  {% endif %}
+</div>
+{% endif %}    
 <footer class="footer-section" style="background: linear-gradient(to bottom, #1a1131, #0a0a0a); padding: 30px 0 15px 0; margin-top: 40px; border-top: 1px solid rgba(247, 143, 144, 0.2); font-family: 'Segoe UI', Roboto, sans-serif; color: #eee; width: 100%;">
     <div class="footer-container" style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; width: 90%; max-width: 1300px; margin: 0 auto; gap: 20px;">   
         <div class="footer-col" style="flex: 1; min-width: 250px;">
