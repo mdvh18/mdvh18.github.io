@@ -10,7 +10,12 @@ body {
     /* ĐẨY NỘI DUNG XUỐNG ĐỂ KHÔNG BỊ HEADER ĐÈ */
     padding-top: 220px !important; 
 }
-
+html, body {
+    overflow-x: hidden;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
    .header-section {
     background: linear-gradient(to bottom, #12091d, #1b0e2a) !important;
     position: fixed !important;
@@ -437,34 +442,38 @@ a, button, .image-grid img, .hentry {cursor: url('https://blogger.googleusercont
 /* Khung Grid chính */
 .game-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* Chia đúng 3 cột */
-    gap: 20px;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 15px; /* Khoảng cách giữa các ô */
     padding: 20px;
     max-width: 1200px;
     margin: 0 auto;
+    box-sizing: border-box; /* Đảm bảo padding không làm lòi khung */
 }
 
 /* Từng ô bài viết */
 .game-card {
     background: #241032;
-    border-radius: 15px;
+    border-radius: 12px;
     overflow: hidden;
     position: relative;
-    transition: 0.3s;
-    border-bottom: 4px solid #d4487f; /* Thanh màu hồng dưới chân */
+    border-bottom: 4px solid #d4487f;
+    display: flex;
+    flex-direction: column;
 }
 
 .game-card:hover { transform: translateY(-5px); }
 
 .card-thumb {
-    position: relative;
-    height: 180px;
+    width: 100%;
+    aspect-ratio: 16 / 9; /* Ép ảnh về tỉ lệ chuẩn tránh méo */
+    overflow: hidden;
+    background: #1a0925; /* Nền tối trong lúc chờ ảnh load */
 }
-
 .card-thumb img {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    display: block;
 }
 
 /* Badge ngôn ngữ */
@@ -481,8 +490,14 @@ a, button, .image-grid img, .hentry {cursor: url('https://blogger.googleusercont
 
 /* Thông tin game */
 .card-info {
-    padding: 10px;
+    padding: 8px 10px;
+    background: rgba(212, 72, 127, 0.1);
+    color: #fff;
+    font-size: 13px;
+    font-weight: 600;
     text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
 }
 
 .card-info h3 {
