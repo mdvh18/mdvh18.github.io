@@ -9,12 +9,13 @@ body {
     color: #E6E6EB;
     /* ĐẨY NỘI DUNG XUỐNG ĐỂ KHÔNG BỊ HEADER ĐÈ */
     padding-top: 220px !important; 
-}
 html, body {
-    overflow-x: hidden;
-    width: 100%;
     margin: 0;
     padding: 0;
+    /* Đảm bảo nội dung luôn ít nhất bằng chiều cao màn hình nhưng không thừa */
+    min-height: 100vh; 
+    display: flex;
+    flex-direction: column;
 }
 .main-content-wrapper {
     width: 100%;
@@ -633,7 +634,11 @@ a, button, .image-grid img, .hentry {cursor: url('https://blogger.googleusercont
 .nav:hover { background: rgba(255,255,255,0.3); }
 .prev { left: 15px; }
 .next { right: 15px; }
-
+footer {
+    margin-top: auto; /* Đẩy footer xuống đáy */
+    margin-bottom: 0 !important; /* Xóa sạch margin dưới */
+    padding-bottom: 20px; /* Chỉnh khoảng cách bằng padding thay vì margin */
+}
 .footer-section {
         background-color: #1a1a1a;
         padding: 40px 20px 20px 20px;
