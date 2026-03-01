@@ -71,16 +71,22 @@ layout: default
 
 {% assign posts = site.posts | limit: 5 %}
 
+{% assign posts = site.posts | limit: 5 %}
+
 <section class="hero-slider">
   <div class="slides">
 
     {% for post in posts %}
     <div class="slide">
-      <img src="{{ post.thumbnail | relative_url }}" alt="{{ post.title }}">
+
+      {% assign first_image = post.content | split:'<img' | last | split:'src="' | last | split:'"' | first %}
+      {% assign final_image = post.thumbnail | default: first_image | default: '/assets/images/default.jpg' %}
+
+      <img src="{{ final_image | relative_url }}" alt="{{ post.title }}">
 
       <div class="slide-content">
-        <h2>{{ post.title }}</h2>
-        <p>{{ post.description }}</p>
+        <h2>{{ post.namebanner }}</h2>
+        <p>{{ post.mota }}</p>
 
         <div class="buttons">
           <a href="{{ post.url | relative_url }}" class="btn view">Xem bài</a>
@@ -93,6 +99,7 @@ layout: default
     {% endfor %}
 
   </div>
+</section>
 
   <button class="nav prev">&#10094;</button>
   <button class="nav next">&#10095;</button>
