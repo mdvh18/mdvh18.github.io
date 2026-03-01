@@ -98,26 +98,6 @@ layout: default
 
   </div>
 </section>
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-
-  document.querySelectorAll(".slide-img").forEach(img => {
-    const id = img.dataset.pitu;
-
-    if (!id || typeof PITU_DATABASE === "undefined") {
-      img.src = "https://via.placeholder.com/800x400?text=No+Image";
-      return;
-    }
-
-    const game = PITU_DATABASE.find(item => item.id === id);
-    img.src = game && game.banner
-      ? game.banner
-      : "https://via.placeholder.com/800x400?text=No+Image";
-  });
-
-});
-</script>
     
 <footer class="footer-section" style="background: linear-gradient(to bottom, #1a1131, #0a0a0a); padding: 30px 0 15px 0; margin-top: 40px; border-top: 1px solid rgba(247, 143, 144, 0.2); font-family: 'Segoe UI', Roboto, sans-serif; color: #eee; width: 100%;">
     <div class="footer-container" style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; width: 90%; max-width: 1300px; margin: 0 auto; gap: 20px;">   
