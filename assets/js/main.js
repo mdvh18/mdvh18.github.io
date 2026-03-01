@@ -19,11 +19,6 @@ function pituRender() {
         // THỬ NGHIỆM: In ra toàn bộ Database để xem bài agoat có trong này chưa
         console.log("Danh sách ID hiện có:", PITU_DATABASE.map(g => g.id));
         return;
-    }
-    // ... (Đoạn đổ ảnh phía dưới giữ nguyên) ...
-}
-    // 3. Đổ Banner
-    // --- CÁCH 2: TÌM THẺ IMG BÊN TRONG CLASS GAME-BANNER ---
     const bannerWrapper = document.querySelector('.game-banner');
     if (bannerWrapper) {
         // Tìm thẻ img thực sự nằm trong cái div .game-banner
@@ -42,9 +37,6 @@ function pituRender() {
             actualImg.style.display = "block"; // Đảm bảo không bị khoảng trống lạ
             
             console.log("Đã nạp ảnh vào thẻ img bên trong .game-banner");
-        }
-    }
-
     // 4. Đổ Previews vào image-grid
     const previews = document.querySelectorAll('.image-grid img');
     previews.forEach((img, i) => {
