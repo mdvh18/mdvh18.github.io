@@ -9,14 +9,7 @@ body {
     color: #E6E6EB;
     /* ĐẨY NỘI DUNG XUỐNG ĐỂ KHÔNG BỊ HEADER ĐÈ */
     padding-top: 220px !important; 
-html, body {
-    margin: 0;
-    padding: 0;
-    /* Đảm bảo nội dung luôn ít nhất bằng chiều cao màn hình nhưng không thừa */
-    min-height: 100vh; 
-    display: flex;
-    flex-direction: column;
-}
+    
 .main-content-wrapper {
     width: 100%;
     overflow: hidden; /* Chặn đứng vạch đen tràn lề */
