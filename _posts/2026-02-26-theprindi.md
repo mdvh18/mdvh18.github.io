@@ -1,6 +1,6 @@
 ---
 layout: game
-pitu_id: "33theprindi"
+pitu_id: "theprindi"
 title: "[Việt Hóa] The Princess Diaries - MDVH18"
 namebanner: "[Việt Hóa] The Princess Diaries - [523MB]"
 mota: |
