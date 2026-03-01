@@ -14,8 +14,7 @@ body {
     circle at 20% 0%,
     rgba(215,155,187,0.05),
     transparent 60%);}
-    </style>
-    <style>
+
     .header-section {
     background-color: linear-gradient(to bottom, #12091d, #1b0e2a);
     position: fixed !important;
@@ -309,8 +308,7 @@ body {padding-top: 100px !important; }
     margin-bottom: 0 !important;}
 .header-section.scrolled .sub-nav-list {
     gap: 30px !important;}
-</style>
-<style>
+
  .mini-search {
   position: relative;
   max-width: 400px;
