@@ -10,6 +10,12 @@ body {
     /* ĐẨY NỘI DUNG XUỐNG ĐỂ KHÔNG BỊ HEADER ĐÈ */
     padding-top: 220px !important; 
 }
+html, body {
+    overflow-x: hidden;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
 .main-content-wrapper {
     width: 100%;
     overflow: hidden; /* Chặn đứng vạch đen tràn lề */
