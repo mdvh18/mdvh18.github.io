@@ -115,15 +115,18 @@ layout: default
 </div> 
 <div class="game-grid">
   {% for post in paginator.posts %}
+    {% assign game_id = post.url | split: '/' | last | remove: '.html' %}
     <div class="game-card">
       <a href="{{ post.url | relative_url }}">
         <div class="card-thumb">
-          <img src="https://pitu-database.com/images/{{ post.pitu_id }}.jpg" alt="{{ post.title }}">
+          <img src="https://via.placeholder.com/350x200?text=Loading..." 
+               class="grid-pitu-img" 
+               data-pitu="{{ game_id }}" 
+               alt="{{ post.title }}">
           <div class="card-badge">{% if post.lang == 'vi' %}[Việt Hóa]{% else %}[ENG]{% endif %}</div>
         </div>
         <div class="card-info">
-          <h3>{{ post.title | truncate: 45 }}</h3>
-          <span class="card-size">{{ post.size }}</span>
+          <h3>{{ post.title | truncate: 40 }}</h3>
         </div>
       </a>
       <div class="card-plus">+</div>
