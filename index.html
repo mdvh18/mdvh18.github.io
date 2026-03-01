@@ -67,9 +67,10 @@ layout: default
 </header>
 </head>
 <body> 
-<script src="{{ site.baseurl }}/pitumdgame.js"></script>
+<script src="{{ '/assets/js/pitumdgame.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/slider.js' | relative_url }}"></script>   
-<script src="{{ site.baseurl }}/main.js"></script>      
+<script src="{{ '/assets/js/main.js' | relative_url }}"></script>  
+
 {% assign posts = site.posts | limit: 5 %}
 
 <section class="hero-slider">
