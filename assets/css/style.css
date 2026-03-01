@@ -471,45 +471,54 @@ a, button, .image-grid img, .hentry {cursor: url('https://blogger.googleusercont
 <button id='back-to-top'>.&#10022; &#1857;&#726; Top</button>
 .hero-slider {
   position: relative;
-  margin: 30px auto;
   max-width: 1200px;
-  border-radius: 20px;
+  margin: 40px auto;
   overflow: hidden;
-  background: #1b0f2e;
+  border-radius: 20px;
 }
 
-.hero-image img {
+.slides {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.slide {
+  min-width: 100%;
+  position: relative;
+}
+
+.slide img {
   width: 100%;
   display: block;
 }
 
-.hero-content {
+.slide-content {
   position: absolute;
   bottom: 0;
   width: 100%;
   padding: 40px;
-  background: linear-gradient(to top, rgba(90,0,120,0.95), rgba(90,0,120,0.6), transparent);
-  color: #fff;
+  background: linear-gradient(to top, rgba(80,0,120,0.95), rgba(80,0,120,0.6), transparent);
+  color: white;
 }
 
-.hero-content h1 {
-  font-size: 32px;
-  margin-bottom: 15px;
+.slide-content h2 {
+  font-size: 30px;
+  margin-bottom: 10px;
 }
 
-.hero-content p {
-  max-width: 800px;
+.slide-content p {
+  max-width: 700px;
   margin-bottom: 20px;
   opacity: 0.9;
 }
 
-.hero-buttons {
+.buttons {
   display: flex;
   gap: 15px;
 }
 
 .btn {
-  padding: 12px 25px;
+  padding: 10px 20px;
   border-radius: 30px;
   text-decoration: none;
   font-weight: bold;
@@ -517,16 +526,30 @@ a, button, .image-grid img, .hentry {cursor: url('https://blogger.googleusercont
 }
 
 .btn.view {
-  background: #ffffff;
+  background: white;
   color: #5a0078;
 }
 
 .btn.download {
-  background: transparent;
-  border: 2px solid #fff;
-  color: #fff;
+  border: 2px solid white;
+  color: white;
 }
 
 .btn:hover {
   transform: scale(1.05);
 }
+
+.nav {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(0,0,0,0.5);
+  color: white;
+  border: none;
+  padding: 15px;
+  cursor: pointer;
+  font-size: 22px;
+}
+
+.prev { left: 10px; }
+.next { right: 10px; }
