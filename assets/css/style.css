@@ -434,7 +434,96 @@ a, button, .image-grid img, .hentry {cursor: url('https://blogger.googleusercont
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
+/* Khung Grid chính */
+.game-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Chia đúng 3 cột */
+    gap: 20px;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
 
+/* Từng ô bài viết */
+.game-card {
+    background: #241032;
+    border-radius: 15px;
+    overflow: hidden;
+    position: relative;
+    transition: 0.3s;
+    border-bottom: 4px solid #d4487f; /* Thanh màu hồng dưới chân */
+}
+
+.game-card:hover { transform: translateY(-5px); }
+
+.card-thumb {
+    position: relative;
+    height: 180px;
+}
+
+.card-thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Badge ngôn ngữ */
+.card-badge {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background: rgba(0,0,0,0.7);
+    color: #fff;
+    padding: 2px 8px;
+    font-size: 12px;
+    border-radius: 5px;
+}
+
+/* Thông tin game */
+.card-info {
+    padding: 10px;
+    text-align: center;
+}
+
+.card-info h3 {
+    font-size: 14px;
+    color: #fff;
+    margin: 5px 0;
+    height: 40px;
+    overflow: hidden;
+}
+
+.card-size {
+    font-size: 12px;
+    color: #aaa;
+}
+
+/* Nút cộng góc phải */
+.card-plus {
+    position: absolute;
+    bottom: 5px;
+    right: 10px;
+    color: #d4487f;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* CSS cho bộ chọn trang */
+.pagination {
+    text-align: center;
+    margin: 40px 0;
+}
+
+.pagination a, .current-page {
+    padding: 8px 15px;
+    margin: 0 5px;
+    border-radius: 5px;
+    background: #241032;
+    color: #fff;
+    text-decoration: none;
+}
+
+.current-page { background: #d4487f; }
 /* Cụm nút bấm nằm bên phải */
 .buttons {
   display: flex;
