@@ -1,0 +1,31 @@
+<script src="{{ '/assets/js/pitumdgame.js' | relative_url }}"></script>
+
+<script>
+    function pituRender() {
+        // Lấy ID từ URL (đã rút gọn thành 'agoat')
+        const path = window.location.pathname;
+        const filename = path.split("/").filter(Boolean).pop(); 
+        const currentPageId = filename ? filename.replace(".html", "") : "index";
+        
+        console.log("ID bốc từ URL là:", currentPageId);
+
+        // PITU_DATABASE phải có sẵn từ file pitumdgame.js nạp ở trên
+        const game = PITU_DATABASE.find(item => item.id === currentPageId);
+        
+        if (!game) {
+            // Nếu nó báo lỗi ở đây, bro vào file pitumdgame.js 
+            // check xem có dòng { id: "agoat", ... } không
+            console.error("Lỗi: Không tìm thấy data cho ID '" + currentPageId + "'");
+            return;
+        }
+
+        // Đổ ảnh Banner
+        const bannerImg = document.querySelector('.game-banner img');
+        if (bannerImg && game.banner) {
+            bannerImg.src = game.banner;
+            console.log("Đã đổ banner thành công!");
+        }
+    }
+
+    document.addEventListener('DOMContentLoaded', pituRender);
+</script>
