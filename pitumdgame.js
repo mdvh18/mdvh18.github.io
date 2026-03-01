@@ -22,7 +22,7 @@ const PITU_DATABASE = [
                "https://blogger.googleusercontent.com/img/a/AVvXsEhlbnGCqpBvwuQCQeBZqOkaU6nsVwnFELF9P67gwHuOvoSN_lIbYLyI94_Y07QUJcWCGU-tRkRufaMBMiOlCHtKZvdFHl8a8-UjX1JLMswdBdkxFz0ibWqcKfRXoCilmiVZXyaGJr02xCVV9boV22bQxAFCSG2EpVsrBFV-jUP0WYxp3nOme-O0b6ieeEg=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEgA2cca3veds6MJZaIFUwuC-0LcKcwonY0zTMULwEvDLrPUekfECCTkAri-iSLQSsckQ4acokqvTTgY5cPabP3x2S8WUDFRL1rV76uQOLOEQtJGNwtHxOQL8GF4xgjm3iZzJhckOVBTKD4sIOLi3_nmSttEHO83tndjIUqrnKVN9OKkpvtZGzLfKTfa1fc=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEh8_P6A_KcfLTX0Bb9evz7czy3Pmaf8Nn42XAdDroSRAUdTTmskBx8XNswDOXkHtdrvx6awYvqoEW4Q3E0CU3CL07VIWpUF9r9BKaAPRYzVw3zuC-vmGzaTOXZAdEQ0bTE1YLlwmXSQSw3E7IvU3_E9aoaLlahQVgKjiUE3X_-ltfeXhFWkTN7gW3fNXFs=s16000"]},
-    {id: "2026-2-23-agoat",
+    {id: "10agoatt",
     name: "Việt Hóa A Girl On A Train",
     banner: "https://blogger.googleusercontent.com/img/a/AVvXsEhzJugUjX7tSQQKoRHcwLwBe7UOokRdllyOlR1_slHhkLcJWffV3378fwG3Ajb_V_VPVJ8eJJMoKjfoJx0pNkNzvS_oMTFMlH13QKWprCVOjF05UK6GdWMh5XHO99s85nx6VBlv2vL2kd96LdswJYc6zzsFEL395pG40bITf66sRZoHy70Z0bZ5txOUNsI=s16000",
     previews: ["https://blogger.googleusercontent.com/img/a/AVvXsEg8hFQmmCD-WRi3byc7V9T_9pxusSgwMMNePqdrij-zrOmeTA97jeUl60t0l9Lwmr8WOk5gQgycSDRhkw7c-HlJOJ4ld1lnaRXZ2FyiU2eI1SPfMASsvY4WaVP1XBof1BX-8cLonOzUcjf9BIdosXGhwv8EojMWTRq0EvnfREu0kTF-WM7CWdENjUiDSzA=s16000",
