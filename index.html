@@ -69,22 +69,33 @@ layout: default
 <body>
 {% assign latest = site.posts.first %}
 
+{% assign posts = site.posts | limit: 5 %}
+
 <section class="hero-slider">
-  <div class="hero-image">
-    <img src="{{ latest.thumbnail | relative_url }}" alt="{{ latest.title }}">
-  </div>
+  <div class="slides">
 
-  <div class="hero-content">
-    <h1>{{ latest.title }}</h1>
-    <p>{{ latest.description }}</p>
+    {% for post in posts %}
+    <div class="slide">
+      <img src="{{ post.thumbnail | relative_url }}" alt="{{ post.title }}">
 
-    <div class="hero-buttons">
-      <a href="{{ latest.url | relative_url }}" class="btn view">Xem bài</a>
-      {% if latest.download_link %}
-      <a href="{{ latest.download_link }}" class="btn download">Download</a>
-      {% endif %}
+      <div class="slide-content">
+        <h2>{{ post.title }}</h2>
+        <p>{{ post.description }}</p>
+
+        <div class="buttons">
+          <a href="{{ post.url | relative_url }}" class="btn view">Xem bài</a>
+          {% if post.download_link %}
+          <a href="{{ post.download_link }}" class="btn download">Download</a>
+          {% endif %}
+        </div>
+      </div>
     </div>
+    {% endfor %}
+
   </div>
+
+  <button class="nav prev">&#10094;</button>
+  <button class="nav next">&#10095;</button>
 </section>
     
 <footer class="footer-section" style="background: linear-gradient(to bottom, #1a1131, #0a0a0a); padding: 30px 0 15px 0; margin-top: 40px; border-top: 1px solid rgba(247, 143, 144, 0.2); font-family: 'Segoe UI', Roboto, sans-serif; color: #eee; width: 100%;">
