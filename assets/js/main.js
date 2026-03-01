@@ -59,6 +59,6 @@ function pituRender() {
     });
 }
 
-window.onload = pituRender;
+document.addEventListener("DOMContentLoaded", function () {
     pituRender();
-};
+});
