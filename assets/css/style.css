@@ -442,12 +442,11 @@ a, button, .image-grid img, .hentry {cursor: url('https://blogger.googleusercont
 /* Khung Grid chính */
 .game-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 15px; /* Khoảng cách giữa các ô */
+    grid-template-columns: repeat(3, 1fr); /* 3 cột chuẩn đét */
+    gap: 15px;
     padding: 20px;
-    max-width: 1200px;
+    max-width: 1200px; /* Bóp lại cho vừa mắt */
     margin: 0 auto;
-    box-sizing: border-box; /* Đảm bảo padding không làm lòi khung */
 }
 
 /* Từng ô bài viết */
@@ -461,13 +460,12 @@ a, button, .image-grid img, .hentry {cursor: url('https://blogger.googleusercont
     flex-direction: column;
 }
 
-.game-card:hover { transform: translateY(-5px); }
+.game-card:hover { transform: scale(1.02); }
 
 .card-thumb {
     width: 100%;
-    aspect-ratio: 16 / 9; /* Ép ảnh về tỉ lệ chuẩn tránh méo */
-    overflow: hidden;
-    background: #1a0925; /* Nền tối trong lúc chờ ảnh load */
+    aspect-ratio: 16 / 9; /* Giữ tỉ lệ ảnh không bị méo */
+    background: #000;
 }
 .card-thumb img {
     width: 100%;
