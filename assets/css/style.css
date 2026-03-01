@@ -503,21 +503,23 @@ a, button, .image-grid img, .hentry {cursor: url('https://blogger.googleusercont
     text-decoration: none !important; /* Mất vạch kẻ xanh/tím dưới chữ */
     outline: none;
 }
-.download-icon {
+.download-icon-fa {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%) scale(0.5);
-    /* Dùng mã màu hồng của bro */
-    color: #d4487f !important; 
-    font-size: 60px; /* Cho to hẳn lên */
+    transform: translate(-50%, -50%) scale(0); /* Mặc định ẩn */
+    
+    font-size: 50px !important; /* Ép nó to ra */
+    color: #d4487f !important;  /* Hồng Pitu rực rỡ */
+    
     opacity: 0;
     z-index: 10;
     transition: 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-    /* Mẹo: Đổ bóng cùng màu hồng để tạo cảm giác dày và đặc hơn */
-    text-shadow: 0 0 2px #d4487f, 0 0 10px rgba(212, 72, 127, 0.5);
+    
+    /* Mẹo làm icon nhìn "đặc" và "dày" hơn bằng cách đổ bóng cùng màu */
+    text-shadow: 0 0 2px #d4487f, 0 0 15px rgba(212, 72, 127, 0.6);
 }
-.game-card:hover .download-icon {
+.game-card:hover .download-icon-fa {
     opacity: 1;
     transform: translate(-50%, -50%) scale(1);
 }
@@ -538,11 +540,12 @@ a, button, .image-grid img, .hentry {cursor: url('https://blogger.googleusercont
 
 /* Thông tin game */
 .card-info {
-    padding: 12px;
-    background: #d4487f !important; /* Hồng chiếm toàn bộ */
-    text-align: center;
-    border: none !important; /* Khử vạch kẻ trắng/đen ở viền */
-    margin-top: -1px; /* Mẹo để phần hồng khít sát vào ảnh, không hở khe tím */
+    padding: 20px 10px !important; /* Tăng padding để nuốt trọn màu tím */
+    background: #d4487f !important; /* Hồng toàn phần */
+    border: none !important;
+    margin-top: -2px; /* Chống hở khe 1px */
+    position: relative;
+    z-index: 5;
 }
 
 .card-info h3 {
