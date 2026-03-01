@@ -109,25 +109,24 @@ layout: default
         <div class="game-card">
           <a href="{{ post.url | relative_url }}">
             <div class="card-thumb">
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" 
-       class="grid-pitu-img" 
-       data-pitu="{{ game_id }}" 
-       alt="{{ post.title }}">
-  
-  {% if post.categories.size > 0 %}
-    <div class="card-badge">{{ post.categories | first | replace: "-", " " | capitalize }}</div>
-  {% endif %}
-</div>
+              <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" 
+                   class="grid-pitu-img" 
+                   data-pitu="{{ game_id }}" 
+                   alt="{{ post.title }}">
+              
+              <span class="download-icon">&#x21E9;</span> {% if post.categories.size > 0 %}
+                <div class="card-badge">{{ post.categories | first | replace: "-", " " }}</div>
+              {% endif %}
+            </div>
+            
             <div class="card-info">
               <h3>{{ post.title }}</h3>
             </div>
           </a>
-          <div class="card-plus">+</div>
-        </div>
+          </div>
       {% endfor %}
     </div>
 </div>
-
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.previous_page %}
