@@ -291,7 +291,7 @@ body {margin: 0;
     
 .header-section.scrolled .sub-nav-list {gap: 30px !important;}
 
- .mini-search {position: relative; max-width: 400px; margin: 20px auto;}
+.mini-search {position: relative; max-width: 400px; margin: 20px auto;}
 
 #quickSearch {width: 100%;
   padding: 10px 14px;
@@ -386,10 +386,10 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
     letter-spacing: 1px;
     color: #fff !important;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
-    position: static !important; 
+    position: relative !important; 
     text-align: center !important;
     font-weight: bold;
-    padding-bottom: 5px !important;}
+    padding-bottom: 3px !important;}
 
 .btn.view {background: #5a0078;
     color: #fff;
