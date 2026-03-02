@@ -45,7 +45,7 @@ body {padding-top: 100px !important; }
     position: relative;}
 .menu-trigger {
     position: absolute;
-    left: 30px;
+    left: 300px;
     top: 50%;
     transform: translateY(-50%);
     cursor: pointer;
@@ -167,21 +167,24 @@ body {padding-top: 100px !important; }
 
 /* 1. Khung chứa Icon - Căn giữa tuyệt đối */
 .search-icon {
-    font-family: 'Bungee', sans-serif; /* Giữ font đồng bộ */
-    cursor: pointer;
-    font-size: 26px; /* Chỉnh kích thước icon vừa tầm */
+    font-family: 'Bungee', sans-serif;
+    font-size: 42px;
     color: #fff;
+    display: flex !important;
     width: 40px;
     height: 40px;
-    display: flex !important;
     align-items: center !important;
     justify-content: center !important;
-    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275); /* Hiệu ứng nảy nhẹ */
+    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     position: relative;
-    user-select: none; /* Không cho bôi đen icon */
+    /* Giữ nguyên vị trí icon như cũ của bạn */
+    transform: translateY(-50%);
+    top: 50%;
+    right: 300px; 
+    user-select: none;
+    cursor: pointer;
 }
 
-/* 2. Diệt sạch "Bóng ma" icon cũ từ Template */
 .search-icon::before, 
 .search-icon::after,
 #search-toggle::before, 
@@ -191,24 +194,26 @@ body {padding-top: 100px !important; }
     opacity: 0 !important;
 }
 
-/* 3. Hiệu ứng Hover - Đổi màu và Phát sáng */
 .search-icon:hover {
-    color: #ff4757 !important; /* Đổi sang màu đỏ/hồng */
-    transform: scale(1.2) translateY(-2px); /* Phóng to và nhấc nhẹ lên */
-    /* Hiệu ứng đổ bóng Neon */
+    color: #ff4757 !important;
+    transform: scale(1.2) translateY(-2px);
     text-shadow: 0 0 8px rgba(255, 71, 87, 0.8), 
                  0 0 15px rgba(255, 71, 87, 0.4);
 }
 
-/* 4. Đảm bảo thẻ i hoặc span cũ không chen ngang */
 .search-icon i, .search-icon span {
     display: none !important;
 }
+
+/* PHẦN SỬA ĐỔI CHÍNH Ở ĐÂY */
 .search-box {
     position: absolute;
-    right: 0;
-    top: 40px;
+    /* Đẩy sang trái dựa trên vị trí icon để nó thụt vào trong */
+    right: 300px; 
+    top: 100%; /* Nằm ngay dưới icon */
+    margin-top: 10px;
     display: none;
+    z-index: 1000;
 }
 
 .search-box.active {
@@ -216,11 +221,24 @@ body {padding-top: 100px !important; }
 }
 
 .search-box input {
-    padding: 6px 12px;
-    border-radius: 20px;
-    border: none;
+    padding: 8px 16px;
+    border-radius: 30px;
+    border: 1px solid rgba(255,255,255,0.15);
     outline: none;
-    width: 200px;
+    width: 350px; /* Thu nhỏ lại một chút để không chiếm lề */
+    background: rgba(255,255,255,0.08);
+    color: #fff;
+    backdrop-filter: blur(10px);
+    transition: all 0.3s ease;
+}
+
+.search-box input::placeholder {
+    color: rgba(255,255,255,0.6);
+}
+
+.search-box input:focus {
+    border-color: #d4487f; 
+    box-shadow: 0 0 12px rgba(212,72,127,0.5);
 }
 
 .search-results {
@@ -229,13 +247,14 @@ body {padding-top: 100px !important; }
     border: 1px solid rgba(255,255,255,0.08);
     margin-top: 10px;
     border-radius: 16px;
-    max-height: 320px;
+    max-height: 500px;
     overflow-y: auto;
     padding: 10px 14px;
     box-shadow: 0 10px 30px rgba(0,0,0,0.5);
     animation: fadeIn 0.2s ease;
 }
 
+/* Các phần còn lại giữ nguyên */
 .search-results a {
     display: block;
     padding: 8px 6px;
@@ -248,53 +267,36 @@ body {padding-top: 100px !important; }
     background: rgba(212,72,127,0.15);
     color: #ff7eb3;
 }
-.search-box input {
-    padding: 8px 16px;
-    border-radius: 30px;
-    border: 1px solid rgba(255,255,255,0.15);
-    outline: none;
-    width: 220px;
-    background: rgba(255,255,255,0.08);
-    color: #fff;
-    backdrop-filter: blur(10px);
-    transition: all 0.3s ease;
-}
 
-.search-box input::placeholder {
-    color: rgba(255,255,255,0.6);
-}
-
-.search-box input:focus {
-    border-color: #d4487f;
-    box-shadow: 0 0 12px rgba(212,72,127,0.5);
-}
 @keyframes fadeIn {
-    from { opacity: 0; transform: translateY(-5px); }
+    from { opacity: 0; transform: translateY(-5px); } 
     to { opacity: 1; transform: translateY(0); }
 }
+
 .search-results::-webkit-scrollbar {
     width: 6px;
 }
 
 .search-results::-webkit-scrollbar-thumb {
-    background: #d4487f;
+    background: #d4487f; 
     border-radius: 10px;
 }
+
 .search-item {
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  padding: 8px;
-  text-decoration: none;
-  color: white;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    padding: 8px;
+    text-decoration: none;
+    color: white;
 }
 
 .search-item img {
-  width: 60px;
-  height: 80px;
-  object-fit: cover;
-  border-radius: 6px;
-}        
+    width: 60px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 6px;
+}       
 </style>   
 <header class="header-section">
     <div class="menu-trigger">
