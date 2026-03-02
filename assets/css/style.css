@@ -47,7 +47,7 @@ body {margin: 0;
 
 .menu-trigger {position: absolute;
     top: 50%;
-    margin: 20px auto !important;
+    left: 300px;
     transform: translateY(-50%);
     display: flex;
     flex-direction: column;
@@ -191,7 +191,7 @@ body {margin: 0;
     position: relative;
     transform: translateY(-50%);
     top: 50%;
-    margin: 20px auto !important;
+    right: 300px;
     user-select: none;}
 
 .search-icon::before, 
@@ -342,17 +342,19 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
 
 /* --- KHUNG SLIDER CHÍNH --- */
 .hero-slider {
+    width: 1080px !important; /* Ép cứng chiều rộng để lề không bị nở */
     max-width: 1080px !important;
     height: 420px !important;
-    margin: 20px auto;
+    margin: 20px auto !important; /* Căn giữa chuẩn để lề 2 bên tự co lại */
     overflow: hidden;
     border-radius: 20px;
     position: relative;
     margin-bottom: 40px !important;
     z-index: 1;
     cursor: pointer !important;
-    border: 3px solid #d4487f; /* Viền tím của bro */
+    border: 3px solid #d4487f;
     box-shadow: 0 0 20px rgba(212, 72, 127, 0.5);
+    box-sizing: border-box !important; /* Cực quan trọng để border không đẩy lề */
 }
 
 .slides {
@@ -367,11 +369,10 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
     height: 100%;
 }
 
-/* --- GIỮ NGUYÊN ẢNH KHÔNG CHO HỎNG --- */
 .slide img {
     width: 100% !important;
     height: 100% !important;
-    object-fit: cover !important; /* Quan trọng nhất để không méo ảnh */
+    object-fit: cover !important;
     display: block;
 }
 
@@ -380,14 +381,16 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
     bottom: 0;
     left: 0;
     width: 100%;
-    padding: 30px 40px;
+    /* Giảm padding-bottom từ 30px xuống 10px để chữ sát đáy */
+    padding: 20px 40px 10px 40px; 
     background: linear-gradient(to top, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.4) 60%, transparent 100%);
     color: white;
     display: flex;    
-    align-items: center;
+    align-items: flex-end; /* Đổi sang flex-end để chữ nằm sát đáy */
     justify-content: space-between;
-    box-sizing: border-box;
-    z-index: 10;}
+    box-sizing: border-box !important;
+    z-index: 10;
+}
 
 .slide-content h2 {
     font-size: 26px !important;
@@ -398,28 +401,28 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
     position: static !important; 
     text-align: left !important;
     font-weight: bold;
-    padding-bottom: 10px
+    padding-bottom: 5px !important; /* Thu nhỏ khoảng cách dưới chữ h2 */
 }
 
-/* --- NÚT XEM BÀI (SIUUU TO) --- */
 .btn.view {
     background: #5a0078;
     color: #fff;
-    padding: 15px 35px; /* Làm nút to ra */
+    padding: 12px 30px; /* Chỉnh lại chút cho cân với chữ sát đáy */
     border-radius: 10px;
     font-weight: bold;
     text-transform: uppercase;
     font-size: 16px;
     transition: 0.3s;
     border: 2px solid #d4487f;
-    white-space: nowrap; /* Không cho chữ nhảy dòng */
+    white-space: nowrap;
     z-index: 9999;
     box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+    margin-bottom: 5px; /* Để nút không dính sát mép dưới quá */
 }
 
 .btn.view:hover {
     background: #d4487f;
-    transform: scale(1.1); /* Phóng to nhẹ khi di chuột */
+    transform: scale(1.1);
     box-shadow: 0 0 20px #d4487f;
 }
 
