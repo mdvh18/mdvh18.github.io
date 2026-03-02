@@ -6,7 +6,11 @@ body {margin: 0;
     min-height: 100vh;
     color: #E6E6EB;
     padding-top: 220px !important;} 
-    
+ html, body {
+    overflow-x: hidden !important;
+    width: 100%;
+    position: relative;
+}   
 .main-content-wrapper {width: 100%;
     overflow: hidden;
     background: transparent;
