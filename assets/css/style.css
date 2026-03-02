@@ -744,11 +744,12 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
     overflow: hidden;
     white-space: nowrap;}
 
-.notice-p {
+.notice-text b {
     color: #d4487f;
     text-shadow: 0 0 5px rgba(212, 72, 127, 0.5);
     display: table;
     text-align: center;
+    margin: 20px auto;
 }
 
 .notice-link {color: #a43973;
