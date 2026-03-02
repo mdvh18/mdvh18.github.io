@@ -13,8 +13,7 @@ function pituRender() {
     if (!game) {
         console.error("Không tìm thấy data cho ID:", currentPageId);
         console.log("Danh sách ID hiện có:", PITU_DATABASE.map(g => g.id));
-        return;
-    }
+        return;}
 
     const bannerWrapper = document.querySelector('.game-banner');
 
@@ -29,9 +28,7 @@ function pituRender() {
             actualImg.height = 468;
             actualImg.style.width = "100%";
             actualImg.style.height = "100%";
-            actualImg.style.display = "block";
-        }
-    }
+            actualImg.style.display = "block";}}
 
     const previews = document.querySelectorAll('.image-grid img');
 
@@ -52,7 +49,6 @@ function pituRender() {
 document.addEventListener("DOMContentLoaded", pituRender);
 
 function renderGridImages() {
-    // 1. Kiểm tra xem Database có tồn tại không
     if (typeof PITU_DATABASE === "undefined") {
         console.error("LỖI CỰC NẶNG: PITU_DATABASE chưa được nạp vào trang này!");
         return; 
@@ -64,28 +60,23 @@ function renderGridImages() {
     gridImages.forEach(img => {
       const pituId = img.getAttribute('data-pitu');
    
-        // Tìm trong mảng
         const game = PITU_DATABASE.find(item => item.id === pituId);
         
         if (game && game.banner) {
             img.src = game.banner;
             img.style.objectFit = "cover";
-            // Đánh dấu đã load xong
             img.classList.add('loaded'); 
         } else {
-            // Nếu báo lỗi này, nghĩa là ID bốc được (pituId) KHÔNG KHỚP với ID trong Database
             console.warn("Hụt ID: [" + pituId + "]. Check lại database xem có ID này không?");
             img.src = "https://via.placeholder.com/350x200?text=Check+ID+" + pituId;
         }
     });
 }
-// Gọi hàm ngay và luôn
 if (document.readyState === 'complete') {
     renderGridImages();
 } else {
     window.addEventListener('load', renderGridImages);
 }
-// Theo dõi nếu có bài viết mới hiện ra (Dành cho trang Tag)
 const observer = new MutationObserver((mutations) => {
     renderGridImages();
 });
