@@ -393,16 +393,14 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
     white-space: nowrap;}
 
 .slide-content p {position: absolute;
-    left: 45%;
     top: 50%;
-    transform: translateX(-50%);
     font-size: 18px !important;
     margin: 0 !important;
     letter-spacing: 1px;
     color: #fff !important;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
     font-weight: bold;
-    max-width: 50%;}
+    max-width: 100%;}
 
 .btn.view {position: absolute;
     right: 50px;
