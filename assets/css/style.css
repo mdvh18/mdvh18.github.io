@@ -400,7 +400,9 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
     color: #fff !important;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
     font-weight: bold;
-    max-width: 100%;}
+    left: 80%;  
+    margin-bottom: 3px;              
+    max-width: 80%;}
 
 .btn.view {position: absolute;
     right: 50px;
