@@ -747,7 +747,7 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
 .notice-text a {
     color: #d4487f;
     text-shadow: 0 0 5px rgba(212, 72, 127, 0.5);
-    display: block;
+    display: table;
     text-align: center;
     margin: 20px auto;
 }
