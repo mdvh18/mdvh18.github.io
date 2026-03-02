@@ -344,7 +344,8 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
 .hero-slider {
     max-width: 1080px !important;
     height: 420px !important;
-    margin: 20px auto !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
     overflow: hidden;
     border-radius: 20px;
     position: relative;
@@ -729,7 +730,8 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
 }
 .pitu-global-notice {
     max-width: 980px;
-    margin: 20px auto;
+    margin-left: auto !important;
+    margin-right: auto !important;
     background: rgba(36, 16, 50, 0.8); /* Màu #241032 mờ */
     border-left: 5px solid #d4487f;
     border-right: 5px solid #d4487f;
