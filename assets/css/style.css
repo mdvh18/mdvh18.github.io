@@ -183,7 +183,8 @@ body {margin: 0;
     top: 50%;
     transform: translateY(-50%); }
 
-.search-icon {font-family: 'Bungee', sans-serif;
+.search-icon {
+    font-family: 'Bungee', sans-serif;
     font-size: 42px;
     color: #fff;
     display: flex !important;
@@ -193,89 +194,126 @@ body {margin: 0;
     justify-content: center !important;
     transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     position: relative;
+    /* Giữ nguyên vị trí icon như cũ của bạn */
     transform: translateY(-50%);
     top: 50%;
-    right: 300px;
-    user-select: none;}
+    right: 300px; 
+    user-select: none;
+    cursor: pointer;
+}
 
 .search-icon::before, 
 .search-icon::after,
 #search-toggle::before, 
-#search-toggle::after {content: none !important;
-                       display: none !important;
-                       opacity: 0 !important;}
+#search-toggle::after {
+    content: none !important;
+    display: none !important;
+    opacity: 0 !important;
+}
 
-.search-icon:hover {color: #ff4757 !important;
+.search-icon:hover {
+    color: #ff4757 !important;
     transform: scale(1.2) translateY(-2px);
     text-shadow: 0 0 8px rgba(255, 71, 87, 0.8), 
-                 0 0 15px rgba(255, 71, 87, 0.4);}
+                 0 0 15px rgba(255, 71, 87, 0.4);
+}
 
-.search-icon i, .search-icon span {display: none !important;}
-    
-.search-box {position: absolute;
-    right: 0;
-    top: 40px;
-    display: none;}
+.search-icon i, .search-icon span {
+    display: none !important;
+}
 
-.search-box.active {display: block;}
+/* PHẦN SỬA ĐỔI CHÍNH Ở ĐÂY */
+.search-box {
+    position: absolute;
+    /* Đẩy sang trái dựa trên vị trí icon để nó thụt vào trong */
+    right: 300px; 
+    top: 100%; /* Nằm ngay dưới icon */
+    margin-top: 10px;
+    display: none;
+    z-index: 1000;
+}
 
-.search-box input {padding: 6px 12px;
-    border-radius: 20px;
-    border: none;
+.search-box.active {
+    display: block;
+}
+
+.search-box input {
+    padding: 8px 16px;
+    border-radius: 30px;
+    border: 1px solid rgba(255,255,255,0.15);
     outline: none;
-    width: 220px;}
+    width: 350px; /* Thu nhỏ lại một chút để không chiếm lề */
+    background: rgba(255,255,255,0.08);
+    color: #fff;
+    backdrop-filter: blur(10px);
+    transition: all 0.3s ease;
+}
 
-.search-results {background: rgba(26,17,49,0.95);
+.search-box input::placeholder {
+    color: rgba(255,255,255,0.6);
+}
+
+.search-box input:focus {
+    border-color: #d4487f; 
+    box-shadow: 0 0 12px rgba(212,72,127,0.5);
+}
+
+.search-results {
+    background: rgba(26,17,49,0.95);
     backdrop-filter: blur(15px);
     border: 1px solid rgba(255,255,255,0.08);
-    margin-top: 30px;
+    margin-top: 10px;
     border-radius: 16px;
     max-height: 500px;
     overflow-y: auto;
     padding: 10px 14px;
     box-shadow: 0 10px 30px rgba(0,0,0,0.5);
-    animation: fadeIn 0.2s ease;}
+    animation: fadeIn 0.2s ease;
+}
 
-.search-results a {display: block;
+/* Các phần còn lại giữ nguyên */
+.search-results a {
+    display: block;
     padding: 8px 6px;
     border-radius: 8px;
     font-size: 14px;
-    transition: all 0.2s ease;}
+    transition: all 0.2s ease;
+}
 
-.search-results a:hover {background: rgba(212,72,127,0.15);
-    color: #ff7eb3;}
-    
-.search-box input {padding: 8px 16px;
-    border-radius: 30px;
-    border: 1px solid rgba(255,255,255,0.15);
-    outline: none;
-    width: 220px;
-    background: rgba(255,255,255,0.08);
-    color: #fff;
-    backdrop-filter: blur(10px);
-    transition: all 0.3s ease;}
+.search-results a:hover {
+    background: rgba(212,72,127,0.15);
+    color: #ff7eb3;
+}
 
-.search-box input::placeholder {color: rgba(255,255,255,0.6);}
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-5px); } 
+    to { opacity: 1; transform: translateY(0); }
+}
 
-.search-box input:focus {border-color: #d4487f; box-shadow: 0 0 12px rgba(212,72,127,0.5);}
-    
-@keyframes fadeIn {from { opacity: 0; transform: translateY(-5px); } to { opacity: 1; transform: translateY(0); }}
-    
-.search-results::-webkit-scrollbar {width: 6px;}
+.search-results::-webkit-scrollbar {
+    width: 6px;
+}
 
-.search-results::-webkit-scrollbar-thumb {background: #d4487f; border-radius: 10px;}
-    
-.search-item {display: flex;
-  gap: 10px;
-  align-items: center;
-  padding: 8px;
-  text-decoration: none;
-  color: white;}
+.search-results::-webkit-scrollbar-thumb {
+    background: #d4487f; 
+    border-radius: 10px;
+}
 
-.search-item img {width: 60px;
-  height: 80px;
-  object-fit: cover;
-  border-radius: 6px;}
+.search-item {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    padding: 8px;
+    text-decoration: none;
+    color: white;
+}
+
+.search-item img {
+    width: 60px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 6px;
+}
     
 .header-section.scrolled {padding: 5px 0 0 0 !important;
     background-color: rgba(26, 17, 49, 0.85) !important;
