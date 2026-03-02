@@ -44,46 +44,43 @@ body {padding-top: 100px !important; }
     position: relative;}
         
 .menu-trigger {position: absolute;
-    left: 300px;
     top: 50%;
+    left: 300px;
     transform: translateY(-50%);
-    cursor: pointer;
     display: flex;
     flex-direction: column;
     gap: 6px;
     z-index: 10001;
-    padding: 10px;}
-        
+    padding: 10px;
+    cursor: pointer;}
+
 .menu-trigger span {display: block;
     width: 35px;
     height: 3px;
     background: #ffffff;
-    transition: all 0.3s ease;}
-        
-.menu-trigger:hover span {background: #d4487f; box-shadow: 0 0 8px rgba(215,155,187,0.8);}
-        
+    transition: 0.3s ease;}
+
+.menu-trigger:hover span {background: #d4487f; box-shadow: 0 0 8px rgba(212, 72, 127, 0.8);}
+
 .menu-container {position: absolute;
-    left: 20px;
-    top: 80%;
+    left: 300px;
+    top: 50px;
     z-index: 10002;
-    padding-top: 20px;
+    padding-top: 15px;
     visibility: hidden;
     opacity: 0;
-    transition: all 0.3s ease;
-    transform: translateY(-10px);}
-        
-.menu-trigger:hover + .menu-container,
-.menu-container:hover {visibility: visible;
-    opacity: 1;
-    transform: translateY(0);}
-        
+    transition: opacity 0.3s ease;}
+
+.menu-trigger:hover ~ .menu-container,
+.menu-container:hover {visibility: visible !important; opacity: 1 !important;}
+
 .dropdown-content {background: #111111 !important;
     width: 280px;
     border-radius: 12px;
     box-shadow: 0 10px 30px rgba(0,0,0,0.8);
     overflow: hidden;
     border: 1px solid #222;}
-        
+
 .dropdown-header {color: #d4487f;
     font-size: 18px;
     font-weight: bold;
@@ -91,9 +88,10 @@ body {padding-top: 100px !important; }
     border-bottom: 3px solid #d4487f;
     text-transform: uppercase;
     background: #151515;}
-        
+
 .dropdown-content ul { list-style: none; padding: 0; margin: 0; }
-.dropdown-content li { border-bottom: 1px solid #1a1a1a; }
+.dropdown-content li { border-bottom: 1px solid #1a1a1a; position: relative; }
+
 .dropdown-content li a {color: #ffffff !important;
     padding: 14px 25px;
     display: block;
@@ -101,17 +99,42 @@ body {padding-top: 100px !important; }
     text-decoration: none;
     font-size: 15px;
     transition: 0.3s ease;}
-        
-.dropdown-content li a:hover {background: rgba(247, 143, 144, 0.1);
+
+.dropdown-content li a:hover {background: rgba(212, 72, 127, 0.1);
     color: #d4487f !important;
     padding-left: 35px;}
-        
-.sub-item {background: #0a0a0a !important;
-    padding-left: 45px !important;
+
+.has-sub { overflow: visible !important; }
+
+.sub-wrapper {max-height: 0;
+    opacity: 0;
+    overflow: hidden;
+    background: #0a0a0a;
+    border-left: 3px solid #d4487f;
+    transition: max-height 0.4s ease-out, opacity 0.3s ease !important;}
+
+.has-sub:hover .sub-wrapper {max-height: 800px !important; opacity: 1 !important;}
+
+.sub-item {display: block !important;
+    padding: 10px 25px 10px 35px !important;
+    color: #aaa !important;
     font-size: 13px !important;
-    color: #aaa !important;}
-        
-.dropdown-content ul:last-child {border-bottom: 8px solid #241032;}
+    text-decoration: none !important;
+    white-space: nowrap;
+    transform: translateX(-30px) !important; 
+    opacity: 0 !important;
+    transition: transform 0.4s ease, opacity 0.4s ease !important;}
+
+.has-sub:hover .sub-item {transform: translateX(0) !important; opacity: 1 !important;}
+
+.sub-item:hover {
+    color: #d4487f !important;
+    background: #151515 !important;
+    padding-left: 45px !important;}
+
+.sub-nav-wrapper {background: linear-gradient(135deg,#241032,#d4487f) bottom / 100% 3px no-repeat;
+    padding: 15px 0 !important;
+    width: 100% !important;}
 .brand-link { display: flex; align-items: center; gap: 20px; text-decoration: none; }
 .brand-logo { width: 80px; height: 80px; border-radius: 50%; object-fit: cover; }
 .brand-name {font-size: 28px; font-weight: 700;
@@ -256,24 +279,39 @@ body {padding-top: 100px !important; }
         <span></span>
     </div>
     <div class="menu-container">
-        <div class="dropdown-content">
-            <div class="dropdown-header">DANH MỤC</div>
-            <ul>
-                <li><a href="https://mdvh18.github.io">HOME</a></li>
-                <li><a href="#">GENRE</a></li>
-                <li><a href="https://mdvh18.blogspot.com/search/label/2DCG" class="sub-item">» 2DCG</a></li>
-                <li><a href="https://mdvh18.blogspot.com/search/label/3DCG" class="sub-item">» 3DCG</a></li>
-                <li><a href="https://mdvh18.github.io/pages/android/" class="sub-item">» Android</a></li>
-                <li><a href="https://mdvh18.github.io/pages/pc/" class="sub-item">» Game PC</a></li>
-                <li><a href="#">GAME</a></li>
-                <li><a href="https://mdvh18.github.io/pages/mdvh18/" class="sub-item">» Việt Hóa MDVH18</a></li>
-                <li><a href="https://mdvh18.github.io/pages/allvh/" class="sub-item">» Việt Hóa Khác</a></li>
-                <li><a href="https://mdvh18.github.io/pages/english/" class="sub-item">» English</a></li>
-                <li><a href="#">REQUEST</a></li>
-                <li><a href="https://mdvh18.blogspot.com/search/label/MDVH18">MDVH18</a></li>
-            </ul>
-        </div>
+    <div class="dropdown-content">
+        <div class="dropdown-header">DANH MỤC</div>
+        <ul>
+            <li><a href="https://mdvh18.github.io">HOME</a></li>
+
+            <li class="has-sub">
+                <a href="#">GENRE</a>
+                <div class="sub-wrapper">
+                    <a href="https://mdvh18.blogspot.com/search/label/2DCG" class="sub-item">» 2DCG</a>
+                    <a href="https://mdvh18.blogspot.com/search/label/3DCG" class="sub-item">» 3DCG</a>
+                    <a href="https://mdvh18.github.io/pages/apk" class="sub-item">» Android</a> 
+                    <a href="https://mdvh18.github.io/pages/pc" class="sub-item">» Game PC</a>
+                </div>
+            </li>
+
+            <li class="has-sub">
+                <a href="#">GAME</a>
+                <div class="sub-wrapper">
+                    <a href="https://mdvh18.github.io/pages/mdvh18/" class="sub-item">» Việt Hóa MDVH18</a>
+                    <a href="https://mdvh18.github.io/pages/allvh/" class="sub-item">» Việt Hóa</a>
+                    <a href="https://mdvh18.github.io/pages/english/" class="sub-item">» English</a>
+                </div>
+            </li>
+
+            <li class="has-sub">
+                <a href="#">REQUEST</a>
+                <div class="sub-wrapper">
+                    <a href="https://mdvh18.blogspot.com/search/label/MDVH18" class="sub-item">» MDVH18</a>
+                </div>
+            </li>
+        </ul>
     </div>
+</div>
     <div class="brand-container">
         <a href="https://mdvh18.github.io" class="brand-link">
             <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgwvx69wmc1Toc5J6nbK75cqCVKVH20kh7Smzd-9htx9UulnhAIaailkHZ0pcP5fL8-o4CmBr6AUWBC8GvRuRaJBeKQOk291W2WaZ1I1h1yH1icqGjuQaoCMlhgSuENa5q3MLhie9OtGWnjY4dijUy5XXqzL8_gdzf38zdKsZCqyxEy2fA9K4_PIHL6njU=w800" class="brand-logo" alt="Logo">
