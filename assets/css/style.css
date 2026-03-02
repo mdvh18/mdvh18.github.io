@@ -342,17 +342,15 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
 
 /* --- KHUNG SLIDER CHÍNH --- */
 .hero-slider {
+    width: 1080px !important;
     max-width: 1080px !important;
-    height: 420px !important;
-    margin: 20px auto;
-    overflow: hidden;
-    border-radius: 20px;
-    position: relative;
-    margin-bottom: 40px !important;
-    z-index: 1;
-    cursor: pointer !important;
-    border: 3px solid #d4487f; /* Viền tím của bro */
-    box-shadow: 0 0 20px rgba(212, 72, 127, 0.5);
+    margin-left: auto !important;
+    margin-right: auto !important;
+    /* Xóa sạch mọi thứ có thể gây phình lề */
+    position: relative !important;
+    left: 0 !important;
+    right: 0 !important;
+    transform: none !important;
 }
 
 .slides {
@@ -728,17 +726,12 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
     to { opacity: 1; transform: translateY(0); }
 }
 .pitu-global-notice {
-    max-width: 980px;
-    margin: 20px auto;
-    background: rgba(36, 16, 50, 0.8); /* Màu #241032 mờ */
-    border-left: 5px solid #d4487f;
-    border-right: 5px solid #d4487f;
-    border-radius: 8px;
-    box-shadow: 0 0 15px rgba(212, 72, 127, 0.2);
-    display: flex;
-    align-items: center;
-    overflow: hidden;
-    position: relative;
+    width: 980px !important;
+    max-width: 980px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    position: relative !important;
+    left: 0 !important;
 }
 
 .notice-tag {
@@ -782,12 +775,6 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
     color: #d4487f;
     border-bottom: 1px solid #d4487f;
 }
-.hero-slider, .pitu-global-notice {
-    width: 1080px !important;
-    max-width: 1080px !important;
-    margin: 20px auto !important; 
-    position: relative !important;
-    left: 0 !important;
-    transform: none !important;
-    display: block !important;
+body {
+    overflow-x: hidden !important;
 }
