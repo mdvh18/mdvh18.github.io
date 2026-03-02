@@ -753,7 +753,6 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
     font-weight: bold;
     text-align: center;
     white-space: nowrap;
-    transition: 0.3s;
-    border-bottom: 10px 1px dashes #d4487f;}
+    transition: 0.3s;}
 
-.notice-link:hover {color: #d4487f; border-bottom: 1px solid #d4487f;}
+.notice-link:hover {color: #d4487f;}
