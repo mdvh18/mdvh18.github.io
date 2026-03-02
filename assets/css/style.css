@@ -736,9 +736,8 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
     /* Căn giữa */
     display: table; /* Hoặc block */
     margin: 20px auto 4px auto; 
-    white-space: nowrap;
-    box-shadow: 0 0 10px #d4487f;
-}
+    white-space: nowrap;}
+
 .notice-text {flex-grow: 1;
     color: #eee;
     font-size: 15px;
