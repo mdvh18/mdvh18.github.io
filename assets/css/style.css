@@ -733,8 +733,7 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
     font-size: 12px;
     font-weight: bold;
     border-radius: 4px;
-    /* Căn giữa */
-    display: table; /* Hoặc block */
+    display: block;
     margin: 20px auto 4px auto; 
     white-space: nowrap;}
 
@@ -746,8 +745,6 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
 
 .notice-text b {
     color: #d4487f;
-    text-shadow: 0 0 5px rgba(212, 72, 127, 0.5);
-    /* Căn giữa cho thẻ b */
     display: block;
     text-align: center;
     margin: 20px auto;
