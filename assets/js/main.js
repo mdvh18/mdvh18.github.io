@@ -86,22 +86,3 @@ const backToTopBtn = document.getElementById('back-to-top');
     window.addEventListener('scroll', () => {
         if (window.pageYOffset > 300) {backToTopBtn.classList.add('show');} else {backToTopBtn.classList.remove('show');}});
     backToTopBtn.addEventListener('click', () => {window.scrollTo({top: 0,behavior: 'smooth'});});
-
-let currentSlide = 0;
-
-function moveSlide(step) {
-    const slides = document.querySelectorAll('.slide');
-    const totalSlides = slides.length;
-    
-    // Ẩn slide hiện tại (hoặc xử lý logic trượt của bạn ở đây)
-    currentSlide = (currentSlide + step + totalSlides) % totalSlides;
-    
-    // Ví dụ đơn giản: Cuộn đến slide tiếp theo
-    const sliderContainer = document.querySelector('.slides');
-    sliderContainer.style.transform = `translateX(-${currentSlide * 100}%)`;
-}
-function showLinks() {
-    document.getElementById("real-links").style.display = "block"; document.getElementById("btn-show").style.display = "none";}
-@keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
-window.onscroll = function() {
-    var header = document.querySelector(".header-section"); if (window.pageYOffset > 50){header.classList.add("scrolled");}else {header.classList.remove("scrolled");}};
