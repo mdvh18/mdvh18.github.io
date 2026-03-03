@@ -242,101 +242,16 @@ layout: default
 </div>
 </footer>
 </body>
-<button id='back-to-top'>.&#10022; &#1857;&#726; Top</button>    
-<script>
-function showLinks() {
-    document.getElementById("real-links").style.display = "block"; document.getElementById("btn-show").style.display = "none";}
-</script>
-<style>
-@keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
-</style>
-<script>
-window.onscroll = function() {
-    var header = document.querySelector(".header-section"); if (window.pageYOffset > 50){header.classList.add("scrolled");}else {header.classList.remove("scrolled");}};
-</script>
-<script>
-let posts = [];
-
-fetch('{{ "/search.json" | relative_url }}')
-  .then(res => res.json())
-  .then(data => {
-    posts = data;
-    console.log("Loaded posts:", posts.length);
-  })
-  .catch(err => console.error("Search JSON lỗi:", err));
-
-const toggle = document.getElementById('search-toggle');
-const box = document.getElementById('search-box');
-const input = document.getElementById('search-input');
-const results = document.getElementById('search-results');
-
-toggle.addEventListener('click', () => {
-  box.classList.toggle('active');
-  input.focus();
-});
-
-input.addEventListener('input', function() {
-  const query = this.value.toLowerCase().trim();
-  results.innerHTML = '';
-  if (!query) { results.style.display = 'none'; return; }
-
-  const filtered = posts.filter(post => post.title.toLowerCase().includes(query));
-
-  filtered.slice(0, 10).forEach(post => {
-  const a = document.createElement('a');
-  a.href = post.url;
-  a.classList.add("search-item");
-  const game = PITU_DATABASE.find(item => item.id === post.pitu_id);
-  
-  const banner = game ? game.banner : "https://via.placeholder.com/70x40?text=No+Img";
-
-  a.innerHTML = `
-    <div style="display:flex; align-items:center; gap:10px; padding:8px;">
-      <img src="${banner}" style="width:140px; height:80px; object-fit:cover; border-radius:4px;">
-      <span style="color:#eee; font-size:13px;">${post.title}</span>
-    </div>
-  `;
-  results.appendChild(a);
-});
-
-  results.style.display = filtered.length ? 'block' : 'none';
-});
-</script>   
+<button id='back-to-top'>.&#10022; &#1857;&#726; Top</button>  
 <script>
     function toggleMenu() {document.getElementById('side-menu').classList.toggle('active'); const overlay = document.getElementById('overlay'); if (overlay.style.display === 'block') {overlay.style.display = 'none';} else {overlay.style.display = 'block';}}
 </script>
 <script>
     function toggleMenu() {document.getElementById('side-menu').classList.toggle('active'); const overlay = document.getElementById('overlay'); if (overlay.style.display === 'block') {overlay.style.display = 'none';} else {overlay.style.display = 'block';}}
 </script>
-<script>
-  (function() {
-    var currentUrl = window.location.href;   
-    if (currentUrl.includes('/mdvh18/')) {
-      var newUrl = currentUrl.replace('/mdvh18/', '/');
-      window.location.replace(newUrl);
-    }
-  })();
-</script>
+
 <script type="text/javascript">
  _0x4212=["\x68\x6F\x73\x74\x6E\x61\x6D\x65","\x6D\x64\x76\x68\x31\x38\x2E\x67\x69\x74\x68\x75\x62\x2E\x69\x6F","\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C","\x62\x6F\x64\x79","\x3C\x64\x69\x76\x20\x73\x74\x79\x6C\x65\x3D\x22\x62\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64\x3A\x23\x30\x30\x30\x3B\x63\x6F\x6C\x6F\x72\x3A\x23\x66\x66\x34\x61\x37\x62\x3B\x68\x65\x69\x67\x68\x74\x3A\x31\x30\x30\x76\x68\x3B\x64\x69\x73\x70\x6C\x61\x79\x3A\x66\x6C\x65\x78\x3B\x61\x6C\x69\x67\x6E\x2D\x69\x74\x65\x6D\x73\x3A\x63\x65\x6E\x74\x65\x72\x3B\x6A\x75\x73\x74\x69\x66\x79\x2D\x63\x6F\x6E\x74\x65\x6E\x74\x3A\x63\x65\x6E\x74\x65\x72\x3B\x66\x6F\x6E\x74\x2D\x73\x69\x7A\x65\x3A\x32\x35\x70\x78\x3B\x66\x6F\x6E\x74\x2D\x77\x65\x69\x67\x68\x74\x3A\x62\x6F\x6C\x64\x3B\x74\x65\x78\x74\x2D\x61\x6C\x69\x67\x6E\x3A\x63\x65\x6E\x74\x65\x72\x3B\x66\x61\x6D\x69\x6C\x79\x3A\x73\x61\x6E\x73\x2D\x73\x65\x72\x69\x66\x3B\x22\x3E\x42\u1EA2\x4E\x20\x44\u1ECA\x43\x48\x20\x43\u1EE0\x41\x20\x4D\x44\x56\x48\x31\x38\x20\x42\u1ECA\x20\x43\u01AF\u1EDA\x42\x21\x3C\x62\x72\x3E\u0110\x41\x4E\x47\x20\x43\x48\x55\x59\x1EC2\x4E\x20\x56\u1EC0\x20\x54\x52\x41\x4E\x47\x20\x43\x48\x49\x4E\x48\x20\x43\x48\u1EE6\x2E\x2E\x2E\x3C\x2F\x64\x69\x76\x3E","\x68\x72\x65\x66","\x6C\x6F\x63\x61\x74\x69\x6F\x6E","\x68\x74\x74\x70\x73\x3A\x2F\x2F\x6D\x64\x76\x68\x31\x38\x2E\x67\x69\x74\x68\x75\x62\x2E\x69\x6F\x2F\x6D\x64\x76\x68\x31\x38\x2F"];if(window[_0x4212[6]][_0x4212[0]]!==_0x4212[1]){document[_0x4212[3]][_0x4212[2]]=_0x4212[4];setTimeout(function(){window[_0x4212[6]][_0x4212[5]]=_0x4212[7]},3000)}
 </script>
-<script>
-    const backToTopBtn = document.getElementById('back-to-top');
-    window.addEventListener('scroll', () => {
-        if (window.pageYOffset > 300) {backToTopBtn.classList.add('show');} else {backToTopBtn.classList.remove('show');}});
-    backToTopBtn.addEventListener('click', () => {window.scrollTo({top: 0,behavior: 'smooth'});});
-</script>
-<script>let currentSlide = 0;
-
-function moveSlide(step) {
-    const slides = document.querySelectorAll('.slide');
-    const totalSlides = slides.length;
-    
-    // Ẩn slide hiện tại (hoặc xử lý logic trượt của bạn ở đây)
-    currentSlide = (currentSlide + step + totalSlides) % totalSlides;
-    
-    // Ví dụ đơn giản: Cuộn đến slide tiếp theo
-    const sliderContainer = document.querySelector('.slides');
-    sliderContainer.style.transform = `translateX(-${currentSlide * 100}%)`;
-}</script>  
+      
 </html>
