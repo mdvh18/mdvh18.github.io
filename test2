@@ -10,7 +10,8 @@ gametype: "Visual Novel"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "PC"
-dungluong: "B"
+dungluong: ""
+phienban: ""
 dev: ""
 genre: ""
 
@@ -32,7 +33,7 @@ infor: |
 
 gametype: "Visual Novel"
 language: "English"
-platform: PC/APK"
+platform: "PC/APK"
 dungluong: "B"
 phienban: ""
 dev: ""
