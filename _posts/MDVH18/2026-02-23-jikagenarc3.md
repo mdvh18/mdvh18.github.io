@@ -1,6 +1,7 @@
 ---
 layout: game
 pitu_id: "jikagenarc3"
+date: 2026-02-23 17:00:00 +0700
 title: "[Việt Hóa] Jikage Rising Arc3 - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 namebanner: "[Việt Hóa] Jikage Rising Arc3 v2.27 - [1.4GB]"
