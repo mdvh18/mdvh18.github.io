@@ -1,6 +1,7 @@
 ---
 layout: game
 pitu_id: "mindthsch"
+date: 2026-03-02 11:30:00 +0700
 title: "[Việt Hóa] Mind the School - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 namebanner: "[Việt Hóa] Mind the School v0.2.1B1 - [1.3GB]"
