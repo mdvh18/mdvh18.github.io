@@ -426,6 +426,29 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
     transform: translateY(-50%) scale(1.1);
     box-shadow: 0 0 25px #d4487f;}
 
+.prev-slide, .next-slide {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.3);
+    color: white;
+    border: none;
+    padding: 15px 20px;
+    cursor: pointer;
+    font-size: 24px;
+    z-index: 100;
+    transition: 0.3s;
+    border-radius: 5px;
+}
+
+.prev-slide:hover, .next-slide:hover {
+    background: #d4487f; /* Màu hồng đặc trưng của bạn */
+    box-shadow: 0 0 15px #d4487f;
+}
+
+.prev-slide { left: 20px; }
+.next-slide { right: 20px; }
+
 .game-grid {display: grid;
     grid-template-columns: repeat(3, 1fr); 
     gap: 20px; 
