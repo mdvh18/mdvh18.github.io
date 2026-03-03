@@ -1,6 +1,7 @@
 ---
 layout: game
 pitu_id: "thesxteac"
+date: 2026-03-02 12:00:00 +0700
 title: "[ENG] The Sx Teacher - MDVH18"
 tags: [3dcg, all, english, pc]
 namebanner: "[ENG] The Sx Teacher S.01 Ep.01 - [1.1GB]"
