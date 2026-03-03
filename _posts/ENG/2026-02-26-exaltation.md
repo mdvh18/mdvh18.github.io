@@ -1,6 +1,7 @@
 ---
 layout: game
 pitu_id: "exaltation"
+date: 2026-02-26 14:30:00 +0700
 title: "[ENG]  Exaltation! v1.1 - MDVH18"
 tags: [all, english, pc]
 namebanner: "[ENG]  Exaltation! v1.1 APK/PC- [764MB]"
