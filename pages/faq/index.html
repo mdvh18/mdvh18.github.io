@@ -89,16 +89,26 @@ layout: default
 </div>    
     </div>
 </header>
-<style>  
-.faq-container {
+<style>
+  /* Reset & Nền tối */
+  body {
+    background-color: #0f0c29;
+    margin: 0;
+    padding: 20px;
+    color: #fff;
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  }
+
+  .faq-container {
     display: grid;
-    grid-template-columns: 280px 1fr;
+    grid-template-columns: 280px 1fr; /* Chia cột: Menu trái 280px, Content còn lại */
     gap: 30px;
     max-width: 1200px;
     margin: 0 auto;
+    align-items: start;
   }
 
-  /* Sidebar bên trái */
+  /* Sidebar bên trái - Giữ nguyên style của bạn */
   .faq-side {
     background: rgba(255, 255, 255, 0.05);
     padding: 25px;
@@ -108,6 +118,7 @@ layout: default
     backdrop-filter: blur(15px);
     position: sticky;
     top: 20px;
+    z-index: 10;
   }
 
   .faq-side img {
@@ -154,35 +165,23 @@ layout: default
     text-shadow: 0 0 15px rgba(247, 143, 144, 0.4);
   }
 
-  .faq-question {
-    padding: 20px;
-    background: linear-gradient(135deg, #f78f90, #D79BBB);
-    font-weight: bold;
-    color: #fff;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    cursor: pointer;
-    text-decoration: none;
-    font-size: 18px;
-  }
-
-  /* Xóa bỏ phần :target cũ và thay bằng style cho details */
-details.faq-item {
+  /* Style cho Details & Summary (Accordion) */
+  details.faq-item {
     background: rgba(255, 255, 255, 0.03);
     margin-bottom: 15px;
     border-radius: 12px;
     overflow: hidden;
     border: 1px solid rgba(247, 143, 144, 0.15);
     transition: all 0.3s ease;
-}
+  }
 
-details.faq-item[open] {
+  /* Khi mở thì đổi màu viền */
+  details.faq-item[open] {
     border-color: #f78f90;
     box-shadow: 0 0 20px rgba(247, 143, 144, 0.2);
-}
+  }
 
-summary.faq-question {
+  summary.faq-question {
     padding: 20px;
     background: linear-gradient(135deg, #f78f90, #D79BBB);
     font-weight: bold;
@@ -191,34 +190,66 @@ summary.faq-question {
     align-items: center;
     justify-content: space-between;
     cursor: pointer;
-    list-style: none; /* Ẩn dấu mũi tên mặc định của trình duyệt */
+    list-style: none; /* Ẩn mũi tên mặc định */
     font-size: 18px;
-}
+    user-select: none;
+  }
 
-/* Ẩn dấu mũi tên mặc định trên Safari */
-summary.faq-question::-webkit-details-marker {
+  /* Ẩn mũi tên trên các trình duyệt khác nhau */
+  summary.faq-question::-webkit-details-marker {
     display: none;
-}
+  }
 
-.faq-answer {
+  /* Hiệu ứng xoay icon khi mở */
+  summary.faq-question .arrow-icon {
+    transition: transform 0.3s ease;
+  }
+
+  details.faq-item[open] summary.faq-question .arrow-icon {
+    transform: rotate(180deg);
+  }
+
+  .faq-answer {
     padding: 25px;
     background: rgba(15, 12, 41, 0.7);
     line-height: 1.8;
     border-top: 1px solid rgba(247, 143, 144, 0.1);
-}
+    color: #e0e0e0;
+  }
+
+  .faq-answer p {
+    color: #ffd166 !important;
+    font-weight: 600;
+    margin: 10px 0;
+  }
+
+  .faq-answer img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin: 15px 0;
+    border: 1px solid #f78f90;
+    transition: transform 0.4s;
+    cursor: zoom-in;
+  }
+
+  .faq-answer img:hover {
+    transform: scale(1.05);
+  }
 
   /* Mobile Responsive */
   @media screen and (max-width: 992px) {
     .faq-container {
-      grid-template-columns: 1fr;
+      grid-template-columns: 1fr; /* Trên mobile xếp thành 1 cột */
     }
     .faq-side {
       position: relative;
       top: 0;
       margin-bottom: 20px;
+      display: block; /* Đảm bảo luôn hiện trên mobile */
     }
   }
-</style>  
+</style>
 </head>
 <body>
 {{ content }}
