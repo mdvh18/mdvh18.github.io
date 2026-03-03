@@ -526,7 +526,7 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
     position: relative;
     z-index: 5;}
 
-.card-info h3 {font-size: 13px;
+.card-info h3 {font-size: 16px;
     text-decoration: none !important;
     color: #fff !important;
     margin: 0;
