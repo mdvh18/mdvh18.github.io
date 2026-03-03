@@ -1,6 +1,7 @@
 ---
 layout: game
 pitu_id: "thesunpro"
+date: 2026-03-03 12:30:00 +0700
 title: "[ENG] The Sunken Promise APK/PC- MDVH18"
 tags: [2dcg, all, english, apk, pc]
 namebanner: "[ENG] The Sunken Promise v0.6 APK/PC - [1.1GB]"
