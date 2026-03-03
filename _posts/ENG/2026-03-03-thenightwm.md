@@ -1,6 +1,7 @@
 ---
 layout: game
 pitu_id: "thenightwm"
+date: 2026-03-03 10:30:00 +0700
 title: "[ENG] The Night We Met - MDVH18"
 tags: [all, english, apk, pc]
 namebanner: "[ENG] The Night We Met v1.1 - [1.8B]"
