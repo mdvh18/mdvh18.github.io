@@ -1,6 +1,7 @@
 ---
 layout: game
 pitu_id: "theprindi"
+date: 2026-02-26 15:30:00 +0700
 title: "[Việt Hóa] The Princess Diaries - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 namebanner: "[Việt Hóa] The Princess Diaries - [523MB]"
