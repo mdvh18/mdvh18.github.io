@@ -6,7 +6,7 @@ title: "[Việt Hóa] The Secret Atelier - MDVH18"
 tags: [all, allvh, pc]
 namebanner: "[Việt Hóa] The Secret Atelier v3.0- [5.36GB]"
 mota: |
-
+ Bạn là giáo viên hướng dẫn của câu lạc bộ mỹ thuật, và người duy nhất còn lại trong phòng lúc này là Ichijou Erika.
 gametype: "Visual Novel"
 language: "Tiếng Việt"
 mdvh18: "Other"
