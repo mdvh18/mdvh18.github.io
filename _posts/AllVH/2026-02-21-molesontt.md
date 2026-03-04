@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "molesontt"
-date: 2026-02-23 15:30:00 +0700
+date: 2026-02-21 18:30:00 +0700
 title: "[Việt Hóa] Molester on the train - MDVH18"
 tags: [all, allvh, pc]
 namebanner: "[Việt Hóa] Molester on the train - [429MB]"
