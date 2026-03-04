@@ -4,14 +4,14 @@ pitu_id: "lovelydoloc"
 date: 2026-02-21 16:30:00 +0700
 title: "[Việt Hóa] Lovey-Dovey Lockdown - MDVH18"
 tags: [all, mdvh18, allvh, pc]
-namebanner: "[Việt Hóa] Lovey-Dovey Lockdown Final - [B]"
+namebanner: "[Việt Hóa] Lovey-Dovey Lockdown Final - [1.1GB]"
 mota: |
  Bạn và cô nàng crush thời đại học đã bị nhốt trong một căn phòng bởi sự can thiệp của thần thánh. Cách duy nhất để thoát ra là bạn phải…
 gametype: "Visual Novel"
 language: "Tiếng Việt"
-mdvh18: "MDVH18"
+mdvh18: "Other"
 platform: "PC"
-dungluong: ""
+dungluong: "1.1GB"
 phienban: "Final"
 dev: "Sloth Gamer"
 genre: "2DCG, Animated, Footj, Groping, Multiple endings, Toys, Voice"
