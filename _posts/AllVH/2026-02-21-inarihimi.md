@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "inarihimi"
-date: 2026-02-23 15:30:00 +0700
+date: 2026-02-21 15:30:00 +0700
 title: "[Việt Hóa] Inari - MDVH18"
 tags: [all, allvh, pc]
 namebanner: "[Việt Hóa] Inari v1.5.12 - [478MB]"
