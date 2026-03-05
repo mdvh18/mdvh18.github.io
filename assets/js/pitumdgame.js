@@ -659,11 +659,11 @@ const PITU_DATABASE = [
                "https://blogger.googleusercontent.com/img/a/AVvXsEgpfww-InlrIsONV2O4uwsxNd7ZyUgJmE2FV2k92ZfimD36TBxTssbvbL64Rfwb0ckeYUxnhZVpf0Lbthn7mL4aLdUjaZJl3jKMpdAqg3XJXpurBEqL2Gnwob1qTWh8qMdhyX312_PDbUM7tq2UV0so2MqG9zaOCfvsPdZs1K-i41VsZnl_2r3NEUei14g=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEhgAMyYw8FZkQ_I3BNrtcdcyEppKaxzm852ZdzrQSGjZIL3XB1dYsAKBEdk8H3_TEcFfr9EPzZAwCbr3izY-y-DNz88v91OpPhEaTRM2nlK8GwOP_KHrRwcnQ2tXpjYXfEzLgKpznE9MBEktggC6naXXQi-RlDzesGcG-qakaRy2_C4NFkJVxO-CkyAvWg=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEgIY8GgLEZwVHy-1UUpA6u0vgCPkyylQw4ivFoqB9WAwEuqBG-mfjqQD4cox7P-C_yTmx8KsvFQk-TX-juejIU7Pu76-DA66up7jSQT_uhThTdrAN1mDLkNXpSpPBn8QiMw4xY5mLWiw867OZXwE-vFqcearN0ou7T2D1syU1sNavJh5wTZjWuNMSPVfCI=s16000"]},
-    {id: "",
-    name: "",
-    banner: "",
-    previews: ["",
-               "",
-               "",
-               ""]}
+    {id: "strangessis",
+    name: "Việt Hóa Strange Search Sister",
+    banner: "https://blogger.googleusercontent.com/img/a/AVvXsEj0svfsURPerefj8XL1eYjynU6feztTdj7antX2B6HlGRXx-j-sBUrbxwY6px78K-9e_ha8I5CrVQp5UmN3aicVbdrDXWNWgEScZ15HQn1nBfNAcTuvfzJUryzRynpz0GzS9EhNvD2lo1JGJG8I42FS83VLYF3o2nhxA2hhZoVpFo7uYL7Z2gDIDYzkxhg=s16000",
+    previews: ["https://blogger.googleusercontent.com/img/a/AVvXsEhkYmH70NsfBC68N5b-Fw7kugETcbjuth8VNEXU-GUHZbYOXhz8l6gSC8CsyZeOY12dUxuRZBc5V8DU7Nx8db22CO_479RAIlqQKZzd9FRyyqoVYGT3PgigYyPn-7XyGUxr3wlgEOy8vZqr8I54xuiT3DYyG5VQGEsJm0DXC6MblFVZYQ76BfWo-VxHYU4=s16000",
+               "https://blogger.googleusercontent.com/img/a/AVvXsEjzrvbs-1bZ964t6M6XsjBcYhuHApNIlgKqBvk9VZkLmLL6ciZ37Rxxgd4LwHnw6rmM3oRSOq4cXvvCu-5lKLRkjJRXcOuvvyZAD8BjqMV0coaoz8hybDcdM8aQ1UE4xWEwuFoKrD4ACCWaWXrwR-ktoJERRXHv7Fx6gelHBITKbvHIGmK1WkoSBcyYsMY=s16000",
+               "https://blogger.googleusercontent.com/img/a/AVvXsEgWbO1etImzVIw4M8Djr1ouArZs2G9agMpqWkQkMuSIgv1JncOUfQ6y7BMYT1_yBbr5-2CkusXA48P9xtvHqHaM6iqFbPJ6C0c9WIKH7MHTTa2ltjaw-oENdMIgBTfXfAfZAuIIEhUqX4tlEBtYh8a2H9YAO3nGZGCslnbR12Ngws9oy71ayuJg_oONhKg=s16000",
+               "https://blogger.googleusercontent.com/img/a/AVvXsEiKToixESXrkxJiih-E5uGNwhw1winjiGSbjLeH6taOM4erDTK1qpDu3Z1-yB6iPYT7BXOGs-uHKYbElZpGU3tKQRt_XVTo8OzLLcWk3i9Sn2yvroYcowukjKoH6QLozCxH7BdGZGXfw2nQppNx0Glq1yXfvkbC1LMNHmHJGNlAY4hSTK3GDYdzRy8SbnA=s16000"]}
 ];
