@@ -17,5 +17,5 @@ dev: "ParallaxTeam"
 genre: "2D, Adult, Eroge, Erotic, Fangame, Fantasy, Interactive Fiction, Romance"
 
 linkgofileapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9LdGplNVg="
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQmQ5WmxyODllRkpOOG9sRHBwUThjQQ=="
+linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQmQ5WmxyODllRkpOOG9sRHBwUThjQQ=="
 ---
