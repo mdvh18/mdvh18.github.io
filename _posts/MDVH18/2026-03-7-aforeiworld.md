@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "aforeiworld"
-date: 2026-03-7 16:30:00 +0700
+date: 2026-03-7 20:30:00 +0700
 title: "Việt Hóa A Foreign World - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 namebanner: "[Việt Hóa] A Foreign World Ep.9 APK/PC - [1.4GB]"
