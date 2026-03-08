@@ -18,6 +18,5 @@ phienban: "v1.1.1"
 dev: "YumamiSoft"
 genre: "3DCG, Animated, Combat, Monster, Monster girl, Rpg, Side-scroller, Transformation"
 
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9aTkJUbTY="
 linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYlpfamhJbW5GM3ZOZnloV2o0M2F1dw=="
 ---
