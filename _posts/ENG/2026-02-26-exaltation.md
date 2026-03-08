@@ -18,6 +18,5 @@ phienban: "v1,1"
 dev: "isvrat"
 genre: "Adult, Erotic, Femdom, Romance, Visual Novel"
 
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9yUmFDd0o="
 linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNUVCVUxPanZwamp5M090RHhhWUxkUQ=="
 ---
