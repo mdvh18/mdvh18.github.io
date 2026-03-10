@@ -826,12 +826,12 @@ const PITU_DATABASE = [
     previews: ["https://blogger.googleusercontent.com/img/a/AVvXsEiE-T266y_lGdP7aIvR0cIkSJ0yd0pS-5VvxcGJdSuwD5tbGM9KPehVB8XTcN5XUC0Yt0FNMUpnmLReFOXo49jxPg0YUQr0T1-Ovkn_ROhfpBf-Z1NPX-3pLo7YoeqTsLJ_ejtuC8-fWLS2K_9X-jmQWKlBQYs6u7c6OeldE8iLm3q28sQ-j4hIuDbvkdI=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEikOiz7hHSIFHIbhijfgrc7m0q4jvqovscBZ13usTiAlq-wRTRdV6Q_yWptQVIYXBy-7I5HWDdcfjuyIowAhngzRE2l1uYxVb7Nw8uA2pyQMAn2WisfRh0KZkv3u5pxSolzYH3MSSj23O7AC5T8DN9PFonGiHIoEPMA8SA1E91siZou9uSHs87WqHfZ9DM=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEjtl8XmhBPHeMJW2t5apbdEXxBXQz7PlWOKQibZm7b1invBpYzfKoIU7OMqSMyospjUp2Zg6nXbhe-G6hf1VLwKCM12KUQ9Tsu05sxlQa9zmx_Fjd_Z0b7XrCcScm588qeMbDfV1NWpyYta1JOhoeg_63H5_Jveo-m3JelNbyO_vtZAN98PHZaUw9lTDiY=s16000",
-               "https://blogger.googleusercontent.com/img/a/AVvXsEgSl1_cvt_UDnevLmOzoolsxyk8xq4aLWP22Z1R48qjqCxyEhvKCMshB3J6XVMVGcwwumb8pC69kbLVfwQjyIL46SlEO40u2zsd5mu3XL4UCE2FLkec8J_KMO3IOwnLjnE-Unn1uIwJnBkfqIVQNVyiUbJ7rtmYlJEGOmFApYtLnyuSI0sY4iK9QIS3otQ=s16000"],
+               "https://blogger.googleusercontent.com/img/a/AVvXsEgSl1_cvt_UDnevLmOzoolsxyk8xq4aLWP22Z1R48qjqCxyEhvKCMshB3J6XVMVGcwwumb8pC69kbLVfwQjyIL46SlEO40u2zsd5mu3XL4UCE2FLkec8J_KMO3IOwnLjnE-Unn1uIwJnBkfqIVQNVyiUbJ7rtmYlJEGOmFApYtLnyuSI0sY4iK9QIS3otQ=s16000"]},
      {id: "",
     name: "",
     banner: "",
     previews: ["",
                "",
                "",
-               ""]
+               ""]}
 ];
