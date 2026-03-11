@@ -17,6 +17,6 @@ dev: "BRdsky"
 genre: "3DCG, Animated, Groping, Harem, Romance, Teasing, Mastur, School setting."
 
 linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2JFYkhmU0I1"
-linkpixelapk: "https://mdvh18.github.io/download.html?url="
+linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0gxWTF3QkJI"
 linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUDNPRHd3Q3d1Sk1BaVo0bl9mR3BwQQ=="
 ---
