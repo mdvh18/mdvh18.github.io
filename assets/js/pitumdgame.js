@@ -1009,7 +1009,7 @@ const PITU_DATABASE = [
                "https://blogger.googleusercontent.com/img/a/AVvXsEjp7zAw0u5wufhmBgrzRTJZV93ADAQi8El7TS7Ehh4c5sO81Nep9aaLQCEvCSFe-0bJCH53mbkWkTBDzeyaoDAMyQp9O9MXWhZNLu3VRa8GbPM-WnujTU9AWEaHDaHfq00Vu_zJzb4PRFP3Avc-DBGvREBosrmzWPFZoz-BT6lkPNcKAaXsLmD1mNXxnxk=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEgKzKX-5XazV8uvKHPU5ePu-2h_i5gSi0GuZQs5ELy_uAWwYbW05OLhzdUm07DZKVbY7LNI5hjiyvjMLksCqPl4tC7oonZTw0svWK8vbU0K-jVbpj44gjjgavo-tGQvHuMqvsW7m5yvn5mED_94T2rVVw7z9QbiRanY70AzSgyFOyBBKRM6_Y2meEvazew=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEi1wmoaopD3Zk1SzB9PhvZRZ3l11WKhiWRNV3eGtUz9Qc1r0Q5EjKDArw3RTaUXADN52PQBaa6mCF35llvz-L5m6Ti8Y2Eyb_5dfbNwEJbnlc7yS_EIkLM5aVMaY5U1Y7DtVxaWxj6REHNAC00JUrANnwlpkHeCDZEV465QWORFhs9UELCKqwaA63lrogo=s16000"]},
-    {id: "",
+    {id: "fightingfantasy2",
     name: "MDVH18 Fighting Fantasy",
     banner: "https://blogger.googleusercontent.com/img/a/AVvXsEgvAeqYim9-Az8b8dis16vAbaLmFURUyahMV6HVpIerOHV5QZSWb1Y_MNZqC15DWrrov-fPhptRhWXhWXZ9V08o3WQ6Er41UF2JmtVgqRWzWUralcezpmW0Ii4Gp_owJW_Wd1swHM_LRVT31N2LNy2n1d_QDsLVicC5LACvIDvtxZJlNwfLWTWsjB35zzM=s16000",
     previews: ["https://blogger.googleusercontent.com/img/a/AVvXsEgKjMXDoxGGXnbhyeugXbKH4dFXU417i5jM9hzUr-D2WBvQuJHDVvTqDlTU5GN-WQ3lvey08WgqT4O6yPlRF4a-QYr-m2fZGL5tm0_pH7Gs_3Pqi5n1AKwU8t3VoHVezPwO8d55MCWQKC1IFWQVF2QumchTzQH_lfGv00OPaK5Xa5De484ryeUfO3Glduc=s16000",
