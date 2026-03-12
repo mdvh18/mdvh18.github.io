@@ -997,7 +997,7 @@ const PITU_DATABASE = [
                "https://blogger.googleusercontent.com/img/a/AVvXsEgFuKIRCSUkxO8g8U3DJrFpSGIQAxvapXqC_78Q1J-tgip123dbWkqcDaRbRFX3qhUw1LtiQBjwTwhLAUyufg8aHzN5hu3adZepdgCNq8_xDwTr6QZa9tzaYvwArxwkc4qM5jdMQlsIGPmjoafSKcWMoDsADTLyuDeiPs5ZKlVUtqDzogLMj_KKzM4r_BQ=s16000"]},
     {id: "mygamynightmare",
     name: "Việt Hóa My Girlfriend and My Nightmare",
-    banner: "https://blogger.googleusercontent.com/img/a/AVvXsEj6bEExAPzWOZ8tJEb2xOzA5ncHSy1QNknWbTKZpueR36UbuRIuYGNYttDt4vUfyg19HSqPgJvpNqRzMKmkhLh_4OvdHSYGP_HElp1pJrKA-AxTyDwWLrE6SEg7LSBSOg7cG_yIuTitlaDFtfZJmeGgIy3SZF_C7j5a8kJgyY30h-4f0Kf8nxLNiCtWYfA=s16000",
+    banner: "https://blogger.googleusercontent.com/img/a/AVvXsEgmssywENXSE7pMbR6RqSXhTISGLP_pbv64tRRbTu36kCZhsTIZLT3g3jYk9Gm1StaQi10jrKumPPNAu1GIQfX4rB6znUYFOkRsaXRsvU1ISyMHIUlT7rzDpUXRnT7O1umkxJ-RsMSDMv5fSUYftrsRPHyGNgmGPFc3criO4h3RYgIEpXMBiuPePIwvEwI=s16000",
     previews: ["https://blogger.googleusercontent.com/img/a/AVvXsEg-TgXrKXMRjQ_PEV2Oix68V6SSCtyqBtArt_XfB9tpDnrTI7fMLhgRohXXrLA_De8v2DCEsT-t0DivL_sT0bFEFw4piGtYjEvkdsVN_Nzf8PFtXN2SSpv3KwWHIJ1uZXUykdX9b9mbdkO_plIh_NWaE_7zPfKGZUh_H-B6mpnZ-0Hl8j-3_ITFPzJxjdw=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEjEl1GkIN8rbu9i_bWcmGZVS-wNgIlx21yv_W_zr3A83vkiTOHRK5Lvkq_R56MCfE4grJDU_3DH0eMWiw8Lugv_6rYwlLfCwZa5mdHUIi_GM4-PSLsB9IkwgjvCtNbcCR0zVHVVc3aagauc52SAJmNdZmxEwf3Uz3AulpWLZR2qa5kUMqEJ_eQAd7jx_AI=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEgWXtxVV-Yehn01N4BqLvwTzGSwuEsOBhunID1Ss8DufakHzQj9NmMXhSpwkP9VClm8BJMXZMLLF4ZQ0Yqkx5nHXGOmA3_TqGroKAx6Cbu0wcohbezPaIVG5J_rtak-l_WGISHaARpMDBeC2Eewi8YkXZY_YnhLvTwRDTpY27EMqD9-1yFtxzb2Jhrxuw8=s16000",
