@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "fightingfantasy2"
-date: 2026-03-13 10:30:00 +0700
+date: 2026-03-13 4:30:00 +0700
 title: "ENG Fighting Fantasy 2 - MDVH18"
 tags: [all, english, pc]
 namebanner: "[ENG] Fighting Fantasy 2 Final - [229MB]"
