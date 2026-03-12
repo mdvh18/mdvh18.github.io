@@ -17,6 +17,6 @@ dev: "Naughty4Life Games"
 genre: "3DCG, Animated, Adventure, Point & Click , Romance"
 
 linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2szY2hqWDNC"
-linkpixelapk: "https://mdvh18.github.io/download.html?url="
+linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L01pc05TODlj"
 linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xeHd3NEM1QVM5Y1k1b0xNd052OVlPUQ=="
 ---
