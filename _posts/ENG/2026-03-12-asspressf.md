@@ -6,7 +6,7 @@ title: "ENG ASS: PRESS F! Final - MDVH18"
 tags: [all, english, apk, pc]
 namebanner: "[ENG] ASS: PRESS F! Final - [B]"
 mota: |
-Trong một thế giới nơi những giấc mơ về một cuộc sống tốt đẹp hơn hiếm khi trở thành hiện thực
+ Trong một thế giới nơi những giấc mơ về một cuộc sống tốt đẹp hơn hiếm khi trở thành hiện thực
 
 infor: |
  This is a unique animated clicker game where girls use their greatest asset — their irresistible, perfect butts. In a world where dreams of a better life rarely come true
