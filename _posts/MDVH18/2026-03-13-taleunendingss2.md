@@ -16,7 +16,7 @@ phienban: "0.22.5 Extra Scenes Edition"
 dev: "Perverteer"
 genre: "3DCG, Adventure, Group, Handj, Harem, Milf, Sci-fi"
 
-linkpixelpc: "https://mdvh18.github.io/download.html?url="
-linkpixelapk: "https://mdvh18.github.io/download.html?url="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url="
+linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L01qWXdIdE1U"
+linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91Lzh2emtHNmY3"
+linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOVhESlpqMUFJQ0pYV0V3TjdXZkV6QQ=="
 ---
