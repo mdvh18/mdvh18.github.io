@@ -17,5 +17,5 @@ dev: "NSFW NexusBlade"
 genre: "3DCG, Animated, Fantasy, Adventure, Groping, Parody, Sci-fi, Cosplay, Point and click, simulator, Toys"
 
 linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0w3MnU1SDdz"
-linkggdrive: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xelNOWGU0NXZyUmVUYlVmTkY2SVpqZ2JLTlJTWHFQUTgvdmlldz91c3A9c2hhcmluZw=="
+linkggdrive: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xelNOWGU0NXZyUmVUYlVmTkY2SVpqZ2JLTlJTWHFQUTgvdmlldw=="
 ---
