@@ -39,75 +39,105 @@
     </div>
 
     <script>
-        (function() {
-            const urlParams = new URLSearchParams(window.location.search);
-            const encoded = urlParams.get('url');
-            const timerEl = document.getElementById('timer');
-            const manualBtn = document.getElementById('manual-link');
-            const boxEl = document.getElementById('main-box');
-            
-            let targetUrl = "";
+    (function() {
+        const urlParams = new URLSearchParams(window.location.search);
+        let encoded = urlParams.get('url');
+        const timerEl = document.getElementById('timer');
+        const manualBtn = document.getElementById('manual-link');
+        const boxEl = document.getElementById('main-box');
+        
+        let targetUrl = "";
 
-            if (encoded) {
-                try {
-                    targetUrl = atob(encoded);
-                    if (targetUrl.includes('mdvh18.github.io/mdvh18/')) {
-                        targetUrl = targetUrl.replace('mdvh18.github.io/mdvh18/', 'mdvh18.github.io/');}
-                    if (targetUrl.includes('pixeldrain.com')) {
-                        showPixeldrainFAQ();} 
-                    else if (targetUrl.includes('terabox.com') || targetUrl.includes('teraboxapp.com') || targetUrl.includes('1024tera.com')) {
-                        showTeraboxFAQ();}
-                    let timeLeft = 4;
-                    const countdown = setInterval(() => {
-                        timeLeft--;
-                        timerEl.innerText = timeLeft;
-                        if (timeLeft <= 0) {
-                            clearInterval(countdown);
-                            window.location.href = targetUrl;
+        if (encoded) {
+            try {
+                // 1. Fix lỗi Base64: Chuyển khoảng trắng (do trình duyệt tự convert từ dấu +) về dạng chuẩn
+                // và xóa mọi ký tự xuống dòng/cách dư thừa
+                encoded = encoded.trim().replace(/\s/g, '+');
+                
+                // 2. Giải mã
+                targetUrl = atob(encoded);
+                
+                // 3. Dọn dẹp link sau giải mã: Xóa các ký tự điều khiển và khoảng trắng vô hình
+                targetUrl = targetUrl.replace(/[\x00-\x1F\x7F-\x9F]/g, "").trim();
+
+                // 4. Logic thay đổi domain nội bộ
+                if (targetUrl.includes('mdvh18.github.io/mdvh18/')) {
+                    targetUrl = targetUrl.replace('mdvh18.github.io/mdvh18/', 'mdvh18.github.io/');
+                }
+
+                // 5. Kiểm tra domain để hiển thị thông báo hỗ trợ
+                if (targetUrl.includes('pixeldrain.com')) {
+                    showPixeldrainFAQ();
+                } 
+                else if (targetUrl.includes('terabox') || targetUrl.includes('1024tera') || targetUrl.includes('teraboxapp')) {
+                    showTeraboxFAQ();
+                }
+                else if (targetUrl.includes('buzzheavier.com')) {
+                    showBuzzheavierNotice();
+                }
+
+                // 6. Đếm ngược và chuyển hướng
+                let timeLeft = 4;
+                const countdown = setInterval(() => {
+                    timeLeft--;
+                    if (timerEl) timerEl.innerText = timeLeft;
+                    
+                    if (timeLeft <= 0) {
+                        clearInterval(countdown);
+                        
+                        // Cập nhật link cho nút thủ công trước
+                        if (manualBtn) {
+                            manualBtn.href = targetUrl;
                             manualBtn.style.display = 'inline-block';
-                            manualBtn.href = targetUrl;}}, 1000);} 
-                catch (e) {boxEl.innerHTML = "<h3>LỖI GIẢI MÃ</h3><p>Dữ liệu link không đúng định dạng.</p>";}} 
-            else {boxEl.innerHTML = "<h3>LỖI ĐƯỜNG DẪN</h3><p>Không tìm thấy liên kết yêu cầu.</p>";}
+                        }
+                        
+                        // Thực hiện chuyển hướng sạch (replace giúp không bị lặp trang khi quay lại)
+                        window.location.replace(targetUrl);
+                    }
+                }, 1000);
 
-            function showPixeldrainFAQ() {
-                const toast = document.createElement('div');
-                toast.id = 'pixeldrain-toast';
-                toast.className = 'toast-custom';
-                toast.style.border = '2px solid #f78f90';
-                toast.innerHTML = `
-                    <div style="display:flex; align-items:center; margin-bottom:12px;">
-                        <span style="font-size:24px; margin-right:10px;">🚀</span>
-                        <strong style="color:#f78f90; font-size:16px;">Phát hiện Pixeldrain!</strong>
-                    </div>
-                    <p style="font-size:14px; line-height:1.5; margin-bottom:15px; color:#e0e0e0;">Link này có giới hạn 6GB/ngày. Bro nhớ xem FAQ để biết mẹo tải không giới hạn nhé!</p>
-                    <div style="text-align:right;">
-                        <a href="https://mdvh18.blogspot.com/p/faq.html" target="_blank" style="background:#f78f90; color:#1a1131; padding:8px 15px; border-radius:20px; text-decoration:none; font-weight:bold; font-size:13px; display:inline-block; transition:0.3s;">XEM FAQ NGAY</a>
-                    </div>`;
-                document.body.appendChild(toast);
-                autoRemove(toast);}
+            } catch (e) {
+                console.error("Decode error:", e);
+                boxEl.innerHTML = "<h3>LỖI GIẢI MÃ</h3><p>Dữ liệu link không đúng định dạng hoặc bị hỏng.</p>";
+            }
+        } else {
+            boxEl.innerHTML = "<h3>LỖI ĐƯỜNG DẪN</h3><p>Không tìm thấy liên kết yêu cầu.</p>";
+        }
 
-            function showTeraboxFAQ() {
-                if (document.getElementById('terabox-toast')) return;
-                const toast = document.createElement('div');
-                toast.id = 'terabox-toast';
-                toast.className = 'toast-custom';
-                toast.style.border = '2px solid #54b5f5';
-                toast.innerHTML = `
-                    <div style="display:flex; align-items:center; margin-bottom:12px;">
-                        <span style="font-size:24px; margin-right:10px;">☁️</span>
-                        <strong style="color:#54b5f5; font-size:16px;">Phát hiện Terabox!</strong>
-                    </div>
-                    <p style="font-size:14px; line-height:1.5; margin-bottom:15px; color:#e0e0e0;">Link Terabox đôi khi yêu cầu đăng nhập hoặc dùng App để tải nhanh hơn. Xem FAQ ngay!</p>
-                    <div style="text-align:right;">
-                        <a href="https://mdvh18.blogspot.com/p/faq.html" target="_blank" style="background:#54b5f5; color:#1a1131; padding:8px 15px; border-radius:20px; text-decoration:none; font-weight:bold; font-size:13px; display:inline-block; transition:0.3s;">XEM FAQ NGAY</a>
-                    </div>`;
-                document.body.appendChild(toast);
-                autoRemove(toast);}
+        // --- Các hàm hiển thị thông báo ---
 
-            function autoRemove(el) {
-                setTimeout(() => {
-                    el.style.transform = 'translateX(120%)';
-                    el.style.transition = '0.8s ease-in';
-                    setTimeout(() => el.remove(), 800);}, 10000); }})();</script>
+        function showPixeldrainFAQ() {
+            createToast('🚀', 'Phát hiện Pixeldrain!', 'Link này giới hạn 6GB/ngày. Xem FAQ để biết mẹo tải không giới hạn.', '#f78f90');
+        }
+
+        function showTeraboxFAQ() {
+            createToast('☁️', 'Phát hiện Terabox!', 'Nên đăng nhập hoặc dùng App để tránh bị giới hạn tốc độ tải.', '#54b5f5');
+        }
+
+        function showBuzzheavierNotice() {
+            createToast('⚡', 'Phát hiện Buzzheavier!', 'Dịch vụ lưu trữ tốc độ cao. Nếu lỗi, hãy thử tắt VPN.', '#ffeb3b');
+        }
+
+        function createToast(icon, title, desc, color) {
+            const toast = document.createElement('div');
+            toast.className = 'toast-custom';
+            toast.style.cssText = `border: 2px solid ${color}; padding: 15px; background: #1a1131; border-radius: 10px; position: fixed; bottom: 20px; right: 20px; z-index: 9999; max-width: 300px; transition: 0.5s;`;
+            toast.innerHTML = `
+                <div style="display:flex; align-items:center; margin-bottom:12px;">
+                    <span style="font-size:24px; margin-right:10px;">${icon}</span>
+                    <strong style="color:${color}; font-size:16px;">${title}</strong>
+                </div>
+                <p style="font-size:14px; line-height:1.5; margin-bottom:15px; color:#e0e0e0;">${desc}</p>
+                <div style="text-align:right;">
+                    <a href="https://mdvh18.blogspot.com/p/faq.html" target="_blank" style="background:${color}; color:#1a1131; padding:5px 12px; border-radius:15px; text-decoration:none; font-weight:bold; font-size:12px;">XEM FAQ</a>
+                </div>`;
+            document.body.appendChild(toast);
+            setTimeout(() => {
+                toast.style.transform = 'translateX(120%)';
+                setTimeout(() => toast.remove(), 800);
+            }, 8000);
+        }
+    })();
+</script>
 </body>
 </html>
