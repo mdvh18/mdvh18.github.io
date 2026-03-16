@@ -4,6 +4,7 @@ pitu_id: "celsector"
 date: 2026-02-25 18:30:00 +0700
 title: "[ENG] CelSector v1.1.1 - MDVH18"
 tags: [all, english, pc, apk]
+typegame: ["PC", "APK"]
 namebanner: "[ENG] CelSector v1.1.1 - [489MB]"
 mota: |
  Một thế giới điên loạn, nơi những giới hạn của cơ thể bị phá vỡ và thay đổi hoàn toàn. Linh hồn tội nghiệp bị kẹt lại nơi đây, hoặc phải tìm cách trốn thoát khỏi những thực thể kỳ dị đang lảng vảng trong bóng tối, hoặc cơ thể của họ sẽ bị chúng đồng hóa.
