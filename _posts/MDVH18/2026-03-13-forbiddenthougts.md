@@ -2,9 +2,10 @@
 layout: game
 pitu_id: "forbiddenthougts"
 date: 2026-03-13 13:30:00 +0700
-title: "Việt Hóa Forbidden Thoughts APK/PC - MDVH18"
+title: "Việt Hóa Forbidden Thoughts - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
-namebanner: "[Việt Hóa] Forbidden Thoughts v0.3.5 APK/PC - [1.1GB]"
+typegame: ["PC", "APK"]
+namebanner: "[Việt Hóa] Forbidden Thoughts v0.3.5 - [1.1GB]"
 mota: |
  Forbidden Thoughts là một tiểu thuyết trực quan 18+ xoay quanh cốt truyện về cuộc sống thường nhật, nơi những cuộc trò chuyện bình thường và những ánh nhìn tình cờ dần phát triển thành những suy nghĩ và quyết định cấm kỵ.
 gametype: "Visual Novel"
