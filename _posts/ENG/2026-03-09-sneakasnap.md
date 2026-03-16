@@ -4,6 +4,7 @@ pitu_id: "sneakasnap"
 date: 2026-03-09 12:30:00 +0700
 title: "ENG Sneak A Snap - MDVH18"
 tags: [all, english, pc]
+typegame: ["PC"]
 namebanner: "[ENG] Sneak A Snap v0.1.1 - [1.5GB]"
 mota: |
  Chiếc máy ảnh chính là vũ khí, khả năng căn chỉnh thời gian là kỹ năng, và mục tiêu của bạn? Chụp được những bức hình hoàn hảo...
