@@ -549,7 +549,7 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
     right: 8px;
     display: flex;
     flex-direction: column;
-    gap: 4px;
+    gap: 2px;
     z-index: 5;
 }
 
