@@ -4,6 +4,7 @@ pitu_id: "peeidrmng"
 date: 2026-02-21 20:30:00 +0700
 title: "[Việt Hóa] Peeping Dorm Manager - MDVH18"
 tags: [all, allvh, pc]
+typegame: ["PC"]
 namebanner: "[Việt Hóa] Peeping Dorm Manager v1.1.0 - [595MB]"
 mota: |
  Nhìn trộm! Nghe lén! Quay lén! Đây là những kỹ năng thiết yếu đối với một người quản lý ký túc xá! Tất nhiên, cũng có những công việc tầm thường như sửa chữa điện nước, dọn dẹp và đi đổ rác.
