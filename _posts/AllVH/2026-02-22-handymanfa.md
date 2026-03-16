@@ -4,6 +4,7 @@ pitu_id: "handymanfa"
 date: 2026-02-22 16:30:00 +0700
 title: "[Việt Hóa] Handyman Fantasy - MDVH18"
 tags: [all, allvh, pc]
+typegame: ["PC"]
 namebanner: "[Việt Hóa] Handyman Fantasy DLC - [142MB]"
 mota: |
  Một ngày nọ, anh ta nhận được một yêu cầu sửa chữa thông thường và lên đường tới nhà khách hàng. Sau khi sửa xong bồn cầu và thực hiện xả nước thử nghiệm, chiếc bồn cầu bỗng phát ra luồng sáng rực rỡ, hút anh ta vào một cánh cổng huyền bí.
