@@ -4,6 +4,7 @@ pitu_id: "fightingfantasy2"
 date: 2026-03-13 4:30:00 +0700
 title: "ENG Fighting Fantasy 2 - MDVH18"
 tags: [all, english, pc]
+typegame: ["PC"]
 namebanner: "[ENG] Fighting Fantasy 2 Final - [229MB]"
 mota: |
  Fighting Fantasy fighting game 2 ....chọn con hàng của bạn... rồi vả vỡ mặt con hàng kia.....
