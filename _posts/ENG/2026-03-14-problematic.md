@@ -4,6 +4,7 @@ pitu_id: "problematic"
 date: 2026-03-14 10:00:00 +0700
 title: "ENG Problematic Subjects - MDVH18"
 tags: [all, english, pc]
+typegame: ["PC"]
 namebanner: "[ENG] Problematic Subjects v1.2.0 - [131MB]"
 mota: |
  Đã đến giờ cấm túc tại trường Ravenscroft rồi! Và Emily Green luôn có một phương pháp cực kỳ đặc biệt để đối phó với những thành phần cá biệt nhất...
