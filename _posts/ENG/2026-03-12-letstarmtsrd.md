@@ -4,6 +4,7 @@ pitu_id: "letstarmtsrd"
 date: 2026-03-12 10:30:00 +0700
 title: "ENG Let's Start Managing the Sexual Relief Department! - MDVH18"
 tags: [all, english, apk, pc]
+typegame: ["PC", "APK"]
 namebanner: "[ENG] Let's Start Managing the Sexual Relief Department! APK/PC - [302MB]"
 mota: |
  Một ngày nọ, Sinano cũng nhận ra rằng cô ấy là thành viên của bộ phận và bắt đầu đối mặt với nó một cách bình tĩnh. Tận dụng vị trí của mình, tôi bắt đầu công việc giải tỏa tình dục bí mật với các đồng nghiệp cấp dưới tại văn phòng vào ban đêm...
