@@ -4,6 +4,7 @@ pitu_id: "weddingroa"
 date: 2026-03-06 11:30:00 +0700
 title: "[Việt Hóa] Wedding Roaming - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
+typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Wedding Roaming v1.0 APK/PC - [410MB]"
 mota: |
  Bạn và vợ đang cùng nhau tìm kiếm những phương thức mới để hâm nóng tình cảm lứa đôi. Liệu bạn có hứng thú với việc chia sẻ trải nghiệm cùng người khác hay khám phá những khía cạnh của trò chơi cắm sừng?
