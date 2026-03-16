@@ -4,6 +4,7 @@ pitu_id: "asspressf"
 date: 2026-03-11 11:31:00 +0700
 title: "ENG ASS: PRESS F! Final - MDVH18"
 tags: [all, english, apk, pc]
+typegame: ["PC", "APK"]
 namebanner: "[ENG] ASS: PRESS F! Final - [B]"
 mota: |
  Trong một thế giới nơi những giấc mơ về một cuộc sống tốt đẹp hơn hiếm khi trở thành hiện thực
