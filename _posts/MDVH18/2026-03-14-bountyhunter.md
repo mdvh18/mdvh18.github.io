@@ -4,6 +4,7 @@ pitu_id: "bountyhunter"
 date: 2026-03-14 14:30:00 +0700
 title: "Việt Hóa Bounty Hunter v0.2.0 - MDVH18"
 tags: [all, mdvh18, allvh, pc]
+typegame: ["PC"]
 namebanner: "[Việt Hóa] Bounty Hunter v0.2.0 - [7.39GB]"
 mota: |
  Game mở khóa các nhân vật nữ nổi tiếng trong các tựa game AAA, đã tăng thêm tiền khởi đầu và tiền tăng x8 mỗi s.
