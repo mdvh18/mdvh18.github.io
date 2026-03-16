@@ -2,9 +2,10 @@
 layout: game
 pitu_id: "taleofhome"
 date: 2026-03-11 14:30:00 +0700
-title: "ENG Tales of Home v0.3.5 APK/PC- MDVH18"
+title: "ENG Tales of Home v0.3.5 - MDVH18"
 tags: [all, english, apk, pc]
-namebanner: "[ENG] Tales of Home v0.3.5 APK/PC - [476MB]"
+typegame: ["PC", "APK"]
+namebanner: "[ENG] Tales of Home v0.3.5 - [476MB]"
 mota: |
  Hóa thân thành một chàng trai trẻ ở một thị trấn nhỏ yên tĩnh, vẫn còn bàng hoàng sau sự ra đi gần đây của người cha. Khi cậu đứng ra gánh vác để hỗ trợ gia đình mình
 
