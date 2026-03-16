@@ -4,6 +4,7 @@ pitu_id: "christatonya"
 date: 2026-02-22 14:30:00 +0700
 title: "[Việt Hóa] Christa & Tonyo - MDVH18"
 tags: [all, allvh, pc]
+typegame: ["PC"]
 namebanner: "[Việt Hóa] Christa & Tonyo v1.101 - [219MB]"
 mota: |
  Tại một nơi nào đó ở Đông Nam Á, cuộc sống của một cặp vợ chồng đã rẽ hướng bất ngờ sau khi một vụ tai nạn lao động khiến người chồng bị tàn tật tạm thời.
