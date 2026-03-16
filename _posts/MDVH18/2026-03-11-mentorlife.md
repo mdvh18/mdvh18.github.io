@@ -4,6 +4,7 @@ pitu_id: "mentorlife"
 date: 2026-03-11 17:30:00 +0700
 title: "Việt Hóa Mentor Life - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
+typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Mentor Life v0.4 Remake - [2GB]"
 mota: |
  Bên chính quyền đang mở một trường cao đẳng mới, nơi cậu sẽ nhận vai trò người hướng dẫn cho một nhiệm vụ đặc biệt. Cậu sẽ đi tuần quanh trường, ghé thăm các câu lạc bộ, phòng ký túc xá, và để mắt tới những đứa học sinh dám phá luật trường.
