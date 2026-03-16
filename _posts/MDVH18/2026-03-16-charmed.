@@ -1,0 +1,21 @@
+---
+layout: game
+pitu_id: "charmed"
+date: 2026-03-16 11:30:00 +0700
+title: "Việt Hóa Charmed v0.0.13.0 - MDVH18"
+tags: [all, mdvh18, allvh, pc]
+namebanner: "[Việt Hóa] Charmed v0.0.13.0 - [B]"
+mota: |
+ Ngày xửa ngày xưa, có một chàng trai trẻ luôn nhìn đời bằng ánh mắt lạc quan dù ví tiền thì trống rỗng... Đây là khởi đầu cho câu chuyện của cậu ấy—một hành trình đầy rẫy khó khăn, những đổi thay và cả những cơ hội không ngờ tới.
+gametype: "Visual Novel"
+language: "Tiếng Việt"
+mdvh18: "MDVH18"
+platform: "PC"
+dungluong: ""
+phienban: "v0.0.13.0"
+dev: "rule34game"
+genre: "Anime, Dating Sim, Romance, 2D"
+
+linkpixel: "https://mdvh18.github.io/download.html?url="
+linktera: "https://mdvh18.github.io/download.html?url="
+---
