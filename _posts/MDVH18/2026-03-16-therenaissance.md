@@ -2,10 +2,10 @@
 layout: game
 pitu_id: "therenaissance"
 date: 2026-03-16 12:30:00 +0700
-title: "Việt Hóa The Renaissance APK/PC - MDVH18"
+title: "Việt Hóa The Renaissance - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK", "Compressed"]
-namebanner: "[Việt Hóa] The Renaissance v0.7 APK/PC [2.7GB/600MB]"
+namebanner: "[Việt Hóa] The Renaissance v0.7 [2.7GB/600MB]"
 mota: |
  Trò chơi sẽ kể cho bạn nghe về một anh chàng điển trai và tự tin, người đã chạm đến những đỉnh cao đáng nể khi tuổi đời còn rất trẻ. Anh ta chưa bao giờ gặp khó khăn trong việc tán tỉnh bất kỳ người đàn bà nào mình muốn, và sự nghiệp của anh ta cũng thăng tiến với tốc độ không thể tin nổi.
 gametype: "Visual Novel"
