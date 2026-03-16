@@ -4,6 +4,7 @@ pitu_id: "salacioussakura"
 date: 2026-03-11 11:30:00 +0700
 title: "ENG Salacious Sakura v0.10 - MDVH18"
 tags: [all, english, apk, pc]
+typegame: ["PC", "APK"]
 namebanner: "[ENG] Salacious Sakura v0.10 - [1.4GB]"
 mota: |
  "Hãy gặp Yua, một futanari nửa rồng, người tình cờ cũng là tân phu nhân của Hanami sau khi cha cô qua đời. Sốc thật đấy, tôi biết mà."
