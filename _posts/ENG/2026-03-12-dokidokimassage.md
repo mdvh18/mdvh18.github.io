@@ -4,6 +4,7 @@ pitu_id: "dokidokimassage"
 date: 2026-03-12 11:30:00 +0700
 title: "ENG DokiDoki! Hentai Massage - MDVH18"
 tags: [all, english, pc, apk]
+typegame: ["PC", "APK"]
 namebanner: "[ENG] DokiDoki! Hentai Massage v2.0.0 - [358MB]"
 mota: |
  Bạn là một người hành nghề massage vừa mới khai trương. Không khách khứa, nợ nần thì phải trả trong 3 tháng (12 tuần)... Đúng lúc đó cô ấy xuất hiện: Nana Tanaka, một cô gái xinh đẹp với vòng một nảy nở. Vai tôi cứng đờ cả rồi... Anh có thể giúp tôi không?
