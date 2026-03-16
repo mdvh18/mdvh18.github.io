@@ -4,6 +4,7 @@ pitu_id: "ohmywaifu"
 date: 2026-02-20 13:30:00 +0700
 title: "ENG Oh My Waifu - MDVH18"
 tags: [all, english, apk, pc]
+typegame: ["PC", "APK"]
 namebanner: "[ENG] Oh My Waifu v3.3.9 APK/PC - [302MB]"
 mota: |
  Một hệ thống các trò chơi nhỏ (minigame) nơi bạn trực tiếp điều khiển hành động, mỗi trò chơi là một màn chơi với một waifu đã sẵn sàng chờ đón bạn. Tại đây, việc duy nhất bạn cần làm là tận hưởng những giây phút hưng phấn cùng "nàng thơ" mà mình yêu thích.
