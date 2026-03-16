@@ -4,6 +4,7 @@ pitu_id: "jinbinhmei"
 date: 2026-02-23 15:30:00 +0700
 title: "Việt Hóa JinPingMei - MDVH18"
 tags: [all, allvh, pc, apk]
+typegame: ["PC"]
 namebanner: "[Việt Hóa] JinPingMei Full APK/PC - [1.6GB]"
 mota: |
  Tựa game này được chuyển thể từ bộ tiểu thuyết kinh điển Kim Bình Mai.
