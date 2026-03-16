@@ -2,8 +2,9 @@
 layout: game
 pitu_id: "neurosplice"
 date: 2026-03-03 13:00:00 +0700
-title: "[ENG] NeuroSplice - MDVH18"
+title: "ENG NeuroSplice - MDVH18"
 tags: [all, english, pc]
+typegame: ["PC"]
 namebanner: "[ENG] NeuroSplice v0.02.1 - [161MB]"
 mota: |
  Ryke trong thân xác của Cassie bị tống vào tù, một thế giới ngầm đầy hiểm nguy, nhằm tìm cách ngăn chặn con virus. Tại đây, anh tình cờ phát hiện ra những sự thật về tập đoàn NexaCorp khiến anh phải nghi ngờ tất cả những gì mình từng biết.
