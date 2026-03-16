@@ -2,10 +2,10 @@
 layout: game
 pitu_id: "familychem"
 date: 2026-03-06 14:30:00 +0700
-title: "[Việt Hóa] Family Chemistry - MDVH18"
+title: "Việt Hóa Family Chemistry - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Family Chemistry SE APK/PC - [921MB]"
+namebanner: "[Việt Hóa] Family Chemistry SE - [921MB]"
 mota: |
  Beatrice muốn tống khứ con quỷ này ra khỏi người con gái mình. Tuy nhiên, dưới áp lực từ chồng, Beatrice sẽ phải thử viện đến khoa học trước khi tìm đến Chúa.
 gametype: "Visual Novel"
