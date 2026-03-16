@@ -4,7 +4,8 @@ pitu_id: "livingwafs"
 date: 2026-03-10 13:30:00 +0700
 title: "ENG Living with a Freeloading Succubus! - MDVH18"
 tags: [all, english, pc, apk]
-namebanner: "[ENG] Living with a Freeloading Succubus! APK/PC- [176MB]"
+typegame: ["PC", "APK"]
+namebanner: "[ENG] Living with a Freeloading Succubus! - [176MB]"
 mota: |
  Một đêm nọ, khi đang trên đường từ chỗ làm thêm về nhà, bạn bắt gặp một bóng người đang đứng ngay trước cửa căn hộ của mình.
 
