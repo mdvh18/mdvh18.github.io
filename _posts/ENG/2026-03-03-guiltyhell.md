@@ -4,6 +4,7 @@ pitu_id: "guiltyhell"
 date: 2026-03-03 12:00:00 +0700
 title: "[ENG] Guilty Hell 2 - MDVH18"
 tags: [all, english, pc]
+typegame: ["PC"]
 namebanner: "[ENG] Guilty Hell 2 v0.52d - [2.5GB]"
 mota: |
  Ông ta từng giáng trần vào 300 năm trước để phong ấn gã phù thủy độc ác Nana cùng đám quái vật dưới quyền hắn, nhưng vì cạn kiệt sức mạnh, chính ông ta đã bị các vị thần phong ấn trên thiên giới để chờ đợi ngày hồi phục công lực.
