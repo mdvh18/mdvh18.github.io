@@ -2,9 +2,10 @@
 layout: game
 pitu_id: "opentolove"
 date: 2026-03-07 12:30:00 +0700
-title: "[Việt Hóa] Opening to Love - MDVH18"
+title: "Việt Hóa Opening to Love - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
-namebanner: "[Việt Hóa] Opening to Love v0.6 APK/PC - [360MB]"
+typegame: ["PC", "APK"]
+namebanner: "[Việt Hóa] Opening to Love v0.6 - [360MB]"
 mota: |
  Opening to Love bắt đầu như một cuộc phiêu lưu tình ái lãng mạn đời thường, với những manh mối nhỏ về một bí ẩn đang dần hiện rõ. Bạn vào vai Michael Davis, một quản trị viên CNTT 34 tuổi đang làm việc cho một công ty kế toán lớn.
 gametype: "Visual Novel"
