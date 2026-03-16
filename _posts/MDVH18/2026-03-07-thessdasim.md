@@ -2,9 +2,10 @@
 layout: game
 pitu_id: "thessdasim"
 date: 2026-03-07 11:30:00 +0700
-title: "[Việt Hóa] The Simpsons Dating Sim APK/PC - MDVH18"
-tags: [all, mdvh18, allvh, pc]
-namebanner: "[Việt Hóa] The Simpsons Dating Sim v0.14.0 APK/PC - [320MB]"
+title: "Việt Hóa The Simpsons Dating Sim APK/PC - MDVH18"
+tags: [all, mdvh18, allvh, pc, apk]
+typegame: ["PC", "APK"]
+namebanner: "[Việt Hóa] The Simpsons Dating Sim v0.14.0 - [320MB]"
 mota: |
  Sống trong ngôi nhà của gia đình Simpson, hoàn thành chương trình trung học và hẹn hò với các nhân vật trong thế giới Simpson. Bạn vào vai một chàng trai đang ở độ tuổi sinh viên, người phải tham gia một lớp học trung học dành cho người lớn với đầy rẫy những cô nàng đã không thể tốt nghiệp đúng hạn.
 gametype: "Sandbox"
