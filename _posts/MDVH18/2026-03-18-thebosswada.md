@@ -18,6 +18,6 @@ dev: "Toothless Studio"
 genre: "3DCG, MILF, Groping, Mobile game"
 
 linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1VqQmV1Snk3"
-linkpixelapk: "https://mdvh18.github.io/download.html?url="
+linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3RLaEE3aEtC"
 linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOW1OR2VTOHRqZm9kU2pUa21ZcHAwZw=="
 ---
