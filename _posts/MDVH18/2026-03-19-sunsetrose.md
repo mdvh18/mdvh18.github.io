@@ -7,7 +7,7 @@ tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Sunset Rose v0.1 Elite - [776MB]"
 mota: |
-"Trong cốt truyện này bạn vào vai một nhân vật nam chính, một gã khá thoải mái, tầm giữa tuổi đôi mươi, sống một mình. Không nuôi thú cưng, sống đúng kiểu độc thân. Bạn làm việc tại một quán ăn nhanh địa phương cùng với đồng nghiệp của mình là Daniela.
+ Trong cốt truyện này bạn vào vai một nhân vật nam chính, một gã khá thoải mái, tầm giữa tuổi đôi mươi, sống một mình. Không nuôi thú cưng, sống đúng kiểu độc thân. Bạn làm việc tại một quán ăn nhanh địa phương cùng với đồng nghiệp của mình là Daniela.
 gametype: "Sandbox"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
