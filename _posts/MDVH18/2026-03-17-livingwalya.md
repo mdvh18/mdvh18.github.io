@@ -17,7 +17,6 @@ phienban: "v0.36"
 dev: "WaifuStudio"
 genre: "3DCG, Parody, Dating Sim, Romance, Animated, Mobile Game, PoV"
 
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1NVckphb1Vy"
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L25aNnRrZHA5"
+linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1lmNjNWVms2"
 linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRVZyQzNiSS1qMGJ3cHB0eG9heU9aZw=="
 ---
