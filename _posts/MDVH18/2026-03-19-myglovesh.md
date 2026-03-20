@@ -17,7 +17,6 @@ phienban: "v0.4"
 dev: "395games"
 genre: "3DCG, Animated, Mobile Game, Mastur, Toys, Trainer"
 
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0V5RGdQZDlW"
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1ZkbmVZWU45"
+linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzVpcnpXYjZ3"
 linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVjhOT1UxZkZnamV5c3d3YjVCT19JUQ=="
 ---
