@@ -17,8 +17,6 @@ phienban: "v0.7"
 dev: "Miron HFG"
 genre: "3DCG, Animated, PoV, Milf, Mobile game, Toys, Les Footj"
 
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2F1WVZHQlN2"
-linkpixelcom: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzlncERKZkZF"
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1hrUW5WNDdL"
+linkpixelapkpccom: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1g5M205RGFw"
 linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xaHZkOFYzM25CT3hsbnU5X1pqZFBxZw=="
 ---
