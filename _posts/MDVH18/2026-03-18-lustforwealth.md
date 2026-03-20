@@ -17,7 +17,6 @@ phienban: "v0.2.5"
 dev: "HotGameDev"
 genre: "2DCG, AI CG, Animated, Groping, Mastur, Milf, Mobile game, Rpg, Sandbox, Simulator,"
 
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0VodUpCb2g0"
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzVtaWFyTHBU"
+linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL28yR2Y3M0Qy"
 linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xeUMzU3l0MlVjTzZ5RTlPaG5MWUZGZw=="
 ---
