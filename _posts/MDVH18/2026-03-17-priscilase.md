@@ -17,7 +17,6 @@ phienban: "Ep.13"
 dev: "Geiko Games"
 genre: "3DCG, Animated, Groping, Handj, Mastur"
 
-linkpixelcom: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0dLRURXNGRH"
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2l3OE1iQkxV"
+linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1lYOHl4UHhU"
 linkteraapkpccom: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xN2w5RXF3TDlJZThyOFZDeTJ0cERyZw=="
 ---
