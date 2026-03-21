@@ -12,12 +12,12 @@ mota: |
 gametype: "Visual Novel"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
-platform: "PC/APK"
+platform: "APK/PC"
 dungluong: "3.9GB"
 phienban: "0.1.5"
 dev: "Caine.Totally.Sane"
 genre: "3DCG, Exhibitionism, Monster, Sci-fi, Tentacles, Management, Multiple Endings, Corruption, Romance, Sandbox, Harem, Superpowers, Cosplay, Animated, Milf, Teasing, Adventure, Combat"
 
-linkpixelpc: "https://mdvh18.github.io/download.html?url="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url="
+linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2RoazdETkgx"
+linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWFltR252V0FOT2FoQ0hOMmZQM2lTdw=="
 ---
