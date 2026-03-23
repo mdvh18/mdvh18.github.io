@@ -17,7 +17,6 @@ phienban: "v0.13.4"
 dev: "TheAlleyGuy"
 genre: "3DCG, Animated, Handj, Harem, Management, Mastur, Milf, Fantasy, PoV, Parody, Trainer"
 
-linkpixelpc: "https://mdvh18.github.io/download.html?url="
-linkpixelapk: "https://mdvh18.github.io/download.html?url="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url="
+linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0pUeFJGYjhr"
+linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMVdBeFV5NDIzcFphQU5heVNhZ1NRdw=="
 ---
