@@ -3,7 +3,7 @@ layout: game
 pitu_id: "angelslove"
 date: 2026-03-25 19:30:00 +0700
 title: "Việt Hóa Angel's Love - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, allvh, pc, apk]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Angel's Love v0.3 PE - [3.1GB]"
 mota: |
@@ -17,6 +17,6 @@ phienban: "v0.3 PE"
 dev: "GPoint"
 genre: "3DCG, Animated, Fantasy, Adventure, Monster, Masturb, Handj"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1h2QXRyUUtL"
+linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1h2QXRyUUtL"
 linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUkVVY1hBZFZwTnd3anJuR3EwbHlPUQ=="
 ---
