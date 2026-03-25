@@ -3,7 +3,7 @@ layout: game
 pitu_id: "secretisland"
 date: 2026-03-25 15:30:00 +0700
 title: "Việt Hóa Secret Island - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
 namebanner: "[Việt Hóa] Secret Island v0.16.8.0 - [1.7GB]"
 mota: |
