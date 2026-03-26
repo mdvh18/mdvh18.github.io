@@ -17,6 +17,6 @@ phienban: "v0.5"
 dev: "Mr_Fable"
 genre: "3DCG, Animated, Multiple Endings, Groping, Handj, Masturb"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2cycTlZRkJR"
+linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2cycTlZRkJR"
 linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZFYwdGl0VDh5OWY3UWlNcFlETTNjUQ=="
 ---
