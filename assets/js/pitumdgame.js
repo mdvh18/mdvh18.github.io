@@ -1429,6 +1429,20 @@ const PITU_DATABASE = [
                "https://blogger.googleusercontent.com/img/a/AVvXsEgYews8IXbePL4rgK9SSsB1bJHwVB86kETdBP5Xrx4DBKMEYhfDI3Tza5k5TTBOpzbX0eLkfJbLaJWs3uZRyzdGqLegId5BmaRsNaSrLQAk7t0lIDC8Q60D2FQshemYNAtSe93RlVxA9aTfryTt_0IMtdeIzTGVxGiOgSl5o8r1h8Yux9n2mQrv57MkJ7c=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEhASO-iCG2vohvkPlXCCnpus40Dl8nbWtwYln85Q2VwBfaXDoD1NvpKVWl2pnBWMsfhbC4i1PYhFx_UCAxDvRVq_Hs-stcDadmzqe5PX6-xskDh_AgTB1wFuzROFgoq7Hnd_aEUWsFg3_IDx84MH7uWd39ope-o8Qwo_Gt5GF7EtZck3-608nzsrv9EuOQ=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEi5UMa3nMSbMAqumky-Xb8yT0rL6wspv9MFdHJjsg18Vk_k8Wi2nnJmhfZ0f3SqrmKhSowqqQejrc5z3y3l57B5lcMJ5rm5d5zl6Yg7fSduFaxOKrEt5xwFKgb2BZqglrXM-IDPxQIk8ARpYS3ixURPyEi18hE1sphioFnnDulzW9Dd4XdEQzwADlF5qsA=s16000"]},
+    {id: "darkerc110",
+    name: "Việt Hóa Darker Ch.1 P10",
+    banner: "https://blogger.googleusercontent.com/img/a/AVvXsEhDxTT_Um9DrohKlYtiol2zzcnsjOnmCcAc9mE3sz3PkgV9Y6CQ5KXK52UclkKQM-RqCOIFBf4eHiGHweVoxa8D9UWMzQa6aCeEvBpwQC1FQFD4y1jtapEDF58e-CJUVVBZbXkgDmgd2h-zTE1YsTARHrQyx6OUnO57UUtHecFgRQm34rQ1K8Z8cJijdac=s16000",
+    previews: ["https://blogger.googleusercontent.com/img/a/AVvXsEjH33cwD1VrRg9AR-pU898uyD28B94FAQG_qFDchC7G-U0bRfTY9NON97q4KgDWW_TeIZzElZ7EWs7CVAKQCdXJPob8NpNQbrXRnNpgzzAcKNFe60x6NiLARRqvoH1rzXw9WP7gjgdLUD0Fi0bpnUsYlUiIwW-LpcsCmhjT1Uxp8AyH9yPo-5_Wx0cpXZU=s16000",
+               "https://blogger.googleusercontent.com/img/a/AVvXsEj5_czPxoP3Sz80IkN2e_87vH2onAu1HF9pPMNFcctisaMhhaPjPuP9Cn5EIgCA4EGwbhjKOWe3BkQ6JFRUACvAaKjKZZvxRc4_BkL4x2W7imFJER_Vlu-aLT-K2fOAHewxxUCKsH7KwsgGT0mEZUMXdOGRvYK-fWOX4tS0UWI0xwoNIJqoAW5fJV8v8tM=s16000",
+               "https://blogger.googleusercontent.com/img/a/AVvXsEhXxv6jQytEZAjwhVYZo5gl5MlfeYkOaxPW8NsgFTAzGvaTPASCp7dbwz3DnK1VdO4iuxDoVyKVHroPojNEwxlVOljYHmX2x7WLt_sWyR1DdhNAnfsMgSFbqlD9v4vRC_cThb5l8poLLB6g6YNXdyz9GwLTlueZgEmuJfFwO0zQk-7qA4awvsHELCRR3qM=s16000",
+               "https://blogger.googleusercontent.com/img/a/AVvXsEjotuNyoVh54_S2O23q6N_Kr3hAMvo0uztnH-kp3nEJohMOhi63wCJrrAWIG8haZHS-vNFI-vscAbFirVGxSFFY3HRKzoHx3ij7kaToDlBEqwHYYSnlIfp3x2UreX6SvXfhfsyKY_g2mkjdNJKfR5T13P3R5Lke5CMMmtL_gAokUSmbLnXljIWOmhTiJEU=s16000"]},
+    {id: "braveheartacademy",
+    name: "Việt Hóa Braveheart Academy",
+    banner: "https://blogger.googleusercontent.com/img/a/AVvXsEglwDt1_pPkOSFAYN-wEWD8XpxR9YmMKqaZ3emVEvP02HkWpQ0BrwQELsjIDJuC5KDQYJVNoxrLRPp_2G5qiWtC8tn-Ru6KQuO2vkDucxiztMOJB79Wag4B5e0HQV1HN6IzpTn9NgezvC7As_dJshvJlK3EH4kdjtZHQeRB7aaZ-GmWbIO912RtTJQ8tGM=s16000",
+    previews: ["https://blogger.googleusercontent.com/img/a/AVvXsEgUHapr0S7-vAAIBRE3k8LvU1eAG5rzbt9fTZUNTDAvDnyXQlYNrAwc_hm1dZYz2V1duRHMrLfSfLB9p_P1d6cVLtNaR4QzeN-0Qwaz_FgmOjM5o2yA2yio8KZQ_42TZSETRurU3RWPkL3QSmQ-SfLkSV2efaxDJiMVwVhJNVFE8aGsax6lc8b2cJlOtJ8=s16000",
+               "https://blogger.googleusercontent.com/img/a/AVvXsEhq0EoL2EDPtkAxdB8xgKg18tEVUvt2Gii2WyJxwsHtEergtzmz6gWmeHXt_YbpznSKTe0VFbvj-reP3OG9E4d_2cD-zoxgycgd3Knxz6Nbcbrlgpu4ZlWPkF4FF-Pp0JlsR71a0JnOBjBHvgmxZ82L-IOPtK_urQIfMhi2A69vltGOIdE22bCW7H0f5NA=s16000",
+               "https://blogger.googleusercontent.com/img/a/AVvXsEjDg5jcO_MtPT6VKKm0N6RX9bppqyeH7_0VruqGk7keTIoXSb4LXc-AQi8qWdRth72xM6lCLNpY1Ak6JlgcAfeyUvwQhk5MCT7mkrzntYSPaW9Mlc-8AfGOe3MrT_3EcR2_Wcp45MC-iY1AnCbKMrxF9CDLyBF7qa0zZQr2FKEHUQzUyiizX6pVSo_e4A0=s16000",
+               "https://blogger.googleusercontent.com/img/a/AVvXsEgUjCfb5AFW2oK_nYclvvKoiyjTnrZIhTdDV1ZegCwl2a3sH7YzVH5i2X9PQb4pq7IcYJ5sQlQvTQ92Wcu0hF_8cTfJa1rPgnkk6Tf5qdQJJIpK0p49JzY0-WRwsl_WC_g1a9ZY67VYkDJ_zOI5sa8BdZC-6VASoVKve2RRvpeoVpnNRnvE5ztne9FNVYI=s16000"]},
     {id: "",
     name: "",
     banner: "",
@@ -1436,5 +1450,6 @@ const PITU_DATABASE = [
                "",
                "",
                ""]}
+    
     
 ];
