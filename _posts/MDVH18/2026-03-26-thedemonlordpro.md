@@ -5,18 +5,18 @@ date: 2026-03-26 13:30:00 +0700
 title: "Việt Hóa The Demon Lord's Project - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] The Demon Lord's Project v0.23 - [B]"
+namebanner: "[Việt Hóa] The Demon Lord's Project v0.23 - [641MB]"
 mota: |
  Bạn bị một thực thể hùng mạnh bắt cóc trong khi đang ngủ, đưa tới thế giới của chúng, và chúng từ chối tiết lộ lý do chính xác tại sao chúng giữ bạn ở đó.
 gametype: "Visual Novel"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
-dungluong: ""
+dungluong: "641MB"
 phienban: "v0.23"
 dev: "Chain Games"
 genre: "Animated, 3DCG, Handj, Fantasy, Monster girl"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url="
+linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2l0Wm5xTUZU"
+linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWWFBVzRzOTVBb01YeVVTUEE3Y2xjUQ=="
 ---
