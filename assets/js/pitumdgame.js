@@ -1508,7 +1508,7 @@ const PITU_DATABASE = [
                ""]},
     {id: "myearlylife11",
     name: "Việt Hóa My Early Life Ep1-11",
-    banner: "https://blogger.googleusercontent.com/img/a/AVvXsEjgn930TNbIAsj_T8GVL61V6lGxYIuZ9w3vXLbyzJqy6QAYzjdj1ujQx-US0KgJNlmGE7lQ3Uo9Mo548MjNTg0EKF4jQUMLB591dH7UU5VkLoGRqKV9ypVeNTkFGLQcjecPZSjjCNpKHM97cv6PlEqViErIAle8zn5vCXwKXKZHxQduiuO-VUS723mY0xs=s16000",
+    banner: "https://blogger.googleusercontent.com/img/a/AVvXsEiMTUV0-WC9sWTsSrLZzZIZQAG4NZOKbbJb3Xipad2Z1TmRRllC5ezSRylXR3RYsUf8XGvOcbz_ltZL-FALYjpGI2sMDnS_yQjMPfRrSmFYfOcNOL-zwwshjHQeutE5fnrhggXb247Er9ctepFbHQ7X7MSXA95o7U6X1PxMKDqWKYXocle66q4Dgjce_1A=s16000",
     previews: ["https://blogger.googleusercontent.com/img/a/AVvXsEg8shyR4NoAnVnHJMvXis-qx--8K2vc77AZpqhe3W-xSfQih3MkhPWhVIqOufPxrtoTzpf5whSsbMrF1JrUassOf37XVIo6qUWVyf3OwEyMudUOYekT266icJNpAPmSxUNgaxymYBEJFzLDfi3Q2pAduAiMMCT7QmYy1PXjkO19oddfxCyum-7Lx44lfW4=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEjb7BgCBathdoKn9wEoUFqr2sl67HQNyCKvXPOeYzBKKt6OZ6efUV_95wRP03MrVmXYrZwMFLMZP9m3tDj7yb5o5tjYaZtsJdnajbAER1NGx4CtcbSGS2om7m0AoAoPTMvoD2DzXZ3KkLs5MdCXOJZqHcHWzuJbZUMwOrItnBeOQHN8aMEhXlrfD1XHPgQ=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEgOV9OFzAJrmWeW0MEq9mcqC1ezdUl8LOB6_mPjPWY_15-bn48_ooSv8hopXKOuuZVtggIUyUYSjH-EekG_31qQ_V-x0AwZpt8bt9hiSp-EAT_s-y7gw54RClS6aeNcQh8SAf4Ev8chHt3yOCjqa6zQlI1G9qbYRKr86LJTY01N0fYV1Pm_n4qv-1xPJLg=s16000",
