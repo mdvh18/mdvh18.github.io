@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "lifewithrukia"
-date: 2026-03-29 08:30:00 +0700
+date: 2026-03-28 15:30:00 +0700
 title: "Việt Hóa Life with Rukia - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
