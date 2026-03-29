@@ -5,18 +5,18 @@ date: 2026-03-29 12:30:00 +0700
 title: "Việt Hóa] Esterium Project - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Esterium Project v0.004 - [B]"
+namebanner: "[Việt Hóa] Esterium Project v0.004 - [85MB]"
 mota: |
  Bạn có thể chọn lớp nhân vật và tiểu sử cho nhân vật chính. Hiện tại chưa có nhiều lựa chọn, nhưng sẽ có thêm nội dung trong tương lai. Hiện tại, trò chơi có hệ thống hành trang và giao dịch, chế tạo, nhật ký nhiệm vụ chi tiết, đối thoại và khám phá các địa điểm.
 gametype: "Sandbox"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
-dungluong: ""
+dungluong: "85MB"
 phienban: "v0.004"
 dev: "Kosmos Games"
 genre: "3DCG, Character creation, Monster, Monster girl, Rpg"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url="
+linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2lIWDJxc0h0"
+linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZEdVRzhsMnRBMWVSNzdRYTZNR3FFUQ=="
 ---
