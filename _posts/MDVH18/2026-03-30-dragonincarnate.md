@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "dragonincarnate"
-date: 2026-03-30 13:30:00 +0700
+date: 2026-03-30 14:30:00 +0700
 title: "Việt Hóa Dragon Incarnate - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
