@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "oppassiongrandline"
-date: 2026-03-30 12:30:00 +0700
+date: 2026-03-30 16:30:00 +0700
 title: "Việt Hóa One Piece: Passion on the Grand Line - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
