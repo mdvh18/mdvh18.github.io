@@ -5,18 +5,18 @@ date: 2026-03-31 14:30:00 +0700
 title: "Việt Hóa Mind Control: Twisted Thoughts - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Mind Control: Twisted Thoughts v0.27 - [B]"
+namebanner: "[Việt Hóa] Mind Control: Twisted Thoughts v0.27 - [2GB]"
 mota: |
  Mind Control: Twisted Thoughts là một trò chơi visual novel dành cho người lớn, kể về hành trình của một chàng trai trẻ tình cờ phát hiện ra những năng lực ngoại cảm của mình.
 gametype: "Visual Novel"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
-dungluong: ""
+dungluong: "2GB"
 phienban: "v0.27"
 dev: "specialmind"
 genre: "3DCG, School setting, Milf, Group"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url="
+linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3VxZ21nc0to"
+linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZks1eEcyV1JXVy1JMWFITW53MGtydw=="
 ---
