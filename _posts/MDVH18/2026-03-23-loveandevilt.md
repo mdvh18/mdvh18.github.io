@@ -5,14 +5,14 @@ date: 2026-03-23 12:30:00 +0700
 title: "Việt Hóa Love and Evil Things - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Love and Evil Things v0.2.9 - [B]"
+namebanner: "[Việt Hóa] Love and Evil Things v0.2.9 - [1.59GB]"
 mota: |
  Love and Evil Things là một tựa game đời thường gắn mác 18+, kể về một lớp học nữ sinh đang phải đối mặt với những rắc rối của tuổi trưởng thành và hành trình tìm lại bản thân, trong khi một thế lực tà ác nguyên thủy vô hình đang âm thầm bao trùm lấy tất cả.
 gametype: "Visual Novel"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
-dungluong: ""
+dungluong: "1.59GB"
 phienban: "v0.2.9"
 dev: "Petals"
 genre: "3dcg, Animated, Footj, Harem, Dating Sim, Romance, Masturba, School Setting, Voiced"
