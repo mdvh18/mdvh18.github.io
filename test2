@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: ""
-date: 2026-02-23 15:30:00 +0700
+date: 2026-04-01 11:30:00 +0700
 title: " - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
@@ -17,8 +17,7 @@ phienban: ""
 dev: ""
 genre: ""
 
-linkpixelpc: "https://mdvh18.github.io/download.html?url="
-linkpixelapk: "https://mdvh18.github.io/download.html?url="
+linkpixelapkpc: "https://mdvh18.github.io/download.html?url="
 linkteraapkpc: "https://mdvh18.github.io/download.html?url="
 ---
 
