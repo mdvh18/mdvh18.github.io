@@ -1,6 +1,6 @@
 ---
 layout: game
-pitu_id: "nt026"
+pitu_id: "naughtytail"
 date: 2026-04-01 13:30:00 +0700
 title: "[Việt Hóa] Naughty Tail 0.3.1 - MDVH18"
 tags: [all, mdvh18, allvh, pc]
