@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "fosterhomef"
-date: 2026-04-01 15:30:00 +0700
+date: 2026-04-01 12:30:00 +0700
 title: "Việt Hóa Foster Home F v0.1 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
