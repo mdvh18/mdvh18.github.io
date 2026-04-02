@@ -3,7 +3,7 @@ layout: game
 pitu_id: "schoolgame"
 date: 2026-04-02 11:30:00 +0700
 title: "Việt Hóa School Game v0.975 - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
 namebanner: "[Việt Hóa] School Game v0.975 bugfix4 - [1.7GB]"
 mota: |
