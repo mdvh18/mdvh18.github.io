@@ -10,7 +10,7 @@ mota: |
  The Last Year là một trò chơi visual novel và sandbox kết hợp giữa chính kịch tuổi teen, lãng mạn và bí ẩn. Người chơi sẽ vào vai một nam sinh trong năm cuối trung học, đưa ra những lựa chọn và xây dựng các mối quan hệ.
 gametype: "Sandbox"
 language: "Tiếng Việt"
-mdvh18: "MDVH18"
+mdvh18: "YuzuruRIN"
 platform: "APK/PC"
 dungluong: "936MB"
 phienban: "v0.5.3"
