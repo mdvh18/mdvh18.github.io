@@ -5,18 +5,18 @@ date: 2026-04-06 12:30:00 +0700
 title: "Việt Hóa Symphony of the Void - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Symphony of the Void P2 v0.16 - [B]"
+namebanner: "[Việt Hóa] Symphony of the Void P2 v0.16 - [612MB]"
 mota: |
  Jevan Dre'allis là thành viên của đơn vị đặc nhiệm hắc tinh linh tinh nhuệ mang tên Wraith - những đặc vụ của Đền thờ Xana-Rhoa, đóng vai trò là sát thủ, gián điệp và kẻ phá hoại.
 gametype: "Visual Novel"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
-dungluong: ""
+dungluong: "612MB"
 phienban: "P2 v0.16"
 dev: "Mad Doc"
 genre: "3DCG, Animated, Masturb, Fantasy"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url="
+linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2VKRmFxczZt"
+linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYk0zUGhIb1RENnpwZWl5RU9pR1podw=="
 ---
