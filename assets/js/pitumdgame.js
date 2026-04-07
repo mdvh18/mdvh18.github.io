@@ -1785,7 +1785,21 @@ const PITU_DATABASE = [
     previews: ["https://blogger.googleusercontent.com/img/a/AVvXsEhyGz8e6q1gpk7w403gYmYjv0m30VcSRoH67QQBsXFz7MCI79wzyCeZPUl3ypxFIvAM20yMm6beiH6q6OEnUy12StgkwSfGzVmSNa_apo7017EKj1RDDmQLNWtkBkD9i2aLAwphXGkNCGZbgxNotiQPKipFznpwGHTAPniN1zlyvc2w-wMfRyytjgyFub8=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEhYX_bE7RF0tbHYXEQNXjibHyBTl6VL-1GPC_73gBbeHuXWlzOQAIl2kxaxw_KTTGfH1rFZxpiNKtXHcx-beRJGP2EjWf9vuM6WA6xMEOO7KX2vPREJA1MTMBMkGHU6S5sYgXwrD-A-0Zf38A5AWPp0yRXiagjet0Pbnu3Px5NkRtgFrFfPkDDCdOIjunQ=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEh3wnZhdcpOMK1JL0VH1FBHc3Cu-f-i599u0ThoOHluII2cpCAbRnIulLUCC3i3k8nBw2A1s4f7a2SVPDpZjqIJtULyC6IYl4gQFa7IfeNGNsMYkg7camlmYzMOnvKcwiRTGfvY6cRdS-zz9szeUhxge1h71xvr3ZQei20WIR2BCKlZxigwL3tIo8CpmNY=s16000",
-               "https://blogger.googleusercontent.com/img/a/AVvXsEjwRENEd-5bifYFeitCDbchopzynXNI898dXBhPfbMGnEYrE5mBcBOFiK4SVcmHolBfwk6InHkX7QFEgNbRnsIS8PwSreFSJuJoyLQIQSp_sENgncxxD_EQHuqa8VXJkWdVFSkffZTOVF-BwsFhbNj9JenTYnz77CwAka3etgXuprCQ6eNpP_-kiXS9gfQ=s16000"]}
+               "https://blogger.googleusercontent.com/img/a/AVvXsEjwRENEd-5bifYFeitCDbchopzynXNI898dXBhPfbMGnEYrE5mBcBOFiK4SVcmHolBfwk6InHkX7QFEgNbRnsIS8PwSreFSJuJoyLQIQSp_sENgncxxD_EQHuqa8VXJkWdVFSkffZTOVF-BwsFhbNj9JenTYnz77CwAka3etgXuprCQ6eNpP_-kiXS9gfQ=s16000"]},
+    {id: "superpoerremake",
+    name: "Việt Hóa Supower - Remake",
+    banner: "https://blogger.googleusercontent.com/img/a/AVvXsEhFsGMhVjMhVDGZMhEInOj7XVEAEgTOXxIICgVTexd4rjFJN_vNASFC04Z8FvF29BCaJQRFWx3oW41iCwafJP_oYhA089cbYEnjMmmOHrXnPpi_kYXSuS7NtDwiVocQ9P5eopvdObL6ywE6eTbkFEW3gA0jLvlt7I6ULKbfyU0jJVPC9ghxjILNdf5SW0U=s16000",
+    previews: ["https://blogger.googleusercontent.com/img/a/AVvXsEjFqamtLmabDEkoLI08iSs0JWvF295uXVFhxdVaqoybyp5cGIuByddUGIpRh9oWku8UUaYdvaShUOk4D5qSDi1eGoAeurnNqXx9RF6Gi8tcv2nh1y16-MtczpYKQD2HbKRyd9ntDlLd5s_C5rBn5nYso_-LUwj04UKQPTXMJTivgqH9eZOY-6Erg2cguwA=s16000",
+               "https://blogger.googleusercontent.com/img/a/AVvXsEjm4b8ihrPavUcRza9SpjxoM-7cHwf0vjvaNKE9FC85SK2bZ7uv1nFFvmWy0wRbkbhXU4dHqnAR4yT7DtvycCK4xC_u8GbrESjcJXfykQ6gvlChGC9Ck7Att79tRlH7vySI-Tsd6QmkCJN8kp3Fa4RJDXbxEzJQ-41X-dJhcda5U6i_L_Nrt6Og1fjYmvA=s16000",
+               "https://blogger.googleusercontent.com/img/a/AVvXsEiql_oD1ZMM4R7_QC6-VI_-NMWyl-SUFVPT-oiLetwu2-apPsn66ss26x_VqMqeyrkK536DTsBLdVgoh5JRNYJ2xVjzpuZDRy4ZlID5MGe-N0iRdlZrVVutgpwxnsoYVblF8VzegF0MqTUK4H6LcGtvhPJRRPkeOEunGgfgB-h-2mZYNw2RX4Mqc5Xfzh8=s16000",
+               "https://blogger.googleusercontent.com/img/a/AVvXsEiuACJ4CsVMuIAVc2itE-vkzG6q-OiX73XZf1-iqOxBvCVH_04DO5APJu5nX07Qz2YjHJs3_yMehW0jtuGkirjnrEFC35JeNt3wBvuUfzPSqPYhhStxAmK7Y5RAzA-WMt0_cE4mIXjj0szLpec6nee1ni-ZdqsnRsKyFtJm-DTkuXj3FfYs2tzV_o5V4os=s16000"]},
+    {id: "",
+    name: "",
+    banner: "",
+    previews: ["",
+               "",
+               "",
+               ""]}
     
     
 ];
