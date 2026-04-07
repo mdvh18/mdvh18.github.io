@@ -1786,7 +1786,7 @@ const PITU_DATABASE = [
                "https://blogger.googleusercontent.com/img/a/AVvXsEhYX_bE7RF0tbHYXEQNXjibHyBTl6VL-1GPC_73gBbeHuXWlzOQAIl2kxaxw_KTTGfH1rFZxpiNKtXHcx-beRJGP2EjWf9vuM6WA6xMEOO7KX2vPREJA1MTMBMkGHU6S5sYgXwrD-A-0Zf38A5AWPp0yRXiagjet0Pbnu3Px5NkRtgFrFfPkDDCdOIjunQ=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEh3wnZhdcpOMK1JL0VH1FBHc3Cu-f-i599u0ThoOHluII2cpCAbRnIulLUCC3i3k8nBw2A1s4f7a2SVPDpZjqIJtULyC6IYl4gQFa7IfeNGNsMYkg7camlmYzMOnvKcwiRTGfvY6cRdS-zz9szeUhxge1h71xvr3ZQei20WIR2BCKlZxigwL3tIo8CpmNY=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEjwRENEd-5bifYFeitCDbchopzynXNI898dXBhPfbMGnEYrE5mBcBOFiK4SVcmHolBfwk6InHkX7QFEgNbRnsIS8PwSreFSJuJoyLQIQSp_sENgncxxD_EQHuqa8VXJkWdVFSkffZTOVF-BwsFhbNj9JenTYnz77CwAka3etgXuprCQ6eNpP_-kiXS9gfQ=s16000"]},
-    {id: "superpoerremake",
+    {id: "superpoweremake",
     name: "Việt Hóa Supower - Remake",
     banner: "https://blogger.googleusercontent.com/img/a/AVvXsEhFsGMhVjMhVDGZMhEInOj7XVEAEgTOXxIICgVTexd4rjFJN_vNASFC04Z8FvF29BCaJQRFWx3oW41iCwafJP_oYhA089cbYEnjMmmOHrXnPpi_kYXSuS7NtDwiVocQ9P5eopvdObL6ywE6eTbkFEW3gA0jLvlt7I6ULKbfyU0jJVPC9ghxjILNdf5SW0U=s16000",
     previews: ["https://blogger.googleusercontent.com/img/a/AVvXsEjFqamtLmabDEkoLI08iSs0JWvF295uXVFhxdVaqoybyp5cGIuByddUGIpRh9oWku8UUaYdvaShUOk4D5qSDi1eGoAeurnNqXx9RF6Gi8tcv2nh1y16-MtczpYKQD2HbKRyd9ntDlLd5s_C5rBn5nYso_-LUwj04UKQPTXMJTivgqH9eZOY-6Erg2cguwA=s16000",
