@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "inherservice"
-date: 2026-04-07 11:30:00 +0700
+date: 2026-04-07 15:30:00 +0700
 title: "Việt Hóa In Her Service - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
