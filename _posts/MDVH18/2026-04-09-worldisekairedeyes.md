@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "worldisekairedeyes"
-date: 2026-04-09 11:30:00 +0700
+date: 2026-04-09 12:30:00 +0700
 title: "Việt Hóa World Isekai Red Eyes - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
