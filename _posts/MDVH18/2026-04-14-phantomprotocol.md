@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "phantomprotocol"
-date: 2026-04-14 06:30:00 +0700
+date: 2026-04-14 08:00:00 +0700
 title: "Việt Hóa Phantom Protocol - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
