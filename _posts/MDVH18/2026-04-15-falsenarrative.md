@@ -5,18 +5,18 @@ date: 2026-04-15 11:30:00 +0700
 title: "Việt Hóa False Narrative - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] False Narrative v0.4 - [B]"
+namebanner: "[Việt Hóa] False Narrative v0.4 - [2.7GB]"
 mota: |
  Nhân vật chính là một thanh niên 18 tuổi đang sống cùng cha mình. Một ngày nọ, cha anh gặp gỡ một người phụ nữ và quyết định kết hôn với bà ấy. Thật tình cờ, người phụ nữ đó cũng có một cô con gái bằng tuổi với nhân vật chính.
 gametype: "Visual Novel"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
-dungluong: ""
+dungluong: "2.7GB"
 phienban: "v0.4 "
 dev: "Pixel Narrativa"
 genre: "3DCG, Animated, Dating sim, Groping, Group, Handj, Lesbian, Masturb, Trap, Romance"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url="
+linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2ZDN1AyWjdQ"
+linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSnllWUc5dlRhVFVCTXk1YmJoVnhGZw=="
 ---
