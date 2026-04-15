@@ -7,7 +7,7 @@ tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Echoes of Youth v1.0.2 - [2.5GB]"
 mota: |
- Echoes of Her là một visual novel đen tối, mang bầu không khí u ám về danh tính, sự lãng mạn và những dư âm của một quá khứ mà bạn không hoàn toàn thấu hiểu — một câu chuyện dựa trên cả thực tại lẫn siêu nhiên.
+ Một câu chuyện về sự trưởng thành, nơi bạn sẽ khám phá, đưa ra các lựa chọn và xây dựng các mối quan hệ.
 gametype: "Sandbox"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
