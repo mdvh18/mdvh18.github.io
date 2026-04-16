@@ -5,18 +5,18 @@ date: 2026-04-16 10:30:00 +0700
 title: "Việt Hóa Brothel Megacorporation - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Brothel Megacorporation v0.30 - [B]"
+namebanner: "[Việt Hóa] Brothel Megacorporation v0.30 - [3.3GB]"
 mota: |
  Epifania là một thành phố nơi tiền có thể mua được mọi thứ. Lãnh thổ tự trị này được quản lý bởi các siêu tập đoàn, quân đội tư nhân và các công đoàn độc lập. Bạn là một người đầy tham vọng đến với thành phố tội lỗi này với hy vọng sẽ làm nên chuyện lớn.
 gametype: "Simulation"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
-dungluong: ""
+dungluong: "3.3GB/APK 800MB"
 phienban: "v0.30"
 dev: "Khing Orchestra"
 genre: "Management, Trainer, MILF, Gloryhole, Footj, Multiple penetration, Lactation, Public Use"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url="
+linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzhFS3MyZU5D"
+linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWEFxS0tOOFAwMExsN0hrY2JFNFlEQQ=="
 ---
