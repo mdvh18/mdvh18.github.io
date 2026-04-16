@@ -5,18 +5,18 @@ date: 2026-04-18 17:30:00 +0700
 title: "Việt Hóa The Red Veil - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] The Red Veil Ep.1 P.2 - [B]"
+namebanner: "[Việt Hóa] The Red Veil Ep.1 P.2 - [1GB]"
 mota: |
  Trong The Red Veil, bạn sẽ đối đầu với The Red Hand — một tổ chức tội phạm tàn bạo do tên Dante Morales khét tiếng cầm đầu, kẻ được biết đến trên đường phố với biệt danh El Diablo. Chúng kiểm soát mọi thứ, từ những giao dịch trong ngõ hẻm cho đến các cấp chính trị cao nhất. Thành phố đã bỏ cuộc. Không còn ai dám phản kháng nữa... ngoại trừ bạn.
 gametype: "Visual Novel"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
-dungluong: ""
+dungluong: "1GB"
 phienban: "Ep.1 P.2"
 dev: "Raw Magic"
 genre: "3DCG, Animated, Groping, Handj, Milf"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url="
+linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3pzWnFyOU14"
+linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xeFNFUnZWVlBtbHZXak5NYnY5a3NoUQ=="
 ---
