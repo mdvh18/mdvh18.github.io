@@ -7,8 +7,7 @@ tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Silk & Shadows v0.4 - [382MB]"
 mota: |
- Một trò chơi quản lý cửa hàng thời trang với một cú ngoặt bất ngờ.
-Chào mừng bạn đến với cửa hàng quần áo của riêng mình. Hãy phục vụ khách hàng, quản lý phòng thay đồ và chứng kiến danh tiếng của bạn ngày một vươn xa. Nhưng trong công việc kinh doanh này, thành công không chỉ nằm ở doanh số — nó còn nằm ở những mối liên kết mà bạn xây dựng với khách hàng của mình.
+ Một trò chơi quản lý cửa hàng thời trang với một cú ngoặt bất ngờ. Chào mừng bạn đến với cửa hàng quần áo của riêng mình. Hãy phục vụ khách hàng, quản lý phòng thay đồ và chứng kiến danh tiếng của bạn ngày một vươn xa. Nhưng trong công việc kinh doanh này, thành công không chỉ nằm ở doanh số — nó còn nằm ở những mối liên kết mà bạn xây dựng với khách hàng của mình.
 gametype: "Visual Novel"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
