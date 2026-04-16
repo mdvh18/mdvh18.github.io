@@ -5,18 +5,18 @@ date: 2026-04-18 14:30:00 +0700
 title: "Việt Hóa Empire Hostess Club - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Empire Hostess Club v0.35 - [B]"
+namebanner: "[Việt Hóa] Empire Hostess Club v0.35 - [2.2GB]"
 mota: |
  Chúc mừng! Bạn vừa bị xe tải tông trúng! Tôi chắc là bạn đã biết điều đó có nghĩa là gì rồi, đúng không? Chính xác. Bạn chuẩn bị được gửi đến một thế giới Isekai. Nữ thần đưa bạn đến một thế giới mới, trao cho bạn cơ hội thứ hai, nơi bạn sẽ chịu trách nhiệm điều hành một nhà thổ.
 gametype: "Visual Novel"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
-dungluong: ""
+dungluong: "2.2GB"
 phienban: "v0.35"
 dev: "Zao83"
 genre: "3DCG, Animated, DILF, Fantasy, Futa/trans, Group, Harem, MILF, POV, Romance"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url="
+linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0RuVjUzRnRj"
+linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYURxcDdDUzgtZ2pDREpaZnMxUm9tUQ=="
 ---
