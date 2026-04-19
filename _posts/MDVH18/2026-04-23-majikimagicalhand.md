@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "majikimagicalhand"
-date: 2026-04-23 11:30:00 +0700
+date: 2026-04-23 10:30:00 +0700
 title: "Việt Hóa Maji-iki The Failing Witch and Lewd Magical Hands - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
