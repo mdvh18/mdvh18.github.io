@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "genesisproyect"
-date: 2026-04-20 17:30:00 +0700
+date: 2026-04-20 16:30:00 +0700
 title: "Việt Hóa Genesis Proyect v0.2 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["Compressed", "APK"]
