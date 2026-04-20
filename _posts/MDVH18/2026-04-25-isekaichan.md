@@ -5,18 +5,18 @@ date: 2026-04-25 11:30:00 +0700
 title: "Việt Hóa Isekai Chan! v0.2.0 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Isekai Chan! v0.2.0 - [B]"
+namebanner: "[Việt Hóa] Isekai Chan! v0.2.0 - [2.8GB]"
 mota: |
  Bạn vào vai nhân vật chính có gia đình đã mất tích một cách bí ẩn, để lại bạn một mình quản lý tòa nhà chung cư mà họ từng sở hữu.
 gametype: "Sandbox"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
-dungluong: ""
+dungluong: "2.8GB"
 phienban: "v0.2.0"
 dev: "PLAYMAKERz"
 genre: "3DCG, Animated, Handj, Footj, Masturbation, Fantasy, Adventure, Groping, School Setting, Harem"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url="
+linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzIzWGJqVU1C"
+linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTll5YW0yTkttSWpIWl9VUTBZRlQzUQ=="
 ---
