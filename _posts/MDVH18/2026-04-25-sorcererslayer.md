@@ -5,18 +5,18 @@ date: 2026-04-25 15:30:00 +0700
 title: "Việt Hóa Sorcerer Slayer - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Sorcerer Slayer v0.02 - [B]"
+namebanner: "[Việt Hóa] Sorcerer Slayer v0.02 - [2.2GB]"
 mota: |
  Câu chuyện của Sorcerer Slayer bắt đầu với cái chết của cha nhân vật chính. Vì mối quan hệ căng thẳng giữa hai người, anh quyết định bỏ qua đám tang, nhưng chẳng bao lâu sau một người phụ nữ bí ẩn xuất hiện. Những tiết lộ của cô ấy đã đảo lộn cuộc sống của người hùng: một kẻ chuyên săn lùng pháp sư bỗng nhiên phát hiện ra bản thân cũng sở hữu năng lực ma thuật.
 gametype: "Visual Novel"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
-dungluong: ""
+dungluong: "2.2GB"
 phienban: "v0.02"
 dev: "deasfulf"
 genre: "2D, 3D, Adult, Erotic, Fantasy, NSFW, Parody, Romance"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url="
+linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1VuZjVKc2NX"
+linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSTVpQjZRenBwVjFJLXlmR0lqVmtaUQ=="
 ---
