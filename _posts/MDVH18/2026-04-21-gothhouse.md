@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "gothhouse"
-date: 2026-04-21 12:30:00 +0700
+date: 2026-04-21 12:31:00 +0700
 title: "Việt Hóa] GothHouse Ch.4 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
