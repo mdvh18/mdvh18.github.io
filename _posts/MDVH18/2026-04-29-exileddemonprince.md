@@ -5,18 +5,18 @@ date: 2026-04-29 11:30:00 +0700
 title: "Việt Hóa The Exiled Demon Prince - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] The Exiled Demon Prince v0.3.5 - [B]"
+namebanner: "[Việt Hóa] The Exiled Demon Prince v0.3.5 - [892MB]"
 mota: |
  The Exiled Demon Prince là một trò chơi kết hợp giữa VN/RPG giả tưởng cao cấp, giàu cốt truyện và có tính nhập vai cao, cho phép người chơi có quyền quyết định đáng kể với sự phát triển nhân vật và các lựa chọn có chiều sâu.
 gametype: "Sandbox"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
-dungluong: ""
+dungluong: "892MB"
 phienban: "v0.3.5"
 dev: "Spire Interactive"
 genre: "3DCG, Animated, Fantasy, Groping, Harem, Mobile game, Monster girl, Romance, Rpg"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url="
+linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2JmNzRvc1g2"
+linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcGpjTGpxZFJZZGVwd1NVNXppZDhRZw=="
 ---
