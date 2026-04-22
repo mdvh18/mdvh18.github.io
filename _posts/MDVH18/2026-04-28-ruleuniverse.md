@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "ruleuniverse"
-date: 2026-04-27 10:30:00 +0700
+date: 2026-04-28 10:30:00 +0700
 title: "RuleUniverse v0.60 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
