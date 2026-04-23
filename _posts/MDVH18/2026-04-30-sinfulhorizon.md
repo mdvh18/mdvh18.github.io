@@ -5,18 +5,18 @@ date: 2026-04-30 11:30:00 +0700
 title: "Việt Hóa Sinful Horizon v0.6 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Sinful Horizon v0.6 - [B]"
+namebanner: "[Việt Hóa] Sinful Horizon v0.6 - [951MB]"
 mota: |
  Sau một chuỗi các sự kiện không may, nhân vật chính của chúng ta — Jack (hoặc bất kỳ cái tên nào bạn chọn) — buộc phải từ bỏ cuộc sống cũ và bắt đầu lại từ con số không. Trong lúc chật vật để sinh tồn tại một thị trấn mới, anh vô tình tìm thấy một quán bar nhỏ ẩn chứa nhiều điều hơn vẻ bề ngoài của nó.
 gametype: "Visual Novel"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
-dungluong: ""
+dungluong: "951MB"
 phienban: "v0.6"
 dev: "Narria"
 genre: "3DCG, Milf, Rpg, Corruption, Groping, Mobile game, Handjb, POV, Harem, Dating sim"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url="
+linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2N3UmZjN0Yy"
+linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYWNBcGg2OHZRWHhGdXczRFEtWFJBQQ=="
 ---
