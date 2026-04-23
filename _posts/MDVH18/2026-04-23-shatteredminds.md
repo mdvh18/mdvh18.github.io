@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "shatteredminds"
-date: 2026-04-23 12:30:00 +0700
+date: 2026-04-23 12:31:00 +0700
 title: "Việt Hóa Shattered Minds - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
