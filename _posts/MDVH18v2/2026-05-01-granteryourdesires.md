@@ -8,7 +8,7 @@ typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Granter of Your Desires R v0.21 Demo - [650MB]"
 mota: |
  Trò chơi mô phỏng hẹn hò nhái lại Persona bản đơn giản. Đây là một tiểu thuyết trực quan với các yếu tố thế giới mở, đây là phiên bản làm lại. Đã đến lúc thực hiện ước mơ và tạo ra dàn harem tuyệt nhất mà bạn từng mong muốn.
-gametype: "Visual Novel"
+gametype: "Sandbox"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
