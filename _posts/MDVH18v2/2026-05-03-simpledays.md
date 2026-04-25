@@ -5,18 +5,18 @@ date: 2026-05-03 15:30:00 +0700
 title: "Việt Hóa Simple Days v0.21.1 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Simple Days v0.21.1 - [B]"
+namebanner: "[Việt Hóa] Simple Days v0.21.1 - [3.6GB]"
 mota: |
  Câu chuyện của Simple Days dựa trên những ngày tháng đơn giản. Từng ngày một... Nhân vật của bạn là một chàng trai trẻ, vừa bước qua sinh nhật tuổi 19. Bạn sẽ nắm quyền kiểm soát cuộc sống của cậu ấy... tìm công việc đầu tiên, (những) cô bạn gái, chạm tay vào những mảng tối của cuộc đời, đối mặt với những tình huống oái oăm, mua chiếc xe đầu tiên, v.v.
 gametype: "Visual Novel"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
-dungluong: ""
+dungluong: "3.6GB"
 phienban: "v0.21.1"
 dev: "Mega Lono"
 genre: "3DCG, Animated, Romance, Group, Mobile game, Sandbox (Optional), Harem (Optional), Pregnancy (Optional)"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url="
+linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3B5V3V3SDR3"
+linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNlBkMmdJbGlHRWZJY3Etem9HLTFkQQ=="
 ---
