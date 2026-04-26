@@ -3,20 +3,20 @@ layout: game
 pitu_id: "squadxxxhunt"
 date: 2026-05-01 09:00:00 +0700
 title: "Việt Hóa SQUAD XXX: Slut Hunt - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
-namebanner: "[Việt Hóa] SQUAD XXX: Slut Hunt 6000.0.24f1 - [B]"
+namebanner: "[Việt Hóa] SQUAD XXX: Slut Hunt 6000.0.24f1 - [4.6GB]"
 mota: |
  SQUAD XXX: Slut Hunt là một tiểu thuyết trực quan phong cách cyberpunk kết hợp quản lý đội nhóm. Lãnh đạo một đội đặc nhiệm, kiểm soát sự hỗn loạn trong một thành phố tràn ngập những kẻ nghiện cấy ghép bị đột biến, bắt giữ các nghi phạm, nâng cấp đặc vụ và lật tẩy một giáo phái đang hợp nhất công nghệ, dục vọng và kiểm soát tâm trí.
 gametype: "Sandbox"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
-platform: "APK/PC"
-dungluong: ""
+platform: "PC"
+dungluong: "4.6GB"
 phienban: "Completed"
 dev: "Lewd Star"
 genre: "Animated, 3dcg, Cyber, Sci-Fi, Simulator, Adventure"
 
-linkpixel: "https://mdvh18.github.io/download.html?url="
-linkggdrive: "https://mdvh18.github.io/download.html?url="
+linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzJLd2hZVVpY"
+linkggdrive: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xNy1laUNEMlpOdGFvWm9aUkttNm9heEx5c0Qza0ZUTFYvdmlldz91c3A9c2hhcmluZw=="
 ---
