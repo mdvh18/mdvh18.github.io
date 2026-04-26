@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "orgasmlab"
-date: 2026-05-26 11:30:00 +0700
+date: 2026-04-26 11:30:00 +0700
 title: "Việt Hóa Orgasm Lab Simulator Final - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
