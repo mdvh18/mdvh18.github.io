@@ -2577,13 +2577,20 @@ const PITU_DATABASE = [
                "https://blogger.googleusercontent.com/img/a/AVvXsEgiL6hxrxVUQ7_1N-cGx5ZIB8vDEKHqHqvPu-LdgzccrISPNQtbAzriBFuafyKTk1Exh_aDarFrDNUnPR59nWTPIMWcvJX0v3e1RXRq1T3J0TQC-BYpu2NgRpgRLXhAkZmJtjzBRVqTjv9q0tSEyWoJyYnRAzuLi1EWr4Kl0NjljKNfSSWIyvHHwCbCrN8=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEgqkN5aQ7AK-TihJcb_2Hsa0IoW_n6kYFXxUqGO5mnKz2476Fk7xuZWuKB6681-ldkURLuQxcAPZotD1PkdMRK976abhHKBOBqRSBWr2EC6BMiyjGmWVGELtFsuGVV8QFl1i70PTCCCrjnQ9j2gHqo9Om_H8A622TkL9OsPb-ouJzRP8Jqm-zyPc89zJWM=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEj490hiPkkkMsOzCdGn2Q96KMklqMrUEzS_ZjKbEbeR1qJvDi_Qd5It1r6PhdJWRymGhQBLcqqSBH-4VL-CEutt-9m89A3wr51TIM_qLR14Kh6XimmMCdnwTaGGeg2_fNdB0GDdeP8fLqMlOpB1d2xQvXSpY1_iPYz4UxeR7te25xYjFKA8JzUCg_dCaOw=s16000"]},
-    {id: "",
-    name: "",
-    banner: "",
-    previews: ["",
-               "",
-               "",
-               ""]}
+    {id: "sxwithvampire",
+    name: "Việt Hóa Sex with a Vampire Completed",
+    banner: "https://blogger.googleusercontent.com/img/a/AVvXsEggIIevm2E1-EgdhZAekIuZHTJuWWNScmM8aJTsiRftAw4PbHd5UPgSxemq7ZlojSh0KAXk0WTWGxaJhOlRw_kZX5jXz7MuC-h4znxFivIAtLO7ixArm5ZhvA8E-O-QhjWb8C2cr1mICOU7FR3qcOVwUxgHH-AprvmQuDAWp_FLONHF373EgpXmy30WIqI=s16000",
+    previews: ["https://blogger.googleusercontent.com/img/a/AVvXsEj5uvfnVOJHJtwlmGvVFBSwa6d0rvfAzUcvo1hKaVEzjlRiBlVjPL-TZWQrHwB6VvsYDMSWdMZY3DTrTgTJcI5OAqlfu4fDaMgNI-1sODN9Jp67EPKkxjlhCu3bTYC3z9htGlUevLrK8AzfumJy3m8INbCQ9kjpvPuOirWEfTY8zIQhNzzk-jfj6jXSFI0=s16000",
+               "https://blogger.googleusercontent.com/img/a/AVvXsEi4PlSbtD4yEEccUHzjaJj_pM8qNk_yGBJQlDw3yh0fR9-aTX7foC18-M86mLvOhfEiMWUgFDtXYItF6kCBRwjvLTLiPJg9gMF0UFxA0h4_UeSsai5dYE1yYA-MvxVtONCHZuAxLybfBLdpOuStdc6WqJyTcM2peJ0ftpkK2yXxT6UAmJXMgBxSdzs-zFs=s16000",
+               "https://blogger.googleusercontent.com/img/a/AVvXsEidm9i8269rvBPmKN_pTknp-Avl-d3Y0AE_RlDa0AcDNOwzEUivh7sQox6JZwTdoivYoveH44mR0gZ5m2d7-7yRscrwYlgloBWqClef03rs21BKgLKD972bGNfLTceCDSWlwlwlnlj4i-43ieTUjrSs93lawgvrxoA9L84t6EpEeMN_FA7zXBjKXIvRHPo=s16000",
+               "https://blogger.googleusercontent.com/img/a/AVvXsEjlXTdM33Lg9nb7hQ1zeY0-TJNprZxFQ36GML4DetD8Uel2zw0abfHBP_Utx-PfSIIOyxE23wo-7MlNvi7pTPksjrJJlh9pAAqV8Ls0nV57tY3Qx5-UXWRiXShwTuV7WadmIUh8APhny_MfH-CqKZcm3qcTJMc0ISxOwMvFYX3S-wzCRy-599FbSsIjccs=s16000"]},
+    {id: "perfectshot",
+    name: "Việt Hóa Perfect Shot Completed",
+    banner: "https://blogger.googleusercontent.com/img/a/AVvXsEiEPifUC8p_focn_pFU9C08MdE6GENR4LbHe4-TL3Mn6CV35FaFctRW_hxxbT_VRtRA30ecjQItzq1u1adXNmxPCm2WIntbQAbNCcwB3AM7WfudYon12MpHHWlue3UvDDjSYoIJ-BcOfYyaHXn0QoaFdB3bIoyXRHwg2AjjHK7BucUv6MGFzAZLm99CRYI=s16000",
+    previews: ["https://blogger.googleusercontent.com/img/a/AVvXsEjlZNESNoDCNUF7GLrCTqcG6JCLNBCh8T3iPQ0-j4oQwXVYbvBcViOmdO0eqbwYJKQK5YSn_ITBN4vKzM1MR9kk0mQIjLdOHadKCOC-tOEMFXOJxTKwFSwdu0QbD4BvSSuP9KQWde38FOQiNW0CNyjgMQOsOtr26-y6pdUMUKgCKAm5DEt9_G7UQ-8GSec=s16000",
+               "https://blogger.googleusercontent.com/img/a/AVvXsEiyzO1ou2DabdrVNhvEDbaAMByozhLs6aPJg293XggffktsaSB4QuL8BHoHZsjHuGMi2kUSQoWyzYYkfEiM7hf8GKo5a-h5xjraWVHXDz4ZYyHAMTiz6wNWrAz6bJISRoQk1ZpPj1VeDdG67yyG7sMepsroGEvyF9jUBDC8ZrGk10Q4JN5NaDT21JDtayM=s16000",
+               "https://blogger.googleusercontent.com/img/a/AVvXsEjUDw01_6kLsOrhkyoatwIJuPCxaWuHMwWKMSLYfD2XZyrJ-iSyYfn-yK2W8X9HvauX20ayFcxh3ipJfOgD4SWXNBT0RoQzB4BCXGj9nzxpkSXmxp2IKAAo-PqaDQDmrIizbwENZef2e0MvMKDAFHe83vFMjlQkELzeM4uAK9jbVlxu3TPElnfcU9Q9fxM=s16000",
+               "https://blogger.googleusercontent.com/img/a/AVvXsEgGJkZN15KIVTFpAyoPUzgQ_fD9sgAfOQ345DasVjTiPlFgc-ZJmtRfsvLryzuMHWin76pqnsYQg_SP1uEtyClVq2Wog-pSMunmON1bKiB3lGQmhACf1ikJhEyVrMGjkfmVpzREJSUl9a3xS1TVFiwCyMrsuVQjkn8waMnke55pU3IsfMeEIbpyjFlMa3k=s16000"]}
     
     
 ];
