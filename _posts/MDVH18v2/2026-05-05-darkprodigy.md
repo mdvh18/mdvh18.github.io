@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "darkprodigy"
-date: 2026-05-05 11:30:00 +0700
+date: 2026-05-05 10:30:00 +0700
 title: "Việt Hóa Dark Prodigy Simulator v1.0 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
