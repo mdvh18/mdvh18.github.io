@@ -2590,7 +2590,26 @@ const PITU_DATABASE = [
     previews: ["https://blogger.googleusercontent.com/img/a/AVvXsEjlZNESNoDCNUF7GLrCTqcG6JCLNBCh8T3iPQ0-j4oQwXVYbvBcViOmdO0eqbwYJKQK5YSn_ITBN4vKzM1MR9kk0mQIjLdOHadKCOC-tOEMFXOJxTKwFSwdu0QbD4BvSSuP9KQWde38FOQiNW0CNyjgMQOsOtr26-y6pdUMUKgCKAm5DEt9_G7UQ-8GSec=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEiyzO1ou2DabdrVNhvEDbaAMByozhLs6aPJg293XggffktsaSB4QuL8BHoHZsjHuGMi2kUSQoWyzYYkfEiM7hf8GKo5a-h5xjraWVHXDz4ZYyHAMTiz6wNWrAz6bJISRoQk1ZpPj1VeDdG67yyG7sMepsroGEvyF9jUBDC8ZrGk10Q4JN5NaDT21JDtayM=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEjUDw01_6kLsOrhkyoatwIJuPCxaWuHMwWKMSLYfD2XZyrJ-iSyYfn-yK2W8X9HvauX20ayFcxh3ipJfOgD4SWXNBT0RoQzB4BCXGj9nzxpkSXmxp2IKAAo-PqaDQDmrIizbwENZef2e0MvMKDAFHe83vFMjlQkELzeM4uAK9jbVlxu3TPElnfcU9Q9fxM=s16000",
-               "https://blogger.googleusercontent.com/img/a/AVvXsEgGJkZN15KIVTFpAyoPUzgQ_fD9sgAfOQ345DasVjTiPlFgc-ZJmtRfsvLryzuMHWin76pqnsYQg_SP1uEtyClVq2Wog-pSMunmON1bKiB3lGQmhACf1ikJhEyVrMGjkfmVpzREJSUl9a3xS1TVFiwCyMrsuVQjkn8waMnke55pU3IsfMeEIbpyjFlMa3k=s16000"]}
-    
-    
+               "https://blogger.googleusercontent.com/img/a/AVvXsEgGJkZN15KIVTFpAyoPUzgQ_fD9sgAfOQ345DasVjTiPlFgc-ZJmtRfsvLryzuMHWin76pqnsYQg_SP1uEtyClVq2Wog-pSMunmON1bKiB3lGQmhACf1ikJhEyVrMGjkfmVpzREJSUl9a3xS1TVFiwCyMrsuVQjkn8waMnke55pU3IsfMeEIbpyjFlMa3k=s16000"]},
+    {id: "squadxxxhunt",
+    name: "Việt Hóa SQUAD XXX: Slut Hunt",
+    banner: "https://blogger.googleusercontent.com/img/a/AVvXsEhujDexryDpd713GXRgQxtwBQDj0v6NC1hGRKSDMYaIMqg35UO7xh7EWRwwN6yc0OpqswZ8C0RqTPxuQYEQ_JEkBdP1TXuOIBCGA0rhFxx3npkaG-zgk8untnNWF8igBJG42ww7VOivG91XcCXLxg02PpIZQkN1Y-rDgv0_JLLiP9qMPCukooGnAoe8ckU=s16000",
+    previews: ["https://blogger.googleusercontent.com/img/a/AVvXsEhX8NAB3TW5q1RwpBs1iORLbq8WQw1P_TATa7s5oO7-OmLAT32feUccTAd383QkFglf5zaKFmdQWYuCptiHMvU0s8_NtSVCz9BjgdqjLBK4Kp8cRs-v4adMAxKmau_6uP4wlNHIacTZb1JjmEbTOHSFBxTx1F-oruYCpvfgL-_WvyG-7-I0n1HztyRZ5dQ=s16000",
+               "https://blogger.googleusercontent.com/img/a/AVvXsEjvAWx4hVMETrp6Nb0t4bss1Iw3fInQ7y4pQdGo2cHBWt4Wnyzv_7VD3z9QcGbfOdFfbQkq0Ga59g-6IBWkJZemd9cEZrcGvYIHeFmiesaovAzdHKEks2zblnEJSrK4A2eygZGlBbMIkMoZz2VU0kx940WDVIkT8dJ7fj1KM2p3rOgWgMm5vBlmyPp-mKU=s16000",
+               "https://blogger.googleusercontent.com/img/a/AVvXsEh4CXXnsXCtK_KyVbHT8EKerbNn07H-XKkFBSU3m13zmyHmXLGepafcO-Qy64jPM24_4X_-1Oi-_nHrI3Mz_weG45M5VRV1qGTS93xHT8V25B2es8_e7X0BeJu7owAyBlCxUlHZ5jtwWFm9ErwwFUX89HY7-kPI71s8vMtSt0ar_0rZN1EIbcClCCiVYsw=s16000",
+               "https://blogger.googleusercontent.com/img/a/AVvXsEg6TYK09vNpDAXya06Z2lx7z5vZkQtnyIgv-E6L82Dr0PFwH2wGDcaigIkPNnxfISuTrdUGziFZeeI_b3BDQN_s-5flXrtC2aVKvtBnbOfrDn_l3D0djQvCIwVdkD1nV-RSNhkbOV_GgMAJUta4V3xcvW9ie3Kbg48ff0pW8UJv3R279rz5_lJZ4j2ddNU=s16000"]},
+    {id: "sxmateuncensored",
+    name: "Việt Hóa Sexmate: Uncensored S1-v1.01",
+    banner: "",
+    previews: ["",
+               "",
+               "",
+               ""]},
+    {id: "",
+    name: "",
+    banner: "",
+    previews: ["",
+               "",
+               "",
+               ""]}
 ];
