@@ -180,17 +180,26 @@ layout: default
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
   
-  {% if paginator.page > 1 %}
+  {% assign current = paginator.page %}
+  {% assign total = paginator.total_pages %}
+  
+  {% comment %} Thiết lập giới hạn: Trang 1 hiện 10, trang khác hiện 5 {% endcomment %}
+  {% if current == 1 %}
+    {% assign limit = 10 %}
+  {% else %}
+    {% assign limit = 5 %}
+  {% endif %}
+
+  {% if current > 1 %}
     <a href="{{ '/' | relative_url }}">Đầu</a>
   {% endif %}
 
-  {% assign current = paginator.page %}
-  {% assign total = paginator.total_pages %}
-  {% assign limit = 5 %}
-  
-  {% assign start = current | minus: 2 %}
-  {% assign end = current | plus: 2 %}
+  {% comment %} Logic tính toán khoảng hiển thị {% endcomment %}
+  {% assign offset = limit | divided_by: 2 %}
+  {% assign start = current | minus: offset %}
+  {% assign end = current | plus: offset %}
 
+  {% comment %} Cân bằng lại nếu sát đầu hoặc sát cuối {% endcomment %}
   {% if start < 1 %}
     {% assign start = 1 %}
     {% assign end = limit %}
@@ -199,8 +208,9 @@ layout: default
   {% if end > total %}
     {% assign end = total %}
     {% assign start = total | minus: limit | plus: 1 %}
-    {% if start < 1 %}{% assign start = 1 %}{% endif %}
   {% endif %}
+  
+  {% if start < 1 %}{% assign start = 1 %}{% endif %}
 
   {% for page in (start..end) %}
     {% if page == current %}
@@ -212,7 +222,7 @@ layout: default
     {% endif %}
   {% endfor %}
 
-  {% if paginator.page < total %}
+  {% if current < total %}
     <a href="{{ site.paginate_path | relative_url | replace: ':num', total }}">Cuối</a>
   {% endif %}
 
