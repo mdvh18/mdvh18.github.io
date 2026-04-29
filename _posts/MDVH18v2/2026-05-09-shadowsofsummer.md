@@ -15,7 +15,7 @@ platform: "APK/PC"
 dungluong: "939MB"
 phienban: "v0.19"
 dev: "Alipel"
-genre: "3DCG, NTR, DILF, Interracial, Ahegao
+genre: "3DCG, NTR, DILF, Interracial, Ahegao"
 
 linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzIzVmtUaG1x"
 linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNWNJNlRGZzBVSUZlcExjNUYxMDhlUQ=="
