@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "questplease"
-date: 2026-05-03 17:30:00 +0700
+date: 2026-05-12 15:30:00 +0700
 title: "Việt Hóa Quest Please! Completed - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
