@@ -5,18 +5,18 @@ date: 2026-05-13 14:30:00 +0700
 title: "Việt Hóa Love Lust and a Little Evil - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Love Lust and a Little Evil Completed - [B]"
+namebanner: "[Việt Hóa] Love Lust and a Little Evil Completed - [367MB]"
 mota: |
  Công việc không lối thoát của bạn đã giải phóng một nữ quỷ succubus quyến rũ. Một đời khoái lạc sẽ thuộc về bạn—để đổi lấy linh hồn. Hãy chấp nhận sự tha hóa hoặc chiến đấu để giành quyền kiểm soát trong cuốn tiểu thuyết dành cho người lớn đầy táo bạo này.
 gametype: "Visual Novel"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
-dungluong: ""
+dungluong: "367MB"
 phienban: "Completed"
 dev: "JellyFluff Games"
 genre: "3DCG, Animated, Big tits, Footjb, Male protagonist, Milf, Monster girl, Multiple endings"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url="
+linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2pDelpTMmp6"
+linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbGhwYW9EWGFlUDNrMTM2U1ZaZ1FuZw=="
 ---
