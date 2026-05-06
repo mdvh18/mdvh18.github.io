@@ -282,6 +282,15 @@ layout: default
     <div class="megumin-left">
     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAWkPOxJVqkc0xIyKBoulfxbN9BXFI1j6jQMc9SnV2HjiESbR7VvDZM6FheAGZ86P57AnIEhX0Wy8HFw0xkd8lGV4svCOHtD9oecMQr22ItBvEVrLcJMixvPtvN31uIZZY-z0clWZD4iPkQ8A7Gpo_JkJkI9tW0dOvw9nmT1Lr1znL3xKJaLbq49s_Yw/s1600/IMG_20220521_032343.png" alt="Megumin Left">
 </div>
+<div id="fix-popup" class="fix-popup-container" style="display: none;">
+    <div class="fix-popup-content">
+        <img src="path/to/sorry-image.png" alt="Sorry" class="popup-img">
+        <h3>THÔNG BÁO FIX LỖI</h3>
+        <p>Hiện tại đã fix lỗi không hiển thị chọn tiếng Việt ở bản APK. Cũng như fix cảnh H video game Simple Days Việt Hóa.</p>
+        <p class="sorry-text">Sorry anh em vì sự bất tiện này! <span class="heart">♥</span></p>
+        <button onclick="closePopup()" class="popup-btn">Đã hiểu</button>
+    </div>
+</div>
 </footer>
 </body>
 <button id='back-to-top'>.&#10022; &#1857;&#726; Top</button>    
@@ -334,3 +343,30 @@ const backToTopBtn = document.getElementById('back-to-top');
         if (window.pageYOffset > 300) {backToTopBtn.classList.add('show');} else {backToTopBtn.classList.remove('show');}});
     backToTopBtn.addEventListener('click', () => {window.scrollTo({top: 0,behavior: 'smooth'});});
  </script>
+<script>
+    // Logic chỉ xuất hiện 1 lần và tồn tại 10s
+    window.onload = function() {
+        const hasSeen = localStorage.getItem('hasSeenFixPopup');
+        
+        if (!hasSeen) {
+            const popup = document.getElementById('fix-popup');
+            popup.style.display = 'block';
+
+            // Tự động đóng sau 10 giây
+            setTimeout(() => {
+                closePopup();
+            }, 10000);
+
+            // Đánh dấu đã xem
+            localStorage.setItem('hasSeenFixPopup', 'true');
+        }
+    };
+
+    function closePopup() {
+        const popup = document.getElementById('fix-popup');
+        popup.style.animation = 'fadeOut 0.5s forwards';
+        setTimeout(() => {
+            popup.style.display = 'none';
+        }, 500);
+    }
+</script>
