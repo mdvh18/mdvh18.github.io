@@ -822,37 +822,29 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
 .notice-link:hover {color: #d4487f;}
 .fix-popup-container {
         position: fixed;
-        top: 20px;
-        right: 20px;
-        z-index: 1000;
-        max-width: 350px;
-        animation: slideIn 0.5s ease-out;
-    }
-
-    .fix-popup-container {
-        position: fixed;
-        bottom: 20px; /* Chuyển từ top xuống bottom */
+        bottom: 20px;
         right: 20px;
         z-index: 9999;
         max-width: 320px;
+        display: block; /* Ép hiển thị để test */
         animation: slideInRight 0.6s cubic-bezier(0.23, 1, 0.32, 1);
     }
 
     .fix-popup-content {
-        background: rgba(15, 12, 41, 0.95); /* Màu nền tối #0f0c29 */
+        background: rgba(15, 12, 41, 0.98); 
         padding: 20px;
-        border-radius: 20px;
+        border-radius: 25px;
         backdrop-filter: blur(15px);
-        border: 1px solid rgba(247, 143, 144, 0.4); /* Màu hồng #f78f90 */
+        border: 1px solid rgba(247, 143, 144, 0.5);
         text-align: center;
-        box-shadow: 0 10px 40px rgba(0,0,0,0.6);
+        box-shadow: 0 10px 40px rgba(0,0,0,0.7);
     }
 
     .popup-img {
         width: 80px;
-        border-radius: 12px;
+        border-radius: 15px;
         margin-bottom: 10px;
-        animation: float 3s ease-in-out infinite; /* Giữ animation nhấp nhô của bro */
+        animation: float 3s ease-in-out infinite;
     }
 
     .fix-popup-content h3 {
@@ -861,12 +853,12 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
         -webkit-text-fill-color: transparent;
         margin: 0 0 10px 0;
         font-size: 1.1em;
-        letter-spacing: 1px;
+        font-weight: bold;
     }
 
     .fix-popup-content p {
         color: #eee;
-        font-size: 13px;
+        font-size: 13.5px;
         line-height: 1.6;
         margin: 5px 0;
     }
@@ -876,30 +868,27 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
         background: linear-gradient(135deg,#f78f90,#D79BBB);
         color: white;
         border: none;
-        padding: 8px 20px;
+        padding: 8px 25px;
         border-radius: 50px;
         cursor: pointer;
         font-weight: bold;
         transition: 0.3s;
-        font-size: 13px;
     }
 
     .popup-btn:hover { transform: scale(1.1); filter: brightness(1.1); }
 
-    /* Hiệu ứng trượt từ phải vào */
+    /* Animations */
     @keyframes slideInRight {
         from { transform: translateX(120%); opacity: 0; }
         to { transform: translateX(0); opacity: 1; }
     }
 
-    @keyframes fadeOut {
+    @keyframes fadeOutDown {
         from { opacity: 1; transform: translateY(0); }
-        to { opacity: 0; transform: translateY(20px); }
+        to { opacity: 0; transform: translateY(50px); }
     }
 
-    /* Giữ animation tim đập của bro */
+    @keyframes float { 0% { transform: translateY(0px); } 50% { transform: translateY(-8px); } 100% { transform: translateY(0px); } }
+    
     .heart { color: #f78f90; display: inline-block; animation: beat .3s infinite alternate; }
     @keyframes beat { to { transform: scale(1.2); } }
-    
-    /* Giữ animation float của bro */
-    @keyframes float { 0% { transform: translateY(0px); } 50% { transform: translateY(-8px); } 100% { transform: translateY(0px); } }
