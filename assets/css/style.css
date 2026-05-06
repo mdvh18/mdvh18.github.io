@@ -829,21 +829,30 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
         animation: slideIn 0.5s ease-out;
     }
 
+    .fix-popup-container {
+        position: fixed;
+        bottom: 20px; /* Chuyển từ top xuống bottom */
+        right: 20px;
+        z-index: 9999;
+        max-width: 320px;
+        animation: slideInRight 0.6s cubic-bezier(0.23, 1, 0.32, 1);
+    }
+
     .fix-popup-content {
-        background: rgba(15, 12, 41, 0.95); /* Màu nền body của bro */
-        padding: 25px;
+        background: rgba(15, 12, 41, 0.95); /* Màu nền tối #0f0c29 */
+        padding: 20px;
         border-radius: 20px;
         backdrop-filter: blur(15px);
-        border: 1px solid rgba(247, 143, 144, 0.3);
+        border: 1px solid rgba(247, 143, 144, 0.4); /* Màu hồng #f78f90 */
         text-align: center;
-        box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+        box-shadow: 0 10px 40px rgba(0,0,0,0.6);
     }
 
     .popup-img {
-        width: 100px;
-        border-radius: 15px;
-        margin-bottom: 15px;
-        animation: float 3s ease-in-out infinite;
+        width: 80px;
+        border-radius: 12px;
+        margin-bottom: 10px;
+        animation: float 3s ease-in-out infinite; /* Giữ animation nhấp nhô của bro */
     }
 
     .fix-popup-content h3 {
@@ -851,13 +860,14 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         margin: 0 0 10px 0;
-        font-size: 1.2em;
+        font-size: 1.1em;
+        letter-spacing: 1px;
     }
 
     .fix-popup-content p {
         color: #eee;
-        font-size: 14px;
-        line-height: 1.5;
+        font-size: 13px;
+        line-height: 1.6;
         margin: 5px 0;
     }
 
@@ -866,21 +876,30 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
         background: linear-gradient(135deg,#f78f90,#D79BBB);
         color: white;
         border: none;
-        padding: 8px 25px;
+        padding: 8px 20px;
         border-radius: 50px;
         cursor: pointer;
         font-weight: bold;
         transition: 0.3s;
+        font-size: 13px;
     }
 
-    .popup-btn:hover { transform: scale(1.05); }
+    .popup-btn:hover { transform: scale(1.1); filter: brightness(1.1); }
 
-    @keyframes slideIn {
-        from { transform: translateX(100%); opacity: 0; }
+    /* Hiệu ứng trượt từ phải vào */
+    @keyframes slideInRight {
+        from { transform: translateX(120%); opacity: 0; }
         to { transform: translateX(0); opacity: 1; }
     }
 
     @keyframes fadeOut {
-        from { opacity: 1; }
-        to { opacity: 0; }
+        from { opacity: 1; transform: translateY(0); }
+        to { opacity: 0; transform: translateY(20px); }
     }
+
+    /* Giữ animation tim đập của bro */
+    .heart { color: #f78f90; display: inline-block; animation: beat .3s infinite alternate; }
+    @keyframes beat { to { transform: scale(1.2); } }
+    
+    /* Giữ animation float của bro */
+    @keyframes float { 0% { transform: translateY(0px); } 50% { transform: translateY(-8px); } 100% { transform: translateY(0px); } }
