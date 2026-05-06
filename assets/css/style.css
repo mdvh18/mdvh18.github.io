@@ -820,3 +820,67 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
     transition: 0.3s;}
 
 .notice-link:hover {color: #d4487f;}
+.fix-popup-container {
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        z-index: 1000;
+        max-width: 350px;
+        animation: slideIn 0.5s ease-out;
+    }
+
+    .fix-popup-content {
+        background: rgba(15, 12, 41, 0.95); /* Màu nền body của bro */
+        padding: 25px;
+        border-radius: 20px;
+        backdrop-filter: blur(15px);
+        border: 1px solid rgba(247, 143, 144, 0.3);
+        text-align: center;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    }
+
+    .popup-img {
+        width: 100px;
+        border-radius: 15px;
+        margin-bottom: 15px;
+        animation: float 3s ease-in-out infinite;
+    }
+
+    .fix-popup-content h3 {
+        background: linear-gradient(135deg,#f78f90,#D79BBB);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin: 0 0 10px 0;
+        font-size: 1.2em;
+    }
+
+    .fix-popup-content p {
+        color: #eee;
+        font-size: 14px;
+        line-height: 1.5;
+        margin: 5px 0;
+    }
+
+    .popup-btn {
+        margin-top: 15px;
+        background: linear-gradient(135deg,#f78f90,#D79BBB);
+        color: white;
+        border: none;
+        padding: 8px 25px;
+        border-radius: 50px;
+        cursor: pointer;
+        font-weight: bold;
+        transition: 0.3s;
+    }
+
+    .popup-btn:hover { transform: scale(1.05); }
+
+    @keyframes slideIn {
+        from { transform: translateX(100%); opacity: 0; }
+        to { transform: translateX(0); opacity: 1; }
+    }
+
+    @keyframes fadeOut {
+        from { opacity: 1; }
+        to { opacity: 0; }
+    }
