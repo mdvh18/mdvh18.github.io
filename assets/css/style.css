@@ -919,24 +919,30 @@ img {
         position: fixed !important;
         top: 50% !important;
         left: 50% !important;
-        transform: translate(-50%, -50%) !important; /* Căn giữa tuyệt đối */
-        
-        /* Kích thước chuẩn như ảnh 2 */
+        transform: translate(-50%, -60%) scale(0.9) !important; /* Hơi lệch lên và nhỏ lại khi ẩn */
         width: 85vw !important; 
-        max-width: 320px !important; 
-        height: auto !important;
-        
-        /* Ép hiển thị dãn ra */
-        display: block !important;
-        visibility: visible !important;
-        opacity: 1 !important;
-        
+        max-width: 320px !important;
         background: #1b0f2b !important;
         padding: 10px !important;
-        border-radius: 25px; /* Bo tròn dài như ảnh 2 */
+        border-radius: 25px;
         border: 1.5px solid #ff6b81;
         z-index: 1000000 !important;
+        
+        /* Chìa khóa ở đây: Ẩn đi khi chưa được kích hoạt */
+        display: none; 
+        opacity: 0;
+        pointer-events: none;
+        transition: all 0.3s ease;
     }
+    .search-box.active, 
+    .search-box.show,
+    .nav-search.active .search-box { 
+        display: block !important;
+        opacity: 1 !important;
+        pointer-events: auto !important;
+        transform: translate(-50%, -50%) scale(1) !important;
+    }
+
     .search-box input {
         width: 100% !important;
         background: transparent !important;
@@ -946,6 +952,7 @@ img {
         font-size: 15px !important;
         outline: none !important;
     }
+}
 
     .sub-nav-list {
         display: flex !important;
