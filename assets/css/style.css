@@ -898,12 +898,6 @@ img {
     max-width: 100%;
     height: auto;
 }
-/* --- HỆ THỐNG HEADER MOBILE TỔNG HỢP (768px & 480px) --- */
-/* --- TỐI ƯU HEADER MOBILE: ICON SEARCH TRONG MENU, SEARCH BOX GIỮA MÀN HÌNH --- */
-
-/* --- PHƯƠNG ÁN CHỐT HẠ: SEARCH LÊN CẠNH LOGO, SEARCH BOX GIỮA MÀN HÌNH --- */
-
-/* --- TỐI ƯU HEADER MOBILE: ICON SEARCH TRONG MENU, SEARCH BOX GIỮA MÀN HÌNH --- */
 
 @media (max-width: 1024px) {
     /* 1. Ẩn nút menu 3 gạch trên mobile */
@@ -913,42 +907,54 @@ img {
 
     /* 2. Đưa icon search về lại dải menu hồng (không dùng fixed nữa) */
     .search-icon {
-        position: relative !important;
-        top: auto !important;
-        right: auto !important;
+        position: absolute !important;
+        top: 22px !important;  /* Chỉnh cho cân với Logo */
+        right: 15px !important;
         display: flex !important;
-        align-items: center;
-        justify-content: center;
-        width: auto !important;
-        height: auto !important;
-        margin: 0 10px !important; /* Tạo khoảng cách trong dải menu */
-        z-index: 100 !important;
+        z-index: 999999 !important;
+        width: 30px !important;
+        height: 30px !important;
+        background: transparent !important;
     }
 
     /* 3. TUYỆT CHIÊU: Đưa Search Box ra chính giữa màn hình khi hiện lên */
     .search-box {
         position: fixed !important;
-        top: 50% !important;   /* Căn giữa dọc */
-        left: 50% !important;  /* Căn giữa ngang */
-        transform: translate(-50%, -50%) !important; /* Lấy tâm làm chuẩn */
-        width: 90% !important; /* Chiếm gần hết chiều ngang đt */
+        top: 50% !important;
+        left: 50% !important;
+        transform: translate(-50%, -50%) !important;
+        
+        /* Ép kích thước thực tế */
+        width: 85vw !important; 
         max-width: 350px !important;
         height: auto !important;
-        z-index: 999999 !important; /* Nằm trên tất cả mọi thứ */
+        min-height: 60px !important; /* Đảm bảo không bị bóp nghẹt chiều cao */
         
-        /* Làm nổi bật hộp search */
-        background: #1b0f2b !important; 
-        padding: 20px !important;
-        border-radius: 15px;
-        border: 2px solid #d4487f;
-        box-shadow: 0 0 50px rgba(0,0,0,0.9);
+        /* Hiển thị cưỡng bách */
+        display: block !important; 
+        visibility: visible !important;
+        opacity: 1 !important;
+        
+        background: #1b0f2b !important;
+        padding: 15px !important;
+        border-radius: 12px;
+        border: 2px solid #ff6b81;
+        z-index: 1000000 !important;
+        box-shadow: 0 0 40px rgba(0,0,0,0.9);
     }
 
     /* Đảm bảo ô input bên trong to rõ */
     .search-box input {
+        display: block !important;
         width: 100% !important;
+        min-width: 100% !important;
         padding: 12px !important;
+        background: #2d1a44 !important;
+        color: #fff !important;
+        border: 1px solid #444 !important;
+        border-radius: 8px !important;
         font-size: 16px !important;
+        visibility: visible !important;
     }
 
     /* 4. Chỉnh lại dải menu hồng để chứa icon search cân đối */
