@@ -76,10 +76,50 @@
     text-align: center;
     line-height: 1.6;}
     
+/* --- Đồng bộ Game Banner cho mọi thiết bị --- */
+@media (max-width: 1300px) {
+    .game-banner {
+        width: 95% !important; /* Dùng % thay vì px cố định */
+        height: auto !important; /* Cho phép chiều cao co giãn */
+        aspect-ratio: 16 / 7; /* Giữ tỉ lệ vàng như Slider trang chủ */
+        min-height: 250px; /* Không để banner quá lùn */
+    }
+}
+
 @media (max-width: 768px) {
-    .game-banner { width: 95vw !important; aspect-ratio: 16 / 9; }
-    .game-banner h1 { font-size: 20px; }
-    .game-banner p { font-size: 13px; }}
+    .game-banner {
+        width: 95% !important; 
+        aspect-ratio: 16 / 9; /* Trên mobile banner nên cao hơn một chút để thấy ảnh */
+        min-height: 200px;
+        margin-top: 5px;
+    }
+
+    .game-banner .overlay {
+        padding: 20px 15px 10px; /* Giảm bớt padding để dành chỗ cho nội dung */
+    }
+
+    .game-banner h1 {
+        font-size: 20px !important;
+        margin-bottom: 5px;
+    }
+
+    .game-banner p {
+        font-size: 13px !important;
+        line-height: 1.4;
+        display: -webkit-box;
+        -webkit-line-clamp: 2; /* Giới hạn 2 dòng mô tả trên mobile cho gọn */
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+}
+/* --- Tối ưu Container nội dung --- */
+@media (max-width: 768px) {
+    .main-container {
+        padding: 0 10px !important; /* Thêm chút lề hai bên để nội dung không dính sát mép */
+        width: 100% !important;
+        box-sizing: border-box !important;
+    }
+}      
 </style>
     
 <style>
@@ -192,7 +232,93 @@
     align-items: center;
     justify-content: center;
     transition: 0.5s;}
-</style>  
+/* --- Tối ưu Thông tin, Download Box và Spoiler cho Mobile --- */
+
+@media (max-width: 1100px) {
+    /* Đưa tất cả các khung rộng về 95% để không bị tràn */
+    .game-info, 
+    .download-box, 
+    .content-title, 
+    .image-grid, 
+    .mdvh18-spoiler-container {
+        width: 95% !important; 
+        max-width: 95% !important;
+    }
+}
+
+@media (max-width: 768px) {
+    /* Tối ưu khung thông tin game */
+    .game-info {
+        padding: 15px;
+        font-size: 15px; /* Giảm font chữ một chút cho dễ đọc */
+        line-height: 1.5;
+    }
+
+    /* Tối ưu hộp Download */
+    .download-box {
+        padding: 20px 10px;
+        width: 95% !important;
+    }
+
+    .download-btn {
+        display: block; /* Trên mobile nút tải nên nằm dọc cho dễ bấm */
+        margin: 10px auto;
+        width: 80%;
+        text-align: center;
+    }
+
+    /* Tối ưu tiêu đề phần */
+    .content-title {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .section-title {
+        font-size: 18px !important;
+        letter-spacing: 1px !important;
+    }
+
+    /* Tối ưu lưới ảnh (Sửa lại đoạn media cũ của bạn cho mượt hơn) */
+    .image-grid {
+        gap: 10px !important;
+    }
+
+    .image-grid img {
+        flex: 1 1 100% !important;
+        min-width: 100% !important;
+        margin-bottom: 5px;
+    }
+
+    /* Tối ưu khung Spoiler (Nội dung nhạy cảm/ẩn) */
+    .mdvh18-spoiler-container {
+        width: 95% !important;
+        border-radius: 10px;
+    }
+
+    #blur-overlay {
+        padding: 20px;
+        text-align: center;
+    }
+    
+    /* Đảm bảo text trong spoiler không bị to quá */
+    .mdvh18-spoiler-container * {
+        max-width: 100%;
+    }
+}
+
+/* --- Xử lý riêng cho màn hình cực nhỏ (iPhone 5/SE cũ) --- */
+@media (max-width: 380px) {
+    .download-btn {
+        width: 90%;
+        font-size: 14px;
+    }
+    
+    .game-info {
+        font-size: 14px;
+    }
+}
+</style>
+
     <div class="menu-container">
     <div class="dropdown-content">
         <div class="dropdown-header">DANH MỤC</div>
@@ -383,6 +509,40 @@
         text-shadow: 0 0 10px rgba(255, 107, 129, 0.6);
         cursor: pointer;
     }
+/* --- Tối ưu Link Donate và Link Rút gọn cho Mobile --- */
+
+@media (max-width: 768px) {
+    a[href*="donate"], 
+    a[href*="work.ink"] {
+        /* Tăng diện tích bấm để ngón tay dễ chạm trúng */
+        padding: 5px 2px; 
+        margin: 2px 0;
+        
+        /* Đảm bảo link không bị tràn nếu URL hoặc text quá dài */
+        word-break: break-all; 
+        line-height: 1.6;
+        
+        /* Giảm độ phóng đại khi hover trên mobile vì dễ gây lạng trang */
+        transform: none !important; 
+    }
+
+    a[href*="donate"]:active, 
+    a[href*="work.ink"]:active {
+        /* Thay vì hover (rê chuột), dùng active (khi chạm tay vào) */
+        color: #ff6b81 !important;
+        background: rgba(255, 107, 129, 0.1);
+        border-radius: 4px;
+    }
+}
+
+/* --- Tách biệt hiệu ứng Hover cho thiết bị có dùng chuột --- */
+@media (hover: hover) {
+    a[href*="donate"]:hover, 
+    a[href*="work.ink"]:hover {
+        transform: scale(1.1);
+        /* Giữ nguyên hiệu ứng phóng to của bạn trên PC */
+    }
+}      
 </style>
 </div>
 <script src="{{ '/assets/js/pitumdgame.js' | relative_url }}"></script>
