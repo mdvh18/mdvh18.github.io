@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "dreamcorruption"
-date: 2026-05-08 12:30:00 +0700
+date: 2026-05-08 12:00:00 +0700
 title: "Việt Hóa Dream Corruption v0.2.1 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
