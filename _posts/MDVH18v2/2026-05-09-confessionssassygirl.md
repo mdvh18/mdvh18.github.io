@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "confessionssassygirl"
-date: 2026-05-09 12:30:00 +0700
+date: 2026-05-09 15:30:00 +0700
 title: "Việt Hóa Confessions of a Sassy Girl  - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
