@@ -7,7 +7,7 @@ tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["Compressed", "APK"]
 namebanner: "[Việt Hóa] Valhalla: Lilith Rising v3.0.7s - [1.8GB]"
 mota: |
- Valhalla: Lilith Rising là một tiểu thuyết trực quan dành cho người lớn độc lập. Đội quân ác quỷ đang tiến đến. Bạn phải chiêu mộ đội quân viking vĩ đại để chống lại cuộc tấn công.
+ Valhalla: Lilith Rising là một tiểu thuyết dành cho người lớn. Đội quân ác quỷ đang tiến đến. Bạn phải chiêu mộ đội quân viking vĩ đại để chống lại cuộc tấn công.
 gametype: "Visual Novel"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
