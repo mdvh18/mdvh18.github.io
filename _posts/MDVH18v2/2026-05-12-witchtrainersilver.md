@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "witchtrainersilver"
-date: 2026-05-12 12:30:00 +0700
+date: 2026-05-12 10:30:00 +0700
 title: "Việt Hóa Witch Trainer: Silver Mod - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
