@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "mydressupntr"
-date: 2026-05-12 15:30:00 +0700
+date: 2026-05-12 15:00:00 +0700
 title: "Việt Hóa My Dress Up NTR: Unseen Desire - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
