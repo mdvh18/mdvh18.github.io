@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "beforechristmas"
-date: 2026-05-13 12:30:00 +0700
+date: 2026-05-14 12:30:00 +0700
 title: "Việt Hóa Night Before Christmas Completed - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
