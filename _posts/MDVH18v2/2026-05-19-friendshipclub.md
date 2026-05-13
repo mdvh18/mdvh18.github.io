@@ -18,7 +18,7 @@ dev: "ZorniteB"
 genre: "Male protagonist, 3DCG, oral sex, Big ass, Big tits, Dating sim, Horror, Romance, Slice Of Life"
 
 linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0x1V05qWThV"
-linkpixelapk: "https://mdvh18.github.io/download.html?url="
-linkgofile "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9pVXVvQjA="
+linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3BkendSUlJu"
+linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9pVXVvQjA="
 linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSnFUZnVoY3pleTVMUFdoOWRfR2lvZw=="
 ---
