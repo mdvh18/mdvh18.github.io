@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "amotherlove"
-date: 2026-05-13 10:30:00 +0700
+date: 2026-05-13 10:00:00 +0700
 title: "Việt Hóa A Mother's Love Part 1-16 Plus - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK", "Compressed"]
