@@ -118,6 +118,23 @@
 
         {% if clean_gametype == page.gametype | downcase %}
 
+          {% assign filtered_posts = filtered_posts | push: post %}
+          {% break %}
+
+        {% endif %}
+
+      {% endfor %}
+
+    {% endif %}
+
+  {% endfor %}
+
+  {% assign posts = filtered_posts %}
+
+{% elsif page.genre %}
+
+  {% assign filtered_posts = "" | split: "" %}
+
   {% for post in site.posts %}
 
     {% if post.genre %}
@@ -142,6 +159,14 @@
   {% endfor %}
 
   {% assign posts = filtered_posts %}
+
+{% elsif page.tag_name %}
+
+  {% assign posts = site.tags[page.tag_name] %}
+
+{% else %}
+
+  {% assign posts = paginator.posts | default: site.posts %}
 
 {% endif %}
 
