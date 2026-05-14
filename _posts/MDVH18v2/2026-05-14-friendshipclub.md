@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "friendshipclub"
-date: 2026-05-14 19:00:00 +0700
+date: 2026-05-14 19:30:00 +0700
 title: "Việt Hóa Welcome to the Friendship Club! - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
