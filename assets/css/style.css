@@ -951,6 +951,8 @@ img {
     }
 }
 
+   /* Chỉ áp dụng cho màn hình điện thoại và máy tính bảng nhỏ */
+@media screen and (max-width: 768px) {
     .sub-nav-list {
         display: flex !important;
         align-items: center !important;
@@ -959,21 +961,12 @@ img {
         gap: 12px !important;
     }
 
-    .brand-name {
-        max-width: 180px !important;
-        font-size: 15px !important;
-        white-space: nowrap !important;
-        overflow: hidden !important;
-        text-overflow: ellipsis !important;
-    }
-
     .brand-logo {
         width: 40px !important;
         height: 40px !important;
     }
 }
 
-/* --- Tinh chỉnh cho màn hình siêu nhỏ --- */
 @media (max-width: 480px) {
     .brand-name {
         max-width: 140px !important;
@@ -993,12 +986,12 @@ img {
 
 @media (max-width: 768px) {
     .sub-nav-list {
-        gap: 10px !important; /* Thu hẹp khoảng cách các mục All Game, Fanpage... */
+        gap: 10px !important;
         padding: 0 5px !important;
     }
 
     .sub-nav-list li a {
-        font-size: 12px !important; /* Chữ nhỏ lại để nằm vừa 1 dòng */
+        font-size: 12px !important;
     }
 }
 
