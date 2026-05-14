@@ -1,29 +1,15 @@
 ---
-layout: page
+layout: pages
 title: "3DCG"
 ---
 
-<div class="game-grid">
-  {% comment %} 
-     Dùng where_exp để lọc ngay từ đầu, chỉ lấy những bài có chứa tag 3dcg.
-     Cách này bỏ qua toàn bộ vòng lặp kiểm tra thủ công.
-  {% endcomment %}
-  
-  {% assign target = "3dcg" %}
-  {% assign filtered_posts = site.posts | where_exp: "item", "item.genre downcase contains target" %}
-
-  {% for post in filtered_posts %}
-    <div class="post-item">
-      <a href="{{ post.url }}">
-        <div class="post-thumbnail-container">
-          {% if post.image %}
-            <img src="{{ post.image }}" alt="{{ post.title }}" class="post-thumbnail">
-          {% endif %}
-        </div>
-        <div class="post-info">
-          <span class="post-title">{{ post.title }}</span>
-        </div>
-      </a>
-    </div>
-  {% endfor %}
-</div>
+{% assign target = "3dcg" %}
+{% for post in site.posts %}
+    {% assign genres = post.genre | downcase %}
+    {% if genres contains target %}
+        <a href="{{ post.url }}">
+            <img src="{{ post.image }}" alt="{{ post.title }}">
+            <span>{{ post.title }}</span>
+        </a>
+    {% endif %}
+{% endfor %}
