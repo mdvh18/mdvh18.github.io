@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "serendipitybookshop"
-date: 2026-05-14 17:30:00 +0700
+date: 2026-05-14 10:30:00 +0700
 title: "Việt Hóa Serendipity Bookshop v1.02 - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
