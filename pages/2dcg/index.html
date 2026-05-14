@@ -3,7 +3,7 @@ layout: pages
 title: "Thể loại: 2DCG"
 ---
 
-<div class="post-grid">
+{% assign filtered_posts = "" | split: "" %}
 
 {% for post in site.posts %}
 
@@ -17,12 +17,7 @@ title: "Thể loại: 2DCG"
 
       {% if clean_genre == "2dcg" %}
 
-        <article class="post-card">
-          <a href="{{ post.url }}">
-            <img src="{{ post.image }}" alt="{{ post.title }}">
-            <h2>{{ post.title }}</h2>
-          </a>
-        </article>
+        {% assign filtered_posts = filtered_posts | push: post %}
 
         {% break %}
 
@@ -34,4 +29,4 @@ title: "Thể loại: 2DCG"
 
 {% endfor %}
 
-</div>
+{% assign site.posts = filtered_posts %}
