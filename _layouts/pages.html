@@ -102,11 +102,44 @@
     
 <div class="main-content-wrapper">
    <div class="game-grid">
-  {% if page.tag_name %}
-    {% assign posts = site.tags[page.tag_name] %}
-  {% else %}
-    {% assign posts = paginator.posts | default: site.posts %}
-  {% endif %}
+  {% if page.genre %}
+
+  {% assign filtered_posts = "" | split: "" %}
+
+  {% for post in site.posts %}
+
+    {% if post.genre %}
+
+      {% assign genres = post.genre | downcase | split: "," %}
+
+      {% for genre in genres %}
+
+        {% assign clean_genre = genre | strip %}
+
+        {% if clean_genre == page.genre | downcase %}
+
+          {% assign filtered_posts = filtered_posts | push: post %}
+          {% break %}
+
+        {% endif %}
+
+      {% endfor %}
+
+    {% endif %}
+
+  {% endfor %}
+
+  {% assign posts = filtered_posts %}
+
+{% elsif page.tag_name %}
+
+  {% assign posts = site.tags[page.tag_name] %}
+
+{% else %}
+
+  {% assign posts = paginator.posts | default: site.posts %}
+
+{% endif %}
 
   {% for post in posts %}
     <div class="game-card pitu-item" style="display: none;"> 
