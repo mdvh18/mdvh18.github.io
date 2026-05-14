@@ -1,26 +1,5 @@
 ---
 layout: pages
-title: "Thể loại: 2DCG"
+title: "2DCG"
+genre: 2dcg
 ---
-
-{% for post in site.posts %}
-
-  {% if page.genre %}
-
-    {% assign genres = page.genre | downcase | split: "," %}
-
-    {% for genre in genres %}
-
-      {% assign clean_genre = genre | strip %}
-
-      {% if clean_genre == "2dcg" %}
-
-        {% break %}
-
-      {% endif %}
-
-    {% endfor %}
-
-  {% endif %}
-
-{% endfor %}
