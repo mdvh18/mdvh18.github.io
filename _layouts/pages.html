@@ -104,11 +104,19 @@
    <div class="game-grid">
   {% if page.gametype %}
 
-  {% assign posts = site.posts | where: "gametype", page.gametype %}
-
-{% elsif page.genre %}
-
   {% assign filtered_posts = "" | split: "" %}
+
+  {% for post in site.posts %}
+
+    {% if post.gametype %}
+
+      {% assign gametypes = post.gametype | downcase | split: "," %}
+
+      {% for gametype in gametypes %}
+
+        {% assign clean_gametype = gametype | strip %}
+
+        {% if clean_gametype == page.gametype | downcase %}
 
   {% for post in site.posts %}
 
