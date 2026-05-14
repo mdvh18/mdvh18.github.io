@@ -8,7 +8,7 @@ typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Witch Trainer: Silver Mod v1.49.2 - [950MB]"
 mota: |
  Về cơ bản, đây là một bản mod tổng hợp từ vài bản mod khác nhau cùng với một số nội dung mới. Nó bổ sung thêm các cảnh quay mới, bản đồ, các thay đổi về bối cảnh, thuốc men, trang phục tùy chỉnh và trang phục tiến hóa. Hiện tại, bản mod vẫn chưa hoàn thiện và các nội dung mới cùng bản sửa lỗi đang được cập nhật định kỳ,
-gametype: "Visual Novel"
+gametype: "Sandbox"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
