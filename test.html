@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Test Hệ Thống Level</title>
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+</head>
+<body>
+    <h2>Check-in Nhận Cấp Độ</h2>
+    
+    <input type="text" id="user" placeholder="Tên đăng nhập">
+    <input type="password" id="pass" placeholder="Mật khẩu">
+    <button onclick="handleAction()">Tải Game & Lên Cấp</button>
+
+    <div id="status" style="margin-top: 20px; color: blue;"></div>
+
+    <script>
+        const _supabase = supabase.createClient('https://uxkzytnuvzwefuvaqgwx.supabase.co', 'sb_publishable_PwPtKc5ZtDrsXLzg5uf89Q_U6nWDQjC');
+
+        async function handleAction() {
+            const username = document.getElementById('user').value;
+            const password = document.getElementById('pass').value;
+            const status = document.getElementById('status');
+
+            if (!username || !password) {
+                status.innerText = "Nhập đủ tên với pass đã ông ơi!";
+                return;
+            }
+
+            status.innerText = "Đang xử lý...";
+
+            let { data: user, error } = await _supabase
+                .from('users_rank')
+                .select('*')
+                .eq('username', username)
+                .single();
+
+            if (user) {
+    
+                if (user.password !== password) {
+                    status.innerText = "Sai mật khẩu rồi!";
+                    return;
+                }
+
+        
+                const newCount = user.download_count + 1;
+                
+    
+                let newLevel = "Tân thủ";
+                if (newCount >= 10) newLevel = "Dân chơi";
+                if (newCount >= 50) newLevel = "Lão làng";
+
+                const { error: upError } = await _supabase
+                    .from('users_rank')
+                    .update({ download_count: newCount, level: newLevel })
+                    .eq('username', username);
+
+                if (!upError) {
+                    status.innerText = `Thành công! Bạn đã tải ${newCount} lần. Cấp hiện tại: ${newLevel}`;
+                }
+            } else {
+                const { error: inError } = await _supabase
+                    .from('users_rank')
+                    .insert([{ username, password, download_count: 1, level: "Tân thủ" }]);
+
+                if (!inError) {
+                    status.innerText = "Tạo tài khoản mới thành công! Cấp: Tân thủ";
+                }
+            }
+        }
+    </script>
+</body>
+</html>
