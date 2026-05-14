@@ -3,8 +3,6 @@ layout: pages
 title: "Thể loại: 2DCG"
 ---
 
-{% assign filtered_posts = "" | split: "" %}
-
 {% for post in site.posts %}
 
   {% if post.genre %}
@@ -17,8 +15,6 @@ title: "Thể loại: 2DCG"
 
       {% if clean_genre == "2dcg" %}
 
-        {% assign filtered_posts = filtered_posts | push: post %}
-
         {% break %}
 
       {% endif %}
@@ -28,5 +24,3 @@ title: "Thể loại: 2DCG"
   {% endif %}
 
 {% endfor %}
-
-{% assign site.posts = filtered_posts %}
