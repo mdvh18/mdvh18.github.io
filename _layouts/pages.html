@@ -138,7 +138,13 @@
   {% assign posts = filtered_posts %}
 
 {% endif %}
-
+{% if page.tags %}
+  <div class="tags">
+    {% for tag in page.tags %}
+      <span class="tag">{{ tag }}</span>
+    {% endfor %}
+  </div>
+{% endif %}
   {% for post in posts %}
     <div class="game-card pitu-item" style="display: none;"> 
       <a href="{{ post.url | relative_url }}">
