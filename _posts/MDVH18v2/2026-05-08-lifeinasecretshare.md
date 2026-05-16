@@ -17,6 +17,6 @@ phienban: "v1.0.7"
 dev: "One Up"
 genre: "2DCG, Censored, Groping, Internal view, Japanese Game, Male protagonist, Romance, Rpg, Toys, Sleep, Voiced"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1ZWNkVBYVA2"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xXzNneHZvR1VVVUJfN0VFQ2gzWFlNQQ=="
+linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1ZWNkVBYVA2"
+linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xXzNneHZvR1VVVUJfN0VFQ2gzWFlNQQ=="
 ---
