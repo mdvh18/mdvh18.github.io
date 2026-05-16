@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "thefallenangel"
-date: 2026-05-17 17:30:00 +0700
+date: 2026-05-21 12:30:00 +0700
 title: "Việt Hóa The Fallen Angel v0.7 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
