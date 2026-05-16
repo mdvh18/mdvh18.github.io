@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "personaeuphoria"
-date: 2026-05-16 10:30:00 +0700
+date: 2026-05-16 12:30:00 +0700
 title: "Việt Hóa Persona 5: Euphoria - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
