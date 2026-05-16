@@ -138,6 +138,7 @@
   {% assign posts = filtered_posts %}
 
 {% endif %}
+
 {% if page.tags %}
   <div class="tags">
     {% for tag in page.tags %}
@@ -145,23 +146,23 @@
     {% endfor %}
   </div>
 {% endif %}
-  {% for post in posts %}
-    <div class="game-card pitu-item" style="display: none;"> 
-      <a href="{{ post.url | relative_url }}">
-        <div class="card-thumb">
-          <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" 
-               class="grid-pitu-img" 
-               data-pitu="{{ post.pitu_id }}" 
-               alt="{{ post.title }}">
-          <i class="fa-solid fa-angles-down download-icon-fa"></i>
-        </div>
-        <div class="card-info">
-          <h3>{{ post.namebanner | default: post.title }}</h3>
-        </div>
-      </a>
-    </div>
-  {% endfor %}
-</div>
+
+{% for post in posts %}
+  <div class="game-card pitu-item" style="display: none;"> 
+    <a href="{{ post.url | relative_url }}">
+      <div class="card-thumb">
+        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" 
+             class="grid-pitu-img" 
+             data-pitu="{{ post.pitu_id }}" 
+             alt="{{ post.title }}">
+        <i class="fa-solid fa-angles-down download-icon-fa"></i>
+      </div>
+      <div class="card-info">
+        <h3>{{ post.namebanner | default: post.title }}</h3>
+      </div>
+    </a>
+  </div>
+{% endfor %}
 
 <div id="load-more-container" style="text-align: center; margin: 40px 0; display: none;">
     <button id="btn-load-more" class="pagination-a" style="cursor:pointer; border:none; font-family:inherit;">
