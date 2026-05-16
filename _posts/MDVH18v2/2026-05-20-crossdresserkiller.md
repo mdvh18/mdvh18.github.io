@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "crossdresserkiller"
-date: 2026-05-17 10:30:00 +0700
+date: 2026-05-20 17:30:00 +0700
 title: "Việt Hóa Crossdresser Killer - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
