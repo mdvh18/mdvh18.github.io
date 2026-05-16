@@ -143,15 +143,9 @@
 {% if page.tags %}
   <div class="tags">
     {% for tag in page.tags %}
-      <span class="tag">{{ tag }}</span>
-    {% endfor %}
-  </div>
-{% endif %}
-
-{% if page.tags %}
-  <div class="tags">
-    {% for tag in page.tags %}
-      <span class="tag">{{ tag }}</span>
+      {% unless tag == "apk" %}
+        <span class="tag">{{ tag }}</span>
+      {% endunless %}
     {% endfor %}
   </div>
 {% endif %}
