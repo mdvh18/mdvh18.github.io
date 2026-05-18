@@ -8,7 +8,7 @@ typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Hearts in the Shadows v0.3 - [878MB]"
 mota: |
  Hearts in the Shadows là một hành trình của những căng thẳng, dục vọng và sự mơ hồ về mặt đạo đức, nơi mọi mối quan hệ đều bộc lộ những khía cạnh tốt đẹp nhất — và cả tồi tệ nhất — bên trong Trevor.
-gametype: "Visual Novel"
+gametype: "Sandbox"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
