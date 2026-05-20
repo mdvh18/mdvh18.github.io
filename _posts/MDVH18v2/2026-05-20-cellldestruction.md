@@ -8,7 +8,7 @@ typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Cell Destruction Completed - [342MB]"
 mota: |
  Trong tương lai gần, nhân loại đã khởi động Dự án Tế bào Prometheus. Kế hoạch đầy tham vọng này nhằm mục đích kết hợp công nghệ chỉnh sửa gen với trí tuệ nhân tạo để tăng cường cơ thể con người và đưa nền văn minh tiến xa hơn.
-gametype: "Visual Novel"
+gametype: "Sandbox"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
