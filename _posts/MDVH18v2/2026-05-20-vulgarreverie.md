@@ -5,7 +5,7 @@ date: 2026-05-20 17:00:00 +0700
 title: "Việt Hóa Vulgar Reverie v0.20 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Vulgar Reverie v0.20 - [2.6GB]"
+namebanner: "[Việt Hóa] Vulgar Reverie v0.20 Update - [2.6GB]"
 mota: |
  Một câu nói đơn giản thôi. Nếu hai người yêu nhau, mọi trở ngại đều có thể vượt qua. Nhưng câu hỏi đặt ra là... Cả hai người sẵn sàng đi xa đến mức nào vì tình yêu đó?
 gametype: "Visual Novel"
