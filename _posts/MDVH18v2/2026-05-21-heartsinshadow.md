@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "heartsinshadow"
-date: 2026-05-21 15:30:00 +0700
+date: 2026-05-21 15:31:00 +0700
 title: "Việt Hóa Hearts in the Shadows v0.3 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
