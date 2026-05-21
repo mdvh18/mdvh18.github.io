@@ -18,6 +18,6 @@ dev: "Creator X"
 genre: "Animated, 3DCG, Mobile Game, Harem, Parody , Romance , Superpowers. Adventure"
 
 linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0FwdGV5cXVX"
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2NHUGhxQ3JK"
+linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzNzYjZKQXdM"
 linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xY01pbUdQOGJ5TGllM01oVExxaTB3QQ=="
 ---
