@@ -8,7 +8,7 @@ typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] UnderGirl: Submission Path v2.0 - [1.8GB]"
 mota: |
  Bạn chỉ là một gã đam mê chiến đấu và võ thuật. Bạn đã tập luyện chăm chỉ và tự tạo dựng cho mình một danh tiếng khá lẫy lừng, liên tục chiến thắng hết cuộc thi này đến cuộc thi khác.
-gametype: "Visual Novel"
+gametype: "Simulation"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
