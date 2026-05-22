@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "pranaforgottensin"
-date: 2026-05-22 10:30:00 +0700
+date: 2026-05-22 10:00:00 +0700
 title: "Việt Hóa Prana: The forgotten sin v0.0.1  - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
