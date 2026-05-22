@@ -17,7 +17,7 @@ platform: "PC"
 dungluong: "523MB"
 phienban: "Full"
 dev: "DKL"
-genre: "3DCG, Animated, Graphic violence, Incest, Milf, Mobile Game, Toys"
+genre: "3DCG, Animated, Cheating, Family Setting, Female Protagonist, Graphic Violence, Group Sex, Lesbian, Masturbation, MILF, Oral Sex, Sex Toys, Teen, Vaginal Sex, Virgin"
 
 linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xenVTOUZSS2VrdW5peVE0VGJJeU9WQQ=="
 ---
