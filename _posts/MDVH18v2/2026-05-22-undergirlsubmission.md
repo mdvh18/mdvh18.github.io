@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "undergirlsubmission"
-date: 2026-05-22 17:30:00 +0700
+date: 2026-05-22 17:00:00 +0700
 title: "Việt Hóa UnderGirl: Submission Path v2.0 - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
