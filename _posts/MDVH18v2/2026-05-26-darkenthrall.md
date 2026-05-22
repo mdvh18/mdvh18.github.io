@@ -17,7 +17,7 @@ phienban: "Completed"
 dev: "PSY8"
 genre: "3DCG, Male Protagonist, Animated, Big Ass, Big Tits, Cheating, Corruption, Male Domination, Slave, Vaginal Sex, Virgin, Adventure, Fantasy, Mind Control, Titfuck, Harem, Footjob, Handjob, Monster girl"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url="
-linkpixelpc: "https://mdvh18.github.io/download.html?url="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url="
+linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L25oYmVGanU0"
+linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0FqekVmMzNM"
+linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMm5BRWpqT1lCOE02WWJqVm1xSWpQZw=="
 ---
