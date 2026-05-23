@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "betweenworlds2"
-date: 2026-05-23 11:30:00 +0700
+date: 2026-05-23 11:31:00 +0700
 title: "Việt Hóa Between Worlds v0.2.0 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
