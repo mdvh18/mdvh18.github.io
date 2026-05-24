@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "incrediblemissfortune"
-date: 2026-05-24 15:30:00 +0700
+date: 2026-05-24 15:00:00 +0700
 title: "Việt Hóa The Incredible Miss Fortune Completed - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
