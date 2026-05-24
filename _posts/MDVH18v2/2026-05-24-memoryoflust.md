@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "memoryoflust"
-date: 2026-05-25 15:30:00 +0700
+date: 2026-05-24 16:30:00 +0700
 title: "Việt Hóa Memory of Lust v0.8 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
