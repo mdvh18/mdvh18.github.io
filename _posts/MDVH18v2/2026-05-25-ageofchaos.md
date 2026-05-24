@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "ageofchaos"
-date: 2026-05-28 10:30:00 +0700
+date: 2026-05-25 15:30:00 +0700
 title: "Việt Hóa Age of Chaos v0.1.2  - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
