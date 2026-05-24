@@ -3368,6 +3368,13 @@ const PITU_DATABASE = [
                "https://blogger.googleusercontent.com/img/a/AVvXsEjEoyctYrH7DIWYQseMZTdrlcHbDPBfHjP8ww980J4vT4rUZsNynglZR9klVlOnIghNa0h6IKsAF8AotQg6Y6-Ly7JriRR-YGIQJBF30369WWd5Un9yB7B0w96SSBBNQ9nJXNRaFINXjfD4LEPiSBytViCdiyUdE6lpHnEcWmljpFz_HxNQ6ALi7oV7hpI=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEg7N34b5AlD4r7AvdqjiETvygmTFtl9bxXMCMDTPo2Is422jLi7xz52G9hfv2fzHcbnxMW7XrrTYW9-Xb5mR2JCfHZtDTE0GmgvGBZy7zJs5K9KFi4T4WDdgQZpSOLHGiM_N4ACJHJ_n0q5SqSLZqgbz7QcYcTcXH0RSbcIZJRvkkN7qVGA-LvRNJ6UgaU=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEiSDm0qKahWwUteUa6HZTD2pskv-qT1O0igSCIJK_6jCj3c3ElclRxh4qptLCpmFjut9oegBLuunARyFCZmobPBNNOKCAWJcyPc84Dua19yjPNgjiFh-fmsuRXxtibOBc0tiPlckEqk4kyXOrV1Dywhxl8yThEl_LtPBCDj7lkzg-A6oNhc-UO64uiVskE=s16000"]},
+    {id: "nyatoraseshared",
+    name: "Việt Hóa Nyatorase: Shared Passions v0.14",
+    banner: "",
+    previews: ["",
+               "",
+               "",
+               ""]},
     {id: "",
     name: "",
     banner: "",
@@ -3375,4 +3382,5 @@ const PITU_DATABASE = [
                "",
                "",
                ""]}
+];
 ];
