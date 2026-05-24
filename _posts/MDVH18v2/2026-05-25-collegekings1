@@ -3,15 +3,15 @@ layout: game
 pitu_id: "collegekings1"
 date: 2026-05-25 17:28:00 +0700
 title: "Việt Hóa College Kings Act 1 v1.5.18 - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
-typegame: ["PC", "APK"]
+tags: [all, allvh, pc, apk]
+typegame: ["PC"]
 namebanner: "[Việt Hóa] College Kings Act 1 v1.5.18 - [B]"
 mota: |
  Chỉ là một tân sinh viên ngây thơ tại trường Cao đẳng San Vallejo, bạn hoàn toàn không mảy may biết gì về con đường đang nằm đợi mình ở phía trước. Việc trưởng thành trở nên thực tế hơn bao giờ hết khi bạn tìm hiểu về những nền văn hóa độc đáo của nơi mà bạn buộc phải gọi là nhà.
 gametype: "Sandbox"
 language: "Tiếng Việt"
-mdvh18: "MDVH18"
-platform: "APK/PC"
+mdvh18: "Shinobi"
+platform: "Joiplay/PC"
 dungluong: ""
 phienban: "Act 1 v1.5.18"
 dev: "Undergrad Steve"
