@@ -3,7 +3,7 @@ layout: game
 pitu_id: "collegekings1"
 date: 2026-05-25 17:28:00 +0700
 title: "Việt Hóa College Kings Act 1 v1.5.18 - MDVH18"
-tags: [all, allvh, pc, apk]
+tags: [all, allvh, pc]
 typegame: ["PC"]
 namebanner: "[Việt Hóa] College Kings Act 1 v1.5.18 - [4GB]"
 mota: |
