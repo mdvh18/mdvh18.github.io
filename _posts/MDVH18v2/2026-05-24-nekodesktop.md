@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "nekodesktop"
-date: 2026-05-24 10:30:00 +0700
+date: 2026-05-24 10:00:00 +0700
 title: "Việt Hóa Neko Desktop Pet 2 v1.2 - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
