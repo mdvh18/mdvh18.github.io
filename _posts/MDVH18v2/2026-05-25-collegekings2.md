@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "collegekings2"
-date: 2026-05-25 17:30:00 +0700
+date: 2026-05-25 17:30:01 +0700
 title: "Việt Hóa College Kings Act 2 v6.3.19 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "Compressed"]
