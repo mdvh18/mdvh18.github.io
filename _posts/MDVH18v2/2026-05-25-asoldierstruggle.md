@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "asoldierstruggle"
-date: 2026-05-25 12:30:00 +0700
+date: 2026-05-25 12:30:01 +0700
 title: "Việt Hóa A Soldier's Struggle Completed - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
