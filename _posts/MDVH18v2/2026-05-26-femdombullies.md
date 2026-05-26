@@ -7,7 +7,7 @@ tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Femdom Bullies Completed - [1.4GB]"
 mota: |
- bị bắt nạt đi đồ mọt sách
+ bị bắt nạt đi đồ mọt sách CẢNH BÁO: ANH EM NÀO YẾU TIM THÌ ĐỪNG CHƠI DÀNH CHO ANH EM GU CỰC BÁI THIẾN.
 gametype: "Visual Novel"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
