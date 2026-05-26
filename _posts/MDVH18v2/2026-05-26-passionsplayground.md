@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "passionsplayground"
-date: 2026-05-26 17:30:00 +0700
+date: 2026-05-26 17:00:00 +0700
 title: "Việt Hóa Passions Playground v0.4.8 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
