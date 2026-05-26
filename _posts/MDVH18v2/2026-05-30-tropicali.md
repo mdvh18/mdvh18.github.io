@@ -18,7 +18,7 @@ dev: "Story Anon"
 genre: "3DCG, Management, Humor, Creampie, Female domination, Handjob, Male domination, Groping, Sexual Harassment, Teasing, Titfuck, Vaginal sex, Milf, Slave, Virgin, Harem, Big-Ass, Big-Tits, Sandbox, Oral sex, Rpg, Male protagonist"
 
 linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2ZLc29kUDJ4"
-linkpixelapk: "https://mdvh18.github.io/download.html?url="
+linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L29LSnJBa3dL"
 linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC96em1tNUc="
 linkgofileapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC84RVVuRFA="
 linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xaC0xTjRmRm5VbXRfYnVCcGI3RHVlUQ=="
