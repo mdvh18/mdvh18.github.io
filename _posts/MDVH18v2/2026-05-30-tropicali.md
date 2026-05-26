@@ -19,4 +19,5 @@ genre: "3DCG, Management, Humor, Creampie, Female domination, Handjob, Male domi
 
 linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2ZLc29kUDJ4"
 linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC96em1tNUc="
+linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xaC0xTjRmRm5VbXRfYnVCcGI3RHVlUQ=="
 ---
