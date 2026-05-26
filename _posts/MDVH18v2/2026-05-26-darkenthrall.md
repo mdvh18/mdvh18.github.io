@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "darkenthrall"
-date: 2026-05-26 15:30:00 +0700
+date: 2026-05-26 15:30:10 +0700
 title: "Việt Hóa Dark Enthrall Completed - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
