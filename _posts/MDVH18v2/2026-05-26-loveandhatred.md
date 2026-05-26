@@ -17,7 +17,7 @@ phienban: "Final"
 dev: "LewdPalace Games"
 genre: "3dcg, animated, male protagonist, cheating, vaginal sex, oral sex, big ass, big tits, creampie, teasing, groping, romance, dating sim, multiple endings,"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzVmalRDQThM"
+linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2M2b1pYUnFh"
 linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzVBUDQ1S0dG"
 linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWUNZNmFLTXF5ZFAwMXRYS1hCcEFRUQ=="
 ---
