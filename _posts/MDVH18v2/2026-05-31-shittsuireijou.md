@@ -17,6 +17,6 @@ phienban: "RJ01562187"
 dev: "ジンジャーズ"
 genre: "3DCG, Animated"
 
-linkpixel: "https://mdvh18.github.io/download.html?url="
+linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0Q2c2pIMURt"
 linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWGE3NHl0ZTBadVlYUTZZb0l3bmhuQQ=="
 ---
