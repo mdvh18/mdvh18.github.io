@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "doubleperception"
-date: 2026-05-27 15:30:00 +0700
+date: 2026-05-27 15:00:00 +0700
 title: "Việt Hóa Double Perception v6.0 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
