@@ -7,7 +7,7 @@ tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Ehko Island v1.9 Compeleted - [2.3GB]"
 mota: |
- Đảo Ehko là một tiểu thuyết trực quan người lớn lấy bối cảnh khoa học viễn tưởng loạn lạc kể về một nhiếp ảnh gia nghiệp dư đam mê chân và bàn chân, đang cố gắng quyến rũ và chụp lại những người phụ nữ say đắm lòng người nhất hòn đảo để châm ngòi cho một cuộc cách mạng.
+ Đảo Ehko là một tiểu thuyết trực quan người lớn lấy bối cảnh khoa học viễn tưởng loạn lạc kể về một nhiếp ảnh gia nghiệp dư đam mê chân và bàn chân, đang cố gắng quyến rũ và chụp lại những người phụ nữ say đắm lòng người nhất hòn đảo để châm ngòi cho một cuộc cách mạng. P/S: đang bị lỗi apk, khuyến khích anh em chơi qua joiplay
 gametype: "Visual Novel"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
