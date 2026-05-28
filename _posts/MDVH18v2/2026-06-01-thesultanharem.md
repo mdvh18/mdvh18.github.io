@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "thesultanharem"
-date: 2026-05-30 10:30:00 +0700
+date: 2026-06-01 12:30:00 +0700
 title: "Việt Hóa The Sultan and His Harem v0.6.13 - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
