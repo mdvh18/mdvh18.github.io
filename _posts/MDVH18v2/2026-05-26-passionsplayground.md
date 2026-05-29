@@ -17,8 +17,8 @@ phienban: "v0.4.8"
 dev: "Candylight Studio"
 genre: "3DCG, Animated, Dating sim, Groping, Handjob, Male protagonist, Milf, Oral sex, Romance, Vaginal sex"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzRHR0xnVjF0"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3BneGQ5ZTF4"
+linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1YzbmpkS3Vv"
+linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1Z0TE5IOGVE"
 linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9iMDllM2U0Zi05N2VlLTQzZDUtYjJiMy1lNmQyNGRjOTJiY2I="
 linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTVJxVC0xWjJaSy1jdllQVW84WVpCQQ=="
 ---
