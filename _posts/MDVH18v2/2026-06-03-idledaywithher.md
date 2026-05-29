@@ -17,7 +17,7 @@ phienban: "Final"
 dev: "NahMan Studio"
 genre: "3dcg, animated, sandbox, male protagonist, multiple endings, management, vaginal sex, oral sex, cosplay, netorare, handjob, big ass, big tits, voyeurism, teasing, groping, creampie, cheating, romance, handjob, titfuck"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url="
-linkpixelpc: "https://mdvh18.github.io/download.html?url="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url="
+linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3hmOFpHMVU2"
+linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9YTnpWSHQ="
+linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xblN3NDhiTDdVNzZGQnc0NVprUTIxQQ=="
 ---
