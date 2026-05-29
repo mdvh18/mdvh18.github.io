@@ -1,11 +1,11 @@
 ---
 layout: game
 pitu_id: "passionsplayground"
-date: 2026-05-26 17:00:00 +0700
+date: 2026-05-29 16:00:00 +0700
 title: "Việt Hóa Passions Playground v0.4.8 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Passions Playground v0.4.8 - [1.7GB]"
+namebanner: "[Việt Hóa] Passions Playground v0.4.8 FIX CRASH - [1.7GB]"
 mota: |
  Điều hướng các mối quan hệ, xây dựng các kết nối và tạo nên câu chuyện của riêng bạn trong tựa game hấp dẫn và lôi cuốn này. Các quyết định của bạn sẽ ảnh hưởng đến mọi thứ, vì vậy hãy lựa chọn một cách khôn ngoan!
 gametype: "Visual Novel"
