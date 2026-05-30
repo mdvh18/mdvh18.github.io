@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "depthrevival1"
-date: 2026-05-30 17:30:00 +0700
+date: 2026-05-30 17:00:00 +0700
 title: "Việt Hóa Depth's Revival Final Stories Fix - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
