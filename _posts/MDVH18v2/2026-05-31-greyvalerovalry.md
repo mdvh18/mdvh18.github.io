@@ -18,7 +18,7 @@ phienban: "Ep.1"
 dev: "TheGreys"
 genre: "3dcg, Animated, College/School, Comedy, Drama, Modern, Sports"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0hQM2tNbWZF"
+linkpixelapk: "https://mdvh18.github.io/download.html?url="
 linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0FBUzl1c25r"
 linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbE9VajBZenFtcTZjT3B5U3g1UE9rZw=="
 ---
