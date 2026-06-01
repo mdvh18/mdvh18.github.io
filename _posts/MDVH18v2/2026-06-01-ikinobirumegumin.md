@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "ikinobirumegumin"
-date: 2026-06-01 17:30:00 +0700
+date: 2026-06-01 17:15:00 +0700
 title: "Việt Hóa Ikinobiru Megumin - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
