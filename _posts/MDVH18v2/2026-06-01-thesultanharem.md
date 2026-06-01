@@ -11,7 +11,7 @@ mota: |
 gametype: "Sandbox"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
-platform: "Joiplay/PC"
+platform: "PC"
 dungluong: "789MB"
 phienban: "v0.6.13"
 dev: "Strategic Desire"
