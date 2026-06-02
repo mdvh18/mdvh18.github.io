@@ -18,7 +18,7 @@ phienban: "Final"
 dev: "Love Seekers"
 genre: "3dcg, male protagonist, small ass, small tits, point and click, vaginal sex, oral sex, romance, voyeurism, teasing"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url="
-linkpixelpc: "https://mdvh18.github.io/download.html?url="
+linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3p6R1Fva3lx"
+linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzlTQ2p2aUth"
 linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQXdUZThlWkkzTktSUW1LMEhnRkdfZw=="
 ---
