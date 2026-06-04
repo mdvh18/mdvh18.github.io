@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "saothetrap"
-date: 2026-06-04 17:30:00 +0700
+date: 2026-06-04 17:30:10 +0700
 title: "Việt Hóa SAO The Trap of Breath Concealed Magic - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
