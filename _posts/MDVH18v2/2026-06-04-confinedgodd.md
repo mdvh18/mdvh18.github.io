@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "confinedgodd"
-date: 2026-06-04 15:30:00 +0700
+date: 2026-06-04 15:30:01 +0700
 title: "Việt Hóa Confined with Goddesses Premium - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
