@@ -5,7 +5,7 @@ date: 2026-06-05 17:30:00 +0700
 title: "Việt Hóa Race of Life Act 2 Ep.4 - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
-namebanner: "[Việt Hóa] Race of Life Act 2 Ep.4 Fix 4 - [9.6GB]"
+namebanner: "[Việt Hóa] Race of Life Act 2 Ep.4 Multi Mod - [9.6GB]"
 mota: |
  Gặp gỡ Jake, một người đàn ông ngoài 30 tuổi đã ly hôn đang gầy dựng lại cuộc sống của mình. Anh ấy thông minh, cuốn hút và tự tin, và anh ấy tự biết rõ điều đó. ĐÃ TEST TRÊN JOIPLAY.
 gametype: "Visual Novel"
