@@ -18,6 +18,6 @@ phienban: "v0.57"
 dev: "LoveStory"
 genre: "3DCG, Male Protagonist, Oral Sex, NTR, Big Tits, Groping, Creampie, Vaginal Sex, Handjob, Sexual Harassment, Big Ass, Corruption, Cheating, mobile game, Animated"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2ExYmNmcW5F"
+linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1N1NHBjS3c3"
 linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZnh1Y0Uyb0tKMVRLTjVzWFEzMWZWUQ=="
 ---
