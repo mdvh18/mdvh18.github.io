@@ -7,7 +7,7 @@ tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
 namebanner: "[Việt Hóa] Race of Life Act 2 Ep.4 Multi Mod Fix - [9.6GB]"
 mota: |
- Gặp gỡ Jake, một người đàn ông ngoài 30 tuổi đã ly hôn đang gầy dựng lại cuộc sống của mình. Anh ấy thông minh, cuốn hút và tự tin, và anh ấy tự biết rõ điều đó. ĐÃ TEST TRÊN JOIPLAY. ĐÃ FIX LỖI NHIỀU AE BỊ CRASH.
+ Gặp gỡ Jake, một người đàn ông ngoài 30 tuổi đã ly hôn đang gầy dựng lại cuộc sống của mình. Anh ấy thông minh, cuốn hút và tự tin, và anh ấy tự biết rõ điều đó. ĐÃ TEST TRÊN JOIPLAY. ĐÃ FIX LỖI NHIỀU AE BỊ CRASH. ĐỐI VỚI AE NÀO ĐÃ VÔ TÌNH TẢI GAME, VÀO THƯ MỤC GAME, XÓA FOLDER CACHE ĐI LÀ CHƠI ĐƯỢC NHÉ.
 gametype: "Visual Novel"
 engine: "Renpy"
 language: "Tiếng Việt"
