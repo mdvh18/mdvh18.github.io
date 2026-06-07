@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "devotedwife"
-date: 2026-06-07 15:30:00 +0700
+date: 2026-06-07 15:20:00 +0700
 title: "Việt Hóa Devoted Wife v0.57 - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
