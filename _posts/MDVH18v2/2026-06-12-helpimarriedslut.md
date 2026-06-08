@@ -5,7 +5,7 @@ date: 2026-06-12 10:30:00 +0700
 title: "Việt Hóa Help! I Married a Slut! Ch.3 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Help! I Married a Slut! Ch.3 - [B]"
+namebanner: "[Việt Hóa] Help! I Married a Slut! Ch.3 - [645MB]"
 mota: |
  Vào lễ kỷ niệm ngày cưới lần thứ năm của họ, Kenji đưa Airi đi ăn tối. Những tưởng đó chỉ là một bữa tiệc kỷ niệm đơn giản, nhưng mọi thứ lại chuyển hướng sau cuộc chạm trán tình cờ với một người đàn ông từ quá khứ của Airi. Hắn biết cô. Biết cô quá rõ là đằng khác.
 gametype: "Visual Novel"
@@ -13,12 +13,12 @@ engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
-dungluong: ""
+dungluong: "645MB"
 phienban: "Ch.3"
 dev: "Creamy Games"
 genre: "2DCG, AI CG, ANIMATED, VAGINAL SEX, ORAL SEX, HANDJOB, CREAMPIE, TITFUCK, BIG TITS, BIG ASS, CHEATING, NETORARE, EXHIBITIONISM, TEASING, HUMILATION, Male protagonist"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url="
-linkpixelpc: "https://mdvh18.github.io/download.html?url="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url="
+linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L00zSzk5dVk4"
+linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0diNTlSbWZ5"
+linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNUxHQkRFM2l6NFM0ZS1QT3JWMWFpUQ=="
 ---
