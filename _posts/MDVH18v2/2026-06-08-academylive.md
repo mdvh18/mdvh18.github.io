@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "academylive"
-date: 2026-06-08 17:30:00 +0700
+date: 2026-06-08 17:30:01 +0700
 title: "Việt Hóa Academy: Live! v0.10.1.1 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
