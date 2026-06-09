@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "ghostoftokyo"
-date: 2026-06-03 17:31:00 +0700
+date: 2026-06-09 19:00:00 +0700
 title: "Việt Hóa] Ghost of Tokyo Completed - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
