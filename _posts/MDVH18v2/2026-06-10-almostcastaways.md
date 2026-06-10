@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "almostcastaways"
-date: 2026-06-10 12:30:00 +0700
+date: 2026-06-10 12:10:00 +0700
 title: "Việt Hóa Almost Castaways Final - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
