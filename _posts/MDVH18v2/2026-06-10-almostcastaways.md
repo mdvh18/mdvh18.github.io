@@ -8,7 +8,7 @@ typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Almost Castaways Final - [1.8GB]"
 mota: |
  Hai người xa lạ, một hòn đảo huyền bí, và một số phận mà họ không bao giờ ngờ tới. Khi một tai nạn bất ngờ khiến hai người phụ nữ trẻ bị đắm tàu vào bờ biển của một thiên đường nhiệt đới có vẻ như hoang vu, sinh tồn trở thành mục tiêu duy nhất của họ.
-gametype: "Visual Novel"
+gametype: "Sandbox"
 engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
