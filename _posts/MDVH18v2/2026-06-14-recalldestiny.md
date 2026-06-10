@@ -5,7 +5,7 @@ date: 2026-06-14 15:30:00 +0700
 title: "Việt Hóa Recall Destiny v0.3a - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Recall Destiny v0.3a - [B]"
+namebanner: "[Việt Hóa] Recall Destiny v0.3a - [838MB]"
 mota: |
  Cuộc Chiến Quy Mô đã tàn phá cả thế giới khi những kẻ tham gia tìm kiếm quyền thống trị đối với sự xuất hiện của một loại công nghệ bí ẩn, cho đến khi chẳng còn lại gì. Một cuộc chiến không có người chiến thắng.
 gametype: "Visual Novel"
@@ -13,12 +13,12 @@ engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
-dungluong: ""
+dungluong: "838MB"
 phienban: "v0.3a"
 dev: "Saffron River"
 genre: "3dcg, Animated, Male protagonist, Big ass, Big tits, Vaginal sex, Titfuck, Prostitution, Sci-fi, Superpowers, Teasing, Groping"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url="
-linkpixelpc: "https://mdvh18.github.io/download.html?url="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url="
+linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L01aMVdYM3p2"
+linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzhLaGYxSEVh"
+linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSmZqR3pldUdKZTNyQnZUdTlTeWVjdw=="
 ---
