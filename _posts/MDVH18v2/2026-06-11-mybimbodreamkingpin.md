@@ -19,6 +19,6 @@ dev: "MBD"
 genre: "3DCG, Animated, Footjb, Handjb, Groping, Harem, Lesbian, Milf, Toys, Adventure. Male protagonist, Romance"
 
 linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1NzQWp5a1pz"
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3V0aGVEanJt"
+linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3V0aGVEanJt"
 linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9QVlRzVXo="
 ---
