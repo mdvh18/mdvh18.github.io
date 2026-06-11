@@ -21,4 +21,5 @@ genre: "3DCG, Animated, Footjb, Handjb, Groping, Harem, Lesbian, Milf, Toys, Adv
 linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1NzQWp5a1pz"
 linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3V0aGVEanJt"
 linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9QVlRzVXo="
+linkteraapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xM01GX0ZnUGgtUlRCV29HMEFkdG1rdw=="
 ---
