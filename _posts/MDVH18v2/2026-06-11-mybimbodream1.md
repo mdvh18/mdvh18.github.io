@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "mybimbodream1"
-date: 2026-06-11 17:30:00 +0700
+date: 2026-06-11 15:31:00 +0700
 title: "Việt Hóa My Bimbo Dream 1 v1.0.4 Final - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
