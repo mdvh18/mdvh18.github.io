@@ -7,7 +7,7 @@ tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Project: S.P.E.S. v0.15 - FIX APK BỊ LỖI THOẠI - [3.1GB]"
 mota: |
- Bạn là một chàng trai 19 tuổi, 6 tháng trước mẹ bạn qua đời và bạn thấy mình cô độc một mình. May mắn thay bên cạnh bạn luôn có Victoria và Sofia. Link Pixel đã update, Gofile từ từ.
+ Bạn là một chàng trai 19 tuổi, 6 tháng trước mẹ bạn qua đời và bạn thấy mình cô độc một mình. May mắn thay bên cạnh bạn luôn có Victoria và Sofia
 gametype: "Visual Novel"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
