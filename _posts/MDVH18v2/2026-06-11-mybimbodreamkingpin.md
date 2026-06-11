@@ -5,7 +5,7 @@ date: 2026-06-11 12:31:00 +0700
 title: "Việt Hóa My Bimbo Dream: Kingpin - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] My Bimbo Dream: Kingpin v0.8.5 Update - [6.2GB]"
+namebanner: "[Việt Hóa] My Bimbo Dream: Kingpin v0.8.5 Multi Mod + DLC - [6.2GB]"
 mota: |
  Bạn đang ngập trong nợ nần, bị vướng vào những vụ tống tiền và đang dần lấn sâu vào thế giới ngầm tội phạm. Bạn sẽ dấn thân bao xa để chạm tay vào ảo mộng hoàn hảo và cuộc sống mà bạn tin rằng mình xứng đáng có được?
 gametype: "Visual Novel"
