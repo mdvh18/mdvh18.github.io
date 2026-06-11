@@ -2,7 +2,7 @@
 layout: game
 pitu_id: "milfobsession"
 date: 2026-06-11 13:30:00 +0700
-title: "Việt Hóa MILF Obsession v0.3.4 - MDVH18"
+title: "Việt Hóa MILF Obsession v0.3.5 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] MILF Obsession v0.3.5 - [1.4GB]"
