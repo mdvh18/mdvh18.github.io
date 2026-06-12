@@ -5,7 +5,7 @@ date: 2026-06-12 17:31:00 +0700
 title: "Việt Hóa Harem Hotel v0.20 pre alpha - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
-namebanner: "[Việt Hóa] Harem Hotel v0.20 pre alpha - [13GB]"
+namebanner: "[Việt Hóa] Harem Hotel v0.20 pre alpha + Multi Mod - [13GB]"
 mota: |
  Bạn được thừa kế khách sạn của ông mình ở một lục địa xa lạ, nơi mọi thứ trông có vẻ ổn thỏa trên bề mặt, nhưng hiếm khi nào thực sự như vậy. Hãy phát triển các mối quan hệ, kỹ năng và khách sạn của bạn cùng 18 nhân vật xinh đẹp và có chiều sâu. Phiên bản APK sẽ được update sau nhé anh em.
 gametype: "Sandbox"
