@@ -1,11 +1,11 @@
 ---
 layout: game
 pitu_id: "forbiddenfantasy"
-date: 2026-06-05 10:30:00 +0700
-title: "Việt Hóa Forbidden Fantasy Completed Supporter - MDVH18"
+date: 2026-06-12 20:30:00 +0700
+title: "Việt Hóa Forbidden Fantasy Completed Deluxe - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
-namebanner: "[Việt Hóa] Forbidden Fantasy Completed Supporter - [3.2GB]"
+namebanner: "[Việt Hóa] Forbidden Fantasy Completed Deluxe FIX Không vào được game - [3.2GB]"
 mota: |
  Bạn là một chiến binh trẻ tuổi được chọn bởi lời tiên tri. Hãy rèn luyện cùng sư phụ là một quý cô tộc elf. Giải cứu thế giới khỏi bàn tay của nữ vương quỷ dữ.
 gametype: "Visual Novel"
@@ -18,7 +18,7 @@ phienban: "Completed Supporter"
 dev: "OppaiMan"
 genre: "3dcg, Animated, Male protagonist, Fantasy, Adventure, Voiced, Monster girl, Monster, Superpowers, Big ass, Big tits, Oral sex, Handjob, Vaginal sex, Titfuck, Harem, Transformation, Multiple endings, Dating sim, Milf, Romance, Humor, Paranormal, Mobile game"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1ozYlVCZlY2"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC90YWY3RzU="
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWnMxMnRydUJRRUdTOUE1cnYzeWhzZw=="
+linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1VxVXBleVhh"
+linkgofile: "https://mdvh18.github.io/download.html?url="
+linktera: "https://mdvh18.github.io/download.html?url="
 ---
