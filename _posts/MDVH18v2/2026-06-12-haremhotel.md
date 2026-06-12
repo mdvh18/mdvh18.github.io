@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "haremhotel"
-date: 2026-06-12 17:30:00 +0700
+date: 2026-06-12 17:31:00 +0700
 title: "Việt Hóa Harem Hotel v0.20 pre alpha - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
