@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "gardenofvenus"
-date: 2026-06-12 12:30:00 +0700
+date: 2026-06-12 12:30:01 +0700
 title: "Việt Hóa Garden of Venus v1.0.5 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
