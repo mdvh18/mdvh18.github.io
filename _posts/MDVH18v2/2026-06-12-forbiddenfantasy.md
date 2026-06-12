@@ -19,6 +19,6 @@ dev: "OppaiMan"
 genre: "3dcg, Animated, Male protagonist, Fantasy, Adventure, Voiced, Monster girl, Monster, Superpowers, Big ass, Big tits, Oral sex, Handjob, Vaginal sex, Titfuck, Harem, Transformation, Multiple endings, Dating sim, Milf, Romance, Humor, Paranormal, Mobile game"
 
 linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1VxVXBleVhh"
-linkgofile: "https://mdvh18.github.io/download.html?url="
-linktera: "https://mdvh18.github.io/download.html?url="
+linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC90YWY3RzU="
+linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xY1dCSXJ1RG8tREZKZzlKWjBhUk1WQQ=="
 ---
