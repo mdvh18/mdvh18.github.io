@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "loveorpower"
-date: 2026-06-15 12:30:00 +0700
+date: 2026-06-15 10:30:00 +0700
 title: "Việt Hóa Love or Power v0.3.8 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
