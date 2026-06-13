@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "boundaries"
-date: 2026-06-13 17:30:00 +0700
+date: 2026-06-13 17:30:10 +0700
 title: "Việt Hóa Boundaries of Morality - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
