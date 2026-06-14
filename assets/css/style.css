@@ -1248,10 +1248,10 @@ img {
 .donate-popup-container {
     position: fixed;
     bottom: 20px;
-    right: 20px;
+    left: 20px;
     z-index: 9999;
     max-width: 320px;
-    animation: slideInRight 0.6s cubic-bezier(0.23, 1, 0.32, 1);
+    animation: slideInLeft 0.6s cubic-bezier(0.23, 1, 0.32, 1);
 }
 
 .donate-popup-content {
@@ -1301,8 +1301,8 @@ img {
 
 .popup-btn:hover { transform: scale(1.1); filter: brightness(1.1); }
 
-@keyframes slideInRight {
-    from { transform: translateX(100%); }
+@keyframes slideInLeft {
+    from { transform: translateX(-100%); }
     to { transform: translateX(0); }
 }
 
@@ -1313,8 +1313,8 @@ img {
 
 @media screen and (max-width: 480px) {
     .donate-popup-container {
-        right: 10px;
         left: 10px;
+        right: 10px;
         bottom: 10px;
         max-width: calc(100% - 20px);
     }
