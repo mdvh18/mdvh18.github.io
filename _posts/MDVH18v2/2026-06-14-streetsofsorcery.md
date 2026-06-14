@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "streetsofsorcery"
-date: 2026-06-14 17:30:00 +0700
+date: 2026-06-14 17:31:00 +0700
 title: "Việt Hóa LA: Streets of Sorcery v1.8b  - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
