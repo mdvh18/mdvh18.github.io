@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "lolihelthcheckup2"
-date: 2026-06-15 12:30:00 +0700
+date: 2026-06-20 10:30:00 +0700
 title: "Việt Hóa Loli Health Checkup 2 - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
