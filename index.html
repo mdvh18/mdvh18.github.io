@@ -294,6 +294,15 @@ layout: default
         <button onclick="closePopup()" class="popup-btn">Đã hiểu</button>
     </div>
 </div>
+  <div id="donate-popup" class="donate-popup-container" style="display: none;">
+    <div class="donate-popup-content">
+        <img src="https://blogger.googleusercontent.com/img/a/AVvXsEgwvx69wmc1Toc5J6nbK75cqCVKVH20kh7Smzd-9htx9UulnhAIaailkHZ0pcP5fL8-o4CmBr6AUWBC8GvRuRaJBeKQOk291W2WaZ1I1h1yH1icqGjuQaoCMlhgSuENa5q3MLhie9OtGWnjY4dijUy5XXqzL8_gdzf38zdKsZCqyxEy2fA9K4_PIHL6njU=w800" alt="Donate" class="popup-img">
+        <h3>ỦNG HỘ ĐỂ SIUUU</h3>
+        <p>Nếu bạn yêu thích nội dung tại đây và muốn ủng hộ team cũng như cải thiện trải nghiệm tại web tốt hơn!</p>
+        <p>Có thể ủng hộ thằng AD bái thiến tại: <a href="https://mdvh18.com/donate" style="color: #ff4757; font-weight: bold; text-decoration: underline;">Trang Donate</a></p>
+        <button onclick="closeDonatePopup()" class="popup-btn">Xem sau!!</button>
+    </div>
+</div>
 </footer>
 </body>
 <button id='back-to-top'>.&#10022; &#1857;&#726; Top</button>    
@@ -391,4 +400,24 @@ const backToTopBtn = document.getElementById('back-to-top');
             }
         });
     })();
+</script>
+    <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const popup = document.getElementById('donate-popup');
+        const COOLDOWN_TIME = 36 * 60 * 60 * 1000; // 36 tiếng tính bằng milliseconds
+
+        setTimeout(function() {
+            const lastShown = localStorage.getItem('lastDonatePopupTime');
+            const now = Date.now();
+
+            if (!lastShown || (now - lastShown > COOLDOWN_TIME)) {
+                popup.style.display = 'block';
+                localStorage.setItem('lastDonatePopupTime', now);
+            }
+        }, 3000); // Đợi 3 giây
+    });
+
+    function closeDonatePopup() {
+        document.getElementById('donate-popup').style.display = 'none';
+    }
 </script>
