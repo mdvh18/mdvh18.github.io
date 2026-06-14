@@ -3,7 +3,7 @@ layout: game
 pitu_id: "lingeries"
 date: 2026-06-15 11:30:00 +0700
 title: "Việt Hóa LingerieS - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, allvh, pc, apk]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] LingerieS v1.38 + DLC - [3.5GB]"
 mota: |
