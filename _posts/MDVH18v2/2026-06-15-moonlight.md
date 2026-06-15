@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "moonlight"
-date: 2026-06-15 15:30:00 +0700
+date: 2026-06-15 15:31:00 +0700
 title: "Việt Hóa Moonlight Ep.3 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
