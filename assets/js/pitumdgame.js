@@ -3907,7 +3907,7 @@ const PITU_DATABASE = [
                "https://blogger.googleusercontent.com/img/a/AVvXsEgHWKEKWhhjW-eeWc5PejxRd9pnNc0NZ5E4QkAuZoi4TeGUFD7SDFITbYRmZlFhOefjXwrMYP7ey1_XgmRmYOfh8xTsAszuEknEDgwSEM8HDQVpHIpVItDMSTlTyTHDxlH6ez4MwWHx5_-hXTb7HAqreUQDBgh6vNx27ff2aGqjbO2YOJOvhra5eR2ZlfI=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEh5lj66mKKG0UnbJemP-QFpOzPZQ39QlmvDpknd8JjV-xttGo7tNeARUa96_duuFQWqIi9gtULjJkIwGDc30soy88qU3zEY7i_TyEM-Ftwe67eSEL7EICefA3lbRuVq6Rft4VTfmpt63WDoupK2PsR7LWMkbIjrVWVGr81RDrJ9w0oObCqlEqnXHcXjRko=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEgVFL5v4GyY0gINYbdaBVMQFj85EzGiVstBtsvmvi_8_nC6P7JXxUBOvqfOhvdLQr7Bo23Ju1uKhDkldjUuXFIPdaCsn7BZTIEIxxFjwVvLK-V_Wq4IOeOJVaN7FnrmkrH9dvwKFyNvzeXawS7l2l0GA5v_CPc-3wHmN8ul29jTC2b7ulvSM5cZ2Q_c_DM=s16000"]},
-    ,{id: "maddiesummer",
+    {id: "maddiesummer",
     name: "Việt Hóa Maddie’s Summer Completed",
     banner: "https://blogger.googleusercontent.com/img/a/AVvXsEjbCASMwB994FaapXyrHrqa_yKHFwjNCwwCXdblWEnbSr1QjCHP03ZscPuEdHDUO06Oey2ewxo1zekqyDuEAD3mENebUh5i2W4M-YjnxWZaqnqFDLZf2XWRNHOn7xtgG2dx9tI8yo8lo8oaWAnzyNrJaB19yQJJcKjjs-WUNVkHt-dA2hPrq_H5i38FQtY=s16000",
     previews: ["https://blogger.googleusercontent.com/img/a/AVvXsEgKtJLhY2nqQEQZKT7aBkkoyHPns4_wERqfhpLbVoH1SuX7z38tI5bWRNt7VqLMMGZMgSbYUJpucDh6lewcXeEK5_e6ql8dWwsFhYlHGGPG5qNPLlCc2a4RNnElBbYmdih29BA1SKn7nIodmYHH_fYIk11dgY-T9MrqqiwYhNj1AEpAR-ue_yHXsGVlTHw=s16000",
@@ -4012,5 +4012,5 @@ const PITU_DATABASE = [
                "",
                "",
                ""]}
-];
+   ];
 
