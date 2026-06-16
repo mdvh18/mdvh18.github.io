@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "tomiewantget"
-date: 2026-06-19 15:30:00 +0700
+date: 2026-06-18 15:30:00 +0700
 title: "Việt Hóa Tomie Wants to Get Married Renpy Completed - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
