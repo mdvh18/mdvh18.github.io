@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "thelecuyercult"
-date: 2026-06-16 15:30:00 +0700
+date: 2026-06-16 12:30:00 +0700
 title: "Việt Hóa The Lécuyer Cult Final Chapter - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
