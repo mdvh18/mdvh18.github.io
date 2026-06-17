@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "6.2GB"
 phienban: "v0.8.5"
 dev: "MBD"
-genre: "3DCG, Animated, Footjb, Handjb, Groping, Harem, Lesbian, Milf, Toys, Adventure. Male protagonist, Romance"
+genre: "3DCG, Animated, Footjb, Handjb, Groping, Harem, Lesbian, Milf, Toys, Adventure, Male protagonist, Romance"
 
 linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1NzQWp5a1pz"
 linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3V0aGVEanJt"
