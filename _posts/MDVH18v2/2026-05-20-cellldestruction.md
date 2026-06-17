@@ -15,7 +15,7 @@ platform: "APK/PC"
 dungluong: "342MB"
 phienban: "Completed"
 dev: "Border Amusement"
-genre: "2D Game, 2DCG, Battle Fuck, Censored, Female Protagonist, Interspecies Sex, Japanese Game, Restraint, SF, Tentacle"
+genre: "2DCG, Battle Fuck, Censored, Female Protagonist, Interspecies Sex, Japanese Game, Restraint, SF, Tentacle"
 
 linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0dyM0tFWFZL"
 linkterac: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWi14V3JTV3FvbUZvZmhKZjFMdFdBdw=="
