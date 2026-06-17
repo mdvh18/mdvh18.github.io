@@ -8,7 +8,7 @@ typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Syahata's Bad Day v1.0.6a - [440MB]"
 mota: |
  Syahata a bad day là một trò chơi pixel 2D cuộn cảnh ngang. Bạn cần điều khiển nhân vật chính để thoát khỏi nơi đầy rẫy thây ma và cuối cùng là đến được nơi trú ẩn.
-gametype: "Side Scroller"
+gametype: "Side-Scroller"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
