@@ -17,7 +17,7 @@ platform: "PC"
 dungluong: "412MB"
 phienban: "v1.0.2"
 dev: "Lust Fiction"
-genre: "2D, AI Art, Animated, Idle, Parody, Point & Click, Teasing, Upgrades, clicker"
+genre: "2DCG, AI Art, Animated, Idle, Parody, Point & Click, Teasing, Upgrades, clicker"
 
 linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcE8tNE9SdlRKbmJLVFdJcC1JTHhGQQ=="
 ---
