@@ -17,7 +17,7 @@ platform: "APK/PC"
 dungluong: "176MB"
 phienban: "v0.9.0"
 dev: "Szretfel"
-genre: "Adult, Animation, Anime, Erotic, Unity, joi, 2D"
+genre: "Adult, Animation, Anime, Erotic, Unity, 2DCG"
 
 linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0RBSGRIUXQ4"
 linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1dNclpzam5M"
