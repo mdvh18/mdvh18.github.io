@@ -5,9 +5,9 @@ date: 2026-06-07 09:00:00 +0700
 title: "Việt Hóa Race of Life Act 2 Ep.4 - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
-namebanner: "[Việt Hóa] Race of Life Act 2 Ep.4 Multi Mod Fix - [9.6GB]"
+namebanner: "[Việt Hóa] Race of Life Act 2 Ep.4 Multi Mod Fix Lỗi - [9.6GB]"
 mota: |
- Gặp gỡ Jake, một người đàn ông ngoài 30 tuổi đã ly hôn đang gầy dựng lại cuộc sống của mình. Anh ấy thông minh, cuốn hút và tự tin, và anh ấy tự biết rõ điều đó. ĐÃ TEST TRÊN JOIPLAY. ĐÃ FIX LỖI NHIỀU AE BỊ CRASH. ĐỐI VỚI AE NÀO ĐÃ TẢI GAME, VÀO THƯ MỤC GAME, XÓA FOLDER CACHE ĐI LÀ CHƠI ĐƯỢC NHÉ; FIX LỖI CRASH CẢNH NÓI CHUYỆN VỚI COOPER, GIẢI NÉN VÀO THƯ MỤC CHỨA GAME LINK : https://pixeldrain.com/u/jN44PcM7
+ Gặp gỡ Jake, một người đàn ông ngoài 30 tuổi đã ly hôn đang gầy dựng lại cuộc sống của mình. Anh ấy thông minh, cuốn hút và tự tin, và anh ấy tự biết rõ điều đó. ĐÃ TEST TRÊN JOIPLAY. FIX LỖI MẤT TIẾNG VIỆT MỘT VÀI ĐOẠN. VỚI AI TẢI GAME RỒI THÌ TẢI FIX VỀ GIẢI NÉN VÀO THƯ MỤC GAME.
 gametype: "Visual Novel"
 engine: "Renpy"
 language: "Tiếng Việt"
