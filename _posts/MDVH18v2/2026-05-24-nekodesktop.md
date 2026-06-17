@@ -15,7 +15,7 @@ platform: "PC"
 dungluong: "397MB"
 phienban: "v1.2"
 dev: "SatyrKing"
-genre: "3D Game, 3DCG, Animated, Character Creation, Female Protagonist, Futa/Trans, Point & Click, Romance, Sex Toys, Spanking, Stripping, Teasing, Tentacles, Transformation, Vaginal sex"
+genre: "3DCG, Animated, Character Creation, Female Protagonist, Futa/Trans, Point & Click, Romance, Sex Toys, Spanking, Stripping, Teasing, Tentacles, Transformation, Vaginal sex"
 
 linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0dyNDJwUjVk"
 linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9tNlhoTkk="
