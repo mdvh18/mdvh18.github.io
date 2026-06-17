@@ -17,7 +17,7 @@ platform: "PC/APK"
 dungluong: "161MB"
 phienban: "v0.1"
 dev: "Brim"
-genre: "3DCG Animated, Big, Parody, Point & click, Pov, Teasing"
+genre: "3DCG, Animated, Big, Parody, Point & click, Pov, Teasing"
 
 linkgofileapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9sOU5ZQXI="
 linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZWNST3c3SngxNjJ4TzA5Y0diOHJHQQ=="
