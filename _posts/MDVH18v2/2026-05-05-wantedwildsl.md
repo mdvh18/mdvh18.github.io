@@ -15,7 +15,7 @@ platform: "APK/PC"
 dungluong: "2.5GB"
 phienban: "Completed"
 dev: "Lewd Star"
-genre: "Animated, 3DCG Multiple Endings, Group, Masturbation, Adventure"
+genre: "Animated, 3DCG, Multiple Endings, Group, Masturbation, Adventure"
 
 linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1c1NUs1MUVD"
 linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYVd3MTlGVTJ5ZjVGZTIzLUxfWUpKdw=="
