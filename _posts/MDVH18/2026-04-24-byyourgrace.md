@@ -15,7 +15,7 @@ platform: "APK/PC"
 dungluong: "730MB"
 phienban: "v0.2"
 dev: "Ithano Productions"
-genre: "2d game, Animated Fantasy, Group, Handjo, Harem, Kinetic Novel, Lesbian, Management, Masturbation, Point & click, Pov, Romance"
+genre: "2DCG, Animated Fantasy, Group, Handjo, Harem, Kinetic Novel, Lesbian, Management, Masturbation, Point & click, Pov, Romance"
 
 linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3NGcWVubUZB"
 linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRGREY3NlWFdkekxXQ0plb1oxbmpPQQ=="
