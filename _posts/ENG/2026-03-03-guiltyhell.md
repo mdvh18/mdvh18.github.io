@@ -11,7 +11,7 @@ mota: |
 
 infor: |
  He once descended to the ground 300 years ago and sealed the evil wizard Nana and the monsters under his control, but due to the exhaustion of his power, he himself was sealed in the heavens by the gods and was waiting for the recovery of his power.
-gametype: "RPG Side-scroller"
+gametype: "RPG"
 language: "English"
 platform: "PC"
 dungluong: "2.5GB"
