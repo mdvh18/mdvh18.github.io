@@ -15,7 +15,7 @@ platform: "APK/PC"
 dungluong: "2.2GB"
 phienban: "v0.02"
 dev: "deasfulf"
-genre: "2D, 3D, Adult, Erotic, Fantasy, NSFW, Parody, Romance"
+genre: "2DCG, 3DCG, Adult, Erotic, Fantasy, NSFW, Parody, Romance"
 
 linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1VuZjVKc2NX"
 linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSTVpQjZRenBwVjFJLXlmR0lqVmtaUQ=="
