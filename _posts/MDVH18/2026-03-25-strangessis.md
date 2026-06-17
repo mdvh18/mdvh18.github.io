@@ -15,7 +15,7 @@ platform: "APK/PC"
 dungluong: "257MB"
 phienban: "V0.1.3"
 dev: "ParallaxTeam"
-genre: "2D, Adult, Eroge, Erotic, Fangame, Fantasy, Interactive Fiction, Romance"
+genre: "2DCG, Adult, Eroge, Erotic, Fangame, Fantasy, Interactive Fiction, Romance"
 
 linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2pkaWNZNm04"
 linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQmQ5WmxyODllRkpOOG9sRHBwUThjQQ=="
