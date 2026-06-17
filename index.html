@@ -91,8 +91,9 @@ layout: default
     </div>
 </header>
 </head>
-<body>  
+<body> 
 <script src="{{ '/assets/js/pitumdgame.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/pitu-pagination.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/search.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/slider.js' | relative_url }}"></script>   
 <script src="{{ '/assets/js/main.js' | relative_url }}"></script>  
@@ -113,7 +114,6 @@ layout: default
       <div class="slide-content">
         <h2>{{ post.namebanner }}</h2>
         <p>{{ post.mota }}</p>
-
         <div class="buttons">
           <a href="{{ post.url | relative_url }}" class="btn view">Xem bài</a>
           {% if post.download_link %}
@@ -143,13 +143,14 @@ layout: default
     
 {% assign posts = site.posts | limit: 5 %}
 
-<div class="main-content-wrapper">
+<div class="main-content-wrapper" style="display: flex; gap: 5px; align-items: flex-start; width: 100%;">
+  
   <div class="game-grid">
     {% assign sorted_posts = paginator.posts | sort: 'date' | reverse %}
     {% for post in sorted_posts %}
-      
       {% assign game_id = post.url | split: '/' | last | remove: '.html' %}
-      <div class="game-card">
+      
+      <div class="game-card" data-engine="{{ post.engine }}" data-genres="{{ post.genre }}" data-gametype="{{ post.gametype }}">
         <a href="{{ post.url | relative_url }}">
           <div class="card-thumb">
             <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAANSURBVBhXYzh8+PB/AAffA0nNPuCLAAAAAElFTkSuQmCC" 
@@ -162,7 +163,6 @@ layout: default
                 <span class="tag-item tag-{{ type | downcase | slugify }}">{{ type }}</span>
               {% endfor %}
             </div>
-
             <i class="fa-solid fa-angles-down download-icon-fa"></i> 
 
             {% if post.categories.size > 0 %}
@@ -171,64 +171,94 @@ layout: default
           </div>
 
           <div class="card-info">
-            <h3>{{ post.namebanner }}</h3>
+            <h3>{% if post.namebanner %}{{ post.namebanner }}{% else %}{{ post.title }}{% endif %}</h3>
           </div>
         </a>
       </div>
     {% endfor %}
   </div>
+
+  <aside class="sidebar-right" style="width: 300px; flex-shrink: 0; position: sticky; top: 20px;">
+  <button type="button" id="pitu-toggle-filter" class="toggle-filter-btn">
+    <i class="fa-solid fa-filter"></i> BỘ LỌC TÌM KIẾM
+  </button>
+
+  <div id="pitu-filter-content" class="filter-content-wrapper">
+    <div class="filter-box" style="margin-bottom: 20px;">
+      <h3>THỂ LOẠI GAME</h3>
+      <div id="gametype-filters"></div>
+    </div>
+
+    <div class="filter-box">
+      <h3>GAME ENGINE</h3>
+      <div id="engine-filters"></div>
+    </div>
+    
+    <div class="filter-box">
+      <h3>TAGS GAME</h3>
+      <div class="search-tag-wrapper" style="margin-bottom: 12px;">
+        <input type="text" id="pitu-tag-search" placeholder="Tìm nhanh tag..." style="width: 100%; padding: 6px 12px; border: 1px solid #ccc; border-radius: 4px; font-size: 14px; outline: none;">
+      </div>
+      <div id="genre-filters"></div>
+    </div>
+  </div>
+</aside>
 </div>
-{% if paginator.total_pages > 1 %}
-<div class="pagination">
-  
-  {% assign current = paginator.page %}
-  {% assign total = paginator.total_pages %}
-  
-  {% comment %} Thiết lập giới hạn: Trang 1 hiện 10, trang khác hiện 5 {% endcomment %}
-  {% if current == 1 %}
-    {% assign limit = 10 %}
-  {% else %}
-    {% assign limit = 5 %}
-  {% endif %}
 
-  {% if current > 1 %}
-    <a href="{{ '/' | relative_url }}">Đầu</a>
-  {% endif %}
+<div id="pitu-pagination-wrapper" style="width: 100%; text-align: center; margin-top: 30px; clear: both;">
+  <div id="load-more-container" style="text-align: center; margin: 40px 0; width: 100%; clear: both; display: none;">
+    <button type="button" id="btn-load-more" class="load-more-btn" style="padding: 10px 30px; font-weight: bold; cursor: pointer;">Xem thêm</button>
+  </div>
 
-  {% comment %} Logic tính toán khoảng hiển thị {% endcomment %}
-  {% assign offset = limit | divided_by: 2 %}
-  {% assign start = current | minus: offset %}
-  {% assign end = current | plus: offset %}
-
-  {% comment %} Cân bằng lại nếu sát đầu hoặc sát cuối {% endcomment %}
-  {% if start < 1 %}
-    {% assign start = 1 %}
-    {% assign end = limit %}
-  {% endif %}
-
-  {% if end > total %}
-    {% assign end = total %}
-    {% assign start = total | minus: limit | plus: 1 %}
-  {% endif %}
-  
-  {% if start < 1 %}{% assign start = 1 %}{% endif %}
-
-  {% for page in (start..end) %}
-    {% if page == current %}
-      <span class="current-page">{{ page }}</span>
-    {% elsif page == 1 %}
-      <a href="{{ '/' | relative_url }}">1</a>
+  {% if paginator.total_pages > 1 %}
+  <div class="pagination">
+    
+    {% assign current = paginator.page %}
+    {% assign total = paginator.total_pages %}
+    
+    {% if current == 1 %}
+      {% assign limit = 10 %}
     {% else %}
-      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+      {% assign limit = 5 %}
     {% endif %}
-  {% endfor %}
 
-  {% if current < total %}
-    <a href="{{ site.paginate_path | relative_url | replace: ':num', total }}">Cuối</a>
+    {% if current > 1 %}
+      <a href="{{ '/' | relative_url }}">Đầu</a>
+    {% endif %}
+
+    {% assign offset = limit | divided_by: 2 %}
+    {% assign start = current | minus: offset %}
+    {% assign end = current | plus: offset %}
+
+    {% if start < 1 %}
+      {% assign start = 1 %}
+      {% assign end = limit %}
+    {% endif %}
+
+    {% if end > total %}
+      {% assign end = total %}
+      {% assign start = total | minus: limit | plus: 1 %}
+    {% endif %}
+    
+    {% if start < 1 %}{% assign start = 1 %}{% endif %}
+
+    {% for page in (start..end) %}
+      {% if page == current %}
+        <span class="current-page">{{ page }}</span>
+      {% elsif page == 1 %}
+        <a href="{{ '/' | relative_url }}">1</a>
+      {% else %}
+        <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+      {% endif %}
+    {% endfor %}
+
+    {% if current < total %}
+      <a href="{{ site.paginate_path | relative_url | replace: ':num', total }}">Cuối</a>
+    {% endif %}
+
+  </div>
   {% endif %}
-
 </div>
-{% endif %}
 <footer class="footer-section" style="background: linear-gradient(to bottom, #1a1131, #0a0a0a); padding: 30px 0 15px 0; margin-top: 40px; border-top: 1px solid rgba(247, 143, 144, 0.2); font-family: 'Segoe UI', Roboto, sans-serif; color: #eee; width: 100%;">
     <div class="footer-container" style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; width: 90%; max-width: 1300px; margin: 0 auto; gap: 20px;">   
         <div class="footer-col" style="flex: 1; min-width: 250px;">
@@ -401,23 +431,21 @@ const backToTopBtn = document.getElementById('back-to-top');
         });
     })();
 </script>
-    <script>
-    document.addEventListener("DOMContentLoaded", function() {
-        const popup = document.getElementById('donate-popup');
-        const COOLDOWN_TIME = 36 * 60 * 60 * 1000; // 36 tiếng tính bằng milliseconds
-
-        setTimeout(function() {
-            const lastShown = localStorage.getItem('lastDonatePopupTime');
-            const now = Date.now();
-
-            if (!lastShown || (now - lastShown > COOLDOWN_TIME)) {
-                popup.style.display = 'block';
-                localStorage.setItem('lastDonatePopupTime', now);
-            }
-        }, 3000); // Đợi 3 giây
-    });
-
-    function closeDonatePopup() {
-        document.getElementById('donate-popup').style.display = 'none';
-    }
+<script>
+  window.ALL_GAMES_DATA = [
+    {% for post in site.posts %}
+      {% assign game_id = post.url | split: '/' | last | remove: '.html' %}
+      {
+        "id": "{{ game_id }}",
+        "url": "{{ post.url | relative_url }}",
+        "title": "{{ post.title | escape }}",
+        "namebanner": "{{ post.namebanner | escape }}",
+        "engine": "{{ post.engine | escape }}",
+        "genre": "{{ post.genre | escape }}",
+        "gametype": "{{ post.gametype | escape }}",
+        "typegame": [{% for type in post.typegame %}"{{ type }}"{% unless forloop.last %},{% endunless %}{% endfor %}],
+        "categories": [{% for cat in post.categories %}"{{ cat }}"{% unless forloop.last %},{% endunless %}{% endfor %}]
+      }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ];
 </script>
