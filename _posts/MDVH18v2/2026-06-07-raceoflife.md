@@ -17,7 +17,7 @@ platform: "JOIPLAY/PC"
 dungluong: "9.6GB"
 phienban: "Act 2 Ep.4 Fix 4"
 dev: "Underground Studio"
-genre: "3DGC, Male protagonist, Animated, Dating sim, School setting, Big ass, Big tits, Creampie, Exhibitionism, Handjob, Groping, Milf, Masturbation, Oral sex, Teasing, Vaginal sex, Voyeurism, Point & Click, PoV, Romance"
+genre: "3DCG, Male protagonist, Animated, Dating sim, School setting, Big ass, Big tits, Creampie, Exhibitionism, Handjob, Groping, Milf, Masturbation, Oral sex, Teasing, Vaginal sex, Voyeurism, Point & Click, PoV, Romance"
 
 linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2FRM05UZGlx"
 linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC96M2lHclg="
