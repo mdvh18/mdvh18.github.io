@@ -16,7 +16,7 @@ platform: "PC"
 dungluong: "6GB"
 phienban: "verβ6"
 dev: "Fujino"
-genre: "3dcg, 2d game, male protagonist, monster, turn based combat, adventure, vaginal sex, oral sex, cheating, voyeurism, groping, teasing, handjob, school setting, milf, japanese game, big ass, big tits, creampie, netorare, animated, exhibitionism"
+genre: "3dcg, 2DCG, male protagonist, monster, turn based combat, adventure, vaginal sex, oral sex, cheating, voyeurism, groping, teasing, handjob, school setting, milf, japanese game, big ass, big tits, creampie, netorare, animated, exhibitionism"
 
 linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1lzN2lGek5q"
 linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9EVGtXSnA="
