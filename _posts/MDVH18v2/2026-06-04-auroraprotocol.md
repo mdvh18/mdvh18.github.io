@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "740MB"
 phienban: "v0.5"
 dev: "Astghik"
-genre: "3DCG, 3D Game, Adventure, Ahegao, Animated, Big Ass, Big Tits,Cosplay, Footjob, Groping, Group Sex, Horror, Humor, Male Domination, Male Protagonist, Masturbation, Milf, Mobile Game, Monster, Oral Sex, POV, Romance, Sci-Fi Spanking, Teasing, Virgin, Voyeurism, Dystopian Setting, Graphic Violence, Horror, Voiced, Vaginal sex, Creampie, Pregnancy"
+genre: "3DCG, Adventure, Ahegao, Animated, Big Ass, Big Tits,Cosplay, Footjob, Groping, Group Sex, Horror, Humor, Male Domination, Male Protagonist, Masturbation, Milf, Mobile Game, Monster, Oral Sex, POV, Romance, Sci-Fi Spanking, Teasing, Virgin, Voyeurism, Dystopian Setting, Graphic Violence, Horror, Voiced, Vaginal sex, Creampie, Pregnancy"
 
 linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L200ZXJmb3hp"
 linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0hUeENGeUx0"
