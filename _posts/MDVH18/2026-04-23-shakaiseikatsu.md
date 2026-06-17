@@ -15,7 +15,7 @@ platform: "APK/PC"
 dungluong: "1.4GB"
 phienban: "v0.23.0"
 dev: "Pervert World"
-genre: "3DGC, Anime, Dating Sim, Harem, Masturbation, Mobile Game, Sandbox, School Environment"
+genre: "3DCG, Anime, Dating Sim, Harem, Masturbation, Mobile Game, Sandbox, School Environment"
 
 linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0J5bWhpMThG"
 linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdmRRRVRybG1mQUc3TjZBaWFVNTV5dw=="
