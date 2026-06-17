@@ -15,7 +15,7 @@ platform: "PC"
 dungluong: "1.1GB"
 phienban: "v0.2.1"
 dev: "iskanime"
-genre: "3D, Romance"
+genre: "3DCG, Romance"
 
 linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzNkaUdvZFdS"
 linkbuzzheavier: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9idXp6aGVhdmllci5jb20vYmh5anhueTltNW41"
