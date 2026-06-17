@@ -15,7 +15,7 @@ platform: "APK/PC"
 dungluong: "596MB"
 phienban: "v0.2.1"
 dev: "RumiGames"
-genre: "3D, Adult, Anime, Femdom, Hentai, NSFW, Parody, Harem"
+genre: "3DCG, Adult, Anime, Femdom, Hentai, NSFW, Parody, Harem"
 
 linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0oxVHZacHI1"
 linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVmVaRkRJbmtnWGJzWG5rbm5adlhWQQ=="
