@@ -11,7 +11,7 @@ mota: |
 
 infor: |
  NEW MAID is a heist story of a hot babe thief infiltrating a manor, weaponize her body while roleplaying a clumsy submissive maid
-gametype: "Kinetic Novel"
+gametype: "Visual Novel"
 language: "English"
 platform: "PC"
 dungluong: "617MB"
