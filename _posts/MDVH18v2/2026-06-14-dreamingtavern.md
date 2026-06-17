@@ -16,7 +16,7 @@ platform: "PC"
 dungluong: "789MB"
 phienban: "Completed"
 dev: "Rice and Steak Restaurant"
-genre: "2dcg, 2d Game, Japanese Game, Censored, Male Protagonist, Management, Trainer, Big Tits, Big Ass, Fantasy, Prostitution, Vaginal Sex, BDSM, Male Domination, Turn Based Combat, RPG, Creampie, Sex Toys, Group Sex, Groping, Sexual Harassment, Oral Sex, Voyeurism, Masturbation, Footjob, Urination"
+genre: "2dcg, Japanese Game, Censored, Male Protagonist, Management, Trainer, Big Tits, Big Ass, Fantasy, Prostitution, Vaginal Sex, BDSM, Male Domination, Turn Based Combat, Creampie, Sex Toys, Group Sex, Groping, Sexual Harassment, Oral Sex, Voyeurism, Masturbation, Footjob, Urination"
 
 linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3ZTTFpNVkJK"
 linkterac: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTGowcVZaRWYtYjliTjh0di15WWg2dw=="
