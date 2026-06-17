@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "3.5GB"
 phienban: "v1.38 + DLC"
 dev: "Ramune Games"
-genre: "2D Game, Male Protagonist, Slice of Life, Romance, Comedy, School Setting, Big Breasts, Cosplay, Exhibitionism, Fetish, Clothing Damage, Lingerie, Erotic Visual Novel"
+genre: "2DCG, Male Protagonist, Slice of Life, Romance, Comedy, School Setting, Big Breasts, Cosplay, Exhibitionism, Fetish, Clothing Damage, Lingerie, Erotic Visual Novel"
 
 linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2M4cENDcEQ1"
 linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1Z1cFNtMXpm"
