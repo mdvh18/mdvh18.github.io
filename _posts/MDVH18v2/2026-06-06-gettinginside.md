@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "1GB"
 phienban: "Completed"
 dev: "4nyStudio"
-genre: "2DCG, Adult, Anime, Eroge, Erotic, Hentai, NSFW, Porn, Romance, 2D, Visual Novel"
+genre: "2DCG, Adult, Anime, Eroge, Erotic, Hentai, NSFW, Porn, Romance, Visual Novel"
 
 linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzdickdVZVJI"
 linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0ZQWXI4ZGNu"
