@@ -17,7 +17,7 @@ platform: "APK/PC"
 dungluong: "358MB"
 phienban: "v2.0.0"
 dev: "Twin-Tailism"
-genre: "2D, Erotic, NSFW, R18"
+genre: "2DCG, Erotic, NSFW, R18"
 
 linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3lnaHU3WVEx"
 linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2FyeUtIdVNj"
