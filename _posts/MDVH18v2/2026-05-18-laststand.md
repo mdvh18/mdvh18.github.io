@@ -8,7 +8,7 @@ typegame: ["PC"]
 namebanner: "[Việt Hóa] Last Stand Liberation from the Lust Prison v1.0.2 - [344MB]"
 mota: |
  Lối chơi hành động dễ học mà bất kỳ ai cũng có thể làm quen nhanh chóng. Hãy sử dụng vũ khí và vật phẩm thu thập ngẫu nhiên để chiến đấu mở đường thoát thân. Sống sót trong 20 ngày và chờ đợi cứu viện.
-gametype: "Action+Roguelite"
+gametype: "RPG"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "PC"
