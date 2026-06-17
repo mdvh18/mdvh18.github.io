@@ -14,7 +14,7 @@ mdvh18: "Other"
 platform: "PC"
 dungluong: "330MB"
 dev: "WorkNite Games"
-genre: "2DCG. Adventure, Animated,, Fantasy, Furry, Japanese Game, Management, Monster, Monster Girl, Simulator, Turn Based Combat"
+genre: "2DCG, Adventure, Animated,, Fantasy, Furry, Japanese Game, Management, Monster, Monster Girl, Simulator, Turn Based Combat"
 
 linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1hYODU3OUdh"
 linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xaHBMcGl1RkxsNjRyYUhkb1FkVldnZw=="
