@@ -11,7 +11,7 @@ mota: |
 
 infor: |
  This is a unique animated clicker game where girls use their greatest asset — their irresistible, perfect butts. In a world where dreams of a better life rarely come true
-gametype: "Arcade"
+gametype: "Simulation"
 language: "English"
 platform: "PC"
 dungluong: "654MB"
