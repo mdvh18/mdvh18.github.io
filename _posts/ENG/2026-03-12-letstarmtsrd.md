@@ -16,7 +16,7 @@ language: "English, Japanese, Chinese, Korean"
 platform: "APK/PC"
 dungluong: "302MB"
 dev: "MukudoriGames"
-genre: "3D game, Groping, Handj, Japanese Game, Voiced,"
+genre: "3DCG, Groping, Handj, Japanese Game, Voiced,"
 
 linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xeGZXdm5SYjRKSFdHQ3R5MTVjM3cxdw=="
 ---
