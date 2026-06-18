@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "heroesceltica"
-date: 2026-06-18 08:00:00 +0700
+date: 2026-06-18 08:01:00 +0700
 title: "Việt Hóa Heroes of Celtica: Dark Druid - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
