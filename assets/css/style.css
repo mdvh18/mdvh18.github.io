@@ -452,7 +452,7 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
 .next-slide { right: 20px; }
 
 .game-grid {display: grid;
-    grid-template-columns: repeat(3, 1fr); 
+    grid-template-columns: repeat(4, 1fr); 
     gap: 20px; 
     padding: 15px;
     max-width: 1380px;
@@ -1411,7 +1411,6 @@ img {
     .game-grid {
         width: 100% !important;
         display: grid !important;
-        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)) !important;
         gap: 12px !important;
         margin-bottom: 25px !important;
     }
@@ -1458,7 +1457,6 @@ img {
     .game-grid {
         width: 100% !important;
         display: grid !important;
-        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)) !important;
         gap: 12px !important;
         margin-bottom: 25px !important;
     }
