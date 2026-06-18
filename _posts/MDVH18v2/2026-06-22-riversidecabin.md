@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "riversidecabin"
-date: 2026-06-18 10:30:00 +0700
+date: 2026-06-22 10:30:00 +0700
 title: "Việt Hóa Riverside Cabin Final - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
