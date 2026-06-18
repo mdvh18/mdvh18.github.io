@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "leapoffaith"
-date: 2026-06-18 17:30:00 +0700
+date: 2026-06-19 17:30:00 +0700
 title: "Việt Hóa Leap Of Faith Ch. 8 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
