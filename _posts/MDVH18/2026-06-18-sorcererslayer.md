@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] Sorcerer Slayer v0.03 Update - [2.2GB]"
 mota: |
  Câu chuyện của Sorcerer Slayer bắt đầu với cái chết của cha nhân vật chính. Vì mối quan hệ căng thẳng giữa hai người, anh quyết định bỏ qua đám tang, nhưng chẳng bao lâu sau một người phụ nữ bí ẩn xuất hiện. Những tiết lộ của cô ấy đã đảo lộn cuộc sống của người hùng: một kẻ chuyên săn lùng pháp sư bỗng nhiên phát hiện ra bản thân cũng sở hữu năng lực ma thuật.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
