@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "mochamaid"
-date: 2026-06-18 12:30:00 +0700
+date: 2026-06-22 12:30:00 +0700
 title: "Việt Hóa Mocha Maid v0.1.5 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
