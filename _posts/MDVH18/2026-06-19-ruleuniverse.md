@@ -2,7 +2,7 @@
 layout: game
 pitu_id: "ruleuniverse"
 date: 2026-06-19 14:30:00 +0700
-title: "RuleUniverse v0.60 - MDVH18"
+title: "Việt Hóa RuleUniverse v0.62 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] RuleUniverse v0.62 Update Fix apk - [2.4GB]"
