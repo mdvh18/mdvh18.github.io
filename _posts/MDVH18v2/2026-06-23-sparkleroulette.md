@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "sparkleroulette"
-date: 2026-06-19 12:30:00 +0700
+date: 2026-06-23 10:30:00 +0700
 title: "Việt Hóa Sparkle Roulette Compeleted - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
