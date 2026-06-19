@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "demonseed"
-date: 2026-06-22 17:30:00 +0700
+date: 2026-06-21 17:30:00 +0700
 title: "Việt Hóa Demon Seed v0.5.1 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
