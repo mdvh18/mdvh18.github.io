@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "mydragonidol"
-date: 2026-06-20 15:30:00 +0700
+date: 2026-06-20 15:31:00 +0700
 title: "Việt Hóa My Dragon Idol Uncensored - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
