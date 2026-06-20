@@ -18,7 +18,7 @@ phienban: "Ch. 8"
 dev: "DriftyGames"
 genre: "3dcg, Male protagonist, Big boobs, Big ass, Animated, Romance, Handjob, Vaginal sex"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url="
+linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91Lzd6bVZpZnI5"
 linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0N2QkhTY0p6"
 linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC8zbUllelc="
 ---
