@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "aristocunts"
-date: 2026-06-21 10:30:00 +0700
+date: 2026-06-21 16:30:00 +0700
 title: "Việt Hóa Aristocunts v1.2.7 - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
