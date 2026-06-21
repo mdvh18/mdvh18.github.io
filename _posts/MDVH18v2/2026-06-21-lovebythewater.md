@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "lovebythewater"
-date: 2026-06-21 11:30:00 +0700
+date: 2026-06-21 11:31:00 +0700
 title: "Việt Hóa Love by the Water v0.5  - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
