@@ -5,7 +5,7 @@ date: 2026-06-22 07:30:00 +0700
 title: "Việt Hóa World Tamer v0.41 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] World Tamer v0.41 - [3.4GB]"
+namebanner: "[Việt Hóa] World Tamer v0.41 Update - [3.4GB]"
 mota: |
  Vừa tốt nghiệp đại học, bạn quyết định quay trở lại thị trấn nơi mình sinh ra - nơi bạn từng phải tháo chạy. Giờ đây bạn trở lại để khám phá những gì cha mẹ đã làm với mình và những bí mật nào đang bủa vây xung quanh. Game gốc có Tiếng Việt nhưng Team đã dịch lại.
 gametype: "Sandbox"
