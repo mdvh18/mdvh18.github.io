@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "worldtamer"
-date: 2026-06-22 19:30:00 +0700
+date: 2026-06-22 07:30:00 +0700
 title: "Việt Hóa World Tamer v0.41 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
