@@ -4084,7 +4084,7 @@ const PITU_DATABASE = [
                "https://blogger.googleusercontent.com/img/a/AVvXsEijgghByGhFALSiGHasTn2hRc2ilcDQG_X3bkOls4DHnAI9V4ssKcf482uboIP0Q2OUP2M5B24DD4KLVy0F3D9aAW-QpaVCqUAktzZWL2ducOlZwdm3U3vFD3eYvZ5tgiox9vAI-89bPX9dshbJk_hFa3J--g8VSBwy8sA1JmT06JaRf-hOZK5yOrzFTV8=s16000"]},
     {id: "tomiewantgetuinty",
     name: "Việt Hóa Tomie Wants to Get Married Unity",
-    banner: "https://blogger.googleusercontent.com/img/a/AVvXsEjDfo_JsyZ63kpC3G4FHbvkM-yMCKxIzBKmPWVPAZMeQsTFUHMsXWVBbsxHvMXSsCaQWfpHSzkuDltl4EwHnMIUXUKGfRdp4QdZA_Hl_j6_VHyuM2IIzo7qj_Af9vk504y10VBT_-4_U2toaZo5XUQSiEddJEuKJvtVx9ZIboPnS_kxXNEh2wSoAw6qE98=s16000",
+    banner: "https://blogger.googleusercontent.com/img/a/AVvXsEhlZX4WlJPM64WXwCyATbSqQULnO_9kg7fwuT3lHvwy_ustpo_jnE0f9MYZOtFfRaEKMm_L_clhfwekoOlubpmrz8YtQnbS1rPNnBubkDdLo4meEnBDvsD7GAsh-v4VIvySSy0EG290230YovZcLVaGP0lb7QhiybSocBfH82QxqcValFGqtSg4mqH_Y0s=s16000",
     previews: ["https://blogger.googleusercontent.com/img/a/AVvXsEhtBbSt5Yr3SND2ROnUNQcvCWn1ZfLB218PVnVt0SbzX5GnNbU1wyYqzXktBt_Q73NOhn6-bldrto-L1G9e0skvTfGhU0R3862gwWlAIz3vyzpFBGejV-gIeTjyEvuuWmiS5ef9bO1T3vBPW-WSCyjRgdnkP4PyJOCoEs6keUThNq9Yb3bU8aZCmqg7eMM=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEhJborN9i6lP2kg67d0XGjvrvB1hj_SkuYpNGNidQa2J2UogwM1RbrlB39JeTg4UxxjsXJBWLLoXhYMuFEclaE3hfJghGDmN4G_Nct9YJeBTZye9Vfb6UndOWvDgWdZdlxL-_quGLclxTyHW_N3Ih0tnVveHIFknFmPYKy0k5AH89ccsPyzUI23sHNZi0Q=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEgItm34G8w3-fYRuHXZS5qdp9ghoYH52xj8VgLnm4kub9CTMUXqPWeGPV0B5AeoJ7PRJs2lnBdG_54i29g1tPFkM6wLQVebOFOqmNEBZ8nrQBprkUCcOXbaKhqx7ZCt_6L2GsNbgygI5d6UuFrg8FYloOQ_VdzdGXtI66jbohXYGF_9Vgisvb38n6N-eyc=s16000",
