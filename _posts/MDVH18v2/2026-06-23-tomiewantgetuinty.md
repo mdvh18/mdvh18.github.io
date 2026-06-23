@@ -2,10 +2,10 @@
 layout: game
 pitu_id: "tomiewantgetuinty"
 date: 2026-06-23 11:40:00 +0700
-title: "Việt Hóa Tomie Wants to Get Married v1.3801 - MDVH18"
+title: "Việt Hóa Tomie Wants to Get Married MOD v1.3801 - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
-namebanner: "[Việt Hóa] Tomie Wants to Get Married v1.3801 ver Unity - [3.3GB]"
+namebanner: "[Việt Hóa] Tomie Wants to Get Married v1.3801 MOD ver Unity - [3.3GB]"
 mota: |
  Tomie là sinh viên đại học đã nghỉ học. Cô ấy không còn hứng thú với việc học hành hay làm việc chăm chỉ, và cô ấy muốn gặp gỡ rồi kết hôn với một người đàn ông giàu có để thỏa mãn thói phù phiếm của bản thân.
 gametype: "Sandbox"
