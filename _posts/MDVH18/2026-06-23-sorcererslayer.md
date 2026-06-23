@@ -1,13 +1,13 @@
 ---
 layout: game
 pitu_id: "sorcererslayer"
-date: 2026-06-18 14:00:00 +0700
+date: 2026-06-23 10:00:00 +0700
 title: "Việt Hóa Sorcerer Slayer - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Sorcerer Slayer v0.03 Update - [2.2GB]"
+namebanner: "[Việt Hóa] Sorcerer Slayer v0.03 Update Fix mất thoại - [2.2GB]"
 mota: |
- Câu chuyện của Sorcerer Slayer bắt đầu với cái chết của cha nhân vật chính. Vì mối quan hệ căng thẳng giữa hai người, anh quyết định bỏ qua đám tang, nhưng chẳng bao lâu sau một người phụ nữ bí ẩn xuất hiện. Dành cho anh em nào mất tiếng việt https://pixeldrain.com/u/dxaBeXQg , tải về giải nén vào thư mục game.
+ Câu chuyện của Sorcerer Slayer bắt đầu với cái chết của cha nhân vật chính. Vì mối quan hệ căng thẳng giữa hai người, anh quyết định bỏ qua đám tang, nhưng chẳng bao lâu sau một người phụ nữ bí ẩn xuất hiện.
 gametype: "Visual Novel"
 engine: "Renpy"
 language: "Tiếng Việt"
