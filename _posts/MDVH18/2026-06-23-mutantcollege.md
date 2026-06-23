@@ -5,7 +5,7 @@ date: 2026-06-23 08:30:00 +0700
 title: "Việt Hóa Mutant College v0.14.0 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Mutant College v0.14.0 - [6.7GB/2.5GB]"
+namebanner: "[Việt Hóa] Mutant College v0.14.0 Update - [6.7GB/2.5GB]"
 mota: |
  Anh sẽ dấn thân vào một cuộc phiêu lưu trong vai một kẻ biến dị vừa mới phát hiện ra sức mạnh của mình. Anh thấy mình đang theo học tại Trường Cao Đẳng Biến Dị, và theo lẽ thường tình, mọi cô gái anh gặp đều sẽ gục ngã dưới chân anh.
 gametype: "Sandbox"
