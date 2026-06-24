@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "afterthunder"
-date: 2026-06-24 12:30:00 +0700
+date: 2026-06-24 12:20:00 +0700
 title: "Việt Hóa After Thunder - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
