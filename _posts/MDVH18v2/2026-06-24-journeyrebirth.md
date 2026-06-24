@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "journeyrebirth"
-date: 2026-06-24 15:30:00 +0700
+date: 2026-06-24 15:31:00 +0700
 title: "Việt Hóa Journey: Rebirth S1 Ep.3 U1 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
