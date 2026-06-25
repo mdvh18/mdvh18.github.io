@@ -18,7 +18,7 @@ phienban: "S1 Ep.3 U1"
 dev: "Cheeky Capybara"
 genre: "3DCG, Male Protagonist, Animated, Vaginal sex, Oral sex, Dating sim, Romance, Handjob, Harem, Anal Sex, Bdsm, Creampie, Drugs, Oral Sex, Sex Toys, Virgin"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2tXUXZBaTcx"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzR1VWR0MkVy"
+linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzR1VWR0MkVy"
+linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2tXUXZBaTcx"
 linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUjdXdzBkeGx2bUNmTWxsbmZvWmJrZw=="
 ---
