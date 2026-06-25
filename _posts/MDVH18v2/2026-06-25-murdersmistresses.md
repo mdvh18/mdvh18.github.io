@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "murdersmistresses"
-date: 2026-06-25 10:30:00 +0700
+date: 2026-06-25 12:30:00 +0700
 title: "Việt Hóa Murders & Mistresses v0.15.1.2s - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
