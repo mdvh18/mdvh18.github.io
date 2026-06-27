@@ -3,7 +3,7 @@ layout: game
 pitu_id: "hiddenrealities"
 date: 2026-06-17 12:30:00 +0700
 title: "Việt Hóa Hidden Realities Completed - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Hidden Realities Completed - [631MB]"
 mota: |
