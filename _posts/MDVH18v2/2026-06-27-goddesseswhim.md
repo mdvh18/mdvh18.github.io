@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "goddesseswhim"
-date: 2026-06-27 17:30:00 +0700
+date: 2026-06-27 11:30:00 +0700
 title: "Việt Hóa Goddesses' Whim v0.4.6c - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
