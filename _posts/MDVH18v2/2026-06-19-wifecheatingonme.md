@@ -3,7 +3,7 @@ layout: game
 pitu_id: "wifecheatingonme"
 date: 2026-06-19 11:30:00 +0700
 title: "Việt Hóa My wife's cheating on me! Completed - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] My wife's cheating on me! Completed - [1.3GB]"
 mota: |
