@@ -3,7 +3,7 @@ layout: game
 pitu_id: "deconstructionemily"
 date: 2026-05-11 11:30:00 +0700
 title: "Việt Hóa Deconstruction of Emily - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Deconstruction of Emily 1.0.6 - [814MB]"
 mota: |
