@@ -3,7 +3,7 @@ layout: game
 pitu_id: "idledaywithher"
 date: 2026-06-03 15:30:00 +0700
 title: "Việt Hóa Idle Days With Her: From Love to NTR Final - MDVH18"
-tags: [all, mdvh18, allvh, pc]
+tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC"]
 namebanner: "[Việt Hóa] Idle Days With Her: From Love to NTR Final - [B]"
 mota: |
