@@ -3,7 +3,7 @@ layout: game
 pitu_id: "nyatoraseshared"
 date: 2026-05-28 17:30:00 +0700
 title: "Việt Hóa Nyatorase: Shared Passions v0.14 - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Nyatorase: Shared Passions v0.14 - [2.3GB]"
 mota: |
