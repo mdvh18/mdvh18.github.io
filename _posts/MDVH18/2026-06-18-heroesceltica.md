@@ -17,7 +17,7 @@ platform: "APK/PC"
 dungluong: "1.4GB"
 phienban: "v0.12.0"
 dev: "Slamjax Games"
-genre: "3DCG, Animated, Fantasy, Groping, Masturba, Milf, Handj, Group, Mobile game"
+genre: "3DCG, Animated, Fantasy, Male Protagonist, Male Domination, Corruption, Mind Control, Transformation, Groping, Masturbation, Oral Sex, Vaginal Sex, Anal Sex, Titfuck, Creampie, Lesbian, Milf, Virgin, Handjob, Group Sex, Mobile game"
 
 linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzc5VlV4RWpl"
 linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZHFkRmFlX1BpTVVFNzBOTHktS3lvZw=="
