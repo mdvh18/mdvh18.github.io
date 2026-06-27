@@ -3,7 +3,7 @@ layout: game
 pitu_id: "storiessomiabay"
 date: 2026-06-01 15:30:00 +0700
 title: "Việt Hóa Stories from Somnia Bay v0.2 - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Stories from Somnia Bay v0.2 - [772MB]"
 mota: |
