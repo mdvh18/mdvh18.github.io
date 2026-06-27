@@ -3,7 +3,7 @@ layout: game
 pitu_id: "lovebitch"
 date: 2026-06-06 17:30:00 +0700
 title: "Việt Hóa Love & Bitch Completed - MDVH18"
-tags: [all, mdvh18, allvh, pc]
+tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC"]
 namebanner: "[Việt Hóa] Love & Bitch Completed - [446MB]"
 mota: |
