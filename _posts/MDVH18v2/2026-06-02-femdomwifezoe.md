@@ -3,7 +3,7 @@ layout: game
 pitu_id: "femdomwifezoe"
 date: 2026-06-02 17:30:00 +0700
 title: "Việt Hóa Femdom Wife Game Zoe - MDVH18"
-tags: [all, mdvh18, allvh, pc]
+tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC"]
 namebanner: "[Việt Hóa] Femdom Wife Game Zoe v1.83f2 - [Unity] - [2.67GB]"
 mota: |
