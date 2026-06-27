@@ -3,7 +3,7 @@ layout: game
 pitu_id: "hntrchronicles"
 date: 2026-06-27 10:30:00 +0700
 title: "Việt Hóa H NTR Chronicles Completed - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] H NTR Chronicles Completed - [424MB]"
 mota: |
