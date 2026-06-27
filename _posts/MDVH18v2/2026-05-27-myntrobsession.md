@@ -3,7 +3,7 @@ layout: game
 pitu_id: "myntrobsession"
 date: 2026-05-27 12:30:00 +0700
 title: "Việt Hóa My Netorase Obsession Chap 10 - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] My Netorase Obsession Chap 10 - [863MB]"
 mota: |
