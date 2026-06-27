@@ -3,7 +3,7 @@ layout: game
 pitu_id: "hotwifeashley"
 date: 2026-06-13 15:30:00 +0700
 title: "Việt Hóa Hotwife Ashley Ch.6 v1.0 Final - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Hotwife Ashley Ch.6 v1.0 Final - [1.2GB]"
 mota: |
