@@ -3,7 +3,7 @@ layout: game
 pitu_id: "helpimarriedslut"
 date: 2026-06-12 10:30:00 +0700
 title: "Việt Hóa Help! I Married a Slut! Ch.3 - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Help! I Married a Slut! Ch.3 - [645MB]"
 mota: |
