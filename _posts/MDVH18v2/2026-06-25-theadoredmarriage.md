@@ -3,7 +3,7 @@ layout: game
 pitu_id: "theadoredmarriage"
 date: 2026-06-25 15:20:00 +0700
 title: "Việt Hóa The Adored Marriage Ch.3 v0.6  - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] The Adored Marriage Ch.3 v0.6 - [1.2GB]"
 mota: |
