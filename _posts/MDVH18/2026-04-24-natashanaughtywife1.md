@@ -3,7 +3,7 @@ layout: game
 pitu_id: "natashanaughtywife1"
 date: 2026-04-24 15:30:00 +0700
 title: "Việt Hóa Natasha Naughty Wife P1 - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Natasha Naughty Wife P1 v0.54 - [1.9GB]"
 mota: |
