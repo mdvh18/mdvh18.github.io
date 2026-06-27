@@ -3,7 +3,7 @@ layout: game
 pitu_id: "aperfectcouple"
 date: 2026-04-29 10:30:00 +0700
 title: "Việt Hóa A Perfect Couple v0.9 - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] A Perfect Couple v0.9 - [618MB]"
 mota: |
