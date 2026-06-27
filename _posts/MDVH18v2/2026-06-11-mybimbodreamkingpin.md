@@ -3,7 +3,7 @@ layout: game
 pitu_id: "mybimbodreamkingpin"
 date: 2026-06-11 12:31:00 +0700
 title: "Việt Hóa My Bimbo Dream: Kingpin - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] My Bimbo Dream: Kingpin v0.8.5 Multi Mod + DLC - [6.2GB]"
 mota: |
