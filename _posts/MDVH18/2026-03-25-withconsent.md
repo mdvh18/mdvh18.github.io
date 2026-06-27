@@ -3,7 +3,7 @@ layout: game
 pitu_id: "withconsent"
 date: 2026-03-25 14:30:00 +0700
 title: "Việt Hóa With Consent - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] With Consent v4.0.1 - [786MB]"
 mota: |
