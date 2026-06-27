@@ -9,10 +9,11 @@ namebanner: "[Việt Hóa]  - [B]"
 mota: |
 
 gametype: "Visual Novel"
-engine: ""
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 timeplay: ""
+dodai: ""
 platform: "APK/PC"
 dungluong: ""
 phienban: ""
