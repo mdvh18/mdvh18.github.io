@@ -3,7 +3,7 @@ layout: game
 pitu_id: "saothetrap"
 date: 2026-06-04 17:30:10 +0700
 title: "Việt Hóa SAO The Trap of Breath Concealed Magic - MDVH18"
-tags: [all, mdvh18, allvh, pc]
+tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC"]
 namebanner: "[Việt Hóa] Sword Art Online: The Trap of Breath Concealed Magic verβ6 - [6GB]"
 mota: |
