@@ -3,7 +3,7 @@ layout: game
 pitu_id: "triangleoflust"
 date: 2026-04-20 13:30:00 +0700
 title: "Việt Hóa Triangle of Lust - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Triangle of Lust v0.8 - [1.3GB]"
 mota: |
