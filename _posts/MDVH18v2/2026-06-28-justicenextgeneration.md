@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "justicenextgeneration"
-date: 2026-06-28 15:30:00 +0700
+date: 2026-06-28 14:30:00 +0700
 title: "Việt Hóa Justice L: Next Generation v0.16 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
