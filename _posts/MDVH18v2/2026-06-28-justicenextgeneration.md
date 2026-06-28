@@ -3,9 +3,9 @@ layout: game
 pitu_id: "justicenextgeneration"
 date: 2026-06-28 14:30:00 +0700
 title: "Việt Hóa Justice L: Next Generation v0.16 - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Justice L: Next Generation v0.16 - [1.9GB]"
+namebanner: "[Việt Hóa] Justice L: Next Generation v0.16 (NTR) - [1.9GB]"
 mota: |
  Lấy bối cảnh tại những thành phố mang tính biểu tượng của thế giới DC. Cuộc phiêu lưu đưa người chơi đắm chìm vào thế giới của các siêu anh hùng, siêu tội phạm, và những nhân vật có đạo đức mơ hồ sống trong bóng tối.
 gametype: "Sandbox"
