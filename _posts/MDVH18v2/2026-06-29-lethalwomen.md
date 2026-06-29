@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "lethalwomen"
-date: 2026-06-29 15:30:00 +0700
+date: 2026-06-29 15:20:00 +0700
 title: "Việt Hóa Lethal Women: World of Femdom and Espionage Final - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
