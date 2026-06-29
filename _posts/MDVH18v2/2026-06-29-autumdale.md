@@ -18,6 +18,6 @@ phienban: "v0.2.0b"
 dev: "Seraph"
 genre: "2dcg, ahegao, ai cg, animated, bdsm, big ass, big tits, exhibitionism, fantasy, female domination, groping, group sex, handjob, humor, incest, lactation, male protagonist, masturbation, milf, monster, monster girl, multiple penetration, oral sex, point & click, puzzle, romance, sandbox, sex toys, spanking, stripping, superpowers, teasing, vaginal sex, voiced"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1VIa2ZLYkRn"
+linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0t2dU1LVnBt"
 linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcE1JZ0MzY20yLUE5Ykc3ckE2Q2lCZw=="
 ---
