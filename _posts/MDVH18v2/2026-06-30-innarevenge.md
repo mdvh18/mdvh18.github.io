@@ -5,7 +5,7 @@ date: 2026-06-30 15:30:00 +0700
 title: "Việt Hóa Inanna Revenge v0.3.3 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Inanna Revenge v0.3.3 - [4.8GB]"
+namebanner: "[Việt Hóa] Inanna Revenge (NTR) v0.3.3 - [4.8GB]"
 mota: |
  Trong Inanna Revenge, bạn vào vai Arthur (có thể tùy chỉnh tên), một chàng trai 21 tuổi đang sống một cuộc đời tẻ nhạt, chẳng có gì xảy ra cùng em gái nuôi của mình—cho đến một ngày định mệnh, cuộc sống đó dừng lại bất ngờ. Nhưng cái chết không phải là điểm cuối trong hành trình của bạn.
 gametype: "Visual Novel"
