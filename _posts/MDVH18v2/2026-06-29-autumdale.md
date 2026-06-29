@@ -20,5 +20,5 @@ genre: "2dcg, ahegao, ai cg, animated, bdsm, big ass, big tits, exhibitionism, f
 
 linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0t2dU1LVnBt"
 linkfix: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2Q0ckpGOUpW"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcE1JZ0MzY20yLUE5Ykc3ckE2Q2lCZw=="
+linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNHRTMlRhaUJoaGw4a0xXMUdHaDNoQQ=="
 ---
