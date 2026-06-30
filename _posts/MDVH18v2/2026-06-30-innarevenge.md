@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "innarevenge"
-date: 2026-06-30 15:30:00 +0700
+date: 2026-06-30 12:03:00 +0700
 title: "Việt Hóa Inanna Revenge v0.3.3 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
