@@ -20,6 +20,6 @@ dev: "ICSTOR"
 genre: "3DCG, Anal sex, Animated, BDSM, Big ass, Big tits, Blackmail, Cheating, Corruption, Cosplay, Dating sim, Exhibitionism, Footjob, Handjob, Incest, Male protagonist, Masturbation, MILF, Oral sex, Point & click, Romance, School setting, Sex toys, Sleep sex, Titfuck, Twins, Voyeurism, Sandbox"
 
 linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3dOYnY4VWRn"
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1ROZndtdnh2"
+linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3RpRkF3S3A4"
 linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC93dXpkd2E="
 ---
