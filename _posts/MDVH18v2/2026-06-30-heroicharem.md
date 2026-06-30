@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "heroicharem"
-date: 2026-06-30 12:30:00 +0700
+date: 2026-06-30 12:00:00 +0700
 title: "Việt Hóa Heroic Harem Resort v0.2.9 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
