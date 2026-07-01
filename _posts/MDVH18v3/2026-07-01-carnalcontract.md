@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "carnalcontract"
-date: 2026-07-02 15:30:00 +0700
+date: 2026-07-01 17:30:00 +0700
 title: "Việt Hóa Carnal Contract S1 v1.03.1 Premium - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
