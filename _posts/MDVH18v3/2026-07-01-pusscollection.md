@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "pusscollection"
-date: 2026-07-01 13:30:00 +0700
+date: 2026-07-01 13:40:00 +0700
 title: "Việt Hóa The Puss Collection v0.3.0 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
