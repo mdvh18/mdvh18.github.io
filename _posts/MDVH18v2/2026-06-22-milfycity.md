@@ -5,7 +5,7 @@ date: 2026-06-22 13:00:00 +0700
 title: "Việt Hóa Milfy City v1.0e Completed - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Milfy City Completed Fix nhiệm vụ lau dọn - [9GB/4GBAPK]"
+namebanner: "[Việt Hóa] Milfy City Completed [APK Fix nhiệm vụ lau dọn] - [9GB/4GBAPK]"
 mota: |
  Một học sinh trẻ thấy mình đang ở trong phòng tham vấn tâm lý của trường, sau một khoảnh khắc bẽ mặt với một giáo viên khác tại trường. Trong khi đang lên kế hoạch trả thù, cậu sẽ tán tỉnh những nhân vật khác ở trường và ở nhà.
 gametype: "Sandbox"
