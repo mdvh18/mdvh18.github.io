@@ -17,6 +17,7 @@ phienban: "v0.5.2"
 dev: "AnbuAfterDark"
 genre: "2DCG, AI CG, Male Protagonist, Female Domination, Male Domination, Humiliation,, Milf, Spanking, Parody, Futa/Trans, Masturbation, Rpg, Turn based combat"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3MxRDlzc2VG"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWEV4dUwyQWdtc2tpR2tXay1XZ1ZBZw=="
+linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3MxRDlzc2VG"
+linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC84QmFkMFc="
+linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWEV4dUwyQWdtc2tpR2tXay1XZ1ZBZw=="
 ---
