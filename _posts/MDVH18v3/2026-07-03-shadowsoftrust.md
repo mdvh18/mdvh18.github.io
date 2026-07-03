@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "shadowsoftrust"
-date: 2026-07-03 11:30:00 +0700
+date: 2026-07-03 10:00:00 +0700
 title: "Việt Hóa Shadows of Trust v0.3 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
