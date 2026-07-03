@@ -19,6 +19,6 @@ phienban: "R2"
 dev: "Winterfire"
 genre: "3DCG, Big tits, Fantasy, Groping, Male protagonist, Mobile game, Monster girl, Sandbox, Teasing"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0JWazRKRmFB"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRzN6QndWdHAtekxzTEJiNzdEZ2tvZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0JWazRKRmFB"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRzN6QndWdHAtekxzTEJiNzdEZ2tvZw=="
 ---

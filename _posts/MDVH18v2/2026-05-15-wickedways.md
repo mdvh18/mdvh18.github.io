@@ -17,6 +17,6 @@ phienban: "v0.10"
 dev: "LewdsMeister"
 genre: "3DCG, Slice of life, Big tits, MILF, Seduction, Groping, Handjb, Animated, Male protagonist, Mobile game"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3ZGckE1RnJo"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcEFJOGhnOWNPdW00MzBsYWJOZ2xhZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3ZGckE1RnJo"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcEFJOGhnOWNPdW00MzBsYWJOZ2xhZw=="
 ---

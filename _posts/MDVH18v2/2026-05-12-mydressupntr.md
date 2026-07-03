@@ -17,6 +17,6 @@ phienban: "v0.7 P2"
 dev: "CuckyBoy"
 genre: "3DCG, Animated, Male protagonist, Big ass, Big tits, Netorare, School setting, Mobile game, Milf, Female protagonist, Oral sex, Masturbation, Multiple protagonist, Ahegao, Teasing, Handjob, Exhibitionism, Cheating, Corruption, Interracial"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1hRYzJUQXNm"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTVN6QmRQY0Q5dTAydWk3NkZFamtOZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1hRYzJUQXNm"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTVN6QmRQY0Q5dTAydWk3NkZFamtOZw=="
 ---

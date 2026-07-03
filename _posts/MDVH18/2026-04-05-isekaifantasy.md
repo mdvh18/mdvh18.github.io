@@ -17,6 +17,6 @@ phienban: "v0.20"
 dev: "HiZe Interactive"
 genre: "3DCG, Animated, Handj, Fantasy, Adventure, Romance, Monster Girl, Superpowers"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0xTREU1ZnBj"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdHEwOTBhYkVtN1pZX1ZUV0V4TzBNdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0xTREU1ZnBj"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdHEwOTBhYkVtN1pZX1ZUV0V4TzBNdw=="
 ---

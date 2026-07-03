@@ -17,6 +17,6 @@ phienban: "Final"
 dev: "Ryugujo"
 genre: "Japanese game, Censored, Voiced, Animated, 2DCG"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0VjYmVValpI"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xV2VSaTl5TWs4TUtySWFWYmdMRXlndw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0VjYmVValpI"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xV2VSaTl5TWs4TUtySWFWYmdMRXlndw=="
 ---

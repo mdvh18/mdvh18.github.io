@@ -18,7 +18,7 @@ phienban: "v1.13 + All DLC"
 dev: "PantyParrot"
 genre: "Adventure, Management, Monster Girl, Slice of Life, Comedy, Romance, Fantasy, Sandbox, Simulation, Animated, Male Protagonist, Turn-Based Combat, Harem, Big Tits, Small Tits, Tentacles, Vaginal Sex, Blowjob, Anal Sex, Creampie, Group Sex, BDSM, Exhibitionism, Corruption, Transformation, Mind Control, Pregnancy, Combat, Dark Fantasy, Psychological, Horror, Survival, Trainer, RPG, Exploration, Erotic Battle, Multiple Endings"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0oxN1pEWjRZ"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9WazFWUFU="
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZk5uYXdfTjR6UzNYX3hueklCTkJtdw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0oxN1pEWjRZ"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9WazFWUFU="
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZk5uYXdfTjR6UzNYX3hueklCTkJtdw=="
 ---

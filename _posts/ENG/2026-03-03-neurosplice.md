@@ -19,6 +19,6 @@ phienban: "v0.02.1"
 dev: "FlimsyLegs"
 genre: "3DCG, toys, Teasing."
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzhkclRKR3VF"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUEJ1U0ZTVGI2eG1ZTlJYM0JlT2Mzdw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzhkclRKR3VF"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUEJ1U0ZTVGI2eG1ZTlJYM0JlT2Mzdw=="
 ---

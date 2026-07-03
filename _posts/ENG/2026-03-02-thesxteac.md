@@ -19,6 +19,6 @@ phienban: "v01.01"
 dev: "The Sx Teacher"
 genre: "2DCG, 3DCG, Animated, School Setiing, Milf, Le"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3h2eVp3U0pN"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xS25EcEZDVDlsX1drQlROZkhJVGFnUQ=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3h2eVp3U0pN"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xS25EcEZDVDlsX1drQlROZkhJVGFnUQ=="
 ---

@@ -17,6 +17,6 @@ phienban: "v0.3.11"
 dev: "RumiGames"
 genre: "3DCG, Monster Girl, Sandbox, Adventure, Harem, Handj"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1RSdUIxbVVq"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xREw2a1ZhRWxxRFR4RGJrNk1CNWZQUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1RSdUIxbVVq"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xREw2a1ZhRWxxRFR4RGJrNk1CNWZQUQ=="
 ---

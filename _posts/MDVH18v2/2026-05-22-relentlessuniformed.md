@@ -17,7 +17,7 @@ phienban: "v1.2"
 dev: "Nyusabou-Seitokai"
 genre: "2DCG, Animated, Censored, Creampie, Groping, Internal view, Japanese game, Male protagonist, Masturbation, Sexual harassment, Teasing, Vaginal sex"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzFzYVI2REFW"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9sMk1DcFg="
-linkteraa: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUTdtZVY5SVdPU2ZsRE9RbkJQVDdqQQ=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzFzYVI2REFW"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9sMk1DcFg="
+linkteraa: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUTdtZVY5SVdPU2ZsRE9RbkJQVDdqQQ=="
 ---

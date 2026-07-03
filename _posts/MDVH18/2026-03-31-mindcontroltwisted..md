@@ -17,6 +17,6 @@ phienban: "v0.27"
 dev: "specialmind"
 genre: "3DCG, School setting, Milf, Group"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3VxZ21nc0to"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZks1eEcyV1JXVy1JMWFITW53MGtydw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3VxZ21nc0to"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZks1eEcyV1JXVy1JMWFITW53MGtydw=="
 ---

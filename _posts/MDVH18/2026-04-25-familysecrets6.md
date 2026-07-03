@@ -17,6 +17,6 @@ phienban: "v0.5.0"
 dev: "Netori Lord"
 genre: "3dcg, Male Protag, Spanking"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1lwN01hWFM5"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSnpUYTNwSmdmY3diY1dpTENKZ18xQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1lwN01hWFM5"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSnpUYTNwSmdmY3diY1dpTENKZ18xQQ=="
 ---

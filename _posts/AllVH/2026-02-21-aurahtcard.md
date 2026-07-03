@@ -17,6 +17,6 @@ phienban: "v1.6 DLC"
 dev: "AniCore Team"
 genre: "2DCG, Adventure, Animated, Fantasy, Harem, Milf, Monster, Point & click, RomancE"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3BNRk1xS041"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xczlYTVI2VkM0T3drZFhuX3daeWVtZw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3BNRk1xS041"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xczlYTVI2VkM0T3drZFhuX3daeWVtZw=="
 ---

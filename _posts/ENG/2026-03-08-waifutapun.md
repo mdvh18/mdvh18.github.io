@@ -19,5 +19,5 @@ phienban: "v1.0.2"
 dev: "Lust Fiction"
 genre: "2DCG, AI Art, Animated, Idle, Parody, Point & Click, Teasing, Upgrades, clicker"
 
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcE8tNE9SdlRKbmJLVFdJcC1JTHhGQQ=="
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcE8tNE9SdlRKbmJLVFdJcC1JTHhGQQ=="
 ---

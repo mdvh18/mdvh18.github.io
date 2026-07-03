@@ -17,6 +17,6 @@ phienban: "Final"
 dev: "Fox House"
 genre: "2DCG, Animated, Fantasy, Furry, Groping, Handj, Management, RPG"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0Q2Y3JMeDJX"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNDhoQnB0VGZDYzVoTFRrYWZlMlIxdw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0Q2Y3JMeDJX"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNDhoQnB0VGZDYzVoTFRrYWZlMlIxdw=="
 ---

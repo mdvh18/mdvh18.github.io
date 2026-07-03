@@ -17,5 +17,5 @@ phienban: "Ep.15"
 dev: "Eromantis"
 genre: "3DCG, Point & Click, Multiple Endings, Spanking, Groping, Mastur"
 
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdEd3TFc5UlVQUVVrcXRfVkdQcXdIQQ=="
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdEd3TFc5UlVQUVVrcXRfVkdQcXdIQQ=="
 ---

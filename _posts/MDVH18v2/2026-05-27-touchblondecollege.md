@@ -17,6 +17,6 @@ phienban: "v1.041"
 dev: "Neucia Club"
 genre: "2DCG, Ahegao, Anal sex, Animated, Big ass, Big tits, Censored, Creampie, Humiliation, Groping, Japanese Game, Male protagonist, Oral sex, Simulator, Vaginal sex"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2NYdG5SWHlQ"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOGZvdmF3MFV6VU1xMV9SM2ZoTDNSUQ=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2NYdG5SWHlQ"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOGZvdmF3MFV6VU1xMV9SM2ZoTDNSUQ=="
 ---

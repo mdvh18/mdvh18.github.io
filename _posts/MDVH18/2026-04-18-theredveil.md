@@ -17,6 +17,6 @@ phienban: "Ep.1 P.2"
 dev: "Raw Magic"
 genre: "3DCG, Animated, Groping, Handj, Milf"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3pzWnFyOU14"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xeFNFUnZWVlBtbHZXak5NYnY5a3NoUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3pzWnFyOU14"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xeFNFUnZWVlBtbHZXak5NYnY5a3NoUQ=="
 ---

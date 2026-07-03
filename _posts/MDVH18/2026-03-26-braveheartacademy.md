@@ -17,6 +17,6 @@ phienban: "v0.5.1"
 dev: "Chrys"
 genre: "3DCG, Milf, Animated, School setting, Handj, Humor, Lesb, Creampie, Harem, Mobile Game"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3gzd2M0cHBh"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQXFSMGRvci1VTS1FQWE0OXNlT3padw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3gzd2M0cHBh"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQXFSMGRvci1VTS1FQWE0OXNlT3padw=="
 ---

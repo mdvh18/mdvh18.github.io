@@ -17,7 +17,7 @@ phienban: "S2 Ch.1-3 Final"
 dev: "Oceanlab"
 genre: "3DCG, Male protagonist, Animated, Big tits, Big ass, Graphic violence, Incest, Mobile game, Romance, School setting, Virgin"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2Q3VDF5Umpl"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3gzV2FuVTJt"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9WZ3pvOEk="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2Q3VDF5Umpl"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3gzV2FuVTJt"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9WZ3pvOEk="
 ---

@@ -17,7 +17,7 @@ phienban: "Release 15"
 dev: "HeroineAdventures"
 genre: "3DCG, Big ass, Big tits, Female domination, Female protagonist, Group sex, Groping, Lesbian, Masturbation, Mobile game, Multiple endings, Multiple protagonist, Oral sex, Parody, Rape, Sex toys, Superpowers, Titfuck, Vaginal sex"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2JnSGVOd01W"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3dOcGliWGlD"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTTZ1YzBCck9oeHlUZFBhMTU1V0xmZw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2JnSGVOd01W"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3dOcGliWGlD"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTTZ1YzBCck9oeHlUZFBhMTU1V0xmZw=="
 ---

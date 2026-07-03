@@ -17,6 +17,6 @@ phienban: "Completed"
 dev: "kraguto games"
 genre: "3DCG, Animated, Parody, Mobile Game, Interracial"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3JSWjh4Zzlr"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xS09ySlludWM3dVdpSDZ3dXg4dVVvUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3JSWjh4Zzlr"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xS09ySlludWM3dVdpSDZ3dXg4dVVvUQ=="
 ---

@@ -17,6 +17,6 @@ phienban: "DLC"
 dev: "SupaShinKen Studio"
 genre: "2DCG, Animated, Milf, Japanese game, Adventure, Fantasy, Teasing, Groping"
 
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9pbzVRR0I="
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWlRXOXBxTVRzXzMtY0VQRDBvUmxPUQ=="
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9pbzVRR0I="
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWlRXOXBxTVRzXzMtY0VQRDBvUmxPUQ=="
 ---

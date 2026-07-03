@@ -17,6 +17,6 @@ phienban: "v0.5.2"
 dev: "B.E. Grove"
 genre: "3DCG, Animated, Big ass, Big tits, Female protagonist"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0N2cTNZQzRL"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xczlaSE1PbWxGRHlMWm42eUR1ZzJLdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0N2cTNZQzRL"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xczlaSE1PbWxGRHlMWm42eUR1ZzJLdw=="
 ---

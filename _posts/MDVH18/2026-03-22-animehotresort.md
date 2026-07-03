@@ -17,6 +17,6 @@ phienban: "v0.19"
 dev: "Naughty Narratives"
 genre: "2DCG, AI CG, Mastur, Milf, Parody, Romance"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzVOQVBiZFlW"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUHB0RjZQYzZpeG1sM204djA5YUtKdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzVOQVBiZFlW"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUHB0RjZQYzZpeG1sM204djA5YUtKdw=="
 ---

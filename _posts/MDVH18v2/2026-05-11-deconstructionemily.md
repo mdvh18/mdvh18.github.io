@@ -17,6 +17,6 @@ phienban: "1.0.6"
 dev: "gouda1776"
 genre: "3DCG, Male Protagonist, Multiple Endings, Lesbian, Netorare, Toys"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1JSVUZMd3oy"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZFowcUdCdlVtaV9BaEpuRjg1aVNmdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1JSVUZMd3oy"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZFowcUdCdlVtaV9BaEpuRjg1aVNmdw=="
 ---

@@ -17,6 +17,6 @@ phienban: "v0.21f"
 dev: "C-Labo"
 genre: "2DCG, Animated, Combat, japanese game, Management, Monster, School setting, Superpower"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzI0M2ptcG5n"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xM0xTNU81WTVXUTNpTjNsczMyZWtlUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzI0M2ptcG5n"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xM0xTNU81WTVXUTNpTjNsczMyZWtlUQ=="
 ---

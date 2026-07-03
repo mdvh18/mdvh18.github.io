@@ -18,6 +18,6 @@ phienban: "v1.2.7"
 dev: "Miel"
 genre: "2DCG, Japanese game, Censored, Voiced, Male protagonist, Urination, Vaginal sex, Oral sex, Creampie, Ahegao, Titfuck, Kinetic novel, Big tits, Big ass, Group sex, Exhibitionism, Pregnancy, Virgin, Sex toys, Bdsm, Lactation, Rape, Teasing, Groping, Anal sex, Internal view, Slave, Milf, Male domination"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1JHdWVKWkFk"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSU9MX3dVVmJLWGdyNHBRVVNKbUlfZw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1JHdWVKWkFk"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSU9MX3dVVmJLWGdyNHBRVVNKbUlfZw=="
 ---

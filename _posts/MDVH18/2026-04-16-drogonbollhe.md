@@ -17,6 +17,6 @@ phienban: "v0.3.5"
 dev: "Rice"
 genre: "2DCG, Parody Harem, Adventure, Romance, Superpowers, Animation"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3JuZDhqRTN2"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbHpzOXJoWU0wVy0yTWtod2ZWblZhQQ=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3JuZDhqRTN2"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbHpzOXJoWU0wVy0yTWtod2ZWblZhQQ=="
 ---

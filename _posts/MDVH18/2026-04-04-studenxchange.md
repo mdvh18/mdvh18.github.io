@@ -17,6 +17,6 @@ phienban: "v2"
 dev: "SerialNumberComics"
 genre: "3DCG, Animated, Milf, School setting,"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3BqYTh6a0M0"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUTM0TllESjFqbE15U1ZKdThJUTBwdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3BqYTh6a0M0"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUTM0TllESjFqbE15U1ZKdThJUTBwdw=="
 ---

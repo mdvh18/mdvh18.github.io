@@ -17,5 +17,5 @@ phienban: "Completed"
 dev: "deasfulf"
 genre: "3DCG, Animated, Fantasy, Adventure, Romance, Monster Girl, Superpowers"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L21jZnlndWtm"
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L21jZnlndWtm"
 ---

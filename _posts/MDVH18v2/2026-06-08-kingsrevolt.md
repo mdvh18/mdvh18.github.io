@@ -18,7 +18,7 @@ phienban: "v0.1.1"
 dev: "ButtLikeBaoBuns"
 genre: "3DCG, Male Protagonist, Ahegao, BDSM, Anal Sex, Corruption, Creampie, Handjob, Male Domination, Milf, Oral Sex, Sex Toys, Vaginal Sex, Virgin, Big ass, Big tits, Adventure, Combat, Romance, Trainer, Teasing, Sandbox"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1JncTdieDV3"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1lYTTc5SDdT"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xU1pJZ2h5WXlDU2hRbWhGYTNfMkU5QQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1JncTdieDV3"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1lYTTc5SDdT"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xU1pJZ2h5WXlDU2hRbWhGYTNfMkU5QQ=="
 ---

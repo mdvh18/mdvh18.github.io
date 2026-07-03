@@ -17,6 +17,6 @@ phienban: "v1.1"
 dev: "OnionCuttingNinja"
 genre: "3DCG, Animated, Mbile game, Handj"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3hZaDRTWHBy"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRWEzVUs1amlsUVJhRFIzVG9OVEdVdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3hZaDRTWHBy"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRWEzVUs1amlsUVJhRFIzVG9OVEdVdw=="
 ---

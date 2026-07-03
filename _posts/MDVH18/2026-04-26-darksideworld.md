@@ -17,6 +17,6 @@ phienban: "Final"
 dev: "Deasfulf"
 genre: "3DCG, Animated, Fantasy, Groping, Group, Handj, Harem, Masturbation, Milf, Romance, Pov, Lesbian"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3prM3FlWERB"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTUo1eDBCTTNnWW9DV1RFcHF6aEdzUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3prM3FlWERB"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTUo1eDBCTTNnWW9DV1RFcHF6aEdzUQ=="
 ---

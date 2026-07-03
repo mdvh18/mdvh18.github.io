@@ -17,6 +17,6 @@ phienban: "v1.1b"
 dev: "Sedhaild"
 genre: "3DCG, Ahegao, Animated, Big ass, Big tits, Fantasy, Fingering, Groping, Handjb, Harem, Male protagonist, Milf, Monster girl, Rpg, School setting, Turn based combat"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1JNcW1MN1l6"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWXlySUZhbDhKNWlmRTExUXNZTlZMZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1JNcW1MN1l6"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWXlySUZhbDhKNWlmRTExUXNZTlZMZw=="
 ---

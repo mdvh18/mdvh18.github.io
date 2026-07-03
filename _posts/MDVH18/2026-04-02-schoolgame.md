@@ -17,6 +17,6 @@ phienban: "v0.975 bugfix4"
 dev: "Sloths Command"
 genre: "2DCG, RPG, Simulator"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzF6RTJ2anVX"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xckZoNDJ2V1QzdnRlVG8yUzZnc3ZoZw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzF6RTJ2anVX"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xckZoNDJ2V1QzdnRlVG8yUzZnc3ZoZw=="
 ---

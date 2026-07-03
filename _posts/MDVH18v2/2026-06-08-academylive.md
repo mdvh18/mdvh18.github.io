@@ -19,8 +19,8 @@ phienban: "v0.10.1.1"
 dev: "passhonQ"
 genre: "3dcg, Ahegao, Anal, Male protagonist, Animated, Corruption, Creampie, Footjob, School setting, Groping, Teasing, Handjob, Oral sex, Vaginal sex, Spanking, PoV, Male domination, Simulator, Voyeurism, Management, Netorase/Sharing"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1FIVnM2WUF3"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1RUaW55TVQ2"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9aMEdsMEo="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYXpPUTF5RDIzVmRSX3ZKV0Y5QkxxZw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1FIVnM2WUF3"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1RUaW55TVQ2"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9aMEdsMEo="
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYXpPUTF5RDIzVmRSX3ZKV0Y5QkxxZw=="
 ---

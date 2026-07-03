@@ -19,5 +19,5 @@ phienban: "v0.3.13"
 dev: "Starhound Studios"
 genre: "2DCG, Adventure, Fantasy, Monster"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3JpNDZNQWN2"
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3JpNDZNQWN2"
 ---

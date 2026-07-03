@@ -17,7 +17,7 @@ phienban: "v0.6.13"
 dev: "Strategic Desire"
 genre: "3DCG, Anal Sex, Animated, BDSM, Big Ass, Big Tits, Cheating, Gay, Group sex, Handjob, Harem, Lesbian, Male domination, Male protagonist, Management, Oral Sex, Romance, Sandbox, Slave, Strategy, Vaginal sex"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1JndTZZZW9R"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9IMFNyUUQ="
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xU0xJTVYzV2cxb09mQ1ZwQnpPZ19ldw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1JndTZZZW9R"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9IMFNyUUQ="
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xU0xJTVYzV2cxb09mQ1ZwQnpPZ19ldw=="
 ---

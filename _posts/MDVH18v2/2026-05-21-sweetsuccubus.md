@@ -17,7 +17,7 @@ phienban: "Valentine"
 dev: "Black Cat Entertainment"
 genre: "2dcg, animated, male protagonist, vaginal sex, masturbation, milf, management, sandbox, big ass, big tits, groping, teasing, voyeurism, japanese game, voiced, monster girl, fantasy, adventure, dating sim, romance"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L005R1pQRXJk"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9mRGV4cG0="
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xanRWUG1EMVNBbTVRenpWVDFqVmlIZw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L005R1pQRXJk"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9mRGV4cG0="
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xanRWUG1EMVNBbTVRenpWVDFqVmlIZw=="
 ---

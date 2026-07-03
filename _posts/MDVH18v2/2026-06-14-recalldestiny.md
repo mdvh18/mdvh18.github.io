@@ -18,7 +18,7 @@ phienban: "v0.3a"
 dev: "Saffron River"
 genre: "3dcg, Animated, Male protagonist, Big ass, Big tits, Vaginal sex, Titfuck, Prostitution, Sci-fi, Superpowers, Teasing, Groping"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L01aMVdYM3p2"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzhLaGYxSEVh"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSmZqR3pldUdKZTNyQnZUdTlTeWVjdw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L01aMVdYM3p2"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzhLaGYxSEVh"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSmZqR3pldUdKZTNyQnZUdTlTeWVjdw=="
 ---

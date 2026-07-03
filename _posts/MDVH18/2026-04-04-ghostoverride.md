@@ -17,6 +17,6 @@ phienban: "v0.1"
 dev: "pxlWisp"
 genre: "3DCG, Animated, Handj, Titfuck, Vaginal sex, Point & Click, Romance, Sci-fi"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzJLek1MMUxT"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTWdqemZ5SVByMjU4REhuMTNvSnV1dw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzJLek1MMUxT"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTWdqemZ5SVByMjU4REhuMTNvSnV1dw=="
 ---

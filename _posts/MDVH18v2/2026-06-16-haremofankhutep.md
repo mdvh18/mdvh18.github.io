@@ -18,7 +18,7 @@ phienban: "v0.3"
 dev: "AhaNubis"
 genre: "3DCG, Animated, Big ass, Big tits, Fantasy, Harem, Monster girl, Romance, Vaginal sex"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0FSNmd3ZWNq"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1g4TFdQekFo"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMkJVTXBfTnpSUUluRmtIM0x1dVM4QQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0FSNmd3ZWNq"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1g4TFdQekFo"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMkJVTXBfTnpSUUluRmtIM0x1dVM4QQ=="
 ---

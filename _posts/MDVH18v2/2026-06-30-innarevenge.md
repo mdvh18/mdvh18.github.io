@@ -18,8 +18,8 @@ phienban: "v0.3.3"
 dev: "AtemX Games"
 genre: "3DCG, Anal sex, Animated, Big ass, Big tits, Creampie, Fantasy, Groping, Harem, Lactation, Incest (Unofficial patch) Male domination, Male protagonist, Management, Netorase, Oral sex, Prostitution, Puzzle, Rape, Romance, Stripping, Teasing, Vaginal sex, Virgin, Voyeurism"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0hMUnMzSnh2"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91Lzg2SDE5NGtj"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9UUHY2WkM="
-linkteraapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYkl6TE5aSkJrYkZVZ3hYUWtTaHl3UQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0hMUnMzSnh2"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91Lzg2SDE5NGtj"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9UUHY2WkM="
+linkteraapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYkl6TE5aSkJrYkZVZ3hYUWtTaHl3UQ=="
 ---

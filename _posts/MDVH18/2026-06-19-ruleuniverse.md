@@ -17,6 +17,6 @@ phienban: "v0.62"
 dev: "DrVision"
 genre: "3DCG, Adventure, Animated, Parody, Animated, Romance, Combat, Exploration, Magic"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1Rab1Q4MlVr"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xY2JKRUh6WGx2dXNsLUdqdWdEbzZFdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1Rab1Q4MlVr"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xY2JKRUh6WGx2dXNsLUdqdWdEbzZFdw=="
 ---

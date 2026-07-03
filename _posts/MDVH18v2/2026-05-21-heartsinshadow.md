@@ -17,7 +17,7 @@ phienban: "v0.3"
 dev: "ScavengerDev"
 genre: 3DCG, Incest, Male protagonist, Rpg, Sandbox, School setting, Voyeurism, Titfuck, Handjob, Harem, Corruption, Romance, PoV""
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3YxaDdtSkNu"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0o3cGtiaDhZ"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xc1U2WXBwVE15d0FIeTJZS2FIc21Ydw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3YxaDdtSkNu"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0o3cGtiaDhZ"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xc1U2WXBwVE15d0FIeTJZS2FIc21Ydw=="
 ---

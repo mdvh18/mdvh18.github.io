@@ -17,6 +17,6 @@ phienban: "Completed"
 dev: "Lewd Star"
 genre: "Animated, 3DCG, Cyber, Sci-Fi, Simulator, Adventure"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzJLd2hZVVpY"
-linkggdrive: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xNy1laUNEMlpOdGFvWm9aUkttNm9heEx5c0Qza0ZUTFYvdmlldz91c3A9c2hhcmluZw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzJLd2hZVVpY"
+linkggdrive: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xNy1laUNEMlpOdGFvWm9aUkttNm9heEx5c0Qza0ZUTFYvdmlldz91c3A9c2hhcmluZw=="
 ---

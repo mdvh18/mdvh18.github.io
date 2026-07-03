@@ -17,6 +17,6 @@ phienban: "v0.35"
 dev: "Zao83"
 genre: "3DCG, Animated, DILF, Fantasy, Futa/trans, Group, Harem, MILF, POV, Romance"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0RuVjUzRnRj"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYURxcDdDUzgtZ2pDREpaZnMxUm9tUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0RuVjUzRnRj"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYURxcDdDUzgtZ2pDREpaZnMxUm9tUQ=="
 ---

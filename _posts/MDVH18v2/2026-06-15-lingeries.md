@@ -18,7 +18,7 @@ phienban: "v1.38 + DLC"
 dev: "Ramune Games"
 genre: "2DCG, Male Protagonist, Slice of Life, Romance, Comedy, School Setting, Big Breasts, Cosplay, Exhibitionism, Fetish, Clothing Damage, Lingerie, Erotic Visual Novel"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2M4cENDcEQ1"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1Z1cFNtMXpm"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xN2U5dm5FRUZtZU5pakYtU0gta004dw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2M4cENDcEQ1"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1Z1cFNtMXpm"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xN2U5dm5FRUZtZU5pakYtU0gta004dw=="
 ---

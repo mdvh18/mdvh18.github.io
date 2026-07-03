@@ -17,6 +17,6 @@ phienban: "v2.066"
 dev: "Solace"
 genre: "3DCG, Superpowers, Romance,, Handj, Milf, Humor"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0c5RkdSbWta"
-linkggdrive: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xMFNvazI1MWZpSy1ybHZSRUlLNm83TWJsUnpLUm52cV8vdmlldz91c3A9c2hhcmluZw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0c5RkdSbWta"
+linkggdrive: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xMFNvazI1MWZpSy1ybHZSRUlLNm83TWJsUnpLUm52cV8vdmlldz91c3A9c2hhcmluZw=="
 ---

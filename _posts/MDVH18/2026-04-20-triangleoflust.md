@@ -17,6 +17,6 @@ phienban: "v0.8"
 dev: "Rubystiles"
 genre: "3DCG, Animated, Handj, Groping, Mobile game"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0dGYVZCcW9u"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVFZkUE4zSXBiNjltNzAyWTV4Q1ZZQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0dGYVZCcW9u"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVFZkUE4zSXBiNjltNzAyWTV4Q1ZZQQ=="
 ---

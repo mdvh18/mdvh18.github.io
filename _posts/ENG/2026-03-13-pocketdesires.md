@@ -19,5 +19,5 @@ phienban: "v1.5"
 dev: "corn_etwo"
 genre: "Trainer, AI CG, Mobile game"
 
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYzMxaUcxWHBMM2NzR2Nzam1aZ3RqQQ=="
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYzMxaUcxWHBMM2NzR2Nzam1aZ3RqQQ=="
 ---

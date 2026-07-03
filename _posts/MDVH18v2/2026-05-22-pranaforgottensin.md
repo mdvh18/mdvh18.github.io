@@ -17,6 +17,6 @@ phienban: "v0.0.1"
 dev: "Platinum Wolf GS"
 genre: "3dcg, fantasy, male protagonist, humor, school setting, big ass, big tits, monster girl"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2tmdjJ3Mzdo"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1BoaHM3aVl2"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2tmdjJ3Mzdo"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1BoaHM3aVl2"
 ---

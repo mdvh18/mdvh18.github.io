@@ -17,6 +17,6 @@ phienban: "v0.2.3p"
 dev: "Kitty_SFM"
 genre: "3DCG, Adventure, Parody, Groping, Fantasy, Animated"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2NMd1o2ODc5"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVDVPbmw0YXZqdnRWalBYR29hTzNQZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2NMd1o2ODc5"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVDVPbmw0YXZqdnRWalBYR29hTzNQZw=="
 ---

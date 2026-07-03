@@ -18,7 +18,7 @@ phienban: "Completed"
 dev: "TheEvilWithinHer"
 genre: "3DCG, Animated, Kinetic Novel, Anal Sex, Big Ass, Corruption, Incest, Sex Toys, Fisting, Giant toys, Nipple penetration, Exhibitionism, Lesbian, Female protagonist, Parody, Groping, Multiple penetration, Vaginal sex"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2pvWUs2MnpE"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzdOTnRYQUtQ"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xU1ZRZmxoTDloQkMxWTE4ZHFDdENDZw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2pvWUs2MnpE"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzdOTnRYQUtQ"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xU1ZRZmxoTDloQkMxWTE4ZHFDdENDZw=="
 ---

@@ -17,6 +17,6 @@ phienban: "v0.9.6"
 dev: "aPieceOfTissue"
 genre: "3DCG, Animated, Big Ass, Big Tits, Fantasy, HandJb, Harem, Male Protagonist, Milf, Monster Girl, Romance, Sleep Sex"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0Vld0IyRHBa"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xclNwQTdUWU9lZzlMMFcwbXZNSXd3QQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0Vld0IyRHBa"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xclNwQTdUWU9lZzlMMFcwbXZNSXd3QQ=="
 ---

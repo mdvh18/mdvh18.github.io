@@ -17,7 +17,7 @@ phienban: "v1.06"
 dev: "Maron Maron"
 genre: "2DCG, Ahegao, Anal, Animated, BDSM, Big Ass, Big Tits, Censored, Cosplay, Creampie, Footjob, Groping, Japanese Game, Management, Male Protagonist, Male Domination, Oral Sex, Romance, School Setting, Simulator, Pregnancy, Titfuck, Teasing, Trainer, Vaginal Sex, Virgin, Voiced, Voyeurism"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91Lzd4cUYyZkM4"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9JaFNETWM="
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xczVaTy1wZ3FMSXFhbWNvVmFFQk10dw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91Lzd4cUYyZkM4"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9JaFNETWM="
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xczVaTy1wZ3FMSXFhbWNvVmFFQk10dw=="
 ---

@@ -17,6 +17,6 @@ phienban: "v0.2"
 dev: "Rose Games"
 genre: "3DCG, Animated, Handj, MILF, Romance, Transformation, Toys"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0ZtWXQ0cmda"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcTR0TE5Ta1hjcFBlSjQ2SU1vdnIyQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0ZtWXQ0cmda"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcTR0TE5Ta1hjcFBlSjQ2SU1vdnIyQQ=="
 ---

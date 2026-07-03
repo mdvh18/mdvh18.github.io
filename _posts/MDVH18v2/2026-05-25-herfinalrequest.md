@@ -17,8 +17,8 @@ phienban: "v0.3"
 dev: "Chinzu"
 genre: "3DCG, Adult, Animation, Erotic, First-Person, NSFW, Ren'Py, Visual Novel, corruption, milf"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1piM0ZRb1hM"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0tWM2tSYjQ5"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC90T0xUanM="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZ0tPVG4zSkJRV2VMSk0xRnhBRVRlUQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1piM0ZRb1hM"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0tWM2tSYjQ5"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC90T0xUanM="
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZ0tPVG4zSkJRV2VMSk0xRnhBRVRlUQ=="
 ---

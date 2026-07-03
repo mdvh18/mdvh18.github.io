@@ -19,7 +19,7 @@ phienban: "v1.1"
 dev: "Omega Games"
 genre: "2DCG, AI CG, Anime, Handj, Le, Dating Sim, Humor, Romance, Animation, Cosplay, Multiple Endings"
 
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1FwRlYyUjJQ"
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0w3VTVxZXo3"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRGRHbDNuZTgzcS1qYkxKREUxN21jdw=="
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1FwRlYyUjJQ"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0w3VTVxZXo3"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRGRHbDNuZTgzcS1qYkxKREUxN21jdw=="
 ---

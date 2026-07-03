@@ -19,5 +19,5 @@ phienban: "v0.3.5"
 dev: "Tales of Home"
 genre: "2DCG, Animated Handj, Ai cg"
 
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZlZmeGZzZTdIY0RLQ0FzM1NYcFJzQQ=="
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZlZmeGZzZTdIY0RLQ0FzM1NYcFJzQQ=="
 ---

@@ -17,6 +17,6 @@ phienban: "v0.19"
 dev: "Milk Dragon Studios"
 genre: "Parody, 2DCG, Ai cg, Superpowers, Monster turn based, Combat, Trainer, Handj, Mastur"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1NiOU5CRHRV"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWnVQaXQwa1lHdV84U1lLQUU1NlV0dw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1NiOU5CRHRV"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWnVQaXQwa1lHdV84U1lLQUU1NlV0dw=="
 ---

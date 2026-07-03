@@ -17,6 +17,6 @@ phienban: "v0.4"
 dev: "HoolStudio"
 genre: "2DCG, Dating Sim, Point & Click, Romance, Simulator"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0pQZkNwNExh"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xd1J4emN5bVRiMFVKYVVXUDE1MHZCQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0pQZkNwNExh"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xd1J4emN5bVRiMFVKYVVXUDE1MHZCQQ=="
 ---

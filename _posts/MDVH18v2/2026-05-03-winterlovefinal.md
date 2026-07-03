@@ -17,6 +17,6 @@ phienban: "Final"
 dev: "SultanofSize"
 genre: "3DCG, Group, Toys Monster girl, Fantasy, Adventure, Milf, Multiple endings"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2FWdkM5Q1VQ"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSlJKcmdDTlFhRHBnazRfSWdQeFFqdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2FWdkM5Q1VQ"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSlJKcmdDTlFhRHBnazRfSWdQeFFqdw=="
 ---

@@ -17,6 +17,6 @@ phienban: "r4.3"
 dev: "Night Mirror"
 genre: "2DCG, Parody, Sci-fi, Humor, Cosplay, Twins, Animated, Footj, Group, Groping, Handj, Lesbin, Masturbation, Milf, Mind Control, Pregnancy, Toys, Sleep"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL05KTlN1YkY0"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOFRwYXVHbjNwTmJyR0FPM2FQTFNndw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL05KTlN1YkY0"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOFRwYXVHbjNwTmJyR0FPM2FQTFNndw=="
 ---

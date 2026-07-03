@@ -17,6 +17,6 @@ phienban: "P1 v0.54"
 dev: "ArchimedesCompany"
 genre: "3DCG, 2DCG, Romance, Swinging"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzhpZGRBY1Zu"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xM2VHbndVbmJqaEc1MkNMdURsWTlhUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzhpZGRBY1Zu"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xM2VHbndVbmJqaEc1MkNMdURsWTlhUQ=="
 ---

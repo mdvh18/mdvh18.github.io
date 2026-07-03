@@ -18,7 +18,7 @@ phienban: "v0.4"
 dev: "Hexdusky"
 genre: "3DCG, Male Protagonist, Mobile Game, Visual Novel, sandbox, Big Ass, Big Tits, Harem, Voyeurism, Cosplay, Dating Sim, Fantasy, Humor, Romance"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2I5ZFlWUERL"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0pYNk1lbTlV"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSWJ0QWc4RDdLQlJneGtmS0lUWEtBQQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2I5ZFlWUERL"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0pYNk1lbTlV"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSWJ0QWc4RDdLQlJneGtmS0lUWEtBQQ=="
 ---

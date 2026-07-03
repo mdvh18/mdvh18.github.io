@@ -17,6 +17,6 @@ phienban: "Ep.6A"
 dev: "Shikharisfree"
 genre: "2DCG, Ai cg, Animated, Groping, Parody"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0hkY0JWWm15"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVjdGY05qVkJkRTVYdEF6ZU9sYUxKdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0hkY0JWWm15"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVjdGY05qVkJkRTVYdEF6ZU9sYUxKdw=="
 ---

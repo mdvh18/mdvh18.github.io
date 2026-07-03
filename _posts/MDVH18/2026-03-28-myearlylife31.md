@@ -17,6 +17,6 @@ phienban: "Ep.27-31"
 dev: "CeLaVie Group"
 genre: "3DCG, Groping, Masturb Animated, Mobile game"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3VwSjJocWRC"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcWlfVlZva0VFUnZ6cTBPb0JLUVVfQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3VwSjJocWRC"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcWlfVlZva0VFUnZ6cTBPb0JLUVVfQQ=="
 ---

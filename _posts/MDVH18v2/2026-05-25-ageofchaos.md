@@ -17,7 +17,7 @@ phienban: "v0.1.2"
 dev: "SARIZ"
 genre: "3DCG, Male protagonist, Female protagonist, Animation, MILF, Big ass, Big tits, Fantasy, Teasing, Parody, Groping, Monster, Rpg, Sandbo"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1FIR0F0MXNN"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3paRUd3Z3lF"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xeU5aTTdZemh1U1JnZGFSbFBDeXdFQQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1FIR0F0MXNN"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3paRUd3Z3lF"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xeU5aTTdZemh1U1JnZGFSbFBDeXdFQQ=="
 ---

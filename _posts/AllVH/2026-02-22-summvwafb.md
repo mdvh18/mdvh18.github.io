@@ -16,6 +16,6 @@ dungluong: "786MB"
 dev: "Studio Neko Kick"
 genre: "2DCG, Animated, Dating sim, Groping, Japanese Game, Mastur, Rpg, Toys, Simulator, Trainer"
 
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9HSnhWYUc="
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMWtfZHNuOERBWUk0Zm40Q0tib1ROdw=="
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9HSnhWYUc="
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMWtfZHNuOERBWUk0Zm40Q0tib1ROdw=="
 ---

@@ -17,6 +17,6 @@ phienban: "Part 2"
 dev: "No Try Studios"
 genre: "3dcg, Animate, Femdom, Male Protag, Mobile"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0xBcmZyb2Rp"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMzJwTzZBdEFyZmFRZXlzVWVHZ1VFQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0xBcmZyb2Rp"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMzJwTzZBdEFyZmFRZXlzVWVHZ1VFQQ=="
 ---

@@ -17,6 +17,6 @@ phienban: "v1.0"
 dev: "D-R-69"
 genre: "3DCG, Animated, Toys, Groping, Pov, School setting"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzdGUXExZ3Q1"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYTdqSHV3VlNITmNkZnFONnJ4NDhNdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzdGUXExZ3Q1"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYTdqSHV3VlNITmNkZnFONnJ4NDhNdw=="
 ---

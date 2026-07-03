@@ -17,6 +17,6 @@ phienban: "v0.9"
 dev: "Upforkilling"
 genre: "3DCG, Animated, Parody, School setting, Footj, Handj, Harem, Oral Sex, Vaginal sex, Virgin, PoV,"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzNNdDFCeXV4"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTWRmdk9kcjN4N3lxeDZEcHQwbDhDdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzNNdDFCeXV4"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTWRmdk9kcjN4N3lxeDZEcHQwbDhDdw=="
 ---

@@ -19,7 +19,7 @@ phienban: "v3.3.9"
 dev: "OH MY WAIFU"
 genre: "2DCG, Animated, Mobile game, Cosplay,"
 
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1dYSk5uNUZC"
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L29HS1h6Smd4"
-linkteraapkpcapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVzQzbUZKMkFnMUgtejZmV0cwVUo4Zw=="
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1dYSk5uNUZC"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L29HS1h6Smd4"
+linkteraapkpcapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVzQzbUZKMkFnMUgtejZmV0cwVUo4Zw=="
 ---

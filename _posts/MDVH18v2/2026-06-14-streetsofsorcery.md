@@ -19,7 +19,7 @@ phienban: "v1.8b"
 dev: "Bear in the Night"
 genre: "3dcg, Animated, Big Ass, Big Tits, Fantasy, Groping, Handjob, Harem, Humor, Interracial, Male Protagonist, Management, Masturbation, Oral Sex, Parody, Point & Click, Pov, Puzzle, Romance, Sex Toys, Stripping, Teasing, Titfuck, Vaginal Sex, Voyeurism"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2pSaFBjclY0"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1RpNFR0WmZY"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdWVQazhzSE9ia2JBZk5EOXlkODk2Zw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2pSaFBjclY0"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1RpNFR0WmZY"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdWVQazhzSE9ia2JBZk5EOXlkODk2Zw=="
 ---

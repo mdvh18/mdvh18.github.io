@@ -17,6 +17,6 @@ phienban: "v0.4.7a"
 dev: "SLim Games"
 genre: "3DCG, Harem, Milf, Monster girl, Paranormal, Mobile game, Voiced"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzJBNExiYktC"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNWhEbEVhT05MZUozOUUzOG1YMkJsZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzJBNExiYktC"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNWhEbEVhT05MZUozOUUzOG1YMkJsZw=="
 ---

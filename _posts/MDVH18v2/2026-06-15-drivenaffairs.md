@@ -19,7 +19,7 @@ phienban: "v0.9"
 dev: "Naughty Algorithm"
 genre: "2DCG, Male Protagonist, Big tits, Big ass, Adventure, Masturbation, Oral sex, Lesbian, Mobile game, Multiple Endings, Bdsm, Teasing, Cosplay, PoV, Romance"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzlKUVhjRXhx"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3d6cVpzM05V"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSXJfXzhHUHQwX0k5Rk9RMjNQZjN4UQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzlKUVhjRXhx"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3d6cVpzM05V"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSXJfXzhHUHQwX0k5Rk9RMjNQZjN4UQ=="
 ---

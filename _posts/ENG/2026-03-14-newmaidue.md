@@ -19,6 +19,6 @@ phienban: "v0.11"
 dev: "funBearDude"
 genre: "3DCG, Animated, Kinetic Novel"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0VObmdlbVgz"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcHJMeU96RzA5Q2hhYm1UaW9lOHFZUQ=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0VObmdlbVgz"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcHJMeU96RzA5Q2hhYm1UaW9lOHFZUQ=="
 ---

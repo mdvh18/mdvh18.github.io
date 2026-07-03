@@ -17,6 +17,6 @@ phienban: "v0.289"
 dev: "Zelltin"
 genre: "3dcg, Romance, Harem, Turn based combat, Strategy"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0ZzZVBCTndK"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNTAzck15R1hydmx3czFNOHRIeVZudw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0ZzZVBCTndK"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNTAzck15R1hydmx3czFNOHRIeVZudw=="
 ---

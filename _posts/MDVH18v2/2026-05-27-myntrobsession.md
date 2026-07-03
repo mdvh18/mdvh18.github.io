@@ -17,8 +17,8 @@ phienban: "Chap 10"
 dev: "DrusasNTS"
 genre: "3DCG, Big Ass, Big Tits, Kinetic Novel, Male protagonist, Netorare, Netorase, NTR, NTS, Teasing, Romance"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzhaSEMzV0I1"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2p1YVRmUHNi"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9rRHBoMno="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSlpOTVFRS0hYZUJaTXVxNWtWSGlsUQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzhaSEMzV0I1"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2p1YVRmUHNi"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9rRHBoMno="
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSlpOTVFRS0hYZUJaTXVxNWtWSGlsUQ=="
 ---

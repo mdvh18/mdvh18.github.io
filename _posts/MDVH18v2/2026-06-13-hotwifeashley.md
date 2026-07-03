@@ -19,7 +19,7 @@ phienban: "Ch.6 v1.0 Final"
 dev: "respirit"
 genre: "3DCG, Animated, Voyeurism, Female Domination, Interracial, Big Tits, Oral Sex, Teasing, Cheating, NTR, Handjob, Humiliation, Masturbation, Sex Toys, POV, Creampie, Corruption, Exhibitionism, Footjob, Stripping, Vaginal Sex"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzFwZXJBUkph"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2dmc1ZuMTJ6"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdFJqRHdTUVowRlp1UXRjTzU2REhIdw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzFwZXJBUkph"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2dmc1ZuMTJ6"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdFJqRHdTUVowRlp1UXRjTzU2REhIdw=="
 ---

@@ -17,6 +17,6 @@ phienban: "Completed"
 dev: "scoutswren"
 genre: "2DCG, Adventure, Animated, Censored, Fantasy, Groping, Japanese Game, Monster girl, Rpg, Toys"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L25yMU1YRU1r"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdmtBaWtzMWhaYnFPTjZkOE9ZMVViQQ=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L25yMU1YRU1r"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdmtBaWtzMWhaYnFPTjZkOE9ZMVViQQ=="
 ---

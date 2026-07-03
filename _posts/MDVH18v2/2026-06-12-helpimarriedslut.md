@@ -18,7 +18,7 @@ phienban: "Ch.3"
 dev: "Creamy Games"
 genre: "2DCG, AI CG, ANIMATED, VAGINAL SEX, ORAL SEX, HANDJOB, CREAMPIE, TITFUCK, BIG TITS, BIG ASS, CHEATING, NETORARE, EXHIBITIONISM, TEASING, HUMILATION, Male protagonist"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L00zSzk5dVk4"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0diNTlSbWZ5"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNUxHQkRFM2l6NFM0ZS1QT3JWMWFpUQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L00zSzk5dVk4"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0diNTlSbWZ5"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNUxHQkRFM2l6NFM0ZS1QT3JWMWFpUQ=="
 ---

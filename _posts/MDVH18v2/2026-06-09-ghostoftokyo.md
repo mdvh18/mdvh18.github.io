@@ -17,7 +17,7 @@ phienban: "Completed"
 dev: "Shadow Veil Studios"
 genre: "3DCG, Anal sex, Animated, BDSM, Big tits, Creampie, Male protagonist, Masturbation, Point & Click, Sex toys, Vaginal sex, Voyeurism"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3VyR1ZjSm1q"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L29paGpQYkZn"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUkl3TWxGTzQ3Q196UV9qdGxZR0xzdw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3VyR1ZjSm1q"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L29paGpQYkZn"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUkl3TWxGTzQ3Q196UV9qdGxZR0xzdw=="
 ---

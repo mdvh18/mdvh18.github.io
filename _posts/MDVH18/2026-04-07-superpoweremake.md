@@ -17,6 +17,6 @@ phienban: "v0.68"
 dev: "leech1717"
 genre: "3DCG, Animated, Milf, School setting, Groping, Mobile game, Dating sim, Handj, Superpowers, Monster girl"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1JVajRpN0Fo"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQ3RHOTJRUWRad2pZVmlzRjRMSWhGZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1JVajRpN0Fo"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQ3RHOTJRUWRad2pZVmlzRjRMSWhGZw=="
 ---

@@ -17,7 +17,7 @@ phienban: "v0.2.1"
 dev: "iskanime"
 genre: "3DCG, Romance"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzNkaUdvZFdS"
-linkbuzzheavier: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9idXp6aGVhdmllci5jb20vYmh5anhueTltNW41"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcnNmcFZfdF9lUUJTRGpRZkNYWmpyQQ=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzNkaUdvZFdS"
+linkbuzzheavier: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9idXp6aGVhdmllci5jb20vYmh5anhueTltNW41"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcnNmcFZfdF9lUUJTRGpRZkNYWmpyQQ=="
 ---

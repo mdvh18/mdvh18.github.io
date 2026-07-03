@@ -17,6 +17,6 @@ phienban: "v1.2.0.0 + DLCs"
 dev: "HappyCreator"
 genre: "2DCG, AI CG, Adventure, Big ass, Big tits, Groping, Harem, Male protagonist, Milf, Monster girl, Oral sex, Romance, RPG, Sandbox, Simulator, Vaginal sex"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0pkam5xVkVu"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC8zOWNVUXc="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0pkam5xVkVu"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC8zOWNVUXc="
 ---

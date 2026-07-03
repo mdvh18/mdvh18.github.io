@@ -17,5 +17,5 @@ phienban: "Ch.1 v0.90"
 dev: "FluffyStudio"
 genre: "3DCG, Animated, Handj, Mastur, Shota, Adventure, Dating Sim, Romance"
 
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcm5semo4Ry1fbVhKRDd2UTg0VUljdw=="
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcm5semo4Ry1fbVhKRDd2UTg0VUljdw=="
 ---

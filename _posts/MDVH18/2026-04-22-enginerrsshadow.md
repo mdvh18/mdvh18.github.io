@@ -17,6 +17,6 @@ phienban: "v0.1.2b"
 dev: "Ghost Island Games"
 genre: "3DCG, Animated, Dating sim, Handj, Lesbi, Mobile game, Romance, Sci-fi"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3ZmenZZeGhG"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdk5TczlFaWdIdDFLeFZzMUxNaDN3UQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3ZmenZZeGhG"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdk5TczlFaWdIdDFLeFZzMUxNaDN3UQ=="
 ---

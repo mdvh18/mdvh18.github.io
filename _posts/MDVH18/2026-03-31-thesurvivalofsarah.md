@@ -17,6 +17,6 @@ phienban: "v0.70"
 dev: "HappyDaedalus"
 genre: "2DCG, Monster, Fantasy, Group"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1FrU1A3NHJz"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZFZBMzdHYjdnQ0FUQmtTNi0zX1dmZw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1FrU1A3NHJz"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZFZBMzdHYjdnQ0FUQmtTNi0zX1dmZw=="
 ---

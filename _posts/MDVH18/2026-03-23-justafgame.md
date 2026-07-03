@@ -17,6 +17,6 @@ phienban: "v1.4"
 dev: "Just a f#cking game"
 genre: "3DCG, Animated, Multiple Endings, Voiced, Groping, Masturb, Toys, Adventure, Management, Puzzle"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2hjQUpqSnRw"
-linkbuzzheavier: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9idXp6aGVhdmllci5jb20vcXYyZ3kybHBkcGQz"
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2hjQUpqSnRw"
+linkbuzzheavier: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9idXp6aGVhdmllci5jb20vcXYyZ3kybHBkcGQz"
 ---

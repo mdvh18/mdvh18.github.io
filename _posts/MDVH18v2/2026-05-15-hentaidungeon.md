@@ -17,6 +17,6 @@ phienban: "v1.2"
 dev: "Amsern Studio"
 genre: "2DCG, Anal Sex, Animated, Big Ass, Big Tits, Fantasy, Futa/Trans, Monster, Mobile game, Monster Girl, Oral Sex, RPG, Strategy, Turn based combat, Vaginal sex"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L21jcnY2NlZ1"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNENwVks0bUw5dzVJc1lGOU1RM05Bdw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L21jcnY2NlZ1"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNENwVks0bUw5dzVJc1lGOU1RM05Bdw=="
 ---

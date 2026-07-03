@@ -17,6 +17,6 @@ phienban: "v1.5.12"
 dev: "HimitsuCP"
 genre: "2DCG, Ahegao, Animated, Dating Sim, Groping, Japanese Game, Mastur, Milf, Pov, Romance, Sandbox, Voiced"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0tmbzVld1Rx"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQ0M0LVYyWFVDZGExZkNWWnYySl9yUQ=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0tmbzVld1Rx"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQ0M0LVYyWFVDZGExZkNWWnYySl9yUQ=="
 ---

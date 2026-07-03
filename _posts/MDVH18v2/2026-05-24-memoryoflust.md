@@ -17,7 +17,7 @@ phienban: "v0.8"
 dev: "Desire Forger"
 genre: "3DCG, Adventure, Anal sex, Animated, Big ass, Big tits, Group sex, Groping, Handjob, Harem, Interracial, Lesbian, Male domination, Male protagonist, Monster girl, Oral sex, Romance, Rpg, Sandbox, Vaginal sex"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2dEVzl1WmZL"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0tCRHNkVW9L"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xczF0TlNmSnZ2SmFrTGYxb0s4NmJ3UQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2dEVzl1WmZL"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0tCRHNkVW9L"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xczF0TlNmSnZ2SmFrTGYxb0s4NmJ3UQ=="
 ---

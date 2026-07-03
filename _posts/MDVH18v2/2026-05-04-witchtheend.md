@@ -17,6 +17,6 @@ phienban: "Completed"
 dev: "K.O Workshop"
 genre: "2DCG, Monster, Guro, Combat"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0V5RzlvRVhO"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRmw2eHpDQlhiX0lpOU1yc3hxS282dw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0V5RzlvRVhO"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRmw2eHpDQlhiX0lpOU1yc3hxS282dw=="
 ---

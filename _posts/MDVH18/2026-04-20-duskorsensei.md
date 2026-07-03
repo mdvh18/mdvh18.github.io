@@ -17,6 +17,6 @@ phienban: "v0.1"
 dev: "Munei Yi"
 genre: "3DCG, Dystopian setting, Fantasy, Milf, Sci-fi"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0QzU3czdksz"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xeGV0NmozQjJDRHVqekRrMHQwS2xLQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0QzU3czdksz"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xeGV0NmozQjJDRHVqekRrMHQwS2xLQQ=="
 ---

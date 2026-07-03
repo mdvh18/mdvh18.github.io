@@ -17,6 +17,6 @@ phienban: "Completed"
 dev: "Neko Choko Game Studio"
 genre: "Dating Sim, Story Rich"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzFMRko3WUJQ"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOTFZTmc4MzZCOTYyQk5uZDVfSkFDUQ=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzFMRko3WUJQ"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOTFZTmc4MzZCOTYyQk5uZDVfSkFDUQ=="
 ---

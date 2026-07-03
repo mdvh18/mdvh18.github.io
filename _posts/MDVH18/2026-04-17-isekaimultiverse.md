@@ -17,6 +17,6 @@ phienban: "v0.1"
 dev: "DD Novski"
 genre: "3DCG, Animated, Fantasy, Parody, Dating Sim, Romance, Superpowers, Trainer, Pov, Footj, Handj"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2gxUlR0ZDdO"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMlF5TGN0X0g2N25pVFdYU3dNTVRDZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2gxUlR0ZDdO"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMlF5TGN0X0g2N25pVFdYU3dNTVRDZw=="
 ---

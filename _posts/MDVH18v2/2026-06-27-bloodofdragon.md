@@ -18,7 +18,7 @@ phienban: "v0.4.2"
 dev: "Twin Axe Games"
 genre: "3DCG, Adventure, Ahegao, Animated, Big Ass, Big tits, Combat, Creampie, Fantasy, Graphic violence, Groping, Handjob, Harem, Masturbation, Male Protagonist, Milf, Monster girl, Oral Sex, Pov, Prostitution, Romance, Rpg, Spanking, Teasing, Titfuck, Turn based combat, Vaginal sex, Virgin"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1dkNmFWbjRV"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzZUOGNaaE11"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xY3ozaUN4Q2duNm5uLUFDRF9Ec0FwQQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1dkNmFWbjRV"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzZUOGNaaE11"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xY3ozaUN4Q2duNm5uLUFDRF9Ec0FwQQ=="
 ---

@@ -17,6 +17,6 @@ phienban: "v0.9.7"
 dev: "Saddoggames"
 genre: "3DCG, Male protagonist, Graphic violencel, MILF, Lesbian, NTR, Romance, Voyeurism, Multiple penetration, Groping, Blackmail, BDSM, Handjb, Mobile game"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3pjOWZIV3Fu"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbURyUWtabEM4ZWNyYWhnVUFFM2Rkdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3pjOWZIV3Fu"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbURyUWtabEM4ZWNyYWhnVUFFM2Rkdw=="
 ---

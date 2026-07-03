@@ -17,7 +17,7 @@ phienban: "v0.5.4"
 dev: "YuzuruRIN"
 genre: "3DCG, Animated, Milf, Dating Sim, Masturba, Harem, Point & Click, Yandere"
 
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3VBYUM0NUNB"
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzZzSHJSNWJT"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSWpHeTdkUGxvZ0I4eHJUbTFjLXRMUQ=="
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3VBYUM0NUNB"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzZzSHJSNWJT"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSWpHeTdkUGxvZ0I4eHJUbTFjLXRMUQ=="
 ---

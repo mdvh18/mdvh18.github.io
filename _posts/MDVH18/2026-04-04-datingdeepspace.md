@@ -17,6 +17,6 @@ phienban: "v0.4"
 dev: "BubbleGumKnight"
 genre: "3DCG, Humor, Sci-fi, Parody, Ahegao Teasing, Monster"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL01GSnFqUDF0"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWFFJNlVQODNYTFRkazRtSGpLN0dFZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL01GSnFqUDF0"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWFFJNlVQODNYTFRkazRtSGpLN0dFZw=="
 ---

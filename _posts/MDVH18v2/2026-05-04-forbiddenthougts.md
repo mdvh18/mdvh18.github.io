@@ -17,6 +17,6 @@ phienban: "v0.4.5"
 dev: "REN3D"
 genre: "3DCG, Groping, Milf, Romance, Harem, Handj, Animated, Mastur, Toys"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2hKcHFjRlZx"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVkFrOG8zcXN5YTZwT3hwSzFrWGpDQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2hKcHFjRlZx"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVkFrOG8zcXN5YTZwT3hwSzFrWGpDQQ=="
 ---

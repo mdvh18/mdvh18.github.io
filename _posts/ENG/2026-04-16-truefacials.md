@@ -16,5 +16,5 @@ phienban: "v0.594"
 dev: "HenryTaiwan"
 genre: "3DCG, Parody, Animated, Bukkake"
 
-linkggdrive: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVp6Z3FCODJFbmpFalE1Q3R4UlZLamZTa2M4ZHpJY3BMP3VzcD1zaGFyaW5n"
+linkggdrive: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVp6Z3FCODJFbmpFalE1Q3R4UlZLamZTa2M4ZHpJY3BMP3VzcD1zaGFyaW5n"
 ---

@@ -17,6 +17,6 @@ phienban: "v1.49.2"
 dev: "Silver Studio Games"
 genre: "2dcg, Anal Sex, Big Ass, Big Tits, Cosplay, Fantasy, Futa/Shemale, Groping, Group, Handjb, Lesbian, Male Protagonist, Management, Mind Control, Parody, School Setting, Toys"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzZ4b01QenhV"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQlNBZ2NfUmtRS0xYempTVkM1VFV4QQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzZ4b01QenhV"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQlNBZ2NfUmtRS0xYempTVkM1VFV4QQ=="
 ---

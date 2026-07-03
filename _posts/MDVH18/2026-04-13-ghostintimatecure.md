@@ -17,5 +17,5 @@ phienban: "v0.8.2"
 dev: "CSGAME"
 genre: "3DCG, Animated, Handj, Horror, Monster, Monster girl, Paranormal, Puzzle, Superpowers, Voiced"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1o0bmNDN0hl"
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1o0bmNDN0hl"
 ---

@@ -18,6 +18,6 @@ phienban: "v1.02"
 dev: "Minaduki Cafe"
 genre: "2DCG, Futa/Trans protagonist, RPG, Animated"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1p2Y3ZIOHlR"
-linkteraa: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUzM2SVVIclMycElYY2RfaDl1aXdYdw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1p2Y3ZIOHlR"
+linkteraa: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUzM2SVVIclMycElYY2RfaDl1aXdYdw=="
 ---

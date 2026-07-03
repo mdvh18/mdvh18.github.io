@@ -17,7 +17,7 @@ phienban: "v0.14.0"
 dev: "SaltyStupidFish"
 genre: "2DCG, Animated, Corruption, Handj, Milf, Dating Sim, Rpg, Parody, Simulator"
 
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1JwS3Z6d2VS"
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzJDdVB0UEE3"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=https://1024terabox.com/s/1Otm8mrcj87yEa3yQ6mieBw"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1JwS3Z6d2VS"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzJDdVB0UEE3"
+linkteraapkpc: "https://mdvh18.com/download.html?url=https://1024terabox.com/s/1Otm8mrcj87yEa3yQ6mieBw"
 ---

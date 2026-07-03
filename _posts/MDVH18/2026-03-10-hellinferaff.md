@@ -17,7 +17,7 @@ phienban: "v0.2f"
 dev: "Spicy Peach"
 genre: "2DCG, Animated, Fantasy, Harem, Mastur, MILF, Toys, Monster"
 
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2RvZVBEUjlL"
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0xkVExKQ0ZL"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZFhyeE9DTTFVWXM5RzV3dmltaEEtZw=="
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2RvZVBEUjlL"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0xkVExKQ0ZL"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZFhyeE9DTTFVWXM5RzV3dmltaEEtZw=="
 ---

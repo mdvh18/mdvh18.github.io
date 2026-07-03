@@ -17,6 +17,6 @@ phienban: "Act 2 v6.3.19"
 dev: "Undergrad Steve"
 genre: "3DCG, Male protagonist, School setting, Animated, Stripping, Teasing, Vaginal sex, Blowjob, Voyeurism, Dating sim, Humor, Romance, Male domination, Footjob, Oral sex, Spanking, POV, Point and click, Mobile game"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2dNY3JrV1p5"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC84NTI3ZjAzMi03YTYwLTRiMmYtODRjZi0xNWI1M2I2ZmUwY2Q="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2dNY3JrV1p5"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC84NTI3ZjAzMi03YTYwLTRiMmYtODRjZi0xNWI1M2I2ZmUwY2Q="
 ---

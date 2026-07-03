@@ -18,7 +18,7 @@ phienban: "Completed"
 dev: "CuckTale games"
 genre: "3dcg, Big tits, Big ass, Netorare, Groping, Teasing, Romance, Vaginal sex, Male domination, Group sex, Kinetic novel, Male protagonist"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0Y5ZGJnTXZl"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzhjbUdzd2Rt"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xS0hpQnVEdFczbWxXOUJSM0lsczZGdw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0Y5ZGJnTXZl"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzhjbUdzd2Rt"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xS0hpQnVEdFczbWxXOUJSM0lsczZGdw=="
 ---

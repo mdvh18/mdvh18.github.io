@@ -17,7 +17,7 @@ phienban: "v0.20"
 dev: "Saxonado Studios"
 genre: "2DCG, Big Ass, Big Tits, Male Protagonist, Netorare, Handjb, Oral Sex, Swinging"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2oycFBNM1B0"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9WNjZQNmw="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNTE0RXJRUjRsVkEzM19lWXVnWFJpZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2oycFBNM1B0"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9WNjZQNmw="
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNTE0RXJRUjRsVkEzM19lWXVnWFJpZw=="
 ---

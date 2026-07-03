@@ -19,5 +19,5 @@ phienban: "v0.3.12 "
 dev: "Umarius"
 genre: "3DCG, 2DCG, Mastur, Adventure, Combat, Fantasy, Group, Harem"
 
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcmw5WWRSdndudlN4NWU5UUw2UkFTZw=="
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcmw5WWRSdndudlN4NWU5UUw2UkFTZw=="
 ---

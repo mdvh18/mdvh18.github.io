@@ -17,6 +17,6 @@ phienban: "v0.0.1 "
 dev: "MoonNut"
 genre: "2DCG, AI CG, Animated, Mastur"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0JLMWtVZmVy"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xV2lIWGhkTFFmQUIwa19JenZYUGRUZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0JLMWtVZmVy"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xV2lIWGhkTFFmQUIwa19JenZYUGRUZw=="
 ---

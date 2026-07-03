@@ -17,6 +17,6 @@ phienban: "Ch.1 P1"
 dev: "SinisterSlick Games"
 genre: "3DCG, Animated, Mobile game, Cheating, PoV, Sci-fi, Fantasy"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0NIc2VMbTU2"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOW5USWJWcV8zZzdhOG5CczlxbjdnZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0NIc2VMbTU2"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOW5USWJWcV8zZzdhOG5CczlxbjdnZw=="
 ---

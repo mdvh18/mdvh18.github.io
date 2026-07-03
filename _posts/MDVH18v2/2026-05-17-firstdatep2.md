@@ -17,6 +17,6 @@ phienban: "Part 2"
 dev: "GrimCiri"
 genre: "3DCG, Animated, Male protagonist, Handjb, Footjb, Futa/Trans, Oral sex, Spanking, Teasing, Pov"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2pBSEthTHpy"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRzZPTlVvOUpOdWc5ZVBNOHhDeWdIdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2pBSEthTHpy"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRzZPTlVvOUpOdWc5ZVBNOHhDeWdIdw=="
 ---

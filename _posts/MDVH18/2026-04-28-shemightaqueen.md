@@ -17,6 +17,6 @@ phienban: "v1.1.0"
 dev: "ziglo"
 genre: "2DCG, Animated, Groping, Humor, Kinetic novel, Masturbation"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2k0YlBSYzJQ"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSE9oTkVpRjZ5eVB2OUFMcmF0bEhOdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2k0YlBSYzJQ"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSE9oTkVpRjZ5eVB2OUFMcmF0bEhOdw=="
 ---

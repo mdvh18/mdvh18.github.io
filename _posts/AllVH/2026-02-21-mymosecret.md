@@ -17,6 +17,6 @@ phienban: "SE"
 dev: "DKL"
 genre: "2DCG, Le, Mastur, Animated"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2llNEE3MlND"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTXlldDRHZS1JWHR2c2g1ZzVVcGJwdw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2llNEE3MlND"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTXlldDRHZS1JWHR2c2g1ZzVVcGJwdw=="
 ---

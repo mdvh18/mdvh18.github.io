@@ -17,6 +17,6 @@ phienban: "v2.0"
 dev: "KadoDev"
 genre: "2dcg, animated, female domination, turn based combat, big ass, big tits, teasing, groping, voiced"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L25MVWJ5Sndm"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbkdHbHVSVk9rWXZYMGV3QVhHS0hZdw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L25MVWJ5Sndm"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbkdHbHVSVk9rWXZYMGV3QVhHS0hZdw=="
 ---

@@ -19,6 +19,6 @@ phienban: "v0.52d"
 dev: "KAIRI SOFT"
 genre: "2DCG, Side-scroller, Fantasy, Zombie, Internal view, Le, Japanese game, Censored, Voiced, Groping, Vore"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3pnYlJoUWNu"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZHBTeS1Gb1JpRl9YZ0lPRk9ZM0JhUQ=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3pnYlJoUWNu"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZHBTeS1Gb1JpRl9YZ0lPRk9ZM0JhUQ=="
 ---

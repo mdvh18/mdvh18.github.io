@@ -17,6 +17,6 @@ phienban: "v0.2"
 dev: "ArtoriasRey"
 genre: "Sci-fi, 3DCG, Animated, Milf, School setting, Management, Cosplay, Spanking, Groping, Romance, Superpowers"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3BKTER4TVJZ"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMnp3LWhrYkZDeHY3LXEwYVl3emdpdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3BKTER4TVJZ"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMnp3LWhrYkZDeHY3LXEwYVl3emdpdw=="
 ---

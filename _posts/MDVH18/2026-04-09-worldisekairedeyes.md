@@ -17,6 +17,6 @@ phienban: "v7.3.0"
 dev: "Fapple"
 genre: "3DCG, Fantasy, Handj, Milf, Animated, Mobile Game"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3RLSkthVVZu"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRFJMNUhYRm1pRUxtWDFlZk8zVTlpUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3RLSkthVVZu"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRFJMNUhYRm1pRUxtWDFlZk8zVTlpUQ=="
 ---

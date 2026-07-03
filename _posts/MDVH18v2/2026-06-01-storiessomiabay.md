@@ -17,7 +17,7 @@ phienban: "v0.2"
 dev: "Nine-Tempos"
 genre: "3dcg, animated, male protagonist, female protagonist, teasing, groping, multiple protagonists, incest, voyeurism, lesbian, milf, big ass, big tits, vaginal sex, oral sex, handjob, masturbation, netorare, sharing, multiple penetration, group sex, prostitution, interracial"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2lEWE1YYUJk"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3VwSHhwQmM3"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdUUtelNHZkx3RzU0cG9tSWdlLWlqUQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2lEWE1YYUJk"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3VwSHhwQmM3"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdUUtelNHZkx3RzU0cG9tSWdlLWlqUQ=="
 ---

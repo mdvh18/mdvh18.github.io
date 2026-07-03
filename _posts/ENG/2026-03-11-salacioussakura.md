@@ -19,5 +19,5 @@ phienban: "v0.10 Hotfix"
 dev: "Insomnimaniac Games"
 genre: "2DCG, 3DCG, Adventure, Animated, Handj, Milf, Titfuck, Turn Based Combat, Fantasy, Romance, RPG, Mastur, Futa, Group"
 
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRzlHUnd1V1h6SDJESVlfZTVRMklxQQ=="
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRzlHUnd1V1h6SDJESVlfZTVRMklxQQ=="
 ---

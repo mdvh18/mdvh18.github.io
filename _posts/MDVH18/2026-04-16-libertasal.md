@@ -17,6 +17,6 @@ phienban: "v0.5"
 dev: "Asuka137x"
 genre: "3DCG, Futa/Trans, PoV"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1dlM1QzV1JV"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZW93dGg1bDZnbmhZRXhhbVlPWmpBQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1dlM1QzV1JV"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZW93dGg1bDZnbmhZRXhhbVlPWmpBQQ=="
 ---

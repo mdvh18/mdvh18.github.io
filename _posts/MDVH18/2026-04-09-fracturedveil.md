@@ -17,6 +17,6 @@ phienban: "Act 3 v3.6"
 dev: "Xeratios"
 genre: "3DCG, MILF, Humor, Mystery, PoV, Animated"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzExVzJkTG55"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMkx0dms0N0x0UFRjaHhtdWFVN3c2dw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzExVzJkTG55"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMkx0dms0N0x0UFRjaHhtdWFVN3c2dw=="
 ---

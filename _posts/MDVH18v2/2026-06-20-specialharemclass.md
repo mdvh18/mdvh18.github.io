@@ -18,7 +18,7 @@ phienban: "v0.4.6 P2"
 dev: "KagetoDev"
 genre: "3dcg, animated, male protagonist, sandbox, big ass, big tits, vaginal sex, oral sex, handjob, masturbation, footjob, group sex, female domination, school setting, mobile game, milf, creampie, voyeurism, teasing, haren"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzdnRGNjb05U"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0IzRWc5Wmlq"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQ2JVMUhwV29ycmEyRjRYZGctdkZ2dw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzdnRGNjb05U"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0IzRWc5Wmlq"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQ2JVMUhwV29ycmEyRjRYZGctdkZ2dw=="
 ---

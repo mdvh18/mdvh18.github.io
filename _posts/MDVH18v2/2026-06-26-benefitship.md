@@ -18,7 +18,7 @@ phienban: "1.2.2 Completed"
 dev: "RFH Games"
 genre: "2dcg, female protagonist, futa, lesbian, big ass, big tits, vaginal sex, creampie, masturbation, oral sex, creampie, kinetic novel, wholesome, voiced"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzJUOGoyem85"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzZnVHlwS3VV"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xM3dwQzhaNWtWMjkyazYwQkRqWXdEZw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzJUOGoyem85"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzZnVHlwS3VV"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xM3dwQzhaNWtWMjkyazYwQkRqWXdEZw=="
 ---

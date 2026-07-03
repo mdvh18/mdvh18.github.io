@@ -17,6 +17,6 @@ phienban: "v1.1.2"
 dev: "FTGirl"
 genre: "3DCG, 2DCG, AI CG, Animated, Character Creation, Japanese Game, Male Protagonist, Voiced, Toys, Transformation, Trap, Adventure, Combat, Cosplay, Fantasy, Horror, Monster, Monster Girl, Shooter, GAY"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2hZZHNoQjZm"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZEkyUjc2bkRvN3lWR05STHlvalN1QQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2hZZHNoQjZm"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZEkyUjc2bkRvN3lWR05STHlvalN1QQ=="
 ---

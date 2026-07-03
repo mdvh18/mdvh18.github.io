@@ -18,7 +18,7 @@ phienban: "Completed"
 dev: "Carnality INC"
 genre: "3DCG, Adventure, Animated, Big Ass, Big Tits, Fantasy, Group Sex, Male Protagonist, Monster, Multiple Endings, Oral Sex, Romance, Sci-Fi, Simulation, Tentacles, Vaginal Sex"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0d5cVlyN3p5"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9DNkVDd0M="
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNl9UcVRtaWhVX1JZOUYtbkF1c2I2QQ=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0d5cVlyN3p5"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9DNkVDd0M="
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNl9UcVRtaWhVX1JZOUYtbkF1c2I2QQ=="
 ---

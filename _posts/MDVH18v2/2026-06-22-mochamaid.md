@@ -18,7 +18,7 @@ phienban: "v0.1.5"
 dev: "LulluDev"
 genre: "3dcg, animated, male protagonist, cosplay, big ass, big tits, cheating, teasing, groping, voyeurism, vanilla sex, oral sex, interracial"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzRDMk56M1c3"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1VQZDFmZ0RU"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOU1GQ3IxcktEZGZGWHJaX1ljbVZNZw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzRDMk56M1c3"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1VQZDFmZ0RU"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOU1GQ3IxcktEZGZGWHJaX1ljbVZNZw=="
 ---

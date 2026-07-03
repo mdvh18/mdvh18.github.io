@@ -17,7 +17,7 @@ phienban: "v0.1.1"
 dev: "Eleanor0914"
 genre: "3DCG, Incest, Milf, Romance, Groping"
 
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0Z5Z2FOUlBv"
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2huV2ZkUFVa"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZng4WEI0NWpfcEtxZ1BXbURuVm5wdw=="
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0Z5Z2FOUlBv"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2huV2ZkUFVa"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZng4WEI0NWpfcEtxZ1BXbURuVm5wdw=="
 ---

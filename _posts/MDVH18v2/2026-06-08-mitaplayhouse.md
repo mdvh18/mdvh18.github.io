@@ -18,7 +18,7 @@ phienban: "Final"
 dev: "isvrat"
 genre: "3dcg, animated, male protagonist, big ass, big tits, multiple endings, footjob, vaginal sex, anal sex, oral sex, slave, sex toys, female domination, male domination, mobile game, titfuck, masturbation, handjob"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0U0RG5GdXBQ"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0UxUmkxM0U3"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNDRoWUVRSFRLLXluWDl0VXBncVNYQQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0U0RG5GdXBQ"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0UxUmkxM0U3"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNDRoWUVRSFRLLXluWDl0VXBncVNYQQ=="
 ---

@@ -17,6 +17,6 @@ phienban: "v0.9"
 dev: "Naughty Narrative"
 genre: "3DCG, Corruption, Netorare, Romance"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3ZDR0pEWDlp"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSHRxMlJLYWpIRWdLcmpsZXFFODRJQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3ZDR0pEWDlp"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSHRxMlJLYWpIRWdLcmpsZXFFODRJQQ=="
 ---

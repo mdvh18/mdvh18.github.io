@@ -19,7 +19,7 @@ phienban: "Completed"
 dev: "Nine Tempos"
 genre: "3DCG, Animated, Big ass, Big tits, Cheating, Incest, Male protagonist, Milf, Teasing, Sci-fi, Multiple endings, Oral sex, Vaginal sex, Harem, Point & Click, Netorare (avoidable), Swinging, Interracial, Stripping, Corruption"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzNMY1lRYnlw"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzFzcXpSdEtD"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUmFNUERpQUVDWEoyTWdDWVBVSFhlZw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzNMY1lRYnlw"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzFzcXpSdEtD"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUmFNUERpQUVDWEoyTWdDWVBVSFhlZw=="
 ---

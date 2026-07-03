@@ -17,8 +17,8 @@ phienban: "v1.1.0 Completed"
 dev: "Noname Team"
 genre: "2DCG, Mobile Game, Male Protagonist, Masturbation, Sex Toys, Voyeurism, Humor, Parody, Rpg"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0JUdHNYRlU1"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2NnQ0tHendp"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9OTU9aSGU="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUnluWFpDVS1OOXpvaWI4U2hVZ2pCQQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0JUdHNYRlU1"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2NnQ0tHendp"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9OTU9aSGU="
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUnluWFpDVS1OOXpvaWI4U2hVZ2pCQQ=="
 ---

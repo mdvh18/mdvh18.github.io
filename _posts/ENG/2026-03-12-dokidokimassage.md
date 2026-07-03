@@ -19,7 +19,7 @@ phienban: "v2.0.0"
 dev: "Twin-Tailism"
 genre: "2DCG, Erotic, NSFW, R18"
 
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3lnaHU3WVEx"
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2FyeUtIdVNj"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNlFnUGNOdk43dHNQbnA4bi1IVmg5dw=="
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3lnaHU3WVEx"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2FyeUtIdVNj"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNlFnUGNOdk43dHNQbnA4bi1IVmg5dw=="
 ---

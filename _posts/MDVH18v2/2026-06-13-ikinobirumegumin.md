@@ -17,6 +17,6 @@ phienban: "V26.05.11"
 dev: "K=K"
 genre: "2DCG, Cosplay, Parody"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1g1UEJTQ0tI"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUFRDNmNRbXJjT0hMczl2UGd0cW82dw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1g1UEJTQ0tI"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUFRDNmNRbXJjT0hMczl2UGd0cW82dw=="
 ---

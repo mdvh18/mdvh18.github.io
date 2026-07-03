@@ -17,7 +17,7 @@ phienban: "Completed"
 dev: "Quiet Coven Games"
 genre: "3DCG, Creampie, Fantasy, Female protagonist, Groping, Kinetic novel, Masturbation, Oral sex, Romance, Vaginal sex"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0JyZnlWWkhx"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzhyM2pWdkpF"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUERYX0dmc1A4cnM5LTRvNUJINmE5Zw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0JyZnlWWkhx"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzhyM2pWdkpF"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUERYX0dmc1A4cnM5LTRvNUJINmE5Zw=="
 ---

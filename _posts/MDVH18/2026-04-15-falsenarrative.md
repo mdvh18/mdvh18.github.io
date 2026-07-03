@@ -17,6 +17,6 @@ phienban: "v0.4 "
 dev: "Pixel Narrativa"
 genre: "3DCG, Animated, Dating sim, Groping, Group, Handj, Lesbian, Masturb, Trap, Romance"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2ZDN1AyWjdQ"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSnllWUc5dlRhVFVCTXk1YmJoVnhGZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2ZDN1AyWjdQ"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSnllWUc5dlRhVFVCTXk1YmJoVnhGZw=="
 ---

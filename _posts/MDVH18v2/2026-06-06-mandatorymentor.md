@@ -18,7 +18,7 @@ phienban: "v1.1.2"
 dev: "Kana"
 genre: "3DCG, Animated, Humor, Male Protagonist, Multiple Endings, Simulator, Spanking, Humiliation, Pet Play, Sex Toys, Trainer"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzZ1aFRTUDhM"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0N3NDZyRGVV"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTFMwZmJkR3lRbFhOU1VRRG42NUpEUQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzZ1aFRTUDhM"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0N3NDZyRGVV"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTFMwZmJkR3lRbFhOU1VRRG42NUpEUQ=="
 ---

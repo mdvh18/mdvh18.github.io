@@ -17,7 +17,7 @@ phienban: "Completed"
 dev: "PhillyGames"
 genre: "3DCG, Male protagonist, Adventure, Anal sex, Animated, BDSM, Big tits, Corruption, Creampie, Footjob, Graphic violence, Group sex, Male domination, MILF, Mobile game, Oral sex, POV, Romance, Sex toys, Spanking, Stripping, Titfuck, Vaginal sex, Voyeurism, Lesbian, Prostitution, Interracial, Cheating, Slave"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3FVbTNZQzlp"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9XU0ZidW4="
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWUp2dGdEME9KVkN4UkNiRlVEVS1oQQ=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3FVbTNZQzlp"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9XU0ZidW4="
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWUp2dGdEME9KVkN4UkNiRlVEVS1oQQ=="
 ---

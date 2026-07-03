@@ -17,6 +17,6 @@ phienban: "v0.8"
 dev: "SenseiDaimon"
 genre: "3DCG, Masturbation, Dystopian setting, Humor, Monster, Romance, Animated"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1I4MnJLbjNt"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWDd2dzRMQnRIYmFHeHVBTi1IdFdZdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1I4MnJLbjNt"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWDd2dzRMQnRIYmFHeHVBTi1IdFdZdw=="
 ---

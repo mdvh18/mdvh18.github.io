@@ -17,6 +17,6 @@ phienban: "Completed"
 dev: "Metroneck"
 genre: "3dcg, Groping, Monster, Sci-fi"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0VYRHl4cHBx"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdWt2djFmOXlPYk94SElJM1NUMy1yQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0VYRHl4cHBx"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdWt2djFmOXlPYk94SElJM1NUMy1yQQ=="
 ---

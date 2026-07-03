@@ -17,6 +17,6 @@ phienban: "Ep.1.2"
 dev: "Jamleng Games"
 genre: "3dcg, Animated, Milf, Fantasy, Groping, Handj, Mobile Game,"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0hxREZCdkRi"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbENST25uNW1penJHSGhKRjFJaXZQUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0hxREZCdkRi"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbENST25uNW1penJHSGhKRjFJaXZQUQ=="
 ---

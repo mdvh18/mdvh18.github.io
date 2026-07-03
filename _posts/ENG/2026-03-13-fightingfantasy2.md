@@ -19,5 +19,5 @@ phienban: "Final"
 dev: "Pinclude Studio"
 genre: "Animated, 3dcg, Combat, Graphic violence, No sexual content, Big tits, Big ass,"
 
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWHVDM0k1czFqTjZ2QzNrTmpFZHJ4QQ=="
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWHVDM0k1czFqTjZ2QzNrTmpFZHJ4QQ=="
 ---

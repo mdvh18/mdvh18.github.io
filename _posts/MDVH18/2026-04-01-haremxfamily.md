@@ -17,6 +17,6 @@ phienban: "Ch.2Part 1"
 dev: "Hortn"
 genre: "Harem, MILF, Romance, Horror, Mystery, Animated"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3BXV2NNM00x"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbVl5aXJTRmhKMkw5OVRwNXBPMU9RQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3BXV2NNM00x"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbVl5aXJTRmhKMkw5OVRwNXBPMU9RQQ=="
 ---

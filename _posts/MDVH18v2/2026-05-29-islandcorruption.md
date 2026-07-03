@@ -17,7 +17,7 @@ phienban: "Completed"
 dev: "FPCGameSoftware"
 genre: "3DCG, Animated, Big tits, Group sex, Interracial, Lesbian, Male protagonist, Milf, Mind control, Monster girl, Oral sex, Spanking, Teasing, Vaginal sex"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91Lzl4Rzl3RDZG"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1dmd0FhWnky"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZUt5Z2JFeUlmdU92X0xXNXFJVFlwQQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91Lzl4Rzl3RDZG"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1dmd0FhWnky"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZUt5Z2JFeUlmdU92X0xXNXFJVFlwQQ=="
 ---

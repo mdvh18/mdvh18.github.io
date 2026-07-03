@@ -17,6 +17,6 @@ phienban: "v1.0"
 dev: "kraguto"
 genre: "2DCG, Ahegao, Group, Parody"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzFKc3VZOUYy"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xaDlDeDJkb1NEWUhLejJtVGlzYlF0UQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzFKc3VZOUYy"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xaDlDeDJkb1NEWUhLejJtVGlzYlF0UQ=="
 ---

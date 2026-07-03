@@ -17,6 +17,6 @@ phienban: "Final"
 dev: "ZaneSFM"
 genre: "3DCG, Male protagonist, Parody, Animated, Horror, Monster girl, Sci-fi, Superpowers, Titfuck, Paranormal, Adventure, Cosplay, Groping, Spanking, Teasing, Handholding, Handjb, Toys, BDSM, Adventure, Combat, Fantasy, Romance, Turn based combat, Group, Milf"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1d0WGdlaEdX"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcTZULTRvdXNpRHJubDF1OGFkMkdOUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1d0WGdlaEdX"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcTZULTRvdXNpRHJubDF1OGFkMkdOUQ=="
 ---

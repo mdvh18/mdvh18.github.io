@@ -19,5 +19,5 @@ phienban: "v1.2.0"
 dev: "Babus Games"
 genre: "2DCG, Animated, Milf, School setting"
 
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUWJDd2tBa3BuQjBGOC1pNVBHdUxvdw=="
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUWJDd2tBa3BuQjBGOC1pNVBHdUxvdw=="
 ---

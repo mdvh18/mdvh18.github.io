@@ -17,6 +17,6 @@ phienban: "Completed"
 dev: "Kamakurara"
 genre: "2DCG, Voiced, Animated, Big Tits, Handjb, Monster Girl, Male Protagonist, Romance"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0tEaXdRZURt"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xX0pfbmJSSm1fWU52WFV0TE5SYXc0dw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0tEaXdRZURt"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xX0pfbmJSSm1fWU52WFV0TE5SYXc0dw=="
 ---

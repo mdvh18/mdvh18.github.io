@@ -17,6 +17,6 @@ phienban: "v0.35 PE"
 dev: "GPoint"
 genre: "3DCG, Animated, Fantasy, Adventure, Monster, Masturb, Handj"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1h2QXRyUUtL"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUkVVY1hBZFZwTnd3anJuR3EwbHlPUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1h2QXRyUUtL"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUkVVY1hBZFZwTnd3anJuR3EwbHlPUQ=="
 ---

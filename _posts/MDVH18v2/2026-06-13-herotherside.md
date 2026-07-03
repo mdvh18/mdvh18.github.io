@@ -18,7 +18,7 @@ phienban: "v0.1.7"
 dev: "Obscuryn"
 genre: "3DCG, Handjob, Oral Sex, Anal Sex, Creampie, Multiple Protagonist, Vaginal sex, Teasing, Masturbation, Blowjob, Submissive"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L21hRUE1c0d5"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1BOV0xibkU2"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbVdFOGhYeC0yZnRXOThqNl9WYjc4QQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L21hRUE1c0d5"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1BOV0xibkU2"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbVdFOGhYeC0yZnRXOThqNl9WYjc4QQ=="
 ---

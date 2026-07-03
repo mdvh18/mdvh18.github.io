@@ -17,8 +17,8 @@ phienban: "v6.0"
 dev: "Zett"
 genre: "3DCG, Male Protagonist, Big Ass, Big Tits, Handjob, Blowjob, MILF, Harem, Vaginal sex, Adventure, Turn based combat , Rape, RPG"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3pUQkVpRHFn"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1hXaUxRQkFQ"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC81ZGVtVlM="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdVhRM1lTaml5b0F0YXQ4bDFUcGhwQQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3pUQkVpRHFn"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1hXaUxRQkFQ"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC81ZGVtVlM="
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdVhRM1lTaml5b0F0YXQ4bDFUcGhwQQ=="
 ---

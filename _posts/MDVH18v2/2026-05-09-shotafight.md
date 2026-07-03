@@ -17,6 +17,6 @@ phienban: "Final"
 dev: "Ankake Pudding"
 genre: "2DCG, Adventure, Animated, Censored, Combat, Footj, Handj, Japanese game, Male protagonist, Milf, Shota, Superpowers, Voiced"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0s1VWN2QlA2"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xV0lWYmRKblZLSUtrRWtvQTJ6RUJyQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0s1VWN2QlA2"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xV0lWYmRKblZLSUtrRWtvQTJ6RUJyQQ=="
 ---

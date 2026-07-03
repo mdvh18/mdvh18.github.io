@@ -17,6 +17,6 @@ phienban: "v1.3.0 Final"
 dev: "Cat Language/NekoGotoStudio"
 genre: "2DCG, Animated, Big tits, Censored, Groping, Japanese Game, Male protagonist, Romance"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0pLdU53SDJG"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWTBWd0wwaVhGT1hQb0N5SGNLZk80UQ=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0pLdU53SDJG"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWTBWd0wwaVhGT1hQb0N5SGNLZk80UQ=="
 ---

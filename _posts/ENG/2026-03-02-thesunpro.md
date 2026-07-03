@@ -19,7 +19,7 @@ phienban: "0.6"
 dev: "NTRLORD"
 genre: "Kinetic Novel, 2DCG, Animated, Groping, Handj, Netorare, Fantasy"
 
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1RDTlZiam9o"
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2N5b1VtN3R5"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVkluMVRod3U4QXFEc1BuM3JKcEx0dw=="
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1RDTlZiam9o"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2N5b1VtN3R5"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVkluMVRod3U4QXFEc1BuM3JKcEx0dw=="
 ---

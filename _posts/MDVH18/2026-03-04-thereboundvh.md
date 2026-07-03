@@ -18,7 +18,7 @@ phienban: "0.1.4.1"
 dev: "FoxCity"
 genre: "2DCG, Big, Dating Sim, Mastur, Rpg, Sandbox, School setting,"
 
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0FqVENRaEpW"
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2dOenRhZk1x"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYW5ySWo5eFBpeXRkQlMtb0U2U2EzZw=="
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0FqVENRaEpW"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2dOenRhZk1x"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYW5ySWo5eFBpeXRkQlMtb0U2U2EzZw=="
 ---

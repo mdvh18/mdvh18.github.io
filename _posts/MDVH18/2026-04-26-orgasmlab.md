@@ -17,6 +17,6 @@ phienban: "Final"
 dev: "BanzaiProject"
 genre: "2DCG, AI CG Animated, Cosplay, Toys"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzV5MlpuN2NH"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYk9qYk05M0tvM2s0aUxfWlpTOF9kUQ=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzV5MlpuN2NH"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYk9qYk05M0tvM2s0aUxfWlpTOF9kUQ=="
 ---

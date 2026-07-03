@@ -19,7 +19,7 @@ phienban: "v0.10"
 dev: "Dogathan Productions"
 genre: "2DCG, Corruption, Hand, Blow, Foot, Humor, Incest, Milf, Parody, PoV, Romance"
 
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1FLN3RSNm52"
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0RIamdUUjlm"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSGFnWHRKX1VJMVBIZ0xTSHB1TFQ2Zw=="
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1FLN3RSNm52"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0RIamdUUjlm"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSGFnWHRKX1VJMVBIZ0xTSHB1TFQ2Zw=="
 ---

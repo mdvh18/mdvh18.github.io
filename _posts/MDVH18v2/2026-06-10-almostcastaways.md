@@ -18,7 +18,7 @@ phienban: "Final"
 dev: "Pent Panda"
 genre: "3dcg, animated, female protagonist, lesbian, sex toys, vaginal sex, big ass, big tits, sandbox, group sex, teasing, groping, adventure"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0dlVWhxdGlN"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzV1M0FLZlRS"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVTBLSTZ2cUcwU1h5LXF3di05WWl6Zw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0dlVWhxdGlN"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzV1M0FLZlRS"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVTBLSTZ2cUcwU1h5LXF3di05WWl6Zw=="
 ---

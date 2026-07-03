@@ -17,6 +17,6 @@ phienban: "Final"
 dev: "Fuurinsousha"
 genre: "2DCG, Animated, Female protagonist, Combat, Japanese game, Censored"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzhxSnFkc0t2"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQUZLVVZDX3RsVDc4c0todEs1eXhjQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzhxSnFkc0t2"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQUZLVVZDX3RsVDc4c0todEs1eXhjQQ=="
 ---

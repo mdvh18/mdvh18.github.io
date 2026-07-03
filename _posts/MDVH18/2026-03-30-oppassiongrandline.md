@@ -17,6 +17,6 @@ phienban: "v0.3.2"
 dev: "StoneHead Productions"
 genre: "3DCG, Animated, Parody, Handj"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL01DOHRNcmM0"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVXVBbE1waWpsTXdORjVVby1sOFFBZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL01DOHRNcmM0"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVXVBbE1waWpsTXdORjVVby1sOFFBZw=="
 ---

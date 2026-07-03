@@ -17,6 +17,6 @@ phienban: "v0.91.02"
 dev: "Blue Factory Games"
 genre: "3DCG, Mobile Game, Adventure, Animated, Music, Sound, Modern Setting, Nobility, Romance, Lesbi, Pregnancy"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzU2bmdhd2Ri"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQW5IeDB1LWU4dVNMWFhjSnRnOWtPZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzU2bmdhd2Ri"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQW5IeDB1LWU4dVNMWFhjSnRnOWtPZw=="
 ---

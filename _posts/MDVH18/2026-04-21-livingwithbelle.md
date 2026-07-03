@@ -17,6 +17,6 @@ phienban: "v0.015"
 dev: "WaifuStudio"
 genre: "Adult, Dating Sim, Simulation"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzhHYlBmSkRI"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMVJLNGpYdkVqT05YbXFxdTZPTEZTdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzhHYlBmSkRI"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMVJLNGpYdkVqT05YbXFxdTZPTEZTdw=="
 ---

@@ -17,7 +17,7 @@ phienban: "v0.3"
 dev: "Luchetty"
 genre: "3DCG, Male protagonist, Parody, Milf, Big ass, Big tits, Romance, Animated, School setting, Superpowers, Humor, Fantasy, Multiple endings"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2kyaEZoa2N3"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC92SDZHVUM="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRngtYm5EejRlRmFIcGZWZml5WkJvdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2kyaEZoa2N3"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC92SDZHVUM="
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRngtYm5EejRlRmFIcGZWZml5WkJvdw=="
 ---

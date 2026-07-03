@@ -17,6 +17,6 @@ phienban: "Completed"
 dev: "Ze-gam-eZ"
 genre: "Adult, Erotic, Kinetic Novel, Lesbi, Romance, Short"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL29aVkI4a3Fv"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xellkZmxlRFAwTjVwMWdUWjRVWTMzQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL29aVkI4a3Fv"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xellkZmxlRFAwTjVwMWdUWjRVWTMzQQ=="
 ---

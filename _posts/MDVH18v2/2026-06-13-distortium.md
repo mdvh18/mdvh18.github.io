@@ -18,7 +18,7 @@ phienban: "v0.2.3"
 dev: "Electrozinhu"
 genre: "3DCG, Animated, Big tits, Handjob, Male protagonist, Oral sex, Romance, School setting, Voyeurism"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L01XQWlCUU4y"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1dwb1d1NWpq"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xV19Ea2ZaYldCUVdIMWMxc3haRkQ1QQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L01XQWlCUU4y"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1dwb1d1NWpq"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xV19Ea2ZaYldCUVdIMWMxc3haRkQ1QQ=="
 ---

@@ -17,7 +17,7 @@ phienban: "v1.0"
 dev: "LadyLana"
 genre: "3DCG, Animated, Teasing, Mobile game"
 
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0ZIUUpqNlB5"
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzNaVDVMWXhr"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcTF5S3BmVExBZEt6cjRxTk56OW4ydw=="
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0ZIUUpqNlB5"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzNaVDVMWXhr"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcTF5S3BmVExBZEt6cjRxTk56OW4ydw=="
 ---

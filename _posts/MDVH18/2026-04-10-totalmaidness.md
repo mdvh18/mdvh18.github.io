@@ -17,6 +17,6 @@ phienban: "v1.09c"
 dev: "OnionCuttingNinja"
 genre: "3DCG, Animated, Harem, Humor, Mastur, Milf, Mobile game"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3dWRTVvOVVR"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYXZZTkIzYXhHU1lzRW4zb0NJMVJHUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3dWRTVvOVVR"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYXZZTkIzYXhHU1lzRW4zb0NJMVJHUQ=="
 ---

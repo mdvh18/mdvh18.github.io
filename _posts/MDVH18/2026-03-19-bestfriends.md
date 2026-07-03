@@ -17,6 +17,6 @@ phienban: "Ch.11.1"
 dev: "Faenon"
 genre: "3DCG, Animated, Futa/trans, Milf"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2dGWlZXaXkz"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSHYtWm9zdmdVbUluZ1JLMEh1UWEwUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2dGWlZXaXkz"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSHYtWm9zdmdVbUluZ1JLMEh1UWEwUQ=="
 ---

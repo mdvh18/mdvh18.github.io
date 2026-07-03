@@ -17,6 +17,6 @@ phienban: "v0.02"
 dev: "Nani"
 genre: "3dcg, Dystopian setting milf, animated, Romance"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1Zuc1BnbjFI"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xaEgwRmdjX1BSbVFtallUeUp4aDRtZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1Zuc1BnbjFI"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xaEgwRmdjX1BSbVFtallUeUp4aDRtZw=="
 ---

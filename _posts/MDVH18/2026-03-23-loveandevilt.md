@@ -17,6 +17,6 @@ phienban: "v0.2.9"
 dev: "Petals"
 genre: "3dcg, Animated, Footj, Harem, Dating Sim, Romance, Masturba, School Setting, Voiced"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL043dGpINTZV"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOWxmZzVLb2FwVWZOSlB0MWJPTVNodw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL043dGpINTZV"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOWxmZzVLb2FwVWZOSlB0MWJPTVNodw=="
 ---

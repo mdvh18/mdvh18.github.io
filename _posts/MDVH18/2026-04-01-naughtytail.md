@@ -19,6 +19,6 @@ phienban: "0.3.1"
 dev: "RumiGame"
 genre: "3DCG, Animated, Anime"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzVxR0pHalo2"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbXdFWlYzQmNDbDdoMVhWTW5tUHJoZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzVxR0pHalo2"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbXdFWlYzQmNDbDdoMVhWTW5tUHJoZw=="
 ---

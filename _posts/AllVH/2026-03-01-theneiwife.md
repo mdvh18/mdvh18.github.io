@@ -16,6 +16,6 @@ dungluong: "1.9GB"
 dev: "AibanWork"
 genre: "2DCG, Animated, Groping, Internal view, Japanese Game, Milf, Teasing"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2s4ZE13NnRi"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xU1NiSThidVRBUDRxMnRvdUtEOUJ1QQ=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2s4ZE13NnRi"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xU1NiSThidVRBUDRxMnRvdUtEOUJ1QQ=="
 ---

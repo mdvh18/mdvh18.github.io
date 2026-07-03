@@ -17,6 +17,6 @@ phienban: "Completed"
 dev: "Staxxik"
 genre: "3DCG, Dating sim, Handj, Mobile game, Romance, Harem, Pov, Group"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3BoMUJmbWZO"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbW9wcFBhUVJ4Rm1fcmEtUVhpWUo4UQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3BoMUJmbWZO"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbW9wcFBhUVJ4Rm1fcmEtUVhpWUo4UQ=="
 ---

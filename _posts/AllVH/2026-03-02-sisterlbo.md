@@ -16,6 +16,6 @@ dungluong: "601MB"
 dev: "kosya"
 genre: "2DCG, Animated, Incest, Censored, Creampie, Mastur, Japanese game"
 
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9EZnpFNkc="
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOFg0SnlpLUpsa3lCeEZzUlR3X1FzQQ=="
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9EZnpFNkc="
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOFg0SnlpLUpsa3lCeEZzUlR3X1FzQQ=="
 ---

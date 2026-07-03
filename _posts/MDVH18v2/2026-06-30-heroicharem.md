@@ -18,7 +18,7 @@ phienban: "v0.2.9"
 dev: "OnionCuttingNinja"
 genre: "2DCG, Animated, Male Protagonist, Harem, Sandbox, RPG, Visual Novel, Anal Sex, BDSM, Big Breasts, Domination, Exhibitionism, Footjob, Lesbian, Oral Sex, Teasing, Vaginal Sex, Voyeurism, No Sexual Content, Multiple Endings, Minigames, Optional Sexual Content, Story-Rich"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1RjR3IzN1pG"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzlNdjNhZ1A4"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTnRiVWhCbVpDVEQ3eVNqVlhIcGdMUQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1RjR3IzN1pG"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzlNdjNhZ1A4"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTnRiVWhCbVpDVEQ3eVNqVlhIcGdMUQ=="
 ---

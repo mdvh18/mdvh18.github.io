@@ -17,6 +17,6 @@ phienban: "v0.12"
 dev: "Toshika"
 genre: "3DCG, Big tits, Big ass, Groping, Handjb, Male protagonist, Milf"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1dRdGVIODh2"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbnZ1M1JQcnFJdnVWTTFRVkNQNlRuZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1dRdGVIODh2"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbnZ1M1JQcnFJdnVWTTFRVkNQNlRuZw=="
 ---

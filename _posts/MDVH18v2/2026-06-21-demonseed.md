@@ -19,7 +19,7 @@ phienban: "v0.5.1"
 dev: "Buff Game"
 genre: "3DCG, Animated, Male Protagonist, Male Domination, Masturbation, Milf, Oral Sex, Big Tits, Handjob, Vaginal Sex, Teasing"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2pXQUJ4TXM4"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1BKUGtIRUU4"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSUN5d3FKWHdrWDJXTWRxZmJTcjhhdw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2pXQUJ4TXM4"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1BKUGtIRUU4"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSUN5d3FKWHdrWDJXTWRxZmJTcjhhdw=="
 ---

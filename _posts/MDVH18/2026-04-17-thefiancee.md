@@ -17,6 +17,6 @@ phienban: "v2.0g"
 dev: "Lounatick"
 genre: "3dcg, Animated, Multiple Endings, Masturbat, Pregnancy"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0d5Tm5ta1dr"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZXNVUE5OTHJraHk4am5tOTlWaFVmQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0d5Tm5ta1dr"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZXNVUE5OTHJraHk4am5tOTlWaFVmQQ=="
 ---

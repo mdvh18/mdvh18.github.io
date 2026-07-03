@@ -17,6 +17,6 @@ phienban: "v1.7"
 dev: "SpectralByte"
 genre: "Animated, Handj, Milf, Mastur, Harem"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91Lzl0MkNCSnhj"
-linkteraa: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYnAyUU5vclRQYTVnRG5JZ196dUJJZw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91Lzl0MkNCSnhj"
+linkteraa: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYnAyUU5vclRQYTVnRG5JZ196dUJJZw=="
 ---

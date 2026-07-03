@@ -17,6 +17,6 @@ phienban: "v0.1.1"
 dev: "Benny Productions"
 genre: "2DCG, AI CG, Parody, Romance, School Setting"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1pudnNIaGJk"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdGF2QUhfTG1RTEhiUUJrQktlR2VyUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1pudnNIaGJk"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdGF2QUhfTG1RTEhiUUJrQktlR2VyUQ=="
 ---

@@ -18,7 +18,7 @@ phienban: "Completed"
 dev: "Lazy Gem"
 genre: "3DCG, Ahegao, Animated, Big Ass, Big Tits, Handjob, Male Protagonist, Masturbation, Mobile Game, Netorare, Pov, Vaginal Sex"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0c1bVZ4cXVF"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0ZITnVMSGRx"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbnVYRlNhYnZoV3N3RWZ1ZEJlOFhDQQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0c1bVZ4cXVF"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0ZITnVMSGRx"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbnVYRlNhYnZoV3N3RWZ1ZEJlOFhDQQ=="
 ---

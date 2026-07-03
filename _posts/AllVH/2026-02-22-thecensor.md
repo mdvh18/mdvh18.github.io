@@ -17,6 +17,6 @@ phienban: "v4.1.3"
 dev: "Tiramisu/Big ass studio"
 genre: "2DCG, Animated, Side-scroller, Mastur, Toys. Point and click, Groping, Handj"
 
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC90cno3SEE="
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTkhnVExOYUdVdWRvOVhMNWgxSDQ3Zw=="
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC90cno3SEE="
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTkhnVExOYUdVdWRvOVhMNWgxSDQ3Zw=="
 ---

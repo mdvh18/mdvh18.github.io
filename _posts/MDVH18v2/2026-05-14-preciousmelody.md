@@ -17,6 +17,6 @@ phienban: "ch0.pt1-5.beta1"
 dev: "QSet13"
 genre: "3DCG, Male Protagonist, Mobile Game, Text Based, Harem, Loli, Adventure, Fantasy, Horror, Humor, Point & Click, Romance, Superpowers, Twins"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzZYQm9FVzc3"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQ19XQTBDYjBaOU5NNHFZZW9TMU5RUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzZYQm9FVzc3"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQ19XQTBDYjBaOU5NNHFZZW9TMU5RUQ=="
 ---

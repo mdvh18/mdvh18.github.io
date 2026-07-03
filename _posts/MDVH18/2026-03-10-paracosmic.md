@@ -17,6 +17,6 @@ phienban: "v1.14.0"
 dev: "Jiggly Stone Studios"
 genre: "3DCG, Harem, Groping, Romance, Expansion (Optional), Futa"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzdoSzVXZXlo"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xaTlqOG5LY0hxT3NuT01zU3lWaGhpUQ=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzdoSzVXZXlo"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xaTlqOG5LY0hxT3NuT01zU3lWaGhpUQ=="
 ---

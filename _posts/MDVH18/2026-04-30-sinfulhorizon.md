@@ -17,6 +17,6 @@ phienban: "v0.6"
 dev: "Narria"
 genre: "3DCG, Milf, Rpg, Corruption, Groping, Mobile game, Handjb, POV, Harem, Dating sim"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2N3UmZjN0Yy"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYWNBcGg2OHZRWHhGdXczRFEtWFJBQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2N3UmZjN0Yy"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYWNBcGg2OHZRWHhGdXczRFEtWFJBQQ=="
 ---

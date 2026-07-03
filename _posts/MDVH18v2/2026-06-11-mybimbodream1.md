@@ -18,8 +18,8 @@ phienban: "v1.0.4 Final"
 dev: "MBD"
 genre: "3DCG, Animated, Male protagonist, Big ass, Big tits, Corruption, Creampie, Exhibitionism, Groping, Masturbation, MILF, Netorare, Oral sex, Vaginal sex, Ahegao, Female Dominance, Footjob, Handjob, Interracial, Lesbian, Oral Sex, Sex Toys, Swinging, Titfuck, Voyeurism, Transformation"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L25MM2dveXJS"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0g1eUgyYTJ5"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9UblVQNnA="
-linkteraapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWFBQcUR4R0hqSHM3azktYVZoVHlOUQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L25MM2dveXJS"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0g1eUgyYTJ5"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9UblVQNnA="
+linkteraapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWFBQcUR4R0hqSHM3azktYVZoVHlOUQ=="
 ---

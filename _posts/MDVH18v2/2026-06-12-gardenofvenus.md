@@ -18,7 +18,7 @@ phienban: "v1.0.5"
 dev: "OnionCuttingNinja"
 genre: "3dcg, animated, male protagonist, school setting, milf, sandbox, vaginal sex, oral sex, teasing, groping, creampie, big ass, big tits, mobile game, handjob, harem, romance, dating sim"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2c5Q25YRlNt"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0paeTZxS1R3"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVVhZNm1adnd5RlQ1Y3VUbU1US28xQQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2c5Q25YRlNt"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0paeTZxS1R3"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVVhZNm1adnd5RlQ1Y3VUbU1US28xQQ=="
 ---

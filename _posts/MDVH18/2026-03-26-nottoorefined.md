@@ -17,6 +17,6 @@ phienban: "Ep.5"
 dev: "AulaNTR"
 genre: "3DCG, Multiple Endings, Hadnj, Groping, Milf, Animated"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1hBQWo4eDFR"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNGQxYUFOQmprNjk0Ynl5ZnZFQVQ3QQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1hBQWo4eDFR"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNGQxYUFOQmprNjk0Ynl5ZnZFQVQ3QQ=="
 ---

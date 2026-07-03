@@ -17,6 +17,6 @@ phienban: "Completed"
 dev: "Magicstick Studio"
 genre: "3DCG, Animated, Big ass, Big tits, Groping, Kinetic novel, Male protagonist, Sound"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0tHYmRFSDZt"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xY0RqZU1mNlB5R2JnazI1Q0NKQm1adw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0tHYmRFSDZt"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xY0RqZU1mNlB5R2JnazI1Q0NKQm1adw=="
 ---

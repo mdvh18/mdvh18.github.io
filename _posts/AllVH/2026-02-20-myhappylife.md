@@ -17,6 +17,6 @@ phienban: "v1.7.1"
 dev: "BlueFish"
 genre: "2DCG, 3DCG, Animated, Footj, Harem, Mastur, Milf, Sandbox"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1doV0E1N1ZS"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYmtOdTh5TnNfMFppemI1NHlCNkhMZw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1doV0E1N1ZS"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYmtOdTh5TnNfMFppemI1NHlCNkhMZw=="
 ---

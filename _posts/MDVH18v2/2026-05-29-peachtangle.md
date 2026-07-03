@@ -17,7 +17,7 @@ phienban: "Completed"
 dev: "AhaNubis"
 genre: "3DCG, Adult, Anime, Eroge, Erotic, Hentai, NSFW, Ren'Py, Romance, Visual Novel, vanilla"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L042cUROemFt"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0wyc0JGSnRB"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xS0dMbGNNQ0ZaQ3VGdlZuZzBUa3RyQQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L042cUROemFt"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0wyc0JGSnRB"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xS0dMbGNNQ0ZaQ3VGdlZuZzBUa3RyQQ=="
 ---

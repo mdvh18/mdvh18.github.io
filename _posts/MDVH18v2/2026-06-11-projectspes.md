@@ -17,8 +17,8 @@ phienban: "v0.15"
 dev: "6Rairyu9"
 genre: "3dcg, Male protagonist, Animated, Harem, Oral sex, Slave, Vaginal sex, Handjob, Creampie, Romance, School setting, Kinetic novel, Masturbation"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L25kc3pmM1c0"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9HWkdsaHQ="
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9HWkdsaHQ="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZC1iOVN3MFJGMjNaSjFoYjRzWW5QZw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L25kc3pmM1c0"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9HWkdsaHQ="
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9HWkdsaHQ="
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZC1iOVN3MFJGMjNaSjFoYjRzWW5QZw=="
 ---

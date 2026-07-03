@@ -17,6 +17,6 @@ phienban: "v0.2.1B1"
 dev: "Suit-JI"
 genre: "3DCG, Animated, Groping, Mastur, Milf, Toys, Teasing, Management, Mind Control, School Setting"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1NQelg5UXE1"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xN1Zlc2VxclNlcTNhLUE2U3c4WnNDZw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1NQelg5UXE1"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xN1Zlc2VxclNlcTNhLUE2U3c4WnNDZw=="
 ---

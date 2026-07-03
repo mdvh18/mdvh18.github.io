@@ -18,6 +18,6 @@ phienban: "v0.26 Beta"
 dev: "eXtasy Games"
 genre: "3DCG, Animated, Point & click, Superpowers, Mind Control, POV, School setting, Handj, Mobile game, Milf, Dating sim, Harem, Management"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzZkcEJvUXhN"
-linkggdrive: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVYzV0J2bi1lM2l1MWp2TnRvRlo1R0ZNbmROaHNkWFVXP3VzcD1zaGFyaW5n"
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzZkcEJvUXhN"
+linkggdrive: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVYzV0J2bi1lM2l1MWp2TnRvRlo1R0ZNbmROaHNkWFVXP3VzcD1zaGFyaW5n"
 ---

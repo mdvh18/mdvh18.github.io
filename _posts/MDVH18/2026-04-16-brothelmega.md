@@ -17,6 +17,6 @@ phienban: "v0.30"
 dev: "Khing Orchestra"
 genre: "Management, Trainer, MILF, Gloryhole, Footj, Multiple penetration, Lactation, Public Use"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzhFS3MyZU5D"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWEFxS0tOOFAwMExsN0hrY2JFNFlEQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzhFS3MyZU5D"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWEFxS0tOOFAwMExsN0hrY2JFNFlEQQ=="
 ---

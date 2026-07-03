@@ -17,6 +17,6 @@ phienban: "v0.8.4 Pre Alpha"
 dev: "PassionScheme"
 genre: "2DCG, Animated, Voiced , Adventure , Cosplay, Dating Sim , Fantasy, Parody, PoV Superpowers, Footj , Handj, Milf"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2o5WFA3WUFa"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xc18xSFVZXzdWRHUtQnFITTFBTUgxdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2o5WFA3WUFa"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xc18xSFVZXzdWRHUtQnFITTFBTUgxdw=="
 ---

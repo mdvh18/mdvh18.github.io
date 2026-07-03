@@ -17,6 +17,6 @@ phienban: "v1.2"
 dev: "Toothless Studio"
 genre: "3DCG, MILF, Groping, Mobile game"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3dCRTc4TEJX"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOW1OR2VTOHRqZm9kU2pUa21ZcHAwZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3dCRTc4TEJX"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOW1OR2VTOHRqZm9kU2pUa21ZcHAwZw=="
 ---

@@ -17,6 +17,6 @@ phienban: "v1.0.2"
 dev: "Kokudo Studio"
 genre: "3DCG, Censored, Combat, Cosplay, Female protagonist, Futa/trans, Handjb, Internal view, Japanese game, Management, Monster, Monster girl, Multiple endings"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3FnMVBjU240"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWVVUYmljR1Nna2RhSkNwU1NWc1gzZw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3FnMVBjU240"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWVVUYmljR1Nna2RhSkNwU1NWc1gzZw=="
 ---

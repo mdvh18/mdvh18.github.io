@@ -17,6 +17,6 @@ phienban: "v0.2a"
 dev: "Yoguruto"
 genre: "Adult, Anime, Erotic, Fantasy, Medieval, Mystery, Romance, Story Rich, Character-driven, Harem"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzZBOGRtbUo5"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdDRKalVYMHVzRnZreTVDTExXemVmdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzZBOGRtbUo5"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdDRKalVYMHVzRnZreTVDTExXemVmdw=="
 ---

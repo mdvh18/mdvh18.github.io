@@ -17,6 +17,6 @@ phienban: "Final"
 dev: "kosya"
 genre: "Japanese game, Male protagonist, Big ass, Big tits, 2DCG,, Animated, sleep"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2NvU0pvQ3o5"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRDZWOVppZmxFZXpDTUpCY2tYazhVdw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2NvU0pvQ3o5"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRDZWOVppZmxFZXpDTUpCY2tYazhVdw=="
 ---

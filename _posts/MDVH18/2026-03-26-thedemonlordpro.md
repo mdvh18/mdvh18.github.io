@@ -17,6 +17,6 @@ phienban: "v0.23"
 dev: "Chain Games"
 genre: "Animated, 3DCG, Handj, Fantasy, Monster girl"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2l0Wm5xTUZU"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWWFBVzRzOTVBb01YeVVTUEE3Y2xjUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2l0Wm5xTUZU"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWWFBVzRzOTVBb01YeVVTUEE3Y2xjUQ=="
 ---

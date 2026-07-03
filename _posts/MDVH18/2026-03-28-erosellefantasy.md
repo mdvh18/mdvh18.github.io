@@ -17,6 +17,6 @@ phienban: "v0.2.1"
 dev: "Lust Works Studio"
 genre: "3DCG, Animated, Groping, Handj, Romance, Rpg, Oral sex, Simulator"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0VHMnIxeWZu"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xT3pLR3RfSEZFNHRRaXlQYWZKaXBnQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0VHMnIxeWZu"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xT3pLR3RfSEZFNHRRaXlQYWZKaXBnQQ=="
 ---

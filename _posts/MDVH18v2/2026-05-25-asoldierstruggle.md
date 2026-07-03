@@ -17,7 +17,7 @@ phienban: "Completed"
 dev: "Moonbox"
 genre: "3DCG, Big ass, Big tits, Cheating, Groping, Group sex, Handjob, Harem, Humor, Incest, Kinetic novel, Male protagonist, Masturbation, Milf, Oral sex, Pregnancy, Romance, Teasing, Vaginal sex, Voyeurism"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2FxajFvaXF4"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3RDQXRVWmM3"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xREVaaEJPVFdPQTVCOS1SZzQ4RW5xdw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2FxajFvaXF4"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3RDQXRVWmM3"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xREVaaEJPVFdPQTVCOS1SZzQ4RW5xdw=="
 ---

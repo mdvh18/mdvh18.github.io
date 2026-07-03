@@ -17,6 +17,6 @@ phienban: "v0.06.22"
 dev: "Lux Elly"
 genre: "3DCG,Multiple Endings ,Mobile Game"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2h1bnBZOVlm"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVzlmbW92Y3cxYlhRTTJNVFV0czFqUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2h1bnBZOVlm"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVzlmbW92Y3cxYlhRTTJNVFV0czFqUQ=="
 ---

@@ -18,7 +18,7 @@ phienban: "Ch.2"
 dev: "Kind Nightmares"
 genre: "3DCG, Anal sex, Creampie, Fantasy, Futa/trans protagonist, Groping, Harem, Lesbian, Monster, Monster girl, Oral sex, Romance, Vaginal sex"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzhaV3RLZWhi"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2M5a3JhZjZY"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWUhRSVRfVHk1UmdNWW9vcWhyQzczZw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzhaV3RLZWhi"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2M5a3JhZjZY"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWUhRSVRfVHk1UmdNWW9vcWhyQzczZw=="
 ---

@@ -17,5 +17,5 @@ phienban: "v0.0.16"
 dev: "GoobStudios"
 genre: "3DCG, Animated, Fantasy, Handj, Mastur, Monster girl, Romance, Sleep"
 
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMElSTlRncE5xUWlzdGhNOGt1SlE0UQ=="
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMElSTlRncE5xUWlzdGhNOGt1SlE0UQ=="
 ---

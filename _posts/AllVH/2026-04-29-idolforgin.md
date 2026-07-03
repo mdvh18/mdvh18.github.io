@@ -17,6 +17,6 @@ phienban: "v1.0.1.23"
 dev: "Sugar Rush"
 genre: "Casual, Simulation"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91Lzg5YVVEdFND"
-linktera: "https://mdvh18.github.io/download.html?url=https://1024terabox.com/s/1qf6c4J5lurxKtjBiboxxBQ"
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91Lzg5YVVEdFND"
+linktera: "https://mdvh18.com/download.html?url=https://1024terabox.com/s/1qf6c4J5lurxKtjBiboxxBQ"
 ---

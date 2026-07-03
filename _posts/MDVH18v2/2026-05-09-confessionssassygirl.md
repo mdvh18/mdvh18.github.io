@@ -17,6 +17,6 @@ phienban: "v0.8.1"
 dev: "Huninn"
 genre: "3DCG, Female protagonist, School setting, Animated, Mobile Game, POV"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3NrcTFQbVh0"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xaGp0TmF2YjhNUFREUDNDLVExd0Fqdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3NrcTFQbVh0"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xaGp0TmF2YjhNUFREUDNDLVExd0Fqdw=="
 ---

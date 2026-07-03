@@ -17,6 +17,6 @@ phienban: "v0.1.2.6"
 dev: "Pop Toc"
 genre: "3dcg, Animated, Groping, Masturba, MILF, School setting, Mobile game, Incest, Lesbi"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2JpSFdqUkFr"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZkxsbjVuNnJRU0NRSXFGUktWd05oQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2JpSFdqUkFr"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZkxsbjVuNnJRU0NRSXFGUktWd05oQQ=="
 ---

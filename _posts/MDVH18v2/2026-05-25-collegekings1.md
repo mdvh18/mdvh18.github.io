@@ -17,6 +17,6 @@ phienban: "Act 1 v1.5.18"
 dev: "Undergrad Steve"
 genre: "3DCG, Male protagonist, School setting, Animated, Stripping, Teasing, Vaginal sex, Blowjob, Voyeurism, Dating sim, Humor, Romance, Male domination, Footjob, Oral sex, Spanking, POV, Point and click, Mobile game"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzVDSDlNcTk4"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9MOHN1OHQ="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzVDSDlNcTk4"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9MOHN1OHQ="
 ---

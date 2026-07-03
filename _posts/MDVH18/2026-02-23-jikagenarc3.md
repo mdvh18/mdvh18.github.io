@@ -18,6 +18,6 @@ phienban: "v2.27"
 dev: "Smiling Dog"
 genre: "2DCG, Animated, Male protagonist, BDSM, Parody, Mind control, Corruption, Impregnation, Footjob, Harem, Oral sex"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzJTY1ZwbVFF"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUHVfMlFxVGpheEQ5NzlBUnlCbDN3UQ=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzJTY1ZwbVFF"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUHVfMlFxVGpheEQ5NzlBUnlCbDN3UQ=="
 ---

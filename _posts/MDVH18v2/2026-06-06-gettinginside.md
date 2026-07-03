@@ -18,7 +18,7 @@ phienban: "Completed"
 dev: "4nyStudio"
 genre: "2DCG, Adult, Anime, Eroge, Erotic, Hentai, NSFW, Porn, Romance, Visual Novel"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzdickdVZVJI"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0ZQWXI4ZGNu"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTlp3Z2hUZlBOQkFzV09CVldDUGxmQQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzdickdVZVJI"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0ZQWXI4ZGNu"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTlp3Z2hUZlBOQkFzV09CVldDUGxmQQ=="
 ---

@@ -18,6 +18,6 @@ phienban: "v1.11"
 dev: "HGGame"
 genre: "3DCG, Animated, Big ass, Big tits, Censored, Cheating, Corruption, Groping, Group sex, Japanese Game, Male protagonist, Milf, Oral sex, Rpg, Sandbox, School setting, Simulator, Titfuck, Vaginal sex"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0hWR1pGa2Q1"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWkFhakVYNmNyc3VqRC1kRmVZQm9VQQ=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0hWR1pGa2Q1"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWkFhakVYNmNyc3VqRC1kRmVZQm9VQQ=="
 ---

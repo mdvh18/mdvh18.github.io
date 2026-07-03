@@ -17,6 +17,6 @@ phienban: "v1.8"
 dev: "Naughty Gamer Studio"
 genre: "3DCG, Futa/Trans, Trap, Milf, Femboy, Masturba"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3p6TE5DOHRY"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMUdfSVNMQ2xPSHVRZTNaRGlGXzJ2QQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3p6TE5DOHRY"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMUdfSVNMQ2xPSHVRZTNaRGlGXzJ2QQ=="
 ---

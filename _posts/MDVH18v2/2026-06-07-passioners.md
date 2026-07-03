@@ -18,7 +18,7 @@ phienban: "Completed"
 dev: "CryoDreams Interactive"
 genre: "3DCG, Adventure, Casual, Indie, RPG, Simulation"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1hkbXg5TWRD"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2tZZHZHSnEx"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xb3FSRWlldTF2UXlkSFAzTWg3Z2VtQQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1hkbXg5TWRD"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2tZZHZHSnEx"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xb3FSRWlldTF2UXlkSFAzTWg3Z2VtQQ=="
 ---

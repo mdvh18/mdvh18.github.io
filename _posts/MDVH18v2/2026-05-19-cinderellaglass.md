@@ -17,6 +17,6 @@ phienban: "v0.11"
 dev: "Little Glass Interactive"
 genre: "2DCG, Animated, Female Protagonist, Ahegao, Bdsm, Corruption, Creampie, Exhibitionism, Female domination, Group sex, Groping, Handjob, Humiliation, Lesbian, Male Domination, Masturbation, Oral Sex, Sex Toy, Slave, Teasing, Vaginal Sex, Voyeurism, Romance"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0g0Nk51M0tG"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbHFyVV9hRVRBVEtkQzQ1bUI2SFNmZw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0g0Nk51M0tG"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbHFyVV9hRVRBVEtkQzQ1bUI2SFNmZw=="
 ---

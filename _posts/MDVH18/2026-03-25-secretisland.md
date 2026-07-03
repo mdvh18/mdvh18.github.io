@@ -17,6 +17,6 @@ phienban: "v0.16.8.0"
 dev: "NocturnalDev"
 genre: "3DCG, Animated, Milf, Fantasy, Monster, Superpowers, Harem, Toys, Handj, Masturb, Romance, Group"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1FnenRYSDZ6"
-linkterac: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xaFZQNEp4bnQ3VmwzbmpHbHpUOE1nZw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1FnenRYSDZ6"
+linkterac: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xaFZQNEp4bnQ3VmwzbmpHbHpUOE1nZw=="
 ---

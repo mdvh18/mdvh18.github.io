@@ -17,6 +17,6 @@ phienban: "v4.0.1"
 dev: "JayW-NTS"
 genre: "3DCG, Animated, Mobile game Swinging"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3Y3VnBCbVM2"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVE55VUg2d21SaFc2b1BXNzk2clk4QQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3Y3VnBCbVM2"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVE55VUg2d21SaFc2b1BXNzk2clk4QQ=="
 ---

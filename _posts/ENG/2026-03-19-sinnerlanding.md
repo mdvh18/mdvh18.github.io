@@ -19,6 +19,6 @@ phienban: "v1.0.0w"
 dev: "Flexible Media"
 genre: "2DCG, Adventure, Animated, Dating sim, Group, Harem, Mastur, Point & Click, Puzzle, Romance, Rpg"
 
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2tTdGlZUmJ2"
-linkteraapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdjZOUXMya3BuTk9HQUNsY1F4SlI5Zw=="
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2tTdGlZUmJ2"
+linkteraapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdjZOUXMya3BuTk9HQUNsY1F4SlI5Zw=="
 ---

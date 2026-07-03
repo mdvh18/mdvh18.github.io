@@ -18,7 +18,7 @@ phienban: "Final"
 dev: "VisualNovels"
 genre: "3DCG, Animated, Cheating, Corruption, Creampie, Dilf, Exhibitionism, Female protagonist, Groping, Handjob, Incest, Interracial, Masturbation, Oral sex, Romance, Vaginal sex"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzlwU3J3V21v"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzNBVlZHWFVa"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZnN0b2M0SFFHTklQMXdfa1JMNy0xZw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzlwU3J3V21v"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzNBVlZHWFVa"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZnN0b2M0SFFHTklQMXdfa1JMNy0xZw=="
 ---

@@ -19,6 +19,6 @@ phienban: "Final"
 dev: "Lazy Monkey"
 genre: "3DCG, Male protagonist, Animated, Corruption, Footjob, Handjob, Incest, Masturbation, MILF, Oral sex, Romance, School setting, Titfuck, Voyeurism, Cheating, Female domination, Male domination, Vaginal sex, Creampie, Pregnancy"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3A2eWpUVVBx"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC90eDNVdnM="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3A2eWpUVVBx"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC90eDNVdnM="
 ---

@@ -17,7 +17,7 @@ phienban: "v0.2.0"
 dev: "RolePlayer"
 genre: "3DCG, Male protagonist, Fantasy, Romance, Teasing, MILF, Masturbation, Handjob, Voyeurism, Swinging, Netorare, Oral sex"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3RtR3hUd1dX"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2ZkYmpEVHJx"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC94eXZJMng="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3RtR3hUd1dX"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2ZkYmpEVHJx"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC94eXZJMng="
 ---

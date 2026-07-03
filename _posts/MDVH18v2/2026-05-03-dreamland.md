@@ -17,6 +17,6 @@ phienban: "v0.6.0p"
 dev: "Dokiden"
 genre: "3DCG, Animated, Male Protagonist, Footjb, Handj, Romance"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0tIZGhnY3Bx"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNFFzQk1ZNlBUQXVfWm5LUWpia1B1dw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0tIZGhnY3Bx"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNFFzQk1ZNlBUQXVfWm5LUWpia1B1dw=="
 ---

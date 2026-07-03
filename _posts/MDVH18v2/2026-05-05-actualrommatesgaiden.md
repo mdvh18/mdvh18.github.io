@@ -17,6 +17,6 @@ phienban: "Final"
 dev: "HanakoXVN"
 genre: "3DCG, Multipe Endings, Harem, Lesbian, Romance, Mobile Game"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3VKOVVxOEh1"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xODJLRzVqcnNVbDJHQlpLS3MwQ3gtZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3VKOVVxOEh1"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xODJLRzVqcnNVbDJHQlpLS3MwQ3gtZw=="
 ---

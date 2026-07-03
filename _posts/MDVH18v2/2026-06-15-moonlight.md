@@ -18,7 +18,7 @@ phienban: "v0.03.10"
 dev: "BigBat_Productions"
 genre: "Animated, 3DCG, Dystopian setting, Graphic violence, Handjob, Male Protagonist, Milf, Mobile game, Oral Sex, Romance, Sci-fi, Teasing, Vaginal sex"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3BXWExha1Az"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1hQNFlGaUph"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcVJHQmxmQnBCOEdHNDJ6US1TZTJLZw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3BXWExha1Az"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1hQNFlGaUph"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcVJHQmxmQnBCOEdHNDJ6US1TZTJLZw=="
 ---

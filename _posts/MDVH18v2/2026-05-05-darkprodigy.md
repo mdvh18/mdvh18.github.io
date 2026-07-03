@@ -17,6 +17,6 @@ phienban: "v1.0"
 dev: "I.T.K"
 genre: "3DCG, Animated, Sci-fi, Parody, Fantasy, Adventure"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3Vrb0hGaHI3"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOGdiMC1SWUk4R0pLVHFmUGFmZUpXZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3Vrb0hGaHI3"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOGdiMC1SWUk4R0pLVHFmUGFmZUpXZw=="
 ---

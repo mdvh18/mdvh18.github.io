@@ -17,6 +17,6 @@ phienban: "P2 v0.16"
 dev: "Mad Doc"
 genre: "3DCG, Animated, Masturb, Fantasy"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2VKRmFxczZt"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYk0zUGhIb1RENnpwZWl5RU9pR1podw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2VKRmFxczZt"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYk0zUGhIb1RENnpwZWl5RU9pR1podw=="
 ---

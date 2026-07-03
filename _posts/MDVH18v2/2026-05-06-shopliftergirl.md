@@ -17,6 +17,6 @@ phienban: "Final"
 dev: "Rasidinton"
 genre: "3DCG, Animated, Groping, Group, Japanese Game, Management"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3UxWVhlak5t"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVEgtZmxlNnlBSGx4ajFYMVViaG9OZw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3UxWVhlak5t"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVEgtZmxlNnlBSGx4ajFYMVViaG9OZw=="
 ---

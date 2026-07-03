@@ -17,6 +17,6 @@ phienban: "v0.004"
 dev: "Kosmos Games"
 genre: "3DCG, Character creation, Monster, Monster girl, Rpg"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2lIWDJxc0h0"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZEdVRzhsMnRBMWVSNzdRYTZNR3FFUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2lIWDJxc0h0"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZEdVRzhsMnRBMWVSNzdRYTZNR3FFUQ=="
 ---

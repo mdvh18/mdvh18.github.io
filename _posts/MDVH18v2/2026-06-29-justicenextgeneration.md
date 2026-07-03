@@ -18,8 +18,8 @@ phienban: "v0.16"
 dev: "Big T"
 genre: "3DCG, Big Ass, Big Tits, Male Protagonist, Superpowers, Adventure, Sandbox, Parody, Mobile Game, Animated, Blackmail, Corruption, Harem, Milf, Teasing, Handjob, Oral Sex, Mind control, PoV, Cheating, Combat, Romance, NTR Avoidable, Lesbianism"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3NFYW1nMjZq"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3FWWVRBTmFM"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC80dlhqeE4="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOWpFNmMyUDFKOUdLVGNlN3kxLWYwZw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3NFYW1nMjZq"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3FWWVRBTmFM"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC80dlhqeE4="
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOWpFNmMyUDFKOUdLVGNlN3kxLWYwZw=="
 ---

@@ -17,6 +17,6 @@ phienban: "v0.1.1"
 dev: "Golden Goose Games"
 genre: "3DCG, Animated, Male Protagonist, Parody, Voyeurism, Groping, School Setting"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0hMWEp5bkhv"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRHNCUWFVaTJnVXZiY0dxRERNVUFDUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0hMWEp5bkhv"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRHNCUWFVaTJnVXZiY0dxRERNVUFDUQ=="
 ---

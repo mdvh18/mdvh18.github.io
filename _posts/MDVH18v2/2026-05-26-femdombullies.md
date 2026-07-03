@@ -17,7 +17,7 @@ phienban: "Completed"
 dev: "5 Days of Femdom"
 genre: "3dcg, Male Protag, School Setting, Femdom"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3lKaDUzeHd1"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzI2eHRSVGNX"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRVQwZ3JNVlpTZGhsdy1mUktfVkIzQQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3lKaDUzeHd1"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzI2eHRSVGNX"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRVQwZ3JNVlpTZGhsdy1mUktfVkIzQQ=="
 ---

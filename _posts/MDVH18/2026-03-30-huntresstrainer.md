@@ -17,6 +17,6 @@ phienban: "v0.23"
 dev: "HunterHeadquartersTycoon"
 genre: "3DCG, Parody, Trainer, Handj, Harem, Humor, Point & Click, School setting"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3N0dzQzY0NO"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xaUJCbWFmTGFjQkE3aWNWZ05XQ1JUdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3N0dzQzY0NO"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xaUJCbWFmTGFjQkE3aWNWZ05XQ1JUdw=="
 ---

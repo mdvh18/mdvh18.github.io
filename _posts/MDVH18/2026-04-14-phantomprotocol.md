@@ -17,6 +17,6 @@ phienban: "v0.2.5"
 dev: "Cincinnatusgaming"
 genre: "Dating Sim, Romance, School setting, Sci-fi, Superpowers, Harem, Handj, Masturb, Groping, Slow-Burn"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL29ScUxoSzJu"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMkFHbXhjcTVKdEVjcW9jOWFPdG5Mdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL29ScUxoSzJu"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMkFHbXhjcTVKdEVjcW9jOWFPdG5Mdw=="
 ---

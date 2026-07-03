@@ -17,7 +17,7 @@ phienban: "Final"
 dev: "NimosGames"
 genre: "3dcg, Animated, Big ass, Big tits, Oral sex, Vaginal sex, Sex toys, Teasing, Groping, Female protagonist, Cheating, Puzzle, Creampie, Interracial, Lesbian"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3BzNGVZRFB3"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2tqQjRVRjFw"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOXpfUTlISDN0QVNwZVBSNXpJb2NzUQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3BzNGVZRFB3"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2tqQjRVRjFw"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOXpfUTlISDN0QVNwZVBSNXpJb2NzUQ=="
 ---

@@ -17,6 +17,6 @@ phienban: "v0.3.5"
 dev: "Spire Interactive"
 genre: "3DCG, Animated, Fantasy, Groping, Harem, Mobile game, Monster girl, Romance, Rpg"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2JmNzRvc1g2"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcGpjTGpxZFJZZGVwd1NVNXppZDhRZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2JmNzRvc1g2"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcGpjTGpxZFJZZGVwd1NVNXppZDhRZw=="
 ---

@@ -17,5 +17,5 @@ phienban: "v0.5.4"
 dev: "mikiraus"
 genre: "3DCG, Groping, Animated, School Setting"
 
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQ3hZR3ZIUENSYXg0NUZyRnhIWjdCQQ=="
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQ3hZR3ZIUENSYXg0NUZyRnhIWjdCQQ=="
 ---

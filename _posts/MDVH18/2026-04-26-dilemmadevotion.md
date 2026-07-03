@@ -17,6 +17,6 @@ phienban: "Ch.4Ep.3"
 dev: "PulseHavenStudios"
 genre: "3DCG, Romance, Animated, Handj, Multiple Endings, Groping, Mobile game"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0FaU0NtZ243"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xa2NYb1hHaHM5amZTOG9Rb1dpcHBDdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0FaU0NtZ243"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xa2NYb1hHaHM5amZTOG9Rb1dpcHBDdw=="
 ---

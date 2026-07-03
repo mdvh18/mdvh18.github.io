@@ -17,6 +17,6 @@ phienban: "v0.5.1"
 dev: "Darktoz"
 genre: "3DCG, Animated, Milf, Cosplay, Monster girl, Toys, Mobile game"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1VlRTc2cG43"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcGRMdy00RzBoNVg4cXpzN1F0WWhLZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1VlRTc2cG43"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcGRMdy00RzBoNVg4cXpzN1F0WWhLZw=="
 ---

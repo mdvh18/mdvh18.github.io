@@ -17,6 +17,6 @@ phienban: "v1.9"
 dev: "Nymphokyun"
 genre: "3DCG, Monster, POV, Voiced, Groping, Animated"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL01lamZCVVJW"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xc3JsZmIwSXdSSTdkX2dNLXQ2NG00UQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL01lamZCVVJW"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xc3JsZmIwSXdSSTdkX2dNLXQ2NG00UQ=="
 ---

@@ -19,6 +19,6 @@ phienban: "Final Sxp2"
 dev: "Cyansun"
 genre: "3DCG, Animated, Big Ass, Big Tits, Creampie, Groping, Handjob, Harem, Male Protagonist, Monster Girl, Oral Sex, Pregnancy, Romance, Vaginal Sex"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2FYRGFpblVy"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2JLNXdYbWFY"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2FYRGFpblVy"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2JLNXdYbWFY"
 ---

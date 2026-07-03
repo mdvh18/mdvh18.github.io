@@ -19,5 +19,5 @@ phienban: "v0.76"
 dev: "Moist Sponge Productions"
 genre: "3DCG, Harem, Scifi, Large, Mastur, Le"
 
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWHpkTjlfUGozenNVZm50Q0NSR09ndw=="
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWHpkTjlfUGozenNVZm50Q0NSR09ndw=="
 ---

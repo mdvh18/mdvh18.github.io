@@ -17,6 +17,6 @@ phienban: "v0.13.1"
 dev: "Cheeky Ghost Girl"
 genre: "3dcg, Animated, Fantasy, Adventure, Mobile game, Groping, Groping, Sci-Fi,"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2RFZ1U3c1B4"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xendxbDJhNkRQanRPY1Q3ams5OUJHdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2RFZ1U3c1B4"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xendxbDJhNkRQanRPY1Q3ams5OUJHdw=="
 ---

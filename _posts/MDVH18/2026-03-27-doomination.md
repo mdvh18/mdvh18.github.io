@@ -17,6 +17,6 @@ phienban: "v0.4.3"
 dev: "HardCorn"
 genre: "Handj, Toying, Animated, 2DCG, Mobile game, Trainer"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0x6cGpyd3d4"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xLTdnaEUwMnZGR1d1UGlhQUs0VFllUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0x6cGpyd3d4"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xLTdnaEUwMnZGR1d1UGlhQUs0VFllUQ=="
 ---

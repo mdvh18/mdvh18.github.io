@@ -18,6 +18,6 @@ phienban: "Uncensored"
 dev: "artoonu"
 genre: "3DCG, AI-Generated, Animated, Big Breast, Heroine, Dating Simulation, Fantasy, Idol, Monster Girl, Romance"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzhiZXR3QW5L"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xeEU3RkhnWlhSR3N3VjhwazhkX1U3dw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzhiZXR3QW5L"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xeEU3RkhnWlhSR3N3VjhwazhkX1U3dw=="
 ---

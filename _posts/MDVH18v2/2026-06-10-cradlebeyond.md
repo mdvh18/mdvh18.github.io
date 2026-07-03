@@ -18,7 +18,7 @@ phienban: "v0.2.3b"
 dev: "First Wish Studio"
 genre: "3DCG, Erotic, NSFW, Porn, Ren'Py, Romance, Adult, Visual Novel"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91Lzk3SEc3WllB"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3hLcE5yU1ZS"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMDZSZHF0SXdjRjNXaG1xbktENERIQQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91Lzk3SEc3WllB"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3hLcE5yU1ZS"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMDZSZHF0SXdjRjNXaG1xbktENERIQQ=="
 ---

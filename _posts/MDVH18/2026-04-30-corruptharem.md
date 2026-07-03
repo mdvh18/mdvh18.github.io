@@ -17,6 +17,6 @@ phienban: "v3.0 "
 dev: "Akihiru"
 genre: "Adult, Dating Sim, Eroge, Erotic, NSFW Romance, Harem"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3NmRVhvV0ZV"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZkE0b1JSQ0RuNjhlRHVwblFGZXFRQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3NmRVhvV0ZV"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZkE0b1JSQ0RuNjhlRHVwblFGZXFRQQ=="
 ---

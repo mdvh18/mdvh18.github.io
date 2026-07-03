@@ -17,6 +17,6 @@ phienban: "v0.3.14"
 dev: "Broken_Tomboy_dev"
 genre: "3dcg, Animated, Fantasy, Futa/Trans (OPTIONAL), Masturba Milf, Monster, Monster girl, Pov, Romance"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzRFMWdxaFNt"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZ1JxdndOWWhBS3R3dzV5NUZJbG42dw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzRFMWdxaFNt"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZ1JxdndOWWhBS3R3dzV5NUZJbG42dw=="
 ---

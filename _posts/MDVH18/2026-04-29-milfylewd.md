@@ -17,6 +17,6 @@ phienban: "Completed"
 dev: "Super Ero Syndicate"
 genre: "2DCG, Censored, Pixel, Japanese Game, Maid, Milking, Nonhuman, Monster Girl"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91Lzd1anlhV0xT"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSS1sZ0tlQ0JLQ0lJcWoxR3J4NVRLZw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91Lzd1anlhV0xT"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSS1sZ0tlQ0JLQ0lJcWoxR3J4NVRLZw=="
 ---

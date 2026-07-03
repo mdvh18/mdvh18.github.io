@@ -17,6 +17,6 @@ phienban: "Final"
 dev: "Crunchy Cake"
 genre: "No Text, Depression, Dream Ho, Oral, Handjb, Creampie, Kinetic, Animated, 3dcg"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3ZlaWFtWEt3"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xT0V1WHo4TG90UkVrby15eExQTk1JUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3ZlaWFtWEt3"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xT0V1WHo4TG90UkVrby15eExQTk1JUQ=="
 ---

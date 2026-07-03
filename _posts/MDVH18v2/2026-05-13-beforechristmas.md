@@ -17,6 +17,6 @@ phienban: "Completed"
 dev: "Pandering games studio"
 genre: "3DCG, Multiple protagonist, Milf, Group , Multiple penetration"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL29jV2d6TW10"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbUl5eFpvZXdwVzJocENVSm14ajNUdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL29jV2d6TW10"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbUl5eFpvZXdwVzJocENVSm14ajNUdw=="
 ---

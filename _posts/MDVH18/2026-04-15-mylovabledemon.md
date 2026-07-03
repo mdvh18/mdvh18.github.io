@@ -17,6 +17,6 @@ phienban: "v0.2.2"
 dev: "Pink Tea"
 genre: "2DCG, Animated, Handj, Toys, Monster girl, Fantasy, Adventure"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1FRNU5nSFBE"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xaXFrd2I4SmdOOTBQakt6X0NVaVl4dw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1FRNU5nSFBE"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xaXFrd2I4SmdOOTBQakt6X0NVaVl4dw=="
 ---

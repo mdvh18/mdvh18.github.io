@@ -17,6 +17,6 @@ phienban: "Ep.5"
 dev: "Impious Monk"
 genre: "3DCG, Male protagonist, Romance, Graphic violence, Vaginal Sex, Oral Sex, Handjob, Creampie, Masturbation, Animated, Big tits"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L000Y1dDRmFo"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC84YWYzOWJjYi0wMTM5LTRkZDItYTM4Yi03YmUwMGFlZDIzZGM="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L000Y1dDRmFo"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC84YWYzOWJjYi0wMTM5LTRkZDItYTM4Yi03YmUwMGFlZDIzZGM="
 ---

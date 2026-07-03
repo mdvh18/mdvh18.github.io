@@ -17,7 +17,7 @@ phienban: "v2.1"
 dev: "Anoh-KanikousenZ"
 genre: "3DCG, Adventure, Ahegao, Anal Sex, Animated, Bestiality, BDSM, Fantasy, Female Protagonist, Futa/Trans, Censored, Creampie, Groping, Exhibitionism, Humiliation, Japanese Game, Masturbation, Monster Girl, Monster, Rape, Simulator, School Setting, Sex Toys, Teasing, Tentacles, Urination, Vaginal Sex, Voyeurism, Vore, Vaginal Sex"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0tKa29mTHVD"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC80UEQ1OUY="
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWVFEb1JDRVhLYlRpRjJBWWRpN1VSUQ=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0tKa29mTHVD"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC80UEQ1OUY="
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWVFEb1JDRVhLYlRpRjJBWWRpN1VSUQ=="
 ---

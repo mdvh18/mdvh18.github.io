@@ -17,5 +17,5 @@ phienban: "v3.0"
 dev: "KENZsoft"
 genre: "3DCG, Animated, Japanese game, Handj, Voiced"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzFUQUo3MVk4"
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzFUQUo3MVk4"
 ---

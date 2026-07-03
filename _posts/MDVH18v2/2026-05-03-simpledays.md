@@ -17,6 +17,6 @@ phienban: "v0.21.1"
 dev: "Mega Lono"
 genre: "3DCG, Animated, Romance, Group, Mobile game, Sandbox (Optional), Harem (Optional), Pregnancy (Optional)"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3B5V3V3SDR3"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNlBkMmdJbGlHRWZJY3Etem9HLTFkQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3B5V3V3SDR3"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNlBkMmdJbGlHRWZJY3Etem9HLTFkQQ=="
 ---

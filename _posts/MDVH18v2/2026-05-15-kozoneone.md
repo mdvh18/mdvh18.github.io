@@ -17,6 +17,6 @@ phienban: "v0.3"
 dev: "Starvy"
 genre: "3DCG, Animated, BDSM, Female protagonist, Simulator"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L014aktGZWJ1"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRmFhcE1jNkVFRGNLeTkxYkFCcG5xdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L014aktGZWJ1"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRmFhcE1jNkVFRGNLeTkxYkFCcG5xdw=="
 ---

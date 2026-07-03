@@ -17,7 +17,7 @@ phienban: "v0.3.5"
 dev: "DanGames"
 genre: "3DCG, Animated, Male protagonist, Milf, Big ass, Big tits, Vahn yourdoom, Oral sex, Dating sim, Teasing, Groping, Cosplay"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2NEUmVockVk"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1ZuRnNRWFpr"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xY1RFaWxwSUM5UHdRTXZVR0NabTViUQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2NEUmVockVk"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1ZuRnNRWFpr"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xY1RFaWxwSUM5UHdRTXZVR0NabTViUQ=="
 ---

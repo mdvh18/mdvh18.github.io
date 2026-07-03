@@ -18,7 +18,7 @@ phienban: "v0.1.5"
 dev: "Piruluk"
 genre: "3DCG, Adventure, Animated, Big Ass, Big Tits, Cheating, Corruption, Fantasy, Futa/trans protagonist, Female domination, Footjob, Graphic violence, Groping, Harem, Lesbian, Monster Girl, Multiple Endings, Netori, Teasing, Trap, Vaginal sex"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1lMUnh4N2ta"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzlIVFJ4cXQ4"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWjdRUnBhMEJ2SDlDUnBRQVNUNHdLQQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1lMUnh4N2ta"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzlIVFJ4cXQ4"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWjdRUnBhMEJ2SDlDUnBRQVNUNHdLQQ=="
 ---

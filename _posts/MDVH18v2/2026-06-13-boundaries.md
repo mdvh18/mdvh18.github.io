@@ -18,7 +18,7 @@ phienban: "v0.720"
 dev: "Novel"
 genre: "3DCG, Female protagonist, Multiple endings, Corruption, Intrigue, Romance, Oral sex, Vaginal sex, Groping, Cheating, Animated, Anal sex, Creampie, Male domination, Masturbation, Sex toys, Sexual harassment, Spanking, Teasing, Sandbox, Male protagonist, Multiple protagonist, AI CG"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0tNRVkyYktR"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3BqN1hjZVp1"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMGw3YkN6d3pMN1dvWjI5QXJSTVVadw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0tNRVkyYktR"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3BqN1hjZVp1"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMGw3YkN6d3pMN1dvWjI5QXJSTVVadw=="
 ---

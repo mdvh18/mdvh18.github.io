@@ -17,7 +17,7 @@ phienban: "v0.2.0"
 dev: "Spicy Well Studio"
 genre: "3dcg, Adventure, Ahegao, Animated, Big ass, Big tits, Corruption, Fantasy, Groping, Handjob, Harem, Humor, Male protagonist, Masturbation, Milf, Mobile game, Oral sex, Paranormal, Parody, Pov, Romance, Teasing, Sandbox, Vaginal Sex, Footjob, Creampie, Titfuck, Cosplay"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3NOQkxzaHJ5"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91Lzg3cW5LTTlH"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMHlLcEhmdXY0LXBxcGd0SHNCcHhpZw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3NOQkxzaHJ5"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91Lzg3cW5LTTlH"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMHlLcEhmdXY0LXBxcGd0SHNCcHhpZw=="
 ---

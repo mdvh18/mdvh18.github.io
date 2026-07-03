@@ -17,6 +17,6 @@ phienban: "Completed"
 dev: "ERONIVERSE"
 genre: "2dcg, Animated, Male protagonist, MILF, Harem, Big ass, Big tits, Groping, Mobile game"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1RSenYySjY5"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcVlISjV2U0NTQ3FsMnVVbFYzaElzQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1RSenYySjY5"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcVlISjV2U0NTQ3FsMnVVbFYzaElzQQ=="
 ---

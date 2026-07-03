@@ -18,6 +18,6 @@ phienban: "Completed"
 dev: "RocketPenguin"
 genre: "2DCG, Anal sex, Big tits, Bukkake, Censored, Cheating, Creampie, Groping, Group sex, Handjob, Japanese game, Lactation, Male domination, Male protagonist, Milf, Multiple endings, Multiple penetration, Oral sex, Pregnancy, Rape, Rpg, Sandbox, Sex toys, Titfuck, Vaginal sex"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1VSdVJaQ0tD"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xc2pUMlJDblI0ME5zU0xablNzYjJ5dw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1VSdVJaQ0tD"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xc2pUMlJDblI0ME5zU0xablNzYjJ5dw=="
 ---

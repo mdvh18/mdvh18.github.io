@@ -18,7 +18,7 @@ phienban: "Final"
 dev: "JMZ42 Games"
 genre: "3DCG, Animated, BDSM, Female domination, Group sex, Handjob, Humiliation, Male protagonist, Milf, PoV, Sex toys, Slave, Spanking, Teasing"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L29SRTdFWkVB"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1NteG1ZS3N4"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xeXByVE9NVHBCSGdIXzdhbTA1XzNPUQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L29SRTdFWkVB"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1NteG1ZS3N4"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xeXByVE9NVHBCSGdIXzdhbTA1XzNPUQ=="
 ---

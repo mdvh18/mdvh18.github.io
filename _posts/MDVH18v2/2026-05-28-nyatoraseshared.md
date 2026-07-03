@@ -17,7 +17,7 @@ phienban: "v0.14"
 dev: "SadCat"
 genre: "2dcg, AI CG, Big Ass, Big Tits, Female Domination, Male Protagonist, Mobile Game, Monster Girl, Netorare, Oral Sex, Sex Toys, Swinging, Titfuck, Vaginal Sex"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1ZaZW9lZGNC"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L29FVW4zb25U"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRFg1RFFrVkxkUzBUZEtSNjhzaklBQQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1ZaZW9lZGNC"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L29FVW4zb25U"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRFg1RFFrVkxkUzBUZEtSNjhzaklBQQ=="
 ---

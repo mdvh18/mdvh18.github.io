@@ -17,6 +17,6 @@ phienban: "v1.03"
 dev: "BokunDev"
 genre: "3DCG, Romance, Parody, Masturb"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2JNb2ZzOVpO"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xM3JEaVhBcmUyQ2lCWHdKZkwtdEpMZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2JNb2ZzOVpO"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xM3JEaVhBcmUyQ2lCWHdKZkwtdEpMZw=="
 ---

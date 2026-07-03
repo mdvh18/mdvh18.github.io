@@ -17,6 +17,6 @@ phienban: "v0.12B"
 dev: "Sad Crab"
 genre: "2DCG, Animated, Parody, School setting, Fantasy, Masturba, Point & click, Trainer, Toys, Groping, Cosplay, Handj, Milf"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L21zZk04RTJ5"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNk5SUG5CLXZQcV9yRnZablBuYU9NQQ=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L21zZk04RTJ5"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNk5SUG5CLXZQcV9yRnZablBuYU9NQQ=="
 ---

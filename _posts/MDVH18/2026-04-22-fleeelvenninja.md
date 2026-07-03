@@ -17,6 +17,6 @@ phienban: "Final"
 dev: "Barance Studio"
 genre: "2DCG, 3DCG, Animated, Simulator, Monster girl, Japanese game, Fantasy, Adventure, Turn based combat, Harem, Monster, Footj"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3BHZ1lkVE5a"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xU09zUG1yM2pJa21COURtR2YwUTExUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3BHZ1lkVE5a"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xU09zUG1yM2pJa21COURtR2YwUTExUQ=="
 ---

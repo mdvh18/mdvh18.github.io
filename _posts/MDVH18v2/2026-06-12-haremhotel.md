@@ -18,6 +18,6 @@ phienban: "v0.20"
 dev: "Runey"
 genre: "3DCG, Male protagonist, Animated, Incest, Harem, Dating sim, Trainer, Lesbian, Urination, BDSM, Male domination, Female domination, Exhibtionism, Group sex, Creampie, Cosplay, Ahegao, Corruption, Lactation, Anal sex, Big tits, Footjob, Groping, Masturbation, Mobile game, Oral sex, Slave, Spanking, Titfuck, Trainer, Vaginal sex, Virgin, Voyeurism, Sandbox"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1ZlVXdUcnlD"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9yV1RoaDI="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1ZlVXdUcnlD"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9yV1RoaDI="
 ---

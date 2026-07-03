@@ -17,6 +17,6 @@ phienban: "v21"
 dev: "TowerBoyGames"
 genre: "3DCG, Mastur, Handj, MILF, Romance, Harem, Footj, Sleep, Animated"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3NoemZ4TWQ3"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xLWFyX3RCdTRKUjR0STNSeWRkQ3B5UQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3NoemZ4TWQ3"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xLWFyX3RCdTRKUjR0STNSeWRkQ3B5UQ=="
 ---

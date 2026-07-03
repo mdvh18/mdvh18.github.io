@@ -18,7 +18,7 @@ phienban: "v0.3.8"
 dev: "Sihirbaz_arttzz"
 genre: "3DCG, Male protagonist, Mobile game, Big ass, Big tits, Fantasy, Handjob, Harem (optional), Oral sex, Teasing, Vaginal sex, Romance, School setting, Animated, Milf, Footjob"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzZRZm1ycmhz"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2ZEdjVCWVRz"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVWtBUHNnMllIcW1BZC0wX2tmbDBWdw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzZRZm1ycmhz"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2ZEdjVCWVRz"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVWtBUHNnMllIcW1BZC0wX2tmbDBWdw=="
 ---

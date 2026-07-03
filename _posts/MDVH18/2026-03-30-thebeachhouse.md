@@ -17,6 +17,6 @@ phienban: "v0.1"
 dev: "Roki"
 genre: "3DCG, Animated, Groping, Handj, Harem, Milf, Mobile game, Romance"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0NBSlhTYTMx"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVEt0UktEWVc1bnZyaVl1QktZMnZmUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0NBSlhTYTMx"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVEt0UktEWVc1bnZyaVl1QktZMnZmUQ=="
 ---

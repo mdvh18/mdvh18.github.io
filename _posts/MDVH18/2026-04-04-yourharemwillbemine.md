@@ -17,6 +17,6 @@ phienban: "v0.2"
 dev: "Kazuki-chan"
 genre: "3DCG, Animated, Masturba, Group, Multiple penetration"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL29OOVpBNVFL"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNlFnMXFqS2E5NnlxaF9MbGVCTm5pUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL29OOVpBNVFL"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNlFnMXFqS2E5NnlxaF9MbGVCTm5pUQ=="
 ---

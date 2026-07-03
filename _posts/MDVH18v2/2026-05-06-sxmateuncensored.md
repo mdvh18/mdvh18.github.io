@@ -17,6 +17,6 @@ phienban: "S1-v1.01"
 dev: "Siliconbrianza"
 genre: "3DCG, Animated, Male protagonist, School setting, Milf, Lesbian, Group, Handj"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzhwZ3dQUk54"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xekFBWlp3d3R0TTM2UjJOYk5qVnJXQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzhwZ3dQUk54"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xekFBWlp3d3R0TTM2UjJOYk5qVnJXQQ=="
 ---

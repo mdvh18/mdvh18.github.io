@@ -18,7 +18,7 @@ phienban: "v0.1.5"
 dev: "Roki"
 genre: "3DCG, Animated, Big tits, Groping, Handjob, Harem, Incest, Male protagonist, Milf, Mobile game, Oral sex, Romance, Teasing, Vaginal sex"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2paclFhNzY3"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3ZNaWNTcHV6"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xa2FuYnJKRGNHYzQtdmVIazhsMkpOdw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2paclFhNzY3"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3ZNaWNTcHV6"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xa2FuYnJKRGNHYzQtdmVIazhsMkpOdw=="
 ---

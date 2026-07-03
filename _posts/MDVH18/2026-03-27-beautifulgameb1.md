@@ -17,6 +17,6 @@ phienban: "v1.0.0 RC11"
 dev: "Daggum"
 genre: "3DCG, Pov, Milf, Mobile game, Animated, Masturb, Massage, Handj, Toys, Romance, Harem, Dating sim, Multiple endings, Group"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0FiTXFpN2Jp"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xY3VSLUZQejdaLXczaFNPN25tOHJiZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0FiTXFpN2Jp"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xY3VSLUZQejdaLXczaFNPN25tOHJiZw=="
 ---

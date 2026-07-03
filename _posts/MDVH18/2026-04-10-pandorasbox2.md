@@ -17,6 +17,6 @@ phienban: "v0.40"
 dev: "Void Star"
 genre: "3dcg, Animated, Footj, Groping, Lesbi"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3dtU29RSEp0"
-linkteraapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZnNROUVNWjh5MmEtTFFhM2FZUWg5UQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3dtU29RSEp0"
+linkteraapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZnNROUVNWjh5MmEtTFFhM2FZUWg5UQ=="
 ---

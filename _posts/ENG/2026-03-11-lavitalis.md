@@ -19,5 +19,5 @@ phienban: "v0.41.0"
 dev: "B-flat"
 genre: "2DCG, Adventure, Fantasy, Monster, Rpg, Side-scroller, Titfuck, Vaginal sex,"
 
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVVpyWWdNYlEyQWM0czRPYkJJb01RQQ=="
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVVpyWWdNYlEyQWM0czRPYkJJb01RQQ=="
 ---

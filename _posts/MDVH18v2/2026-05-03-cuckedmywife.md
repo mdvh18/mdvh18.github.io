@@ -17,6 +17,6 @@ phienban: "Final"
 dev: "My wife cheated on me"
 genre: "3DCG, Ai cg, Animated, Groping, Group"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2VxM0FjNlpZ"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZF9fY2RZTmtaa0hhZm02Mmd3ZGxyUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2VxM0FjNlpZ"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZF9fY2RZTmtaa0hhZm02Mmd3ZGxyUQ=="
 ---

@@ -17,7 +17,7 @@ phienban: "v0.054 Rework"
 dev: "EHFaR"
 genre: "3DCG, Mind Control, Handjb, Romance, Graphic violence, Animated"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0w0aWN3RGNC"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L20yTDU4UFlw"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xa3gzcFdYTVhod09KTWRfeTZka0Q0QQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0w0aWN3RGNC"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L20yTDU4UFlw"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xa3gzcFdYTVhod09KTWRfeTZka0Q0QQ=="
 ---

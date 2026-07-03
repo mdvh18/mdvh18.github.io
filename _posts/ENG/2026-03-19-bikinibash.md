@@ -19,6 +19,6 @@ phienban: "v0.01.3"
 dev: "EveEvergreen"
 genre: "2DCG, AI CG, Animated, Footj Grouping, Handj"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1IzZVBLZVJG"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTWlEeVRJLS1sbkxXRVFGcXhILUdGZw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1IzZVBLZVJG"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTWlEeVRJLS1sbkxXRVFGcXhILUdGZw=="
 ---

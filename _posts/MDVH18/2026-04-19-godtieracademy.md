@@ -17,6 +17,6 @@ phienban: "Completed"
 dev: "SuckylittleD"
 genre: "3DCG, Animated, Romance, Humor, Mobile game, Fantasy, Group, School setting"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2REeHdudFF2"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdi1uSFRkc2dGWTJoYTM1RFo3MGJndw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2REeHdudFF2"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdi1uSFRkc2dGWTJoYTM1RFo3MGJndw=="
 ---

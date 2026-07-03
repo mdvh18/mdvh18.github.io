@@ -17,6 +17,6 @@ phienban: "v3.0.7s"
 dev: "Jubei Games"
 genre: "3DCG, Animated, Fantasy, Group, Harem, Lesbian, Male protagonist, Monster girl, Romance"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3VUQ3gyTTRz"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVUNFRm50YmNTc1B1Wks3bWhMWUtoZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3VUQ3gyTTRz"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVUNFRm50YmNTc1B1Wks3bWhMWUtoZw=="
 ---

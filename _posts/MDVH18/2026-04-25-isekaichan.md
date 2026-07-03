@@ -17,6 +17,6 @@ phienban: "v0.2.0"
 dev: "PLAYMAKERz"
 genre: "3DCG, Animated, Handj, Footj, Masturbation, Fantasy, Adventure, Groping, School Setting, Harem"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzIzWGJqVU1C"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTll5YW0yTkttSWpIWl9VUTBZRlQzUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzIzWGJqVU1C"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTll5YW0yTkttSWpIWl9VUTBZRlQzUQ=="
 ---

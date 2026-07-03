@@ -18,7 +18,7 @@ phienban: "Final"
 dev: "CellStudios"
 genre: "3dcg, Animated, Male protagonist, Vaginal sex, Anal sex, Oral sex, Teasing, Handjob, Masturbation, Voyeurism, Pregnancy, Incest, MILF, Big ass, Big tits, Creampie, Virgin"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2VRWDJxNGM1"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L280SE1ROUUz"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWW5nUE9NQlYyT1lFQzRyTV9CUkpYdw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2VRWDJxNGM1"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L280SE1ROUUz"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWW5nUE9NQlYyT1lFQzRyTV9CUkpYdw=="
 ---

@@ -17,7 +17,7 @@ phienban: "v1.9"
 dev: "CafeGlow"
 genre: "3DCG, Anal sex, BDSM, Big ass, Big tits, Dystopian setting, Female domination, Female protagonist, Footjob, Groping, Interracial, Lesbian, Kinetic novel, Oral sex, Sci-fi, Sex toys, Vaginal sex, Voiced"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3k4ZER1UHp2"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2l2Z2UydXVp"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xN0dNSU1VazcwcC1LOW1PSjlXUmpNUQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3k4ZER1UHp2"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2l2Z2UydXVp"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xN0dNSU1VazcwcC1LOW1PSjlXUmpNUQ=="
 ---

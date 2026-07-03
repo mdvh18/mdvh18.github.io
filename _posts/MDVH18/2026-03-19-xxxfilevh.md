@@ -17,6 +17,6 @@ phienban: "0.1.5"
 dev: "Caine.Totally.Sane"
 genre: "3DCG, Exhibitionism, Monster, Sci-fi, Tentacles, Management, Multiple Endings, Corruption, Romance, Sandbox, Harem, Superpowers, Cosplay, Animated, Milf, Teasing, Adventure, Combat"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2RoazdETkgx"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWFltR252V0FOT2FoQ0hOMmZQM2lTdw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2RoazdETkgx"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWFltR252V0FOT2FoQ0hOMmZQM2lTdw=="
 ---

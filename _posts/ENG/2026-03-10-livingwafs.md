@@ -19,7 +19,7 @@ phienban: "v0.9.0"
 dev: "Szretfel"
 genre: "Adult, Animation, Anime, Erotic, Unity, 2DCG"
 
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0RBSGRIUXQ4"
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1dNclpzam5M"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xckJPaE05SWgxQ3psMXE3VEVoYVBQZw=="
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0RBSGRIUXQ4"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1dNclpzam5M"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xckJPaE05SWgxQ3psMXE3VEVoYVBQZw=="
 ---

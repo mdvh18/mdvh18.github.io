@@ -17,8 +17,8 @@ phienban: "Completed"
 dev: "maiie"
 genre: "3DCG, Animated, Male Protagonist, Multiple Endings, Cheating, Corruption, Futa/Trans, Handjob, Lesbian, Masturbation, Netorare, Oral Sex, Transformation, Vaginal Sex"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3FlUmpkVjhR"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3dya201ekRQ"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9QNVV4Z1U="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbHFzaTRHc3NKMjRXbVZIZ3FQbTBYUQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3FlUmpkVjhR"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3dya201ekRQ"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9QNVV4Z1U="
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbHFzaTRHc3NKMjRXbVZIZ3FQbTBYUQ=="
 ---

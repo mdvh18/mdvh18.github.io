@@ -17,6 +17,6 @@ phienban: "v0.1"
 dev: "CorporateRonin"
 genre: "v0.1"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzRtZmV2V3pZ"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYjYxSFk2M1doUXRyWGlLNldDcWNoUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzRtZmV2V3pZ"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYjYxSFk2M1doUXRyWGlLNldDcWNoUQ=="
 ---

@@ -17,6 +17,6 @@ phienban: "v1.83f2"
 dev: "FemdomWifeGame"
 genre: "3DCG, Male Protagonist, Animated, Oral sex, Female domination, Cheating, Multiple endings, Vaginal sex, BDSM, Chastity, NTR"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2FmSG9SV3pI"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdXM2blBLWUVqMTgyeEREU1NRUkZuUQ=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2FmSG9SV3pI"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdXM2blBLWUVqMTgyeEREU1NRUkZuUQ=="
 ---

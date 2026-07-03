@@ -17,6 +17,6 @@ phienban: "S2 v0.14"
 dev: "Classy Lemon"
 genre: "3DCG, Animated, Harem, Voiced, Handj, Sci-fi, Footjb, Mobile game"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0V2dUYyRFJm"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZktiVFFUNEl0Z1F2bUJCMENuemdEdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0V2dUYyRFJm"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZktiVFFUNEl0Z1F2bUJCMENuemdEdw=="
 ---

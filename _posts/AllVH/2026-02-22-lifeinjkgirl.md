@@ -17,6 +17,6 @@ phienban: "v1.0.3"
 dev: "Kira Tama"
 genre: "2DCG, Dating sim, Groping, Internal view, Japanese Game, Romance, Toys, School setting, Simulator, Sleep"
 
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9scEZLdEM="
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOWVpN3BVX1VZdHB5Z0dxOGN0WGtSZw=="
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9scEZLdEM="
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOWVpN3BVX1VZdHB5Z0dxOGN0WGtSZw=="
 ---

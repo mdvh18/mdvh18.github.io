@@ -17,6 +17,6 @@ phienban: "v0.1.9"
 dev: "Agent Nova"
 genre: "3DCG, Animated, Handj, Adventure, Fantasy, PoV, Puzzle, Romance"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1U5V1c1Zk1q"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdFJJaWNjNHMzcVRFM3RudGp2V1ZNQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1U5V1c1Zk1q"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdFJJaWNjNHMzcVRFM3RudGp2V1ZNQQ=="
 ---

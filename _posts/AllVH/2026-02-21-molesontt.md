@@ -15,6 +15,6 @@ platform: "PC"
 dungluong: "429MB"
 genre: "2DCG, Animated, Train, Student"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2hwUzFIemFD"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdVpOY3ZRNmdhUk9tVVRYNUpETXEwQQ=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2hwUzFIemFD"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdVpOY3ZRNmdhUk9tVVRYNUpETXEwQQ=="
 ---

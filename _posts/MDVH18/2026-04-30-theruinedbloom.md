@@ -17,6 +17,6 @@ phienban: "v0.5.7"
 dev: "CungDuts"
 genre: "3DCG, Ahegao, Animated, Handjb, Mobile game, Multiple endings, Parody, POV, Romance, Sleep"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2M2TjVoVlkx"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNm9kazZBWG8tZmhaXzNQWmRfN2dWQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2M2TjVoVlkx"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNm9kazZBWG8tZmhaXzNQWmRfN2dWQQ=="
 ---

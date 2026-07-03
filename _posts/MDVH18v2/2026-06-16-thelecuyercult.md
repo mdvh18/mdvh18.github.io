@@ -18,7 +18,7 @@ phienban: "Final Chapter"
 dev: "SALR Games"
 genre: "3dcg, Male protagonist, Mobile game, Anal sex, Big ass, Big tits, Incest, Male domination, BDSM, Oral sex, Vaginal sex, Voyeurism, Adventure, Fantasy, Religion, Harem"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2lpY3podm0y"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1JNZDRtaWNk"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNnM3ZDdoQTllWEk4NTBDVF9BRmNxdw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2lpY3podm0y"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1JNZDRtaWNk"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNnM3ZDdoQTllWEk4NTBDVF9BRmNxdw=="
 ---

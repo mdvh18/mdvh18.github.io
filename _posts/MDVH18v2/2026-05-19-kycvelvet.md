@@ -17,7 +17,7 @@ phienban: "Completed"
 dev: "Amarta Tales"
 genre: "3DCG, Adventure, Anal sex, Animated, Big ass, Big tits, Creampie, Fantasy, Female protagonist, Groping, Handjob, Male domination, Monster, Monster girl, Oral sex, Point & Click, Puzzle, RPG, Vaginal sex, Voiced"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1NncUNpdjVF"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0tjRktySG01"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVWt3bGNsY3ZlWDZyWUFPMld2Z2R6UQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1NncUNpdjVF"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0tjRktySG01"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVWt3bGNsY3ZlWDZyWUFPMld2Z2R6UQ=="
 ---

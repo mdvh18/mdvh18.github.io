@@ -18,7 +18,7 @@ phienban: "Completed"
 dev: "Scarlet Lust Studios"
 genre: "3DCG, Animated, Big ass, Big tits, Female protagonist, Group sex, Lesbian, Masturbation, Oral sex, Vaginal sex"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2lWeGNQYmVW"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2VHR2o2aGl3"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xM18za20yNlQ4Q2tGbGE2Si01VlF4dw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2lWeGNQYmVW"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2VHR2o2aGl3"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xM18za20yNlQ4Q2tGbGE2Si01VlF4dw=="
 ---

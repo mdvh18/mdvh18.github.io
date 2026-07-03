@@ -17,6 +17,6 @@ phienban: "v0.21"
 dev: "Danganman"
 genre: "Animated, Group, Harem, Romance"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0I1cVpybjNV"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQ3MybUE4c0Y2LUx6UEZVb2Y5cmRjdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0I1cVpybjNV"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQ3MybUE4c0Y2LUx6UEZVb2Y5cmRjdw=="
 ---

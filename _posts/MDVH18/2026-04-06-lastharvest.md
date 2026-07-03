@@ -17,6 +17,6 @@ phienban: "v0.2.5a"
 dev: "AKZ"
 genre: "3DCG, Animated, Humor, Point & Click, Romance, Sandbox, Handj, Footj"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0pqMzFuVnlF"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQklhVFdEUmdxZXA3dlRaZDR6dmN6UQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0pqMzFuVnlF"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQklhVFdEUmdxZXA3dlRaZDR6dmN6UQ=="
 ---

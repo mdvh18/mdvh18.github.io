@@ -18,7 +18,7 @@ phienban: "v0.5"
 dev: "CURE"
 genre: "3DCG, Ahegao, Animated, Big Ass, Big Tits, Cosplay, Creampie, Exhibitionism, Fantasy, Footjob, Futa/Trans, Gay, Graphic violence, Groping, Handjob, Harem, Horror, Humor, Interracial, Lesbian, MILF, Male Domination, Male Protagonist, Masturbation, Milf, Mobile Game, Monster Girl, Monster, Oral Sex, Rape, Romance, School Setting, Sexual Harassment, Sleep Sex, Teasing, Titfuck, Twins, Vaginal Sex, Virgin, Voiced, Voyeurism"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzMzb2Y2Q0VZ"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L01wdFlOUXJB"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdkFuNmR5b1N4REd2dHdRUHRrd1U4Zw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzMzb2Y2Q0VZ"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L01wdFlOUXJB"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdkFuNmR5b1N4REd2dHdRUHRrd1U4Zw=="
 ---

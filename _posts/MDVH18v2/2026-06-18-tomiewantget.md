@@ -18,7 +18,7 @@ phienban: "Completed"
 dev: "XHunterz x Ollane"
 genre: "Female Protagonist, Sandbox, Animated, Corruption, Prostitution, Dating Sim, Vaginal Sex, Oral Sex, Submissive, Groping, Voyeurism, Stripping, Sexual Harassment, Pregnancy, Male domination, Spanking, Anal Sex, Blackmail, Humiliation, Multiple Endings, Urination, Censored, Creampie, Bukkake, Multiple penetration, Rape, Sex toys, Interracial, Lesbian, Masturbation, Milf, Mobile game"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0IxRkN3R054"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzVCRWlyd3pN"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNjhZU1B2NmNoU3ZUU1ZHZHlrVlQzUQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0IxRkN3R054"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzVCRWlyd3pN"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNjhZU1B2NmNoU3ZUU1ZHZHlrVlQzUQ=="
 ---

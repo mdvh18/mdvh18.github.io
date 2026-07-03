@@ -18,7 +18,7 @@ phienban: "Final"
 dev: "Seacth"
 genre: "3DCG, Male protagonist, Animated, Mobile game, Big ass, Big tits, Creampie, Handjob, Incest, MILF, Vaginal sex, Fem domination, Oral sex, Male domination, Pregnancy, Romance"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzR2djRIWDNj"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1dUNHRGc2NG"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9mOVdERHA="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzR2djRIWDNj"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1dUNHRGc2NG"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9mOVdERHA="
 ---

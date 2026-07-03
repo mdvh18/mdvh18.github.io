@@ -17,6 +17,6 @@ phienban: "v1.1.0"
 dev: "HornyDoge"
 genre: "2DCG, Animated, Point and click, Management, Japanese game, Voiced,"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzRiZnl2czN2"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xU1E1Ui1WYzNlellKQm9CWjJGbk9hdw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzRiZnl2czN2"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xU1E1Ui1WYzNlellKQm9CWjJGbk9hdw=="
 ---

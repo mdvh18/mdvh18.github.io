@@ -17,7 +17,7 @@ phienban: "v0.2"
 dev: "Hot Couple Games"
 genre: "3dcg, MILF, Female protagonist, Teasing, Groping, Big ass, Big tits, Mobile game"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzE1TEF4UTZ3"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2RTTkxacFo3"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWE9rTFRSX05XclpfMmFEMl9TTDgwZw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzE1TEF4UTZ3"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2RTTkxacFo3"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWE9rTFRSX05XclpfMmFEMl9TTDgwZw=="
 ---

@@ -17,6 +17,6 @@ phienban: "v0.37"
 dev: "Roger"
 genre: "Skynet cg, Dating sim Mobile game"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1JrMWhkRFZi"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOGJxaU9tY0hlbDJ4R2tuQkpOcERJQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1JrMWhkRFZi"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOGJxaU9tY0hlbDJ4R2tuQkpOcERJQQ=="
 ---

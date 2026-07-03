@@ -19,5 +19,5 @@ phienban: "Ep7b"
 dev: "TheBlueInk"
 genre: "3DCG, Harem, Milf, Animated, Teasing, Groping"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2dHcHp1Q2pa"
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2dHcHp1Q2pa"
 ---

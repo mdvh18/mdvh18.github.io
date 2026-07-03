@@ -18,7 +18,7 @@ phienban: "v0.6.8b"
 dev: "PixDES"
 genre: "3DCG, Female Protagonist, Big Tits, Masturbation, Oral Sex, Hand Job, Tit Fuck, Blowjob"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2Y3TWZhUURS"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzFoQTRNQjdB"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNzlyVGszM0NVQW00UzdXU0tzRHpUUQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2Y3TWZhUURS"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzFoQTRNQjdB"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNzlyVGszM0NVQW00UzdXU0tzRHpUUQ=="
 ---

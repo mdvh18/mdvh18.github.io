@@ -17,6 +17,6 @@ phienban: "Ep.3"
 dev: "Wingmen Labs"
 genre: "3DCG, Animated, Male protagonist, Drama,"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2MxNGk5ZEtp"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZkhjYVBvaWlPRlVWVEptb292ZXM4QQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2MxNGk5ZEtp"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZkhjYVBvaWlPRlVWVEptb292ZXM4QQ=="
 ---

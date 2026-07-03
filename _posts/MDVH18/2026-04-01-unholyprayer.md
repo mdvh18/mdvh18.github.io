@@ -16,6 +16,6 @@ dungluong: "1.1GB"
 dev: "Unholy Creation"
 genre: "2DCG, 2D game, Animated, Censored, Combat, Japanese game, Masturba, Monster, Rpg, Side-scroller"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2ExY21GY294"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xajY5dk56eTVicUptSVk2LXRXajVtUQ=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2ExY21GY294"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xajY5dk56eTVicUptSVk2LXRXajVtUQ=="
 ---

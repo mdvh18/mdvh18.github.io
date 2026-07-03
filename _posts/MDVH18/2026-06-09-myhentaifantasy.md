@@ -18,8 +18,8 @@ phienban: "v0.16.1"
 dev: "Naughty Capy"
 genre: "3DCG, Animated, Groping, Handj, Masturbn, Milf, Parody, Point & Click, POV, School setting, Sci-Fi"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1RKVHU5aDNK"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2pOR3h2c3dO"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9UTlZiZnY="
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xLWxod3ZrM0ZfaFJ4X1FmLTRoYmNZUQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1RKVHU5aDNK"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2pOR3h2c3dO"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9UTlZiZnY="
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xLWxod3ZrM0ZfaFJ4X1FmLTRoYmNZUQ=="
 ---

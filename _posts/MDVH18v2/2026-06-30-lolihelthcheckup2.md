@@ -18,6 +18,6 @@ phienban: "RJ01619395"
 dev: "FujizakuraWorks"
 genre: "3DCG, Animated, Big Breast, Heroine, Impregnation, Japanese"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L21NSjRZaTZ2"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdEluaXhsOHUtZlhXWTkwTGJhaHdOdw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L21NSjRZaTZ2"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdEluaXhsOHUtZlhXWTkwTGJhaHdOdw=="
 ---

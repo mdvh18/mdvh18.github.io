@@ -17,6 +17,6 @@ phienban: "v0.0.8R"
 dev: "HornyJailStudio"
 genre: "2DCG, AI CG, Animated, Dating Sim, Mobile game, Romance, Rpg"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzRXNUVjb1ly"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZEJEd21taThMLVhnUE1uMk5pYWFKUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzRXNUVjb1ly"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZEJEd21taThMLVhnUE1uMk5pYWFKUQ=="
 ---

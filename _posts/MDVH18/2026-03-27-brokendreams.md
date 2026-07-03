@@ -17,6 +17,6 @@ phienban: "v0.5.1"
 dev: "Biggering"
 genre: "3DCG, Animated, School setting, Superpowers, Mobile game"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2N6VjQ0WVBW"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNXZzSEhOYVdpRXV3Q2VtLUpNYW5MUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2N6VjQ0WVBW"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNXZzSEhOYVdpRXV3Q2VtLUpNYW5MUQ=="
 ---

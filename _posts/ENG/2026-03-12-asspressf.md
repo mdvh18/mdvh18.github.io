@@ -19,5 +19,5 @@ phienban: "Final"
 dev: "Hentai Puzzle"
 genre: "AI CG, 2DCG, Anime, Arcade, Casual, Clicker, Cute, NSFW Indie, Short"
 
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQjRXWGFISS1ocVIweEZyRHN1YXpKdw=="
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQjRXWGFISS1ocVIweEZyRHN1YXpKdw=="
 ---

@@ -18,7 +18,7 @@ phienban: "v0.02.02b"
 dev: "Madlust Lewdart"
 genre: "2DCG, Animated, Big Ass, Big Tits, Blowjob, Deepthroat, Handjob, Humor, Male Protagonist, Milf, Oral Sex,Point & Click, PoV, Romance, Sandbox, Teasing, Twins, Vaginal Sex"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0ROMzgxWGVQ"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0NoZXdiZmdl"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xU1pqLVVXbXZIRmZFYVB5UzFsQjYzdw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0ROMzgxWGVQ"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0NoZXdiZmdl"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xU1pqLVVXbXZIRmZFYVB5UzFsQjYzdw=="
 ---

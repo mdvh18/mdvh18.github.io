@@ -17,6 +17,6 @@ phienban: "Kollege Days"
 dev: "Classy Lemon"
 genre: "3DCG, Animated, Harem, Voiced, Handj, Sci-fi, Footjb, Mobile game"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0dIaE1vbnBi"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xX0tWNnY2UjRlYXNwdzZPVWp4MVBtQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0dIaE1vbnBi"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xX0tWNnY2UjRlYXNwdzZPVWp4MVBtQQ=="
 ---

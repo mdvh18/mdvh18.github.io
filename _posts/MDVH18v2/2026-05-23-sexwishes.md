@@ -17,6 +17,6 @@ phienban: "Final"
 dev: "Dirty Adventures"
 genre: "3DCG, animated, big ass, big tits, male protagonist, milf, oral sex, pov, rpg, superpowers, vaginal sex, voiced"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2lGcWtYOWVr"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9lV29iZnM="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2lGcWtYOWVr"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9lV29iZnM="
 ---

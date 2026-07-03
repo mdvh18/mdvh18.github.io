@@ -18,7 +18,7 @@ phienban: "v0.3"
 dev: "Schlop"
 genre: "3DCG, Animated, Big ass, Big tits, Handjob, Incest, Male protagonist, Masturbation, MILF, Point & click, Romance, School setting, Sandbox"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2QzUE1lQXp6"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1JFdjRydFFC"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcHdRSVQ3ekVaQkUtbDB1OXUwZEZxdw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2QzUE1lQXp6"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1JFdjRydFFC"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcHdRSVQ3ekVaQkUtbDB1OXUwZEZxdw=="
 ---

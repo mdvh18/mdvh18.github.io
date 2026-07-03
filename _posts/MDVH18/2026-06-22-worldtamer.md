@@ -18,6 +18,6 @@ phienban: "v0.41"
 dev: "Deniam"
 genre: "3DCG, Ahegao, Animated, Dating Sim, Exhibitionism, Fantasy, Groping, Group, Handjb, Harem, Lesbian, Masturbation, Milf, Mobile Game, Monster Girl, Oral Sex, Pov, Romance, Twins"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1VMOGhXdzE0"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZzhNQXlmUU1FRUs0TEExcE42bmdzQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1VMOGhXdzE0"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZzhNQXlmUU1FRUs0TEExcE42bmdzQQ=="
 ---

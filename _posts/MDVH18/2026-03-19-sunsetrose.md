@@ -17,6 +17,6 @@ phienban: "v0.1 Elite"
 dev: "Lewdlab"
 genre: "3DCG, Animated, Groping, MILF Mastur, toys, Handj,"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzhVam9WN3ox"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSXQxLWhTdGF3cU5PTGxLeXpCRGZtQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzhVam9WN3ox"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSXQxLWhTdGF3cU5PTGxLeXpCRGZtQQ=="
 ---

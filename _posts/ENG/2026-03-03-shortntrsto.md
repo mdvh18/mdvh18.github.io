@@ -19,6 +19,6 @@ phienban: "v1.0"
 dev: "LustfulFantasy"
 genre: "3dcg, Animated, Mobile game, Corruption"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2J0eHhHQm5x"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbWZHMDBQY1JBV0ZhblY0b0xvRmNkZw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2J0eHhHQm5x"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbWZHMDBQY1JBV0ZhblY0b0xvRmNkZw=="
 ---

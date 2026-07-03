@@ -18,7 +18,7 @@ phienban: "Completed"
 dev: "SALR Games"
 genre: "3DCG, Anal sex, Animated, Big ass, Big tits, Cheating, Creampie, Groping, Handjob, Male domination, Male protagonist, Masturbation, Milf, Oral sex, Romance, Teasing, Titfuck, Sex toys, Vaginal sex, Voyeurism"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzI3cjVHazFv"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0dxOUhHVmNR"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xa0hFVzNCZVdEY0pUaEdheDl4NUxZdw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzI3cjVHazFv"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0dxOUhHVmNR"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xa0hFVzNCZVdEY0pUaEdheDl4NUxZdw=="
 ---

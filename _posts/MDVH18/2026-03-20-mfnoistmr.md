@@ -17,6 +17,6 @@ phienban: "v1.04"
 dev: "Studio Neko Kick"
 genre: "2DCG, Animated, Groping, Japanese Game, Mastur, Sleep, Simulator, Voiced"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1ZOTFVVaFE0"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOEJORk5Ta2ZiLWltc09lVFZJM2d1QQ=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1ZOTFVVaFE0"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOEJORk5Ta2ZiLWltc09lVFZJM2d1QQ=="
 ---

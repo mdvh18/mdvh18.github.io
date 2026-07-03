@@ -17,6 +17,6 @@ phienban: "Completed"
 dev: "Dreamers Workshop"
 genre: "Adventure, Indie, Sports"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzlBSFNXNWdk"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWUxrb2gyZVR5X0g2MGpWWkdXTE9SZw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzlBSFNXNWdk"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWUxrb2gyZVR5X0g2MGpWWkdXTE9SZw=="
 ---

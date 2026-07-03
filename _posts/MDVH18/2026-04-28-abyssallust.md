@@ -17,6 +17,6 @@ phienban: "v0.4.2"
 dev: "Novaporoid"
 genre: "3DCG, Male protagonist, Horror, Supernatural"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL29FaWVRelY2"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVW1VOUtPUkgzNUt3TTZGQXpDbUsyZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL29FaWVRelY2"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVW1VOUtPUkgzNUt3TTZGQXpDbUsyZw=="
 ---

@@ -17,6 +17,6 @@ phienban: "v0.13"
 dev: "Deasfulf"
 genre: "Adult, Adventure, Animation, Anime, Erotic, Hentai, NSFW, Romance"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzk2NkhiYlNS"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVGR0Sjk2VVdSUlhyckpCMnp0VnZYdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzk2NkhiYlNS"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVGR0Sjk2VVdSUlhyckpCMnp0VnZYdw=="
 ---

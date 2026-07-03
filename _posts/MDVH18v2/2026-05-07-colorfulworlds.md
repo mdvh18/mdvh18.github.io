@@ -17,6 +17,6 @@ phienban: "v0.4.5"
 dev: "TheMerkut"
 genre: "3DCG, Female Protagonist, Animated, School setting"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0RqS1JHS3VS"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMGpWdTljWVJlQjVSN0xCcG12MkVqUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0RqS1JHS3VS"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMGpWdTljWVJlQjVSN0xCcG12MkVqUQ=="
 ---

@@ -19,6 +19,6 @@ phienban: "v1.0"
 dev: "Flowing water"
 genre: "3DCG, Animated, Groping, Handj, Japanese game, Mastur, School setting, Teasing"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzJRR3JLNW1D"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xelVVcDRwckgyR1JITU9FZFBXUTlaZw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzJRR3JLNW1D"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xelVVcDRwckgyR1JITU9FZFBXUTlaZw=="
 ---

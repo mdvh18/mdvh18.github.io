@@ -18,5 +18,5 @@ dungluong: "302MB"
 dev: "MukudoriGames"
 genre: "3DCG, Groping, Handj, Japanese Game, Voiced,"
 
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xeGZXdm5SYjRKSFdHQ3R5MTVjM3cxdw=="
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xeGZXdm5SYjRKSFdHQ3R5MTVjM3cxdw=="
 ---

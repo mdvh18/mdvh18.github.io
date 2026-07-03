@@ -17,7 +17,7 @@ phienban: "v0.14.0"
 dev: "Space Samurai Games"
 genre: "3DCG, Adventure, Anal sex, Animated, Big tits, Groping, Male protagonist, Milf, Oral sex, Sandbox, Superpowers, Vaginal sex"
 
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2FTTnBEWWNN"
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3FzQ2FrN3Y1"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC90OW94QmU="
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2FTTnBEWWNN"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3FzQ2FrN3Y1"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC90OW94QmU="
 ---

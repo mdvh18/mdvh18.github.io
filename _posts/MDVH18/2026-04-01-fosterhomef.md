@@ -17,6 +17,6 @@ phienban: "v0.1"
 dev: "FosterHomeF"
 genre: "3DCG, Futa/Trans"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL295djJDRFFG"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNUliSmtJUFg3YVZqTndpUUY5RGMwZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL295djJDRFFG"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNUliSmtJUFg3YVZqTndpUUY5RGMwZw=="
 ---

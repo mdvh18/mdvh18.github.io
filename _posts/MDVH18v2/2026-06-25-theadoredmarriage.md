@@ -18,7 +18,7 @@ phienban: "Ch.3 v0.6"
 dev: "Simbaclaw"
 genre: "3dcg, Animated, Anal Sex, Big Ass, Big tits, Big ass, Cheating, Corruption, Creampie, Exhibitionism, Female Domination, Female Protagonist, Foot job, Groping, Harem, Handjob, Interracial, Male Protagonist, Milf, Mobile Game, Multiple Protagonist, Netorare, Oral Sex, Swinging, Teasing, Vaginal sex, Voyeurism"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1ZVc0RMcnFK"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2ZVckFNMjQz"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRm9ZdXJtcTdvT09sZFd4QkQzRFk5UQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1ZVc0RMcnFK"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2ZVckFNMjQz"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRm9ZdXJtcTdvT09sZFd4QkQzRFk5UQ=="
 ---

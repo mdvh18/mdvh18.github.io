@@ -17,6 +17,6 @@ phienban: "v0.1"
 dev: "Sad Pepper"
 genre: "3dcg, Animated, Groping, Netor, Mobile game"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1F3aGF5OFJ0"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xM0hnY0NoM2dFVWRqelBjNlBkYVhHUQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1F3aGF5OFJ0"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xM0hnY0NoM2dFVWRqelBjNlBkYVhHUQ=="
 ---

@@ -17,6 +17,6 @@ phienban: "Ch. 1-3"
 dev: "kraguto games"
 genre: "3DCG, Ahegao, Animated, Cosplay, Groping, Group, Handjob, Harem, Nasturb, Nilf, Nonster girl, Parody, Pov, Romance, School setting, Toys"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1FaWHRMS3pm"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcGx3VmYzbjdWbHhYLUNPT2xVemtzZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1FaWHRMS3pm"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcGx3VmYzbjdWbHhYLUNPT2xVemtzZw=="
 ---

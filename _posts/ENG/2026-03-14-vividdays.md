@@ -19,5 +19,5 @@ phienban: "v0.2"
 dev: "Loys"
 genre: "3DCG, Feet, MILF, Animated"
 
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xelJEZGJCck84QmhKcV9lLVRtc3FRZw=="
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xelJEZGJCck84QmhKcV9lLVRtc3FRZw=="
 ---

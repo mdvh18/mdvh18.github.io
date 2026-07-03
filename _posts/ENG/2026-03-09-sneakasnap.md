@@ -19,5 +19,5 @@ phienban: "v0.1.1"
 dev: "Lewdonymous"
 genre: "3DCG, Milf"
 
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYl9EU2FlNjljVW5ZbGlrczEyekR5dw=="
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYl9EU2FlNjljVW5ZbGlrczEyekR5dw=="
 ---

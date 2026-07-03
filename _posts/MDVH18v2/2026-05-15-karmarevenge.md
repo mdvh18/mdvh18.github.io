@@ -17,6 +17,6 @@ phienban: "Ch.1 P2"
 dev: "IntensiveCareGames"
 genre: "3DCG, Animated, Dilf, Female Protagonist, Graphic Violence"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0hFQXNmQ0o4"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWUVfR0xFakxnNG9RcHdEMjI0ZkFxQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0hFQXNmQ0o4"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWUVfR0xFakxnNG9RcHdEMjI0ZkFxQQ=="
 ---

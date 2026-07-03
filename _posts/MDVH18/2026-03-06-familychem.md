@@ -17,7 +17,7 @@ phienban: "SE"
 dev: "DKL"
 genre: "3DCG, Animated, Le, Group, Mastur, Toys, Handj, Mobile Game, Kinetic Novel, Milf"
 
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzNpaVN2cnNS"
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3hoOFYxd3VN"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZEZTVjB2cjlZX1MycVFhbHF4ZnFOdw=="
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzNpaVN2cnNS"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3hoOFYxd3VN"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZEZTVjB2cjlZX1MycVFhbHF4ZnFOdw=="
 ---

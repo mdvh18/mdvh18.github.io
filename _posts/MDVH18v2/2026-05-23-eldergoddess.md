@@ -17,7 +17,7 @@ phienban: "Completed"
 dev: "Bunny Alice Games"
 genre: "2DCG, Censored, Childbirth, Clothes Changing, Dress up, Collar, Chain, Restraints, Corrupted Morals, Interspecies Sex, Japanese Game, Prostitution, Paid Dating, Shame, Humiliation"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L25haEdYcm1l"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC95SEM1Ykc="
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZFYweUc4bGRVc1Z3SHhrX2VxQlo2UQ=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L25haEdYcm1l"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC95SEM1Ykc="
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZFYweUc4bGRVc1Z3SHhrX2VxQlo2UQ=="
 ---

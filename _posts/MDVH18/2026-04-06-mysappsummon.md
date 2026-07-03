@@ -17,6 +17,6 @@ phienban: "v7.0"
 dev: "Abbys_Cat"
 genre: "3DCG, 2DCG, Animated, Monster, Parody, HandJ, Milf, Furry, Harem."
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1Foc2JrQXl1"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOFA1bURkekN5UF9lOXZjS0daZFlMZw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1Foc2JrQXl1"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOFA1bURkekN5UF9lOXZjS0daZFlMZw=="
 ---

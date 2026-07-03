@@ -17,6 +17,6 @@ phienban: "Completed"
 dev: "JellyFluff Games"
 genre: "3DCG, Animated, Big tits, Footjb, Male protagonist, Milf, Monster girl, Multiple endings"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2pDelpTMmp6"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbGhwYW9EWGFlUDNrMTM2U1ZaZ1FuZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2pDelpTMmp6"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbGhwYW9EWGFlUDNrMTM2U1ZaZ1FuZw=="
 ---

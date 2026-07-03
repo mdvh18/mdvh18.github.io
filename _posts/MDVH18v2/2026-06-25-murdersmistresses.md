@@ -18,7 +18,7 @@ phienban: "v0.15.1.2s"
 dev: "Undergrad Steve"
 genre: "3dcg, Animated, Male protagonist, Sandbox, Groping, Teasing, Vaginal sex, Creampie, Big ass, Big tits, Adventure, Sex toys, Harem, Interracial, Oral sex, Milf"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2pOOFg4YXJp"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2dlYXYzb20z"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUWtVMmFaa1JwbkxhVElEVGVobER3dw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2pOOFg4YXJp"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2dlYXYzb20z"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUWtVMmFaa1JwbkxhVElEVGVobER3dw=="
 ---

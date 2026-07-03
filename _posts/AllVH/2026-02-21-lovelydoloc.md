@@ -17,6 +17,6 @@ phienban: "Final"
 dev: "Sloth Gamer"
 genre: "2DCG, Animated, Footj, Groping, Multiple endings, Toys, Voice"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0hrQ1N2NjdM"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdFBVcDJEbWRaN0Vnd19DQUk5bE9sQQ=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0hrQ1N2NjdM"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdFBVcDJEbWRaN0Vnd19DQUk5bE9sQQ=="
 ---

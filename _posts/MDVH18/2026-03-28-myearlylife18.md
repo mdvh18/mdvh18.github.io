@@ -17,6 +17,6 @@ phienban: "Ep.12-18"
 dev: "CeLaVie Group"
 genre: "3DCG, Groping, Masturb Animated, Mobile game"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1ZxdkNUbkVL"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xLXUyRVFxUzVJMjhRMll6QzJyWGZrZw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1ZxdkNUbkVL"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xLXUyRVFxUzVJMjhRMll6QzJyWGZrZw=="
 ---

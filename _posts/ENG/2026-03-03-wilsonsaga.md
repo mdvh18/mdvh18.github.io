@@ -19,6 +19,6 @@ phienban: "Final"
 dev: "Rogy3d"
 genre: "3DCG, Animated, Dating sim, Harem, Creampie, Point and Click, Groping"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzRwMkFQUmto"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQTJFYU96b0dvY0lxZXRzYzFVX0Jldw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzRwMkFQUmto"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQTJFYU96b0dvY0lxZXRzYzFVX0Jldw=="
 ---

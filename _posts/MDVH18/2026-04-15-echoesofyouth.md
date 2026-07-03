@@ -17,6 +17,6 @@ phienban: "v1.0.2"
 dev: "Erobyte Games"
 genre: "3DCG, Animated, MILF, Harem, Monster girl, School Setting"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0gxb1pvejFq"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMDdDVEZEeFJPbmZhNDVDY2JUM3Zqdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0gxb1pvejFq"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMDdDVEZEeFJPbmZhNDVDY2JUM3Zqdw=="
 ---

@@ -17,6 +17,6 @@ phienban: "Completed"
 dev: "Cat Language/NekoGotoStudio"
 genre: "2DCG, Animated, Dating sim, Groping, Handjb, Internal view, Japanese game, Romance, RPG"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0FEaGUxWmI1"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZEZVSUstSEZZQ0YxWS05bmMwSUpYQQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0FEaGUxWmI1"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZEZVSUstSEZZQ0YxWS05bmMwSUpYQQ=="
 ---

@@ -17,6 +17,6 @@ phienban: "v1.0.004"
 dev: "Triple-S"
 genre: "2DCG, Animated, Big tits, Dating sim, Group, Handjb, Male protagonist, Romance, Rpg, Sci-fi, Side-scroller, Voiced"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0V3TUEzVGg5"
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSnVGOS1BOFR0ZlRRbDg2VW9zZExPdw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0V3TUEzVGg5"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSnVGOS1BOFR0ZlRRbDg2VW9zZExPdw=="
 ---

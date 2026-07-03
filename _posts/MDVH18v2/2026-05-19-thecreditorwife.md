@@ -17,8 +17,8 @@ phienban: "v0.1d3"
 dev: "PolyPA"
 genre: "MALE PROTAGONIST, 3DCG, MILF, BIG TITS, BIG ASS, TEASING, VOYEURISM, FEMALE DOMINATION, EXHIBITIONISM, SCHOOL SETTING, ROMANCE"
 
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0x1V05qWThV"
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzJxRzh3ZUxW"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9pVXVvQjA="
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSnFUZnVoY3pleTVMUFdoOWRfR2lvZw=="
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0x1V05qWThV"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzJxRzh3ZUxW"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9pVXVvQjA="
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSnFUZnVoY3pleTVMUFdoOWRfR2lvZw=="
 ---

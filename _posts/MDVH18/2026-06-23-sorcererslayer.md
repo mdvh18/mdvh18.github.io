@@ -18,6 +18,6 @@ phienban: "v0.03"
 dev: "deasfulf"
 genre: "2DCG, 3DCG, Adult, Erotic, Fantasy, NSFW, Parody, Romance"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1VuZjVKc2NX"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSTVpQjZRenBwVjFJLXlmR0lqVmtaUQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1VuZjVKc2NX"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSTVpQjZRenBwVjFJLXlmR0lqVmtaUQ=="
 ---

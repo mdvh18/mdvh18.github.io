@@ -17,7 +17,7 @@ phienban: "v0.02"
 dev: "SuckylittleD"
 genre: "3DCG, Animated, Teasing, Big Tits, Big Ass, Romance, Male protagonist, Humor, Fantasy, Vaginal sex, School setting, Creampie, School setting, Graphic violence, Harem, Ahgao, Anal Sex"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1NGWFVXeWhM"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0dFUlhlZWVx"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xaUZRRlMyMS1yaXhNWkN2N201b3h0UQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1NGWFVXeWhM"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0dFUlhlZWVx"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xaUZRRlMyMS1yaXhNWkN2N201b3h0UQ=="
 ---

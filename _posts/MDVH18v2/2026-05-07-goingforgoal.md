@@ -17,6 +17,6 @@ phienban: "v0.15"
 dev: "DarkSkello"
 genre: "3DCG, Male protagonist, Big tits, Big ass, Milf, Harem"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL21peVo0UjhH"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVEtjWFFkWGtRNW1aVHYxa29YT0I1QQ=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL21peVo0UjhH"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVEtjWFFkWGtRNW1aVHYxa29YT0I1QQ=="
 ---

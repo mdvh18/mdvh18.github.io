@@ -17,6 +17,6 @@ phienban: "v1.1.4"
 dev: "Cat 3"
 genre: "3DCG, Animated, Male protagonist, Point & click, Pov, Romance, Toys"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1g5SjJBVnBB"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xM0lHOTg3Y2JudkY5WlhWMWh4RUZVdw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1g5SjJBVnBB"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xM0lHOTg3Y2JudkY5WlhWMWh4RUZVdw=="
 ---

@@ -17,7 +17,7 @@ phienban: "v0.21 Demo"
 dev: "MaxCoffee"
 genre: "3DCG, Parody, Harem, Handjb, Titjb, Dating Sim"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L21qb1JQSGlt"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzhHd2RIb00y"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTVBIYV81RVBWbW1Ia1JJWnJaNERRdw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L21qb1JQSGlt"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzhHd2RIb00y"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTVBIYV81RVBWbW1Ia1JJWnJaNERRdw=="
 ---

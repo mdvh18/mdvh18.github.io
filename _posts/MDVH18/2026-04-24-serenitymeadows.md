@@ -17,6 +17,6 @@ phienban: "v0.8"
 dev: "Storm.ING"
 genre: "3DCG, Incest, Milf, School setting, Teasing"
 
-linkpixelapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzhvQTI2WmJH"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQ1dET0ZHZUJDdWg2Qm1WaGV3T1k0dw=="
+linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzhvQTI2WmJH"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQ1dET0ZHZUJDdWg2Qm1WaGV3T1k0dw=="
 ---
