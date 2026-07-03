@@ -18,7 +18,7 @@ phienban: "v0.5 Premium"
 dev: "Unbreakable Love"
 genre: "2DCG, NETORARE, Teasing, Exhibitionism, Big Tits, Female domination, Footjob, Humiliation, Handjob, Titjob, Vaginal Sex, NTR"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2Z6OGNWWFA5"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1pkQU1iRjZU"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWjA5YXM2T2x5cU5fbUhuc2hRcDRvUQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2Z6OGNWWFA5"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1pkQU1iRjZU"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWjA5YXM2T2x5cU5fbUhuc2hRcDRvUQ=="
 ---

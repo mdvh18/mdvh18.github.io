@@ -18,7 +18,7 @@ phienban: "v0.3.0"
 dev: "Gregoryum"
 genre: "2DCG, adventure, dating sim, sandbox, animated, big ass, big tits, creampie, exhibitionism, handjob, harem, ai cg, male protagonist, masturbation, milf, oral sex, romance, vaginal sex, voyeurism, interracial, point & click, ahegao, virgin, twins, lesbian, sex toys"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1V4NGtHTllX"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzhBV3JUVUtM"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOTFkTnU0OHV1X0NuNU9TcjlqX3lkQQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1V4NGtHTllX"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzhBV3JUVUtM"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOTFkTnU0OHV1X0NuNU9TcjlqX3lkQQ=="
 ---

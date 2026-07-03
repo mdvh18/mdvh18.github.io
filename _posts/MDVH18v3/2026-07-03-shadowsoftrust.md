@@ -18,7 +18,7 @@ phienban: "v0.3"
 dev: "Sieglinnde"
 genre: "3DCG, Male protagonist, Big ass, Big tits, Netorare, Cheating, Romance, Teasing, Vaginal Sex, Interracial, BBC, Animated, Corruption, Swinging"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url="
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0JrajI4cEh5"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xLVV1cmJmQ1VTQ011Z3F5UEpuX2QxQQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url="
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0JrajI4cEh5"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xLVV1cmJmQ1VTQ011Z3F5UEpuX2QxQQ=="
 ---

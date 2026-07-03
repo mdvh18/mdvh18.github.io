@@ -18,7 +18,7 @@ phienban: "v1.210.5"
 dev: "baap"
 genre: "3dcg, Female protagonist, Big ass, Teasing, Voyeurism, MILF, Vaginal sex, Mobile game, Oral sex, Masturbation, Blackmail, Teasing, Cheating, Corruption, Exhibitionism, Groping, Romance"
 
-linkpixel: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzl6eHhrb3lU"
-linkgofile: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9CRVhBc2E="
-linktera: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xM2d6ZVlmZ21UN2c5dk1PRmRQelNZZw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzl6eHhrb3lU"
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9CRVhBc2E="
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xM2d6ZVlmZ21UN2c5dk1PRmRQelNZZw=="
 ---

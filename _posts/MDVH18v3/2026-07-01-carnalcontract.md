@@ -18,7 +18,7 @@ phienban: "v1.03.1"
 dev: "Dotty Diaries"
 genre: "3DCG, Male protagonist, Animated, Sex toys, Voyeurism, Big ass, MILF, Exhibitionism, Oral sex, Vaginal sex, Creampie, Big tits"
 
-linkpixelapk: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzFTYWVYWTZy"
-linkpixelpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1FjNlcyMzFG"
-linkteraapkpc: "https://mdvh18.github.io/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRVNReXhGS25lUnRrbXE2NXdkTElIdw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzFTYWVYWTZy"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1FjNlcyMzFG"
+linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRVNReXhGS25lUnRrbXE2NXdkTElIdw=="
 ---
