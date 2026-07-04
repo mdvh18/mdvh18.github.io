@@ -18,7 +18,7 @@ phienban: "0.3e"
 dev: "Jaya’s Dawn"
 genre: "3DCG, Animation, Bdsm, Beautiful Ass, Blowjob, Domination, Erotic Adventure, Erotic Content, Futa on Futa, Futa on Male, Futanari, Humiliation, Jaya’s Dawn, Male Protagonist, Oral Sex, Ren'py, Seduction, Small Tits, Trap, Voyeur"
 
-linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1k2c0xQUkJn"
-linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2lSbW9oblBX"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2lSbW9oblBX"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1k2c0xQUkJn"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUTBHZHJnaHNvaUVHZUtKNTFsbG45UQ=="
 ---
