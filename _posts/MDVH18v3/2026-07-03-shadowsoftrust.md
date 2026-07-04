@@ -5,7 +5,7 @@ date: 2026-07-03 10:00:00 +0700
 title: "Việt Hóa Shadows of Trust v0.3 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Shadows of Trust (NTR) v0.3 Đọi fix lại apk - [2.2GB]"
+namebanner: "[Việt Hóa] Shadows of Trust (NTR) v0.3 ĐÃ FIX APK - [2.2GB]"
 mota: |
  Chàng trai này sống cùng bạn thân, Terry, trong một căn nhà. Cả hai đều đang đi học. Terry là một gã sát gái, và chàng trai này không tài nào hiểu nổi làm sao gã lại có thể cặp kè với bất cứ cô gái nào gã muốn! Mặc dù bản thân anh ta chỉ để mắt tới duy nhất một cô gái...
 gametype: "Visual Novel"
@@ -18,7 +18,7 @@ phienban: "v0.3"
 dev: "Sieglinnde"
 genre: "3DCG, Male protagonist, Big ass, Big tits, Netorare, Cheating, Romance, Teasing, Vaginal Sex, Interracial, BBC, Animated, Corruption, Swinging"
 
-linkpixelapk: "https://mdvh18.com/download.html?url="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1JLVWlEREpO"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0JrajI4cEh5"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xLVV1cmJmQ1VTQ011Z3F5UEpuX2QxQQ=="
 ---
