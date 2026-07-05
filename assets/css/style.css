@@ -1525,3 +1525,32 @@ img {
         font-size: 13px !important;
     }
 }
+
+@media (max-width: 768px) {
+    .limit-text {
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 3;
+        transition: all 0.3s ease;
+    }
+
+    .limit-text.expanded {
+        -webkit-line-clamp: unset; 
+    }
+    
+    #toggle-btn {
+        display: block;
+        margin-top: 5px;
+        background: none;
+        border: none;
+        color: blue; /* Đổi màu tùy ý */
+        cursor: pointer;
+        font-size: 14px;
+    }
+}
+@media (min-width: 769px) {
+    #toggle-btn {
+        display: none;
+    }
+}
