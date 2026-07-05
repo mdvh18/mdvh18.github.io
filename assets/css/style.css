@@ -1547,7 +1547,11 @@ img {
     .limit-text.expanded {
         -webkit-line-clamp: unset; 
     }
-    
+@media (max-width: 768px) {
+    #toggleMota {
+        display: block;
+    }
+}    
 @media (max-width: 768px) {
     #toggle-btn {
         display: block;
