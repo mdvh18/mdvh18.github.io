@@ -1549,8 +1549,8 @@ img {
         font-size: 12px;
     }
 }
-@media (min-width: 769px) {
+@media (max-width: 768px) {
     #toggle-btn {
-        display: none;
+        display: block;
     }
 }
