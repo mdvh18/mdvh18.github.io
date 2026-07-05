@@ -1540,7 +1540,7 @@ img {
     }
     
     #toggle-btn {
-        display: block;
+        display: none;
         margin-top: 5px;
         background: none;
         border: none;
