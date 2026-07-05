@@ -1546,7 +1546,7 @@ img {
         border: none;
         color: white;
         cursor: pointer;
-        font-size: 14px;
+        font-size: 12px;
     }
 }
 @media (min-width: 769px) {
