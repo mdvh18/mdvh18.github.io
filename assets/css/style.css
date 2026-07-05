@@ -1446,7 +1446,16 @@ img {
     font-size: 12px;
 }
 .filter-btn.active { background: #d4487f; }
-
+#toggle-btn {
+        display: none;
+        margin-top: 5px;
+        background: none;
+        border: none;
+        color: white;
+        cursor: pointer;
+        font-size: 12px;
+    }
+}
 @media screen and (max-width: 992px) {
     .main-content-wrapper {
         flex-direction: column !important;
@@ -1539,16 +1548,6 @@ img {
         -webkit-line-clamp: unset; 
     }
     
-    #toggle-btn {
-        display: none;
-        margin-top: 5px;
-        background: none;
-        border: none;
-        color: white;
-        cursor: pointer;
-        font-size: 12px;
-    }
-}
 @media (max-width: 768px) {
     #toggle-btn {
         display: block;
