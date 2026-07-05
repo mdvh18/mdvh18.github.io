@@ -1544,7 +1544,7 @@ img {
         margin-top: 5px;
         background: none;
         border: none;
-        color: blue; /* Đổi màu tùy ý */
+        color: blue;
         cursor: pointer;
         font-size: 14px;
     }
