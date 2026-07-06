@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "sortofjustice"
-date: 2026-07-06 11:40:00 +0700
+date: 2026-07-06 11:41:00 +0700
 title: "Việt Hóa Sort of Justice Ch.3 v0.3.1 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
