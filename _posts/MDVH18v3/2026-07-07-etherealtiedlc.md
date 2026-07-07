@@ -7,7 +7,7 @@ tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Ethereal Ties Holiday Special 0.1 - [1.8GB]"
 mota: |
- Một nhánh game của Ethereal Ties, nơi bạn gặp gỡ một linh hồn cô gái đã mất và giúp cô ấy tận hưởng những cảm giác bên cạnh những người bạn mới.
+ Một nhánh game của Ethereal Ties, nơi bạn gặp gỡ một linh hồn cô gái đã mất và giúp cô ấy tận hưởng những cảm giác bên cạnh những người bạn mới. Bản APK lệch khung menu, anh em chịu khó nhé.
 gametype: "Visual Novel"
 engine: "Renpy"
 language: "Tiếng Việt"
