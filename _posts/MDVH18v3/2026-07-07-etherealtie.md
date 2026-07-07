@@ -7,7 +7,7 @@ tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Ethereal Ties 0.5 - [4.6GB]"
 mota: |
- Bạn sẽ gặp gỡ những nhân vật đầy thú vị, xây dựng mối quan hệ, và thậm chí có thể tìm thấy tình yêu, tất cả trong lúc khám phá thế giới ẩn giấu của "Diviners"—những người sở hữu sức mạnh phi thường.
+ Bạn sẽ gặp gỡ những nhân vật đầy thú vị, xây dựng mối quan hệ, và thậm chí có thể tìm thấy tình yêu, tất cả trong lúc khám phá thế giới ẩn giấu của "Diviners"—những người sở hữu sức mạnh phi thường. Bản APK lệch khung menu, anh em chịu khó nhé.
 gametype: "Visual Novel"
 engine: "Renpy"
 language: "Tiếng Việt"
