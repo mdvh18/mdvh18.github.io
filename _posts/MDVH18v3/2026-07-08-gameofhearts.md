@@ -18,7 +18,7 @@ phienban: "Ch.5 R2"
 dev: "SparkHG"
 genre: "3DCG, Male Protagonist, MILF, Corruption, Paranormal, Romance, Ahegao, Animated, Cheating, Creampie, Harem, Oral sex, Prostitution, Stripping, Superpowers, Teasing, Transformation, Vaginal sex"
 
-linkpixeL: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzJKYmtKQ1lX"
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzJKYmtKQ1lX"
 linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9mOXFiOEI="
 linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xekU1NVQzbTluVFNlbU5uQUVNVTZEQQ=="
 ---
