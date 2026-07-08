@@ -18,7 +18,7 @@ phienban: "Day 2 Part 1"
 dev: "Cosmobot-7.0"
 genre: "3dcg, Male protagonist, Multiple endings, Romance, Vaginal sex, Creampie, Animated, Teasing, Oral sex, Handjob, Big ass, Big tits, Adventure, Male domination, Stripping, Exhibitionism"
 
-linkpixelapk: "https://mdvh18.com/download.html?url="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L29DYkR1NHN6"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3FZWFJKN0hF"
 linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVkZJRFE2UHdsVjJNN2RMcEZkNmxxUQ=="
 ---
