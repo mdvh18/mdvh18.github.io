@@ -1,11 +1,11 @@
 ---
 layout: game
 pitu_id: "houseofhearts"
-date: 2026-07-08 12:30:00 +0700
+date: 2026-07-08 12:31:00 +0700
 title: "Việt Hóa House of Hearts Ep.2 P.1 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK", "Compressed"]
-namebanner: "[Việt Hóa] House of Hearts Ep.2 P.1 - [6GB/1.6GB APK]"
+namebanner: "[Việt Hóa] House of Hearts Ep.2 P.1 Multi Mod - [6GB/1.6GB APK]"
 mota: |
  Một con quỷ lạc lõng giữa dòng thời gian, với những chuyện đã quên bị khóa chặt bởi kẻ đã tạo ra bạn. Nhưng bạn không cô độc. Được Asmodeus che chở, bạn và những người cùng phe đã đến một thế gian đầy sự thèm khát và lôi cuốn.
 gametype: "Visual Novel"
