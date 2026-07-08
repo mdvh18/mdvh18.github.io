@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "gameofhearts"
-date: 2026-07-08 15:30:00 +0700
+date: 2026-07-08 16:00:00 +0700
 title: "Việt Hóa Game of Hearts Ch.5 R2 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK", "Compressed"]
