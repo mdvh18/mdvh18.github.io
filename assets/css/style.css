@@ -556,7 +556,7 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
 }
 
 .tag-item1 {
-    font-size: 10px;
+    font-size: 15px;
     transform: scale(0.8);
     transform-origin: left center;
     font-weight: 700;
@@ -697,7 +697,15 @@ h1, h2, h3, h4, span, p, div { cursor: inherit; }
         transition: 0.3s;}
       
 .tag-item:hover { background: #f78f90; color: #fff; }
+.tag-item1 {background: #333;
+        color: #eee;
+        padding: 5px 12px;
+        border-radius: 4px;
+        text-decoration: none;
+        font-size: 15px;
+        transition: 0.3s;}
       
+.tag-item1:hover { background: #f78f90; color: #fff; }      
 .footer-info { margin-top: 25px; }
       
 .footer-logo { width: 40px; margin-bottom: 10px; }
