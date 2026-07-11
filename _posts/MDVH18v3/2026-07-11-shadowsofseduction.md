@@ -5,7 +5,7 @@ date: 2026-07-11 15:30:00 +0700
 title: "Việt Hóa Shadows of Seduction v0.4.06070 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Shadows of Seduction v0.4.06070 - [3.7GB]"
+namebanner: "[Việt Hóa] Shadows of Seduction v0.4.06070 WT Mod - [3.7GB]"
 mota: |
  Bạn sẽ sa vào những cám dỗ chứ? Chưa hết đâu—có những tiếng động lạ phát ra từ dưới tầng hầm sau khi được cử đến trừ tà.
 gametype: "Sandbox"
