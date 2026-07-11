@@ -163,6 +163,11 @@ layout: default
                 <span class="tag-item tag-{{ type | downcase | slugify }}">{{ type }}</span>
               {% endfor %}
             </div>
+            <div class="card-eng-tags">
+            {% for type in post.gametype %}
+            <span class="tag-item1 tag-{{ type | downcase | slugify }}">{{ type }}</span>
+            {% endfor %}
+            </div>
             <i class="fa-solid fa-angles-down download-icon-fa"></i> 
 
             {% if post.categories.size > 0 %}
