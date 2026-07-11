@@ -169,7 +169,17 @@ layout: default
               <div class="card-badge">{{ post.categories | first | replace: "-", " " }}</div>
             {% endif %}
           </div>
+          <div class="card-eng-tags">
+              {% for type in post.gametype %}
+                <span class="tag-item1 tag-{{ type | downcase | slugify }}">{{ type }}</span>
+              {% endfor %}
+            </div>
+            <i class="fa-solid fa-angles-down download-icon-fa"></i> 
 
+            {% if post.categories.size > 0 %}
+              <div class="card-badge">{{ post.categories | first | replace: "-", " " }}</div>
+            {% endif %}
+          </div>
           <div class="card-info">
             <h3>{% if post.namebanner %}{{ post.namebanner }}{% else %}{{ post.title }}{% endif %}</h3>
           </div>
