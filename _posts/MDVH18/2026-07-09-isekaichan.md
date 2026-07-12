@@ -17,7 +17,7 @@ phienban: "v0.3.1"
 dev: "PLAYMAKERz"
 genre: "3DCG, Animated, Teasing, Big tits, Teen, Handjob, Titfuck, Male protagonist, Male Domination, Sandbox, Oral Sex , Sexual harassment, Footjob, Masturbation, Fantasy, Adventure, Groping, School Setting, Harem"
 
-linkpixelapk: "https://mdvh18.com/download.html?url="
-linkpixelpc: "https://mdvh18.com/download.html?url="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2NndDJzN0FW"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzlQazJ5TXNE"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTll5YW0yTkttSWpIWl9VUTBZRlQzUQ=="
 ---
