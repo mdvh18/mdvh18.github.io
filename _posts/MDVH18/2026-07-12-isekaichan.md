@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "isekaichan"
-date: 2026-07-09 09:30:00 +0700
+date: 2026-07-12 18:30:00 +0700
 title: "Việt Hóa Isekai Chan! v0.3.1 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
