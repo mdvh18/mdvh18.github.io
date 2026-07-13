@@ -18,7 +18,7 @@ phienban: "v0.2"
 dev: "Feodosiy"
 genre: "2dcg, animated, male protagonist, parody, sandbox, point and click, big ass, big tits, oral sex, teasing, groping"
 
-linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3pWcktEZ2ZB"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1FrYzk4MUxI"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzJhbUhlYWdF"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYTdBdFhwb1FqcF9RWUIwOFBNVFJyUQ=="
 ---
