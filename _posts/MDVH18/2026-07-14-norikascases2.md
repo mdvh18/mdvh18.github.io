@@ -4,7 +4,7 @@ pitu_id: "norikascases2"
 date: 2026-07-14 08:30:00 +0700
 title: "Việt Hóa Norika's Case S2 v0.34 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
-typegame: ["PC", "APK"]
+typegame: ["PC", "APK", "Compressed"]
 namebanner: "[Việt Hóa] Norika's Case S2 v0.34 Update - [1.8GB]"
 mota: |
  Bạn là một thám tử đến từ một thị trấn nhỏ ở tỉnh lẻ. Năm năm trước, em gái Norika của bạn đã mất tích không một dấu vết. Những ký ức về cô ấy và mối quan hệ giữa hai người vẫn luôn ám ảnh bạn, nhưng bạn đã mất đi mọi hy vọng tìm thấy cô ấy.
