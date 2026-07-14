@@ -2,7 +2,7 @@
 layout: game
 pitu_id: "norikascases2"
 date: 2026-07-14 08:30:00 +0700
-title: "Việt Hóa Norika's Case S2 v0.33 - MDVH18"
+title: "Việt Hóa Norika's Case S2 v0.34 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Norika's Case S2 v0.34 Update - [1.8GB]"
