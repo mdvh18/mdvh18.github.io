@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "sunkenpromise"
-date: 2026-07-14 11:30:00 +0700
+date: 2026-07-14 15:30:00 +0700
 title: "Việt Hóa The Sunken Promise v0.7 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
