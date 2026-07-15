@@ -18,11 +18,11 @@
         h1 { background: linear-gradient(135deg,#f78f90,#D79BBB); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 5px; font-size: 28px; }
         .info-text { font-size: 13px; color: #ccc; line-height: 1.5; margin-bottom: 15px; }
         
-        /* Khung vinh danh */
+
         .donor-container { background: rgba(247, 143, 144, 0.1); border: 1px dashed #f78f90; border-radius: 15px; padding: 15px; margin: 20px 0; position: relative; overflow: hidden; }
         .donor-title { font-weight: bold; color: #f78f90; font-size: 14px; margin-bottom: 10px; text-transform: uppercase; letter-spacing: 1px; }
         
-        /* Hiệu ứng danh sách chạy nếu quá dài */
+
         .donor-list { max-height: 120px; overflow-y: auto; scrollbar-width: none; }
         .donor-list::-webkit-scrollbar { display: none; }
         
@@ -306,26 +306,26 @@
 document.addEventListener("DOMContentLoaded", function() {
     const donorList = document.querySelector('.donor-list');
     
-    // Kiểm tra nếu danh sách có item thì mới chạy
+
     if (donorList && donorList.children.length > 0) {
-        // Thiết lập CSS trực tiếp cho container để hỗ trợ trượt mượt
+
         donorList.style.overflow = 'hidden';
         donorList.style.display = 'flex';
         donorList.style.flexDirection = 'column';
         donorList.style.position = 'relative';
         
-        // Tạo một bản sao của danh sách để tạo hiệu ứng vòng lặp vô tận (infinite loop)
+
         const donorContent = donorList.innerHTML;
         donorList.innerHTML = `<div class="scroll-wrapper">${donorContent}${donorContent}</div>`;
         
         const wrapper = donorList.querySelector('.scroll-wrapper');
-        let scrollSpeed = 0.5; // Tốc độ trượt (số càng nhỏ càng chậm/mượt)
+        let scrollSpeed = 0.5;
         let currentScroll = 0;
 
         function animateScroll() {
             currentScroll -= scrollSpeed;
             
-            // Nếu trượt hết một nửa danh sách (phần gốc), reset về 0 để lặp lại
+
             if (Math.abs(currentScroll) >= wrapper.offsetHeight / 2) {
                 currentScroll = 0;
             }
@@ -334,11 +334,11 @@ document.addEventListener("DOMContentLoaded", function() {
             requestAnimationFrame(animateScroll);
         }
 
-        // Dừng trượt khi di chuột vào để anh em dễ đọc tên
+
         donorList.addEventListener('mouseenter', () => scrollSpeed = 0);
         donorList.addEventListener('mouseleave', () => scrollSpeed = 0.5);
 
-        // Bắt đầu chạy
+
         animateScroll();
     }
 });
