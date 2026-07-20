@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "chroniclesofkartoba"
-date: 2026-07-20 17:30:00 +0700
+date: 2026-07-20 20:30:00 +0700
 title: "Việt Hóa Chronicles of Kartoba Ch.1 P3 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
