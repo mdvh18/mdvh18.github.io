@@ -3,7 +3,7 @@ layout: game
 pitu_id: "thebosswada"
 date: 2026-03-18 12:30:00 +0700
 title: "Việt Hóa The Boss's Wife: A Dangerous Affair - MDVH18"
-tags: [all, mdvh18, allvh, pc]
+tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] The Boss's Wife: A Dangerous Affair v1.2 - [1.5GB]"
 mota: |
@@ -11,7 +11,7 @@ mota: |
 gametype: "Visual Novel"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
-platform: "PC"
+platform: "APK/PC"
 dungluong: "1.5GB"
 phienban: "v1.2"
 dev: "Toothless Studio"
