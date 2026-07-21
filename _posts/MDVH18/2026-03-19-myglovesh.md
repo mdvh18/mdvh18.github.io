@@ -3,7 +3,7 @@ layout: game
 pitu_id: "myglovesh"
 date: 2026-03-19 13:30:00 +0700
 title: "Việt Hóa My Girl Loves Handcuff - MDVH18"
-tags: [all, mdvh18, allvh, pc]
+tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] My Girl Loves Handcuffs v0.4 - [470MB]"
 mota: |
