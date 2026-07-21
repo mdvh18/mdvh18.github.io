@@ -18,6 +18,6 @@ phienban: "v1.0.6a"
 dev: "JaShinn"
 genre: "2DCG, Animated, Monster, Combat, School Setting, Japanese Game"
 
-linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzVyMzRENVJl"
-linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYjdhYTIzZVRvRzNUclQxT3JQRXZ1Zw=="
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzVyMzRENVJl"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYjdhYTIzZVRvRzNUclQxT3JQRXZ1Zw=="
 ---
