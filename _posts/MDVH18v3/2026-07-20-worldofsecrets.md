@@ -18,7 +18,7 @@ phienban: "v0.6.7"
 dev: "RWA Studios"
 genre: "3DCG, Animated, Male Protagonist, Mobile Game, Multiple Endings, Voiced, Big Ass, Big Tits, Corruption, Exhibitionism, Female Domination, Handjob, Humiliation, Male Domination, Masturbation, Milf, Oral Sex, Sex Toys, Teasing, Titfuck, Vaginal Sex, Virgin, Voyeurism, Adventure, Cosplay, Romance"
 
-linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3p3YjFEYUZI"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0F0c1gyVVVx"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L054N2JQZ3RN"
 linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9DYURYQVA="
 linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWFpvMjBoR1NyWlpEWTdNbVN1Q0FqUQ=="
