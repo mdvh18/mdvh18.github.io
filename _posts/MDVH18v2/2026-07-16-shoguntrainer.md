@@ -18,6 +18,6 @@ dev: "DraxlerHsk"
 genre: "2DCG, Male protagonist, Multiple Endings, Corruption, Male Domination, Teasing, Oral Sex , Groping, Mind control, PoV, Puzzle, Trainer"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzhnR2FKQW4x"
-linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L29OQ3BSUXp5"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1RFZjVKTHF1"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xclh1N1lRRVZkWmM5OVh6ZE5PcWhCQQ=="
 ---
