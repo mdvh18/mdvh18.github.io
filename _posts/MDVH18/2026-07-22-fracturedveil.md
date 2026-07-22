@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "fracturedveil"
-date: 2026-07-22 11:30:00 +0700
+date: 2026-07-22 12:30:00 +0700
 title: "Việt Hóa Fractured Veil Act 4 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
