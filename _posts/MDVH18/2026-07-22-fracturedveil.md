@@ -18,6 +18,7 @@ phienban: "Act 4 v4.8"
 dev: "Xeratios"
 genre: "3DCG, Male Protagonist, Sandbox, Corruption, Drugs, Voyeurism, Cheating, Oral Sex, Vaginal Sex, Anal Sex, MILF, Humor, Mystery, Horror PoV, Humiliation, Big Tits, Big Ass, Animated, Incest"
 
-linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzExVzJkTG55"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2hLSG5oaEN1"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0pReHBOYlBv"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMkx0dms0N0x0UFRjaHhtdWFVN3c2dw=="
 ---
