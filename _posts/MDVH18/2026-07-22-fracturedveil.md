@@ -5,7 +5,7 @@ date: 2026-07-22 12:30:00 +0700
 title: "Việt Hóa Fractured Veil Act 4 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Fractured Veil Act 4 v4.8 - [2.7GB]"
+namebanner: "[Việt Hóa] Fractured Veil Act 4 v4.8 Update - [2.7GB]"
 mota: |
  Fractured Veil là một visual novel sandbox 3DCG kết hợp giữa khám phá tự do, cốt truyện rẽ nhánh và các cơ chế tha hóa. Bạn sẽ bước vào một thế giới tan vỡ, nơi mọi lựa chọn đều tạo ra những gợn sóng ảnh hưởng đến từng chương truyện.
 gametype: "Sandbox"
