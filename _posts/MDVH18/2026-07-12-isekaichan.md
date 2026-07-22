@@ -5,7 +5,7 @@ date: 2026-07-12 18:30:00 +0700
 title: "Việt Hóa Isekai Chan! v0.3.1 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Isekai Chan! v0.3.1 FIX Đơ VICTORY(DEV ngu ứ phải t) - [1.4GB]"
+namebanner: "[Việt Hóa] Isekai Chan! v0.3.1 (CHỌN NGÔN NGỮ GÓC PHẢI QUẢ CẦU) - [1.4GB]"
 mota: |
  Bạn vào vai nhân vật chính có gia đình đã mất tích một cách bí ẩn, để lại bạn một mình quản lý tòa nhà chung cư mà họ từng sở hữu. CHỌN NGÔN NGỮ GÓC PHẢI QUẢ CẦU.
 gametype: "Sandbox"
