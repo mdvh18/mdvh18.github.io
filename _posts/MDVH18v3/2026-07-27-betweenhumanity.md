@@ -5,7 +5,7 @@ date: 2026-07-27 11:30:00 +0700
 title: "Việt Hóa Between Humanity v0.3.3 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Between Humanity v0.3.3 - [2.2GB]"
+namebanner: "[Việt Hóa] Between Humanity v0.3.3 (APK: Inogre, chọn Menu rồi chọn tiếng) - [2.2GB]"
 mota: |
  Mọi trí nhớ về lý do bạn có mặt ở đó đều mờ mịt trong tận cùng tâm trí bạn. Nhưng ngay khi bạn cố gắng quay lại cuộc sống thường ngày, bạn nhận ra có gì đó đã đổi khác tận gốc rễ. Bạn được mời đến ở nhà của cô bạn thân, nơi bạn cũng sẽ sống chung với mẹ và em gái cô ấy, mỗi người đều mang những rắc rối và vất vả thường nhật của riêng mình.
 gametype: "Visual Novel"
