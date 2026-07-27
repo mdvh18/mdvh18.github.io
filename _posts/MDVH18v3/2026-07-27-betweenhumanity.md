@@ -18,7 +18,7 @@ phienban: "v0.3.3"
 dev: "DebatingPanda"
 genre: "3DCG, Vaginal, Lesbian (avoidable), Creampie, Male Protagonist, Animated, Romance, POV, Masturbation, Oral Sex, Swallow, Teasing, Handjob, Milf, Voyeurism, Virgin, Ahegao, 3DCG, Hand-Holding, Titfuck, Monster Girl"
 
-linkpixelapk: "https://mdvh18.com/download.html?url="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0UzaTNrb0tO"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2o4WVZNR2tV"
 linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xV1lTYmVoUzdONUQ4U29qZXVrVGR5Zw=="
 ---
