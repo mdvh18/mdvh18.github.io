@@ -2292,7 +2292,7 @@ const PITU_DATABASE = [
                "https://blogger.googleusercontent.com/img/a/AVvXsEiVilp-Qhv0NTbxAOhtv3T1rAYnkerz75eQ4X0-1hmRuFzU6o43_svfGGFGFOXHr9A-N1wTu2SpdlI7EtoI-L-ut2JzS_J2UOY6sFIQtk2GirRuHf5yAIpi73Vdevrri1ZzahK1hSZAerydsA8Kfto3xKe-Kn5zsRPwmhsi9CdW0k8G7noH-OkKpbvup38=s16000"]},
     {id: "ruleuniverse",
     name: "Việt Hóa RuleUniverse v0.60",
-    banner: "https://blogger.googleusercontent.com/img/a/AVvXsEjR7gh_SlGsnvx-pQzfffJjE0JxdT9nt4aRJVV8dwfiCPcbYSa2Y9qg0zvVm7ZgQky4hgO46ZuRFtJTmyEFIQpf7rbw4EUIEjNW48Jon-DJ4FFpM0vxwL6DYKWBNDEsztdXoBE4gujuHH93XW-VVHKTB7R5lB2kLbwEohyW90Dap0fSiKXo_-pmKTPNpsg=s16000",
+    banner: "https://blogger.googleusercontent.com/img/a/AVvXsEgT8h3ZNjb9WfjKVZ7xDGavOYXra7-l9oWV10PPvEbqz-ngzKnhKF0_W5eBtJ1NGTmWP5H8VFjcNRi3XA2YKUEHzpU1q5fqATmUuKeTdmdV2DqciFmGCj7v-tLpAsHTc3I7HFbp6ZCsGG73oXYb1TSl6pQsffszKTL92U-cHwThZbXNMGw9fyLoTDOSgwQ=s1600",
     previews: ["https://blogger.googleusercontent.com/img/a/AVvXsEhgw4Vm7kCOrUFqrbQVzSgIs4uKg0dYShk65JcnqF-AXIE4SC9i4IzZZ3Xw8A6oijna0YDowPra_cKvSvN02h8zs5gpwsQrrIbiGkTn5TLuRcxGtf7ErGuArTMlC0nNFWazljgdKXLdh4dSjJhgDD7u9Mu3czbm4mnQKIyFdCklW9bH8LFj1QCakjuClg4=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEhp1SIPGWKarSqmgxAhR9GbKOYM9nzA84S5yVm2b4PgLTXZffj9l4f2ENPmgU6EnOrDElUajOKIRoEJkFM5pzpvxH4TY54yaKO8nEtSwSHvgvNzOx3omA3ni1I3bqN63ete8_KRI0hN9v2IW0-5eKX3-9A91uCeldm3dw-aUEt7ZJfbfU3-KvtOHs7PMS0=s16000",
                "https://blogger.googleusercontent.com/img/a/AVvXsEhfBYQjk8kk3Y1KPqaLT5ueZRZBK71Xrit0nknYfmIgnRXawjC47J3VESIVrqfUw6UxvO_I3XyAj1dWyCbWY__dVFKvYeJCo61Y5VBNkKwJJAjmfyHFK9WiV6Wf-TM-z2XE4VloSpO7RtR11OYGojwgxez7aV8sDPbIMYviW4MPSWhktZZSAiFy-sds2S4=s16000",
