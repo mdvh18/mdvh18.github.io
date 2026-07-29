@@ -18,7 +18,7 @@ phienban: "Ch.8 P1"
 dev: "RWA Studios"
 genre: "3DCG, Animated, Male Protagonist, Multiple Endings, Anal Sex, Big Ass, Big Tits, Cheating, Creampie, Groping, Handjob, Male Domination, Masturbation, Milf, Oral Sex, Teasing, Vaginal Sex, Voyeurism, Humor, PoV, Romance, Female Domination"
 
-linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91Lzc1OTZvMjF1"
-linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1QzbnZLNXJ2"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1QzbnZLNXJ2"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91Lzc1OTZvMjF1"
 linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xb2hLUFhMWkJsZEhOYThFRkx6YWlRdw=="
 ---
