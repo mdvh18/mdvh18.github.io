@@ -3,7 +3,7 @@ layout: game
 pitu_id: "mindcontroltwisted"
 date: 2026-07-29 14:30:00 +0700
 title: "Việt Hóa Mind Control: Twisted Thoughts - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Mind Control: Twisted Thoughts Update + Mod v0.286 - [2.9GB]"
 mota: |
