@@ -5,7 +5,7 @@ date: 2026-07-29 15:30:00 +0700
 title: "Việt Hóa iNSight of you Full - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] iNSight of you Full + Multi Mod - [4.3GB]"
+namebanner: "[Việt Hóa] iNSight of you Full - [4.3GB]"
 mota: |
  Câu chuyện chính xoay quanh cuộc đời của Sam. Cậu là một gã bình thường trong giới mafia, người vừa có được món đồ công nghệ thử nghiệm cực kỳ tiên tiến. Phần lớn tính năng vẫn chưa rõ, và cậu, với sự giúp đỡ từ cô nàng tóc đỏ năng động Esther, sẽ tìm cách tìm hiểu chúng.
 gametype: "Sandbox"
