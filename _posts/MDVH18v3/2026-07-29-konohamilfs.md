@@ -19,6 +19,6 @@ dev: "Kimkun0162"
 genre: "2DCG, Animated, Male Protagonist, Big Ass, Big Tits, Handjob, Milf, Virgin"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzR1THJHajNl"
-linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2VmUWozVFVL"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1dlejR2allI"
 linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMS1nSmdWRWxSTzFUeEtpRVBPOVh6QQ"
 ---
