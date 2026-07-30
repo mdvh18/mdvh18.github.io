@@ -18,7 +18,7 @@ phienban: "v1.1"
 dev: "Kimkun0162"
 genre: "2DCG, Animated, Male Protagonist, Big Ass, Big Tits, Handjob, Milf, Virgin"
 
-linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3lEeG93UDRW"
+linkpixelapk: "https://mdvh18.com/download.html?url="
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1dlejR2allI"
 linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMS1nSmdWRWxSTzFUeEtpRVBPOVh6QQ"
 ---
