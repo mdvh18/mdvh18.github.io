@@ -19,6 +19,6 @@ dev: "AdventAnyx"
 genre: "3DCG, Male protagonist, Male domination, Animated, Sex toys, BDSM, Ahegao, Romance, Creampie, Trainer, Lesbian, Threesome, Group-sex, Management, Watersport, Big ass, Big tits, Masturbation, Oral sex, Vaginal sex, Teasing, Handjob, Titfuck, Urination, Virgin, Voyeurism, Female domination,, Footjob"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2pYYjVlTGZv"
-linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2hDUnBteUtz"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0Ntck10dlRt"
 linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9adW5MbmM"
 ---
