@@ -4719,7 +4719,7 @@ const PITU_DATABASE = [
                "https://blogger.googleusercontent.com/img/a/AVvXsEhqZ5xQNZBxKeoZZAR7xltqbszlgpWCDfvZv5TpiwJ86gW8n1-kfZySfOuvRJ3PRdH5Jp_lTLaRcKjRjWYi1cHOnCNow7XIZasPKWO9E1-fRNnAiLSosy4ZXUJ1JRprRajX6jskKr4YG2AAqompqm88WmW1xLp2nZuR8b07uW8K0VeXmGE0FDQj_9qCxhE=s1600",
                "https://blogger.googleusercontent.com/img/a/AVvXsEgyswKPP8v3yznBP-bzD1m9THHFS8F5p7K6TI-Bnov4_uZNBNGswj1GEFEfzov5YXqLUUukf5alz-qM0mryLhWSYe3q5jYOm6xUKMJP_wdQY7m84tfXkyDAZbymuizwZxBm1YOMaZWk6ukA9_OSXoI3oeKpJztywNo3hHi68WVBsz3ylm9hbfQxKYHdWWo=s1600",
                "https://blogger.googleusercontent.com/img/a/AVvXsEhXcYvhYh4TDB39kbF8Rae7CzXoTMnLk1dMgTRzdm6ucloyduH5QFhxeQJtupvXvDjtMnOr-12hm75BbMyTd2cZ1UmsnMONTJ4FUmNnE3f6O2u5y7sFaNJIwF7sDgBryZmGtDGFvsHQ7ugYFgWCPsJhkUFcv6MQk7ZSiB8vBQBgmKvPLBtmBIS3s7hHiew=s1600"]},
-    {id: "rebellbeginning",
+    {id: "rebellbeginnin",
     name: "Việt Hóa Rebellion: The Beginning Completed",
     banner: "https://blogger.googleusercontent.com/img/a/AVvXsEgCOepBXbIhEIWjbseQROpn5UvIyxoc1cz-oMPIJ56pDcZN01aJnVUZ5SXkBj6qJSZC25V7cfGxktegPsOJF_LMeHdQ2xZgtlSiOXrVz5Za8sjLM8KlBZbUoG8GRfuNmC6JIx_n4ri7S1UyPPoCMJE3_MXuM2lnGkPkrqXFmPZH7gCZjlEmTqEYdRfG6dc=s1600",
     previews: ["https://blogger.googleusercontent.com/img/a/AVvXsEg2nv1spxgLSqz2X5DpMtK_EpgApUjs8JkHPUywHkbCFZtEQc7UtAcoPvUlH18juirWI7oIg3en9PhZMAq0LeSf5qej5KKJdvrIlv3d1MWNzdg-S2eWwl1BLg8yEJUDIU3IH7lZsL0IP5a1toI-7EEj44i0YOyfnFO9EJbBu9YDyFYIYJubNmJRboitwYc=s1600",
