@@ -18,7 +18,7 @@ phienban: "Completed"
 dev: "AGHAMUS"
 genre: "3DCG, Animated, Male Protagonist, Mobile Game, Anal Sex, Big Ass, Big Tits, Bukkake, Cheating, Creampie, Exhibitionism, Group sex, Handjob, Masturbation, Multiple Penetration, Netorare(Avoidable), Oral Sex, Rape, Slave, Titfuck, Urination, Vaginal Sex, Virgin, Cosplay, Graphic violence"
 
-linkpixelapk: "https://mdvh18.com/download.html?url= "
-linkpixelpc: "https://mdvh18.com/download.html?url= "
-linktera: "https://mdvh18.com/download.html?url= "
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0tTYWdjODZ2"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2lhaFlNY1hy"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVzJSQkpEUkVMeGVpYTJwS1VRNEdsdw"
 ---
