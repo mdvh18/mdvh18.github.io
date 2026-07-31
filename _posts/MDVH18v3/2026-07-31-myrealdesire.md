@@ -18,7 +18,7 @@ phienban: "Epilogue Full"
 dev: "Oldcat"
 genre: "3DCG, Male protagonist, Big tits, Animated, Oral sex, Vaginal sex, Mobile game, Creampie, Footjob, Handjob, Harem, Romance, Sandbox, Virgin"
 
-linkpixelapk: "https://mdvh18.com/download.html?url= "
-linkpixelpc: "https://mdvh18.com/download.html?url= "
-linktera: "https://mdvh18.com/download.html?url= "
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2Q3NkRhWUFS"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0NITFVmNlha"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTFV2Zy1JaV9OaGQ0YVU2MWh4ME1MUQ"
 ---
