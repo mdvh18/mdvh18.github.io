@@ -2,7 +2,7 @@
 layout: game
 pitu_id: "nyatoraseshared"
 date: 2026-08-01 17:30:00 +0700
-title: "Việt Hóa Nyatorase: Shared Passions v0.14 - MDVH18"
+title: "Việt Hóa Nyatorase: Shared Passions v0.15 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Nyatorase: Shared Passions (NTR) Update v0.15 - [2.5GB]"
