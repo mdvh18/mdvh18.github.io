@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] The Tyrant v0.9.7 - [3.5GB]"
 mota: |
  Trò chơi xoay quanh một người chơi trở về sau một năm làm sinh viên trao đổi. Đó là năm học cuối cùng của anh ta và anh ta trở về nhà để tìm việc làm.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "3.5GB"
 phienban: "v0.9.7"
 dev: "Saddoggames"
-genre: "3DCG, Male protagonist, Graphic violencel, MILF, Lesbian, NTR, Romance, Voyeurism, Multiple penetration, Groping, Blackmail, BDSM, Handjb, Mobile game"
+genre: "3DCG, Male protagonist, Male domination, Graphic violence, Incest, Interracial, MILF, Lesbian, NTR, Cheating, Prostitution, Romance, Voyeurism, Multiple penetration, Groping, Blackmail, BDSM, Vaginal sex, Oral sex, Anal sex, Handjob, Masturbation, Mobile game"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3pjOWZIV3Fu"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbURyUWtabEM4ZWNyYWhnVUFFM2Rkdw=="
