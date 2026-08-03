@@ -3,19 +3,20 @@ layout: game
 pitu_id: "unboundresort"
 date: 2026-03-25 15:30:00 +0700
 title: "Việt Hóa Unbound Resort - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Unbound Resort v0.1 - [342MB]"
+namebanner: "[Việt Hóa] Unbound Resort v0.1 (NTR) - [342MB]"
 mota: |
  Bạn và vợ mình thích khám phá thế giới NTR và NTS, và bạn biết điều gì sẽ xảy ra tiếp theo rồi đấy. Nếu không, hãy chơi trò chơi này đi.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "342MB"
 phienban: "v0.1"
 dev: "Sad Pepper"
-genre: "3dcg, Animated, Groping, Netor, Mobile game"
+genre: "3dcg, Animated, Male protagonist, Big ass, Big tits, Teasing, Groping, Vaginal sex, Netorare, Cheating, Voyeurism, Mobile game"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1F3aGF5OFJ0"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xM0hnY0NoM2dFVWRqelBjNlBkYVhHUQ=="
