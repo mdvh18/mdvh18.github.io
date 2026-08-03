@@ -3,19 +3,20 @@ layout: game
 pitu_id: "sumphonythevoidp1"
 date: 2026-04-06 12:00:00 +0700
 title: "Việt Hóa Symphony of the Void - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Symphony of the Void P1 - [1.3GB]"
 mota: |
  Jevan Dre'allis là thành viên của đơn vị đặc nhiệm hắc tinh linh tinh nhuệ mang tên Wraith - những đặc vụ của Đền thờ Xana-Rhoa, đóng vai trò là sát thủ, gián điệp và kẻ phá hoại.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "1.3GB"
 phienban: "P1"
 dev: "Mad Doc"
-genre: "3DCG, Animated, Masturb, Fantasy"
+genre: "Completed, 3DCG, Animated, Male domination, Mind control, Humiliation, Masturbation, Slave, Fantasy"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0V3S2hMcVE0"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xb05Nb1lXZ05RLVNYNWFySGhoMnRtUQ=="
