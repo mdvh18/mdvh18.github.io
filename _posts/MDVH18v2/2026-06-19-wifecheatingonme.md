@@ -3,7 +3,7 @@ layout: game
 pitu_id: "wifecheatingonme"
 date: 2026-06-19 11:30:00 +0700
 title: "Việt Hóa My wife's cheating on me! Completed - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk, ntr]
+tags: [all, mdvh18, allvh, pc, apk, ntr, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] My wife's cheating on me! Completed - [1.3GB]"
 mota: |
@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "1.3GB"
 phienban: "Completed"
 dev: "CuckTale games"
-genre: "3dcg, Big tits, Big ass, Netorare, Groping, Teasing, Romance, Vaginal sex, Male domination, Group sex, Kinetic novel, Male protagonist"
+genre: "Completed, 3dcg, Big tits, Big ass, Netorare, Groping, Teasing, Romance, Vaginal sex, Male domination, Group sex, Kinetic novel, Male protagonist"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0Y5ZGJnTXZl"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzhjbUdzd2Rt"
