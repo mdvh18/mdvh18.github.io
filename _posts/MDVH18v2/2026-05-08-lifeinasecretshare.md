@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Life in a Secret Share House v1.0.7 - [308MB]"
 mota: |
  Bạn (nhân vật chính) sống trong một căn nhà chia sẻ hai người. Một ngày nọ, công ty quản lý thông báo với bạn rằng sẽ có một người thuê nhà mới chuyển đến.
 gametype: "Simulator"
+engine: "Unity"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "PC"
 dungluong: "308MB"
 phienban: "v1.0.7"
 dev: "One Up"
-genre: "2DCG, Censored, Groping, Internal view, Japanese Game, Male protagonist, Romance, Rpg, Toys, Sleep, Voiced"
+genre: "2DCG, Censored, Creampie, Groping, Internal view, Japanese Game, Male protagonist, Masturbation, Pregnancy, Romance, Rpg, Sex toys, Simulator, Sleep sex, Vaginal sex, Virgin, Voiced, Voyeurism"
 
 linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1ZWNkVBYVA2"
 linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xXzNneHZvR1VVVUJfN0VFQ2gzWFlNQQ=="
