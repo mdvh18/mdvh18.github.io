@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Driftborne Ep.1.2 - [551MB]"
 mota: |
  Bạn sẽ làm gì nếu sợi dây liên kết duy nhất với cuộc sống bình thường đột ngột bị đập tan bởi một thế lực xa lạ từ quá khứ đã bị quên lãng từ lâu? Cô độc, và bị bỏ mặc cho đến chết, bạn buộc phải vạch ra một con đường mới từ một tàn lửa cũ, bấu víu vào bất cứ ai còn sót lại để quan tâm.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "551MB"
 phienban: "Ep.1.2"
 dev: "Jamleng Games"
-genre: "3dcg, Animated, Milf, Fantasy, Groping, Handj, Mobile Game,"
+genre: "3dcg, Animated, Male protagonist, Graphic violence, Big ass, Big tits, Milf, Vaginal sex, Oral sex, Anal sex, Teasing, Fantasy, Groping, Handjob, Mobile Game, Creampie, Supernatural"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0hxREZCdkRi"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbENST25uNW1penJHSGhKRjFJaXZQUQ=="
