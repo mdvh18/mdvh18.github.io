@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Shinobi Legacy v0.1 - [221MB]"
 mota: |
  Anh đã bao giờ tự hỏi cuộc sống của mình sẽ ra sao trong vũ trụ Naruto chưa? Một thế giới đầy rẫy những pha hành động, khoái lạc, và trên hết là… những nữ nhẫn giả cực kỳ nóng bỏng.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "221MB"
 phienban: "v0.1"
 dev: "Creator X"
-genre: "Animated, 3DCG, Mobile Game, Harem, Parody , Romance , Superpowers. Adventure"
+genre: "Animated, 3DCG , Male Protagonist, Mobile Game, Big Ass, Big Tits, Harem, Humor, Parody, Romance, Superpowers, Adventure"
 
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0FwdGV5cXVX"
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzNzYjZKQXdM"
