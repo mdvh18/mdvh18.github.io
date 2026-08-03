@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Going for Goal v0.15 - [2.3GB]"
 mota: |
  Cốt lõi của trò chơi là bạn vào vai một cầu thủ bóng đá với rất nhiều tiềm năng. Khốn kiếp, thậm chí bạn có thể đã là người giỏi nhất rồi. Đây là hành trình khám phá của chính bạn.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "2.3GB"
 phienban: "v0.15"
 dev: "DarkSkello"
-genre: "3DCG, Male protagonist, Big tits, Big ass, Milf, Harem"
+genre: "3dcg, male protagonist, incest, vaginal sex, oral sex, voyeurism, masturbation, big tits, big ass, milf, teasing, pregnancy, harem"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL21peVo0UjhH"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVEtjWFFkWGtRNW1aVHYxa29YT0I1QQ=="
