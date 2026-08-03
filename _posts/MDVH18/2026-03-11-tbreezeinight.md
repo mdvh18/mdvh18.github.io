@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] The Breeze in Night v0.1.1 - [502MB]"
 mota: |
  Bạn trở về nhà sau khi học đại học, hãy tận hưởng thời gian cùng bốn cô gái nóng bỏng.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
