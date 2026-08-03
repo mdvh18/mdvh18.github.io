@@ -10,13 +10,14 @@ mota: |
  Bạn vào vai một cậu sinh viên đang mắc kẹt trong sự bế tắc — thất tình, sống một lối sống chủ yếu là đồ ăn vặt, trò chơi điện tử cùng những quyết định hối hận. Cuộc sống của xoay quanh mì ăn liền, caffeine và những lựa chọn sai lầm.… Sau một sự cố nhất định, bạn buộc phải đứng dậy và thực sự cố gắng để xoay chuyển cuộc đời mình.
 
 gametype: "Sandbox"
+engine: "Renpy"
 language: "English"
 mdvh18: "MDVH18"
 platform: "PC/APK"
 dungluong: "489MB"
 phienban: "0.1.4.1"
 dev: "FoxCity"
-genre: "2DCG, Big, Dating Sim, Mastur, Rpg, Sandbox, School setting,"
+genre: "2DCG, Big ass, Big tits, Dating Sim, Male protagonist, Masturbation, Rpg, Sandbox, School setting"
 
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0FqVENRaEpW"
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2dOenRhZk1x"
