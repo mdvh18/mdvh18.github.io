@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Mind the School v0.2.1B1 - [1.3GB]"
 mota: |
  Vị hiệu trưởng cũ đã để lại ngôi trường trong tình trạng tồi tệ, và giờ đây nhiệm vụ của bạn là đưa nó trở lại thời hoàng kim vốn có. Nhưng làm thế nào mà bạn lại trở thành tân hiệu trưởng? Chà, đó là vì bạn nổi tiếng với lý thuyết về huấn luyện thân mật.
 gametype: "SandBox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "PC"
 dungluong: "1.3GB"
 phienban: "v0.2.1B1"
 dev: "Suit-JI"
-genre: "3DCG, Animated, Groping, Mastur, Milf, Toys, Teasing, Management, Mind Control, School Setting"
+genre: "3DCG, Animated, Male Protagonist, Mobile Game, Big Ass, Big Tits, Corruption, Creampie, Drugs, Exhibitionism, Groping, Handjob, Lesbian, Masturbation, Milf, Oral Sex, Sex Toys, Teasing, Titfuck, Vaginal Sex, Voyeurism, Management, Mind Control, Sandbox, School Setting, Mobile game"
 
 linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1NQelg5UXE1"
 linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xN1Zlc2VxclNlcTNhLUE2U3c4WnNDZw=="
