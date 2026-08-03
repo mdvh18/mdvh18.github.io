@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] Passions Playground v0.4.8 FIX CRASH - [1.7GB]"
 mota: |
  Điều hướng các mối quan hệ, xây dựng các kết nối và tạo nên câu chuyện của riêng bạn trong tựa game hấp dẫn và lôi cuốn này. Các quyết định của bạn sẽ ảnh hưởng đến mọi thứ, vì vậy hãy lựa chọn một cách khôn ngoan!
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
