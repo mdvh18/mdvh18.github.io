@@ -3,19 +3,20 @@ layout: game
 pitu_id: "nekodesktop"
 date: 2026-05-24 10:00:00 +0700
 title: "Việt Hóa Neko Desktop Pet 2 v1.2 - MDVH18"
-tags: [all, mdvh18, allvh, pc]
+tags: [all, mdvh18, allvh, pc, com]
 typegame: ["PC"]
-namebanner: "[Việt Hóa] Neko Desktop Pet 2 v1.2 - [397MB]"
+namebanner: "[Việt Hóa] Neko Desktop Pet 2 v1.2 Completed - [397MB]"
 mota: |
  Neko-chan đã ở đây vì bạn! Người bạn đồng hành tương tác trên màn hình máy tính của bạn đã quay trở lại để ở bên cạnh bạn trong khi bạn lướt mạng, xem video, chơi game hoặc chỉ đơn giản là thư giãn.
 gametype: "Other"
+engine: "Unity"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "PC"
 dungluong: "397MB"
 phienban: "v1.2"
 dev: "SatyrKing"
-genre: "3DCG, Animated, Character Creation, Female Protagonist, Futa/Trans, Point & Click, Romance, Sex Toys, Spanking, Stripping, Teasing, Tentacles, Transformation, Vaginal sex"
+genre: "Completed, 3DCG, Animated, Character Creation, Female Protagonist, Futa/Trans, Point & Click, Romance, Sex Toys, Spanking, Stripping, Teasing, Tentacles, Transformation, Vaginal sex"
 
 linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0dyNDJwUjVk"
 linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9tNlhoTkk="
