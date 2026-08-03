@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Broken Dreams v0.5.1 - [1.8GB]"
 mota: |
  Bạn thức dậy trong cuộc sống tẻ nhạt của một nhà tâm lý học, đi làm như bao ngày khác tại trường đại học, kết thúc ngày làm việc và ghé vào một quán bar, rồi trong chớp mắt... bạn không còn là chính mình nữa.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "1.8GB"
 phienban: "v0.5.1"
 dev: "Biggering"
-genre: "3DCG, Animated, School setting, Superpowers, Mobile game"
+genre: "3dcg, animated, male protagonist, school setting, graphic violence, big ass, big tits, teasing, superpowers, voyeurism, mobile game"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2N6VjQ0WVBW"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNXZzSEhOYVdpRXV3Q2VtLUpNYW5MUQ=="
