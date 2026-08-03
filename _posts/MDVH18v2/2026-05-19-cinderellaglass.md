@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] Cinderella's Glass Collar v0.11 - [723MB]"
 mota: |
  Gặp gỡ Cindy, một cô gái 23 tuổi dễ thương và ngây thơ, lần đầu tiên chuyển đến thành phố lớn để làm thư ký cho một công ty luật lớn danh giá. Cô làm việc dưới quyền của anh chàng sếp đẹp trai và bí ẩn Daniel, cùng cô trợ lý Ada vô cùng xinh đẹp và quyến rũ.
 gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
