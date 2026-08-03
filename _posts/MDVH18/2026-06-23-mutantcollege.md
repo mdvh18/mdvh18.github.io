@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] Mutant College v0.14.0 Update - [6.7GB/2.5GB]"
 mota: |
  Anh sẽ dấn thân vào một cuộc phiêu lưu trong vai một kẻ biến dị vừa mới phát hiện ra sức mạnh của mình. Anh thấy mình đang theo học tại Trường Cao Đẳng Biến Dị, và theo lẽ thường tình, mọi cô gái anh gặp đều sẽ gục ngã dưới chân anh.
 gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
