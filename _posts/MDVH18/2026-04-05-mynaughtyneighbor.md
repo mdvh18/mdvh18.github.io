@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] My Naughty Neighbor v1.1 - [156MB]"
 mota: |
  'My Naughty Neighbor' là phần đầu tiên trong chuỗi dự án có thể gồm nhiều phần mang tên 'Venus Stories', những tập Visual Novel ngắn, độc lập với nội dung người lớn.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "156MB"
 phienban: "v1.1"
 dev: "OnionCuttingNinja"
-genre: "3DCG, Animated, Mbile game, Handj"
+genre: "3dcg, Female protagonist, MILF, Big ass, Big tits, Teasing, Incest, Male protagonist, Multiple protagonis"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3hZaDRTWHBy"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRWEzVUs1amlsUVJhRFIzVG9OVEdVdw=="
