@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Doragon Boll: Hybrid Eroventures v0.3.5 - [293MB]"
 mota: |
  Tại Vũ trụ thứ 7, cụ thể hơn là trên Trái Đất, có một anh hùng lai giữa hai chủng tộc: Son Gohan, chàng Saiyan tài năng và giàu lòng nhân ái, đang đối mặt với một cuộc phiêu lưu mới đầy bất ngờ.
 gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "PC"
 dungluong: "293MB"
 phienban: "v0.3.5"
 dev: "Rice"
-genre: "2DCG, Parody Harem, Adventure, Romance, Superpowers, Animation"
+genre: "2DCG, Big Ass, Big Tits, Parody, Cheating, Harem, Adventure, Male Protagonist, Romance, Sandbox, Superpowers, Vaginal Sex, Anal Sex, Animation"
 
 linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3JuZDhqRTN2"
 linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbHpzOXJoWU0wVy0yTWtod2ZWblZhQQ=="
