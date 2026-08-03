@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Dream Corruption v0.2.1 - [596MB]"
 mota: |
  Dream Corruption là một tiểu thuyết trực quan kích dục nơi bạn bị mắc kẹt trong một thế giới giấc mơ kỳ ảo cùng với các nhân vật manga và hoạt hình. Là một thực thể bất thường trong thế giới này, bạn phải định hướng giấc mơ của họ, nhào nặn những khao khát và mức độ tha hóa của họ thông qua các cuộc chạm trán dựa trên sự lựa chọn.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "596MB"
 phienban: "v0.2.1"
 dev: "RumiGames"
-genre: "3DCG, Adult, Anime, Femdom, Hentai, NSFW, Parody, Harem"
+genre: "3D, Adult, Anime, Eroge, Femdom, Hentai, NSFW, Parody, Porn, Visual Novel, harem"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0oxVHZacHI1"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVmVaRkRJbmtnWGJzWG5rbm5adlhWQQ=="
