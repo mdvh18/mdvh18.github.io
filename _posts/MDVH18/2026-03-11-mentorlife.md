@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Mentor Life v0.4 Remake - [2GB]"
 mota: |
  Bên chính quyền đang mở một trường cao đẳng mới, nơi cậu sẽ nhận vai trò người hướng dẫn cho một nhiệm vụ đặc biệt. Cậu sẽ đi tuần quanh trường, ghé thăm các câu lạc bộ, phòng ký túc xá, và để mắt tới những đứa học sinh dám phá luật trường.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "2GB"
 phienban: "v0.4 Remake"
 dev: "BRdsky"
-genre: "3DCG, Animated, Groping, Harem, Romance, Teasing, Mastur, School setting."
+genre: "3DCG, Animated, Male Protagonist, Mobile game, Psychological, Groping, Ahegao, Big Ass, Big Tits, Small Tits, Harem, Romance, Teasing, Masturbation, Exhibitionism, Virgin, Voyeurism, Humor, School setting"
 
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2JFYkhmU0I1"
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0gxWTF3QkJI"
