@@ -5,15 +5,15 @@ date: 2026-06-03 15:30:00 +0700
 title: "Việt Hóa Idle Days With Her: From Love to NTR Final - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr, com]
 typegame: ["PC"]
-namebanner: "[Việt Hóa] Idle Days With Her: From Love to NTR Final - [B]"
+namebanner: "[Việt Hóa] Idle Days With Her: From Love to NTR Final - [1GB]"
 mota: |
  Một cuộc sống sống chung đầy thú vị sắp sửa bắt đầu— Đây là một khoảng thời gian ngọt ngào chỉ thuộc về riêng bạn và cô ấy: một ngôi nhà nhỏ ấm cúng, một thế giới riêng tư của hai người.
 gametype: "Sandbox"
-engine: "Renpy"
+engine: "Unity"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "PC"
-dungluong: ""
+dungluong: "1GB"
 phienban: "Final"
 dev: "NahMan Studio"
 genre: "Completed, 3dcg, animated, sandbox, male protagonist, multiple endings, management, vaginal sex, oral sex, cosplay, netorare, handjob, big ass, big tits, voyeurism, teasing, groping, creampie, cheating, romance, handjob, titfuck"
