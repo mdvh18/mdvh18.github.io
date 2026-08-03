@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Love and Evil Things v0.2.9 - [1.59GB]"
 mota: |
  Love and Evil Things là một tựa game đời thường gắn mác 18+, kể về một lớp học nữ sinh đang phải đối mặt với những rắc rối của tuổi trưởng thành và hành trình tìm lại bản thân, trong khi một thế lực tà ác nguyên thủy vô hình đang âm thầm bao trùm lấy tất cả.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "1.59GB"
 phienban: "v0.2.9"
 dev: "Petals"
-genre: "3dcg, Animated, Footj, Harem, Dating Sim, Romance, Masturba, School Setting, Voiced"
+genre: "3dcg, Animated, Vaginal Sex, Oral Sex, Footjob, Harem, Dating Sim, Ahegao, Romance, Masturbation, Teasing, Virgin, Male Protagonist, Humor, Horror, School Setting, Voiced, Voyeurism, Lesbian"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL043dGpINTZV"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOWxmZzVLb2FwVWZOSlB0MWJPTVNodw=="
