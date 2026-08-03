@@ -8,14 +8,16 @@ typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] My Girlfriend and My Nightmare v0.6.11 - [892MB]"
 mota: |
  Bạn vào vai Alan, một anh chàng mắc kẹt trong một công việc chẳng ra gì, chỉ cố gắng sống qua ngày đoạn tháng. Một buổi sáng nọ, cậu bất ngờ gặp lại người bạn thời thơ ấu Nala
-gametype: "Visual Novel"
+gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "892MB"
 phienban: "v0.6.11"
 dev: "Jester"
-genre: "2DCG, AI CG, Romance, Dating Sim, PoV, Handj, Mastur"
+genre: "2D CG, AI CG, Teasing, Romance, Paranormal, Transformation, Male Protagonist, Male Domination, Big Ass, Big Tits, Dating Sim, PoV, Titfuck, Transformation, Anal, Handjob, Masturbation
+Planned: Milf, Religion, Sex Toys, Groping"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2FFMVdaMThM"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSU5ES19TS2ZCOXAwcUQ2cWgzZGxYUQ=="
