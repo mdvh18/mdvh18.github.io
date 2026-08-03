@@ -12,6 +12,7 @@ mota: |
 infor: |
  A set of minigames where you control the action, each game is a stage with a waifu ready for you, no dialogues, no backstory, no waste of time, here you just have to take care of having a good time with your waifu favorite.
 gametype: "Simulator"
+engine: "Unity"
 language: "English"
 platform: "APK/PC"
 dungluong: "302MB"
