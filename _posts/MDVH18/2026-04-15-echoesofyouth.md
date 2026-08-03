@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Echoes of Youth v1.0.2 - [2.5GB]"
 mota: |
  Một câu chuyện về sự trưởng thành, nơi bạn sẽ khám phá, đưa ra các lựa chọn và xây dựng các mối quan hệ.
 gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "2.5GB PC/773MB APK"
 phienban: "v1.0.2"
 dev: "Erobyte Games"
-genre: "3DCG, Animated, MILF, Harem, Monster girl, School Setting"
+genre: "3DCG, Animated, Big Tits, Big Ass, Creampie, Male Protagonist, MILF, Teasing, Vaginal Sex, Ahegao, Harem, Rape, Monster girl, Sandbox, Oral Sex, loli, Anal Sex,Male Domination, School Setting, Masturbation, Titfuck, Corruption, Humiliation, Mobile Game, Sleep Sex"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0gxb1pvejFq"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMDdDVEZEeFJPbmZhNDVDY2JUM3Zqdw=="
