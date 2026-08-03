@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Lust for Wealth v0.3.0 Update - [599MB]"
 mota: |
  Bạn sẽ vào vai một người phụ nữ tự tin, dày dạn kinh nghiệm, từng sống trong nhung lụa bên cạnh gã tình nhân trẻ tuổi giàu có. Những món quà xa xỉ, những ngày tháng vô lo vô nghĩ và sự cuồng nhiệt không giới hạn - cho đến khi một khoảnh khắc đã làm thay đổi tất cả.
 gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "599MB"
 phienban: "v0.3.0"
 dev: "HotGameDev"
-genre: "2DCG, AI CG, Animated, Groping, Mastur, Milf, Mobile game, Rpg, Sandbox, Simulator,"
+genre: "2DCG, AI CG, Animated, Big ass, Big tits, Female protagonist, Groping, Masturbation, Milf, Mobile game, Rpg, Sandbox, Sexual harassment, Simulator"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL28yR2Y3M0Qy"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xeUMzU3l0MlVjTzZ5RTlPaG5MWUZGZw=="
