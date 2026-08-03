@@ -3,7 +3,7 @@ layout: game
 pitu_id: "maddiesummer"
 date: 2026-06-16 10:30:00 +0700
 title: "Việt Hóa Maddie’s Summer Completed - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Maddie’s Summer Completed - [817MB]"
 mota: |
@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "817MB"
 phienban: "Completed"
 dev: "SALR Games"
-genre: "3DCG, Anal sex, Animated, Big ass, Big tits, Cheating, Creampie, Groping, Handjob, Male domination, Male protagonist, Masturbation, Milf, Oral sex, Romance, Teasing, Titfuck, Sex toys, Vaginal sex, Voyeurism"
+genre: "Completed, 3DCG, Anal sex, Animated, Big ass, Big tits, Cheating, Creampie, Groping, Handjob, Male domination, Male protagonist, Masturbation, Milf, Oral sex, Romance, Teasing, Titfuck, Sex toys, Vaginal sex, Voyeurism"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzI3cjVHazFv"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0dxOUhHVmNR"
