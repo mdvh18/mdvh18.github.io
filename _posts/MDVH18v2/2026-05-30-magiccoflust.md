@@ -9,7 +9,7 @@ namebanner: "[Việt Hóa] MAGIC of LUST Completed - [500MB]"
 mota: |
  Những bí mật từ quá khứ, sự thức tỉnh của một sức mạnh cổ xưa, và những cảm xúc nguy hiểm dẫn dắt Diana vào một con đường nơi phép thuật và đam mê đan xen, làm mờ đi ranh giới giữa khát vọng và định mệnh.
 gametype: "Visual Novel"
-Completed, 
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
