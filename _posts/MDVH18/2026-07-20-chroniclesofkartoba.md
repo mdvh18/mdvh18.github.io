@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "1.5GB"
 phienban: "Ch.1 P3"
 dev: "SinisterSlick Games"
-genre: "3DCG, Animated, Mobile game, Cheating, PoV, Sci-fi, Fantasy"
+genre: "3DCG, Animated, Male Protagonist, Mobile Game, Creampie, Male Domination, Mobile game, Incest, Cheating, Vaginal Sex, PoV, Sci-fi, Fantasy"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1dCNzNHN2Q2"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1k5NFU5cUZ5"
