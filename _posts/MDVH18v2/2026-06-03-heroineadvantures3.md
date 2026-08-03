@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] Heroine Adventures 3 Release 15 - [2.1GB]"
 mota: |
  Phần 3 của Heroine Adventures. Một tập hợp các câu chuyện về Wonder Woman, Lara Croft, Black Widow, Zatanna, Batgirl, Tifa, Black Canary và Power Girl.
 gametype: "Visual Novel"
+Completed, 
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
