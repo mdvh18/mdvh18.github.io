@@ -8,7 +8,8 @@ typegame: ["PC"]
 namebanner: "[Việt Hóa] Hentai Dungeon v1.2 - [54MB]"
 mota: |
  Bước vào một hầm ngục đầy rẫy những trận chiến thẻ bài, nơi mỗi đối thủ đều có thể phá hỏng ngày mới của bạn. Hãy giành chiến thắng để nhận được những nâng cấp tạm thời và xem bạn có thể đi bao xa trước khi bị hầm ngục khuất phục
-gametype: "Visual Novel"
+gametype: "RPG"
+engine: "Unity"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "PC"
