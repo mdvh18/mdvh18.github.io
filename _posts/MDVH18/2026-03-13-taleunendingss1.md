@@ -3,7 +3,7 @@ layout: game
 pitu_id: "taleunendingss1"
 date: 2026-03-13 15:30:00 +0700
 title: "Việt Hóa Tales from the Unending Void Season 1 - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Tales from the Unending Void Season 1 - [3.3GB]"
 mota: |
@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "3.3GB"
 phienban: "0.12.10 Extra Scenes Edition"
 dev: "Perverteer"
-genre: "3DCG, Adventure, Corruption, Creampie, Group sex, Handjob, Harem, Interracial, Male protagonist, Milf, Mobile game, Oral sex, Sci-fi, Teasing, Vaginal sex, Voyeurism, Futa/trans"
+genre: "Completed, 3DCG, Adventure, Corruption, Creampie, Group sex, Handjob, Harem, Interracial, Male protagonist, Milf, Mobile game, Oral sex, Sci-fi, Teasing, Vaginal sex, Voyeurism, Futa/trans"
 
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1ROekM4MllT"
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0RUQ0JTcWJU"
