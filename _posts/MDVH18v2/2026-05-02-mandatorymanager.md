@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "303MB"
 phienban: "v1.02 EA"
 dev: "Kana"
-genre: "3dcg, animated, male protagonist, male domination, big ass, big tits, teasing, spanking, sandbox, Simulator sex toys, voyeurism, masturbation, management, mobile game, Multiple Endings, Pet Play, Trainer"
+genre: "Completed, 3dcg, animated, male protagonist, male domination, big ass, big tits, teasing, spanking, sandbox, Simulator sex toys, voyeurism, masturbation, management, mobile game, Multiple Endings, Pet Play, Trainer"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2NKamdSV2R4"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xb2lRbHRtclN2VVdpMnJCbDcwY1NFQQ=="
