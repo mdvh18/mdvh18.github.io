@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] One Piece: Passion on the Grand Line v0.3.2 - [1.1GB]
 mota: |
  Passion on the Grand Line là một tiểu thuyết trực quan dành cho người lớn và trò chơi phiêu lưu lấy cảm hứng từ vũ trụ One Piece, với cốt truyện gốc, nhiều lựa chọn và các cảnh NSFW có hoạt họa.
 gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "1.1GB"
 phienban: "v0.3.2"
 dev: "StoneHead Productions"
-genre: "3DCG, Animated, Parody, Handj"
+genre: "3DCG, Male protagonist, Animated, Parody, Sandbox, Vaginal Sex, Handjob, Big Tits, Teasing"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL01DOHRNcmM0"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVXVBbE1waWpsTXdORjVVby1sOFFBZw=="
