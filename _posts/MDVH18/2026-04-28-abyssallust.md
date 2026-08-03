@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] Abyssal Lust v0.4.2 - [2GB]"
 mota: |
  Bạn thức dậy trong bóng tối ngột ngạt, không khí nồng nặc mùi sáp tan chảy. Một bộ xương nói những lời bí ẩn về định mệnh và những tội lỗi đã bị lãng quên.
 gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18 FIX xưng hô"
 platform: "APK/PC"
