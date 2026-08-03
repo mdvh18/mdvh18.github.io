@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Hero in Training v0.12 - [983MB]"
 mota: |
  HiT là một trò chơi tiểu thuyết trực quan kích dục, nơi bạn sẽ theo chân câu chuyện của một người hùng cần trải qua quá trình huấn luyện cường độ cao để bảo vệ ngôi làng và những người anh ấy yêu thương khỏi một mối đe dọa khủng khiếp!
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "983MB"
 phienban: "v0.12"
 dev: "Toshika"
-genre: "3DCG, Big tits, Big ass, Groping, Handjb, Male protagonist, Milf"
+genre: "3DCG, Big tits, Big ass, Groping, Handjob, Male protagonist, Milf, Oral sex, Teasing, Sexual harassment"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1dRdGVIODh2"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbnZ1M1JQcnFJdnVWTTFRVkNQNlRuZw=="
