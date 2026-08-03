@@ -3,7 +3,7 @@ layout: game
 pitu_id: "almostcastaways"
 date: 2026-06-10 12:10:00 +0700
 title: "Việt Hóa Almost Castaways Final - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Almost Castaways Final - [1.8GB]"
 mota: |
@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "1.8GB"
 phienban: "Final"
 dev: "Pent Panda"
-genre: "3dcg, animated, female protagonist, lesbian, sex toys, vaginal sex, big ass, big tits, sandbox, group sex, teasing, groping, adventure"
+genre: "Completed, 3dcg, animated, female protagonist, lesbian, sex toys, vaginal sex, big ass, big tits, sandbox, group sex, teasing, groping, adventure"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0dlVWhxdGlN"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzV1M0FLZlRS"
