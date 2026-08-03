@@ -3,7 +3,7 @@ layout: game
 pitu_id: "lethalwomen"
 date: 2026-06-29 15:20:00 +0700
 title: "Việt Hóa Lethal Women: World of Femdom and Espionage Final - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Lethal Women: World of Femdom and Espionage Final - [2.5GB]"
 mota: |
@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "2.5GB"
 phienban: "Final"
 dev: "JMZ42 Games"
-genre: "3DCG, Animated, BDSM, Female domination, Group sex, Handjob, Humiliation, Male protagonist, Milf, PoV, Sex toys, Slave, Spanking, Teasing"
+genre: "Completed, 3DCG, Animated, BDSM, Female domination, Group sex, Handjob, Humiliation, Male protagonist, Milf, PoV, Sex toys, Slave, Spanking, Teasing"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L29SRTdFWkVB"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1NteG1ZS3N4"
