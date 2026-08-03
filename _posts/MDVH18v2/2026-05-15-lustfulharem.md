@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Lustful Harem in Heaven v1.1b - [528MB]"
 mota: |
  Bị nguyền rủa bởi sự 'xui xẻo', nhân vật chính của chúng ta dường như không thể ngừng rơi vào những tình huống nhạy cảm và dâm dục. Để tìm kiếm một khởi đầu mới, anh ta chuyển đến một thành phố mới và ghi danh vào một học viện địa phương, nhưng rồi lại chạm trán với một nữ quỷ succubus, người trở thành đồng phạm của anh ta.
 gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "528MB"
 phienban: "v1.1b"
 dev: "Sedhaild"
-genre: "3DCG, Ahegao, Animated, Big ass, Big tits, Fantasy, Fingering, Groping, Handjb, Harem, Male protagonist, Milf, Monster girl, Rpg, School setting, Turn based combat"
+genre: "3DCG, Ahegao, Animated, Big ass, Big tits, Blowjob, Creampie, Dungeon Crawler, Fantasy, Fingering, Groping, Handjob, Harem, Male protagonist, Milf, Monster girl, Oral sex, Rpg, Sandbox, School setting, Sexual harassment, Sleep sex, Stripping, Titjob, Turn based combat, Vaginal sex, Virgin"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1JNcW1MN1l6"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWXlySUZhbDhKNWlmRTExUXNZTlZMZw=="
