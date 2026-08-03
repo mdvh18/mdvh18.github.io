@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] NTR Master v0.2.1 - [1.1GB]"
 mota: |
  Trong cuộc phiêu lưu đầy những thử thách về giới hạn đạo đức này, bạn sẽ vào vai một kẻ phỏng vấn tạp chí bí ẩn.
 gametype: "Simulation"
+engine: "Unity"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "PC"
 dungluong: "1.1GB"
 phienban: "v0.2.1"
 dev: "iskanime"
-genre: "3DCG, Romance"
+genre: "3DCG, Romance, Netori"
 
 linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzNkaUdvZFdS"
 linkbuzzheavier: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9idXp6aGVhdmllci5jb20vYmh5anhueTltNW41"
