@@ -8,14 +8,15 @@ typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Dragon Incarnate v0.1.9 - [1.2GB]"
 mota: |
  Sau một khởi đầu đầy khó khăn, bạn và những người bạn đồng hành của mình sẽ dấn thân vào một hành trình khám phá những bí mật của loài rồng. Câu chuyện chính có thể được tiếp tục thông qua nhiệm vụ chính theo tiến độ của riêng bạn.
-gametype: "Visual Novel"
+gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "1.2GB"
 phienban: "v0.1.9"
 dev: "Agent Nova"
-genre: "3DCG, Animated, Handj, Adventure, Fantasy, PoV, Puzzle, Romance"
+genre: "3DCG, Animated, Male Protagonist, Female Protagonist, Futa/Trans Protagonist, Creampie, Futa/Trans, Handjob, Lesbian, Oral Sex, Virgin, Adventure, Fantasy, Monster Girl, PoV, Puzzle, Romance, Pregnancy, Vaginal Sex"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1U5V1c1Zk1q"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdFJJaWNjNHMzcVRFM3RudGp2V1ZNQQ=="
