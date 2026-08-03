@@ -8,14 +8,15 @@ typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] The Demon Lord's Project v0.23 - [641MB]"
 mota: |
  Bạn bị một thực thể hùng mạnh bắt cóc trong khi đang ngủ, đưa tới thế giới của chúng, và chúng từ chối tiết lộ lý do chính xác tại sao chúng giữ bạn ở đó.
-gametype: "Visual Novel"
+gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "641MB"
 phienban: "v0.23"
 dev: "Chain Games"
-genre: "Animated, 3DCG, Handj, Fantasy, Monster girl"
+genre: "3DCG, Animated, Big Tits, Fantasy, Handjob, Harem, Male Protagonist, Mobile Game, Monster Girl, Sandbox"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2l0Wm5xTUZU"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWWFBVzRzOTVBb01YeVVTUEE3Y2xjUQ=="
