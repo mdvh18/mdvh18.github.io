@@ -10,6 +10,7 @@ mota: |
  Hãy tận hưởng theo cách của bạn.
 
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "PC"
