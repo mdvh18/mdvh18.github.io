@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] Norika's Case S2 v0.34 Update - [1.8GB]"
 mota: |
  Bạn là một thám tử đến từ một thị trấn nhỏ ở tỉnh lẻ. Năm năm trước, em gái Norika của bạn đã mất tích không một dấu vết. Những ký ức về cô ấy và mối quan hệ giữa hai người vẫn luôn ám ảnh bạn, nhưng bạn đã mất đi mọi hy vọng tìm thấy cô ấy.
 gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
