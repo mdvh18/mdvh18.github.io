@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] The Beach House v0.1 - [628MB]"
 mota: |
  Bạn vào vai một chàng trai 20 tuổi đang sống một cuộc đời bình lặng, đơn giản tại một thị trấn ven biển nhỏ. Nhưng sớm thôi, một sự kiện bất ngờ sẽ thay đổi toàn bộ cuộc đời bạn.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "628MB"
 phienban: "v0.1"
 dev: "Roki"
-genre: "3DCG, Animated, Groping, Handj, Harem, Milf, Mobile game, Romance"
+genre: "3DCG, Animated, Big tits, Groping, Handjob, Harem, Incest, Male protagonist, Milf, Mobile game, Oral sex, Romance, Teasing, Vaginal sex"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0NBSlhTYTMx"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVEt0UktEWVc1bnZyaVl1QktZMnZmUQ=="
