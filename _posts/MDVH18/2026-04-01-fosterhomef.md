@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Foster Home F v0.1 - [450MB]"
 mota: |
  Frey trẻ tuổi buộc phải chuyển đến sống cùng một người bạn cũ của gia đình và các con gái của bà, đồng thời đảm nhận vị trí y tá tại trường đại học của họ.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "450MB"
 phienban: "v0.1"
 dev: "FosterHomeF"
-genre: "3DCG, Futa/Trans"
+genre: "3DCG, Female Protagonist, Futa/Trans"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL295djJDRFFG"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNUliSmtJUFg3YVZqTndpUUY5RGMwZw=="
