@@ -3,7 +3,7 @@ layout: game
 pitu_id: "syahatabadday"
 date: 2026-04-17 10:30:00 +0700
 title: "Việt Hóa Syahata's Bad Day - MDVH18"
-tags: [all, mdvh18, allvh, pc]
+tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC"]
 namebanner: "[Việt Hóa] Syahata's Bad Day v1.0.6a - [440MB]"
 mota: |
@@ -16,7 +16,7 @@ platform: "PC"
 dungluong: "440MB"
 phienban: "v1.0.6a"
 dev: "JaShinn"
-genre: "2DCG, Animated, Monster, Combat, School Setting, Japanese Game"
+genre: "Completed, 2DCG, Animated, Female Protagonist, Mobile Game, Monster, Monster Girl, Side Scroller, Big Ass, Big Tits, Combat, Vaginal Sex, Futa, Creampie, School Setting, Japanese Game, Bestiality, Pregnancy"
 
 linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzVyMzRENVJl"
 linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYjdhYTIzZVRvRzNUclQxT3JQRXZ1Zw=="
