@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Esterium Project v0.004 - [85MB]"
 mota: |
  Bạn có thể chọn lớp nhân vật và tiểu sử cho nhân vật chính. Hiện tại chưa có nhiều lựa chọn, nhưng sẽ có thêm nội dung trong tương lai. Hiện tại, trò chơi có hệ thống hành trang và giao dịch, chế tạo, nhật ký nhiệm vụ chi tiết, đối thoại và khám phá các địa điểm.
 gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "85MB"
 phienban: "v0.004"
 dev: "Kosmos Games"
-genre: "3DCG, Character creation, Monster, Monster girl, Rpg"
+genre: "3DCG, Big tits, Character creation, Female protagonist, Futa/trans protagonist, Monster, Monster girl, Rpg, Sandbox"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2lIWDJxc0h0"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZEdVRzhsMnRBMWVSNzdRYTZNR3FFUQ=="
