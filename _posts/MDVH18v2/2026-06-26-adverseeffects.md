@@ -3,7 +3,7 @@ layout: game
 pitu_id: "adverseeffects"
 date: 2026-06-26 12:30:00 +0700
 title: "Việt Hóa Adverse Effects Final - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Adverse Effects Final - [350MB]"
 mota: |
@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "350MB"
 phienban: "Final"
 dev: "CellStudios"
-genre: "3dcg, Animated, Male protagonist, Vaginal sex, Anal sex, Oral sex, Teasing, Handjob, Masturbation, Voyeurism, Pregnancy, Incest, MILF, Big ass, Big tits, Creampie, Virgin"
+genre: "Completed, 3dcg, Animated, Male protagonist, Vaginal sex, Anal sex, Oral sex, Teasing, Handjob, Masturbation, Voyeurism, Pregnancy, Incest, MILF, Big ass, Big tits, Creampie, Virgin"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2VRWDJxNGM1"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L280SE1ROUUz"
