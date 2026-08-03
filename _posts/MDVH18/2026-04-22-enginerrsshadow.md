@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Engineers of Shadow-Moon Station v0.1.2b - [1.2GB]"
 mota: |
  Trong một thế giới nơi nhân loại đã bắt đầu mở rộng ra các vì sao, hãy dõi theo câu chuyện của một chàng trai trẻ nhận được một lời mời làm việc ngàn năm có một. Anh được một tập đoàn lớn tuyển dụng làm kỹ sư để thực hiện giai đoạn tiếp theo của quá trình thuộc địa hóa không gian.
 gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "1.2GB"
 phienban: "v0.1.2b"
 dev: "Ghost Island Games"
-genre: "3DCG, Animated, Dating sim, Handj, Lesbi, Mobile game, Romance, Sci-fi"
+genre: "3dcg, Anal sex, Animated, Cheating, Creampie, Dating sim, Hand job, Lesbian, Male protagonist, Mobile game, Oral sex, Romance, Sci-fi, Vaginal sex"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3ZmenZZeGhG"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdk5TczlFaWdIdDFLeFZzMUxNaDN3UQ=="
