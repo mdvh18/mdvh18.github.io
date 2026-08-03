@@ -3,7 +3,7 @@ layout: game
 pitu_id: "myrealdesire"
 date: 2026-07-31 15:30:00 +0700
 title: "Việt Hóa My Real Desire Epilogue Full Mod - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] My Real Desire Epilogue Full Mod Fix - [1.6GB]"
 mota: |
@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "1.6GB"
 phienban: "Epilogue Full"
 dev: "Oldcat"
-genre: "3DCG, Male protagonist, Big tits, Animated, Oral sex, Vaginal sex, Mobile game, Creampie, Footjob, Handjob, Harem, Romance, Sandbox, Virgin"
+genre: "Completed, 3DCG, Male protagonist, Big tits, Animated, Oral sex, Vaginal sex, Mobile game, Creampie, Footjob, Handjob, Harem, Romance, Sandbox, Virgin"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1RpOVpFTExz"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3RZUzM1YXp1"
