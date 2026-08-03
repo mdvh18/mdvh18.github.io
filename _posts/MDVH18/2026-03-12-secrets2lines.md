@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Secrets Between Lines Ch.2 APK/PC- [1.1GB]"
 mota: |
  Bạn vào vai một tài xế taxi đang chật vật để duy trì cuộc sống của mình. Giờ làm việc kéo dài, người mẹ đau ốm, và một người anh trai dường như chẳng còn quan tâm gì nữa đã biến mỗi ngày thành một chuỗi mệt mỏi và thất vọng lặng lẽ.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "1.1GB"
 phienban: "Ch.2"
 dev: "Naughty4Life Games"
-genre: "3DCG, Animated, Adventure, Point & Click , Romance"
+genre: "3DCG, Animated, Male Protagonist, Big Ass, Big Tits, Oral Sex, Titfuck , Corruption, Adventure, Humor, Point & Click , Romance, Vaginal Sex, Mobile Game"
 
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2szY2hqWDNC"
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L01pc05TODlj"
