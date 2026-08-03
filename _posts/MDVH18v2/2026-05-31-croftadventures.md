@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] Croft Adventures v0.6.8b - [1GB]"
 mota: |
  Chào mừng người dùng đến với trang phát triển trò chơi điện tử của tôi, tôi đang thực hiện câu chuyện tương tác dành cho người lớn này về một nhân vật nữ nổi tiếng.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 timeplay: 2h30p
