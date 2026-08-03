@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Colorful Worlds v0.4.5 - [806MB]"
 mota: |
  Chào mừng bạn đến với cuộc sống đại học và hành trình làm hoạt náo viên của Elisa! Cô ấy đã bắt đầu lên đường để được khoác lên mình bộ đồng phục trong mơ. Nhưng cô ấy sẽ chèo lái con đường này như thế nào? Liệu cô ấy sẽ trở thành ngôi sao được khao khát nhất trường, chỉ mải mê đuổi theo những bữa tiệc và sự nổi tiếng
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "806MB"
 phienban: "v0.4.5"
 dev: "TheMerkut"
-genre: "3DCG, Female Protagonist, Animated, School setting"
+genre: "3DCG, Female Protagonist, Animated, School setting, Female domination, Male domination, Vaginal sex, Humiliation, Oral sex"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0RqS1JHS3VS"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMGpWdTljWVJlQjVSN0xCcG12MkVqUQ=="
