@@ -3,7 +3,7 @@ layout: game
 pitu_id: "loversfun"
 date: 2026-07-19 12:30:00 +0700
 title: "Việt Hóa Lovers' Fun! Completed - MDVH18"
-tags: [all, mdvh18, allvh, pc]
+tags: [all, mdvh18, allvh, pc, com]
 typegame: ["PC"]
 namebanner: "[Việt Hóa] Lovers' Fun! Completed PC - [470MB]"
 mota: |
@@ -16,7 +16,7 @@ platform: "PC"
 dungluong: "470MB"
 phienban: "Completed"
 dev: "MexM"
-genre: "2dcg, male protagonist, sandbox, romance, animated, teasing, vaginal sex"
+genre: "Completed, 2dcg, male protagonist, sandbox, romance, animated, teasing, vaginal sex"
 
 linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2ZTeExlbVlD"
 linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdHN5S1FxcW5sTXdrTTlUQTY5TFFBQQ=="
