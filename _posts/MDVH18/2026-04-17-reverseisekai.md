@@ -8,14 +8,15 @@ typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Reverse Isekai v0.1 - [1.3GB]"
 mota: |
  Thế giới Ethernia đã bị chiến tranh tàn phá, buộc những cư dân ở đó, chủ yếu là tộc tiên, phải tìm đến Trái Đất làm nơi trú ẩn cuối cùng. Trong khi các nhà lãnh đạo toàn cầu đang tranh cãi về cách xử lý sự xuất hiện đột ngột của một chủng tộc khác, một cuộc thử nghiệm độc đáo bắt đầu tại một ngôi trường địa phương.
-gametype: "Visual Novel"
+gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "1.3GB"
 phienban: "v0.1"
 dev: "CorporateRonin"
-genre: "v0.1"
+genre: "3dcg, school setting, male protagonist, milf, big ass, big tits, monster, superpowers, virgin, incest, stripping, groping, romance, masturbation, ahegao, animated, vaginal sex, creampie, cheating, handjob, oral sex, harem, sandbox"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzRtZmV2V3pZ"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYjYxSFk2M1doUXRyWGlLNldDcWNoUQ=="
