@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] C.X Protocol: Condict Invasion v0.02 - [535MB]"
 mota: |
  Trong một tương lai nơi hầu hết mọi người đều phụ thuộc vào rô-bốt vì sự tiện nghi hàng ngày, một loại rô-bốt biến chất nguy hiểm được gọi là Condict đã bắt đầu xuất hiện. Những kẻ Condict này bí mật sống giữa con người và những rô-bốt bình thường trong khi thực hiện các vụ giết người tàn bạo vì những lý do không xác định.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
