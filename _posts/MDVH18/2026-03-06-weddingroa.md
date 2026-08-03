@@ -3,19 +3,20 @@ layout: game
 pitu_id: "weddingroa"
 date: 2026-03-06 11:30:00 +0700
 title: "Việt Hóa Wedding Roaming - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Wedding Roaming v1.0 - [410MB]"
 mota: |
  Bạn và vợ đang cùng nhau tìm kiếm những phương thức mới để hâm nóng tình cảm lứa đôi. Liệu bạn có hứng thú với việc chia sẻ trải nghiệm cùng người khác hay khám phá những khía cạnh của trò chơi cắm sừng?
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "410MB"
 phienban: "v1.0"
 dev: "LadyLana"
-genre: "3DCG, Animated, Teasing, Mobile game"
+genre: "Completed, 3DCG, Animated, Teasing, Mobile game"
 
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0ZIUUpqNlB5"
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzNaVDVMWXhr"
