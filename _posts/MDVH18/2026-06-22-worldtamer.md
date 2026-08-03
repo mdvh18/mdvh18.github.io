@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "3.4GB"
 phienban: "v0.41"
 dev: "Deniam"
-genre: "3DCG, Ahegao, Animated, Dating Sim, Exhibitionism, Fantasy, Groping, Group, Handjb, Harem, Lesbian, Masturbation, Milf, Mobile Game, Monster Girl, Oral Sex, Pov, Romance, Twins"
+genre: "3DCG, Ahegao, Anal Sex, Animated, Big Ass, Big Tits, Dating Sim, Exhibitionism, Fantasy, Groping, Group Sex, Handjob, Harem, Lesbian, Male Domination, Male Protagonist, Masturbation, Milf, Mobile Game, Monster Girl, Oral Sex, Pov, Romance, Sandbox, Teasing, Twins, Vaginal Sex, Voyeurism"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1VMOGhXdzE0"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZzhNQXlmUU1FRUs0TEExcE42bmdzQQ=="
