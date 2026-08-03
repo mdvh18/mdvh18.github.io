@@ -3,7 +3,7 @@ layout: game
 pitu_id: "hntrchronicles"
 date: 2026-06-27 10:30:00 +0700
 title: "Việt Hóa H NTR Chronicles Completed - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk, ntr]
+tags: [all, mdvh18, allvh, pc, apk, ntr, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] H NTR Chronicles Completed - [424MB]"
 mota: |
@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "424MB"
 phienban: "Completed"
 dev: "Lazy Gem"
-genre: "3DCG, Ahegao, Animated, Big Ass, Big Tits, Handjob, Male Protagonist, Masturbation, Mobile Game, Netorare, Pov, Vaginal Sex"
+genre: "Completed, 3DCG, Ahegao, Animated, Big Ass, Big Tits, Handjob, Male Protagonist, Masturbation, Mobile Game, Netorare, Pov, Vaginal Sex"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0c1bVZ4cXVF"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0ZITnVMSGRx"
