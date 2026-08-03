@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Best Friends Ch.11.1 - [1GB]"
 mota: |
  Hai gã trai vùng Newcastle chuẩn bị cho chương tiếp theo của cuộc đời khi họ học xong, và chuẩn bị lên đại học nhưng một người đã giữ kín một bí mật lớn với người bạn thân nhất của mình.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "1GB"
 phienban: "Ch.11.1"
 dev: "Faenon"
-genre: "3DCG, Animated, Futa/trans, Milf"
+genre: "3DCG, Animated, Futa/trans, Futa/trans protagonist, Male protagonist, Milf, Multiple protagonist"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2dGWlZXaXkz"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSHYtWm9zdmdVbUluZ1JLMEh1UWEwUQ=="
