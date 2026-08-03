@@ -3,7 +3,7 @@ layout: game
 pitu_id: "lessensoflove17"
 date: 2026-04-04 11:30:00 +0700
 title: "Việt Hóa Lessons of love and lust - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Lessons of love and lust Ch. 1-7 - [1.6GB]"
 mota: |
@@ -15,7 +15,7 @@ platform: "APK/PC"
 dungluong: "1.6GB"
 phienban: "Ch. 1-7"
 dev: "kraguto games"
-genre: "3DCG, Ahegao, Animated, Cosplay, Groping, Group, Handjob, Harem, Nasturb, Nilf, Nonster girl, Parody, Pov, Romance, School setting"
+genre: "Completed, 3dcg, ahegao, anal sex, animated, bdsm, big ass, big tits, bukkake, cosplay, creampie, exhibitionism, footjob, groping, group sex, handjob, harem, male protagonist, masturbation, milf, monster girl, oral sex, parody, pov, pregnancy, romance, school setting, sex toys, sleep sex, stripping, teasing, titfuck, vaginal sex, voyeurism"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0dVY1VUYWll"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUlppNWhkbWFOdVA1SEx4MHBmbXktdw=="
