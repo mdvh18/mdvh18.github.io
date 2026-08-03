@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Dilemma of Devotion Ch.4Ep.3 - [2.2GB]"
 mota: |
  Dilemma of Devotion đưa bạn, nhân vật chính, vào một cuộc hành trình. Trong mắt thế giới bên ngoài, bạn có vẻ là một chàng trai lý tưởng mà bất cứ ai cũng muốn trở thành, nhưng thẳm sâu bên trong, bạn bị bủa vây bởi những mất mát và gian khổ đã trải qua trong những năm gần đây, bao gồm cả việc mất đi những người rất quan trọng đối với bản thân mình.
 gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "2.2GB"
 phienban: "Ch.4Ep.3"
 dev: "PulseHavenStudios"
-genre: "3DCG, Romance, Animated, Handj, Multiple Endings, Groping, Mobile game"
+genre: "Male Protagonist, 3DCG, Romance, Corruption, Animated, Big Ass, Big tits, Handjob, Multiple Endings, Groping, Sandbox, Stripping, Oral Sex, Vaginal Sex, Virgin, Voyeurism, Humor, Mobile game"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0FaU0NtZ243"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xa2NYb1hHaHM5amZTOG9Rb1dpcHBDdw=="
