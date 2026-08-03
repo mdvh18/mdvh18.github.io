@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] StudentXchange v2 - [537MB]"
 mota: |
  Câu chuyện kể về Elsa trên hành trình phát triển và khám phá bản thân của riêng cô ấy.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "537MB"
 phienban: "v2"
 dev: "SerialNumberComics"
-genre: "3DCG, Animated, Milf, School setting,"
+genre: "3dcg, animated, female protagonist, milf, teasing, school setting"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3BqYTh6a0M0"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUTM0TllESjFqbE15U1ZKdThJUTBwdw=="
