@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] The Boss's Wife: A Dangerous Affair v1.2 - [1.5GB]"
 mota: |
  Hãy bước vào thế giới của những khao khát cấm đoán và đam mê thầm kín trong tựa game Visual Novel người lớn đầy lôi cuốn. Trong vai Morgan, một người đàn ông lôi cuốn và đầy tham vọng, anh sẽ phải lèo lái qua những mối quan hệ đầy phức tạp.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "1.5GB"
 phienban: "v1.2"
 dev: "Toothless Studio"
-genre: "3DCG, MILF, Groping, Mobile game"
+genre: "3dcg, Male protagonist, Big ass, Big tits, MILF, Groping, Teasing, Cheating, Vaginal sex, Mobile game, Oral sex"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3dCRTc4TEJX"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOW1OR2VTOHRqZm9kU2pUa21ZcHAwZw=="
