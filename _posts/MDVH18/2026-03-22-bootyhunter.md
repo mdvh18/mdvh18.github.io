@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Booty Hunter v0.13.4 - [2GB]"
 mota: |
  Booty Hunter là một trò chơi nhập vai (RPG) và trò chơi người lớn (H-GAME) lấy bối cảnh ONE PIECE, nơi bạn thực hiện các NHIỆM VỤ và SĂN TIỀN THƯỞNG trong khi gặp gỡ những người mới, xây dựng băng nhóm của mình và trở nên mạnh mẽ hơn. Trò chơi cho bạn sự tự do để khám phá thế giới.
 gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "2GB"
 phienban: "v0.13.4"
 dev: "TheAlleyGuy"
-genre: "3DCG, Animated, Handj, Harem, Management, Mastur, Milf, Fantasy, PoV, Parody, Trainer"
+genre: "3DCG, Male protagonist, Anal Sex, Animated, Ahegao, Big tits, Corruption, Handjob, Harem, Management, Masturbation, Milf, Oral sex, Fantasy, PoV, Sandbox, Parody, Teasing, Trainer, Vaginal sex"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0pUeFJGYjhr"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMVdBeFV5NDIzcFphQU5heVNhZ1NRdw=="
