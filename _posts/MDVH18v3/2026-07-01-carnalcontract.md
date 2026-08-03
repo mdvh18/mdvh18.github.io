@@ -3,7 +3,7 @@ layout: game
 pitu_id: "carnalcontract"
 date: 2026-07-01 17:30:00 +0700
 title: "Việt Hóa Carnal Contract S1 v1.03.1 Premium - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Carnal Contract S1 v1.03.1 Premium - [3.9GB]"
 mota: |
@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "3.9GB"
 phienban: "v1.03.1"
 dev: "Dotty Diaries"
-genre: "3DCG, Male protagonist, Animated, Sex toys, Voyeurism, Big ass, MILF, Exhibitionism, Oral sex, Vaginal sex, Creampie, Big tits"
+genre: "Completed, 3DCG, Male protagonist, Animated, Sex toys, Voyeurism, Big ass, MILF, Exhibitionism, Oral sex, Vaginal sex, Creampie, Big tits"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzFTYWVYWTZy"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1FjNlcyMzFG"
