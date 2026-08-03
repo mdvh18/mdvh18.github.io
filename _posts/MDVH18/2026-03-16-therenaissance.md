@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] The Renaissance v0.7 [2.7GB/600MB]"
 mota: |
  Trò chơi sẽ kể cho bạn nghe về một anh chàng điển trai và tự tin, người đã chạm đến những đỉnh cao đáng nể khi tuổi đời còn rất trẻ. Anh ta chưa bao giờ gặp khó khăn trong việc tán tỉnh bất kỳ người đàn bà nào mình muốn, và sự nghiệp của anh ta cũng thăng tiến với tốc độ không thể tin nổi.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "Original 2.7GB / Compressed 600MB"
 phienban: "v0.7"
 dev: "Miron HFG"
-genre: "3DCG, Animated, PoV, Milf, Mobile game, Toys, Les Footj"
+genre: "3DCG, Male protagonist, Animated, Female domination, Vaginal sex, PoV, Milf, Mobile game, Oral sex, BDSM, Humiliation, Slave, Anal sex, Blackmail, Sexual harassment, Foot Fetish, Spanking, Whipping, Facesitting, Spitting, Urination, Sex toys, Ballbusting, Lesbian, Pegging, Footjob"
 
 linkpixelapkpccom: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1g5M205RGFw"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xaHZkOFYzM25CT3hsbnU5X1pqZFBxZw=="
