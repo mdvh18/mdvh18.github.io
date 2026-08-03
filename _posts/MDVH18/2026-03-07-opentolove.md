@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] Opening to Love v0.6 - [360MB]"
 mota: |
  Opening to Love bắt đầu như một cuộc phiêu lưu tình ái lãng mạn đời thường, với những manh mối nhỏ về một bí ẩn đang dần hiện rõ. Bạn vào vai Michael Davis, một quản trị viên CNTT 34 tuổi đang làm việc cho một công ty kế toán lớn.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
