@@ -9,7 +9,7 @@ namebanner: "[Việt Hóa] Heroes of Celtica: Dark Druid v0.12.0 Update - [1.4GB
 mota: |
  Ngài là Scythian, một anh hùng thuộc chủng tộc bán thần bất tử được gọi là Tuatha De Danann. Khi đang chiến đấu trong trận đại chiến cuối cùng quyết định vận mệnh của dân tộc mình, Scythian bỗng nhiên thấy bản thân lạc vào một vùng đất hoang dã của những vương quốc đang giao tranh và những mỹ nhân.
 gametype: "Visual Novel"
-
+engine: "Renpy"
 language: "Tiếng Việt"
 engine: "Renpy"
 mdvh18: "MDVH18"
