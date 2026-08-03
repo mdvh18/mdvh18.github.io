@@ -8,7 +8,8 @@ typegame: ["PC"]
 namebanner: "[Việt Hóa] Shittsui Reijou Amelia – Zettai Meirei no Meido Kyouiku - [992MB]"
 mota: |
  Cô từng là trưởng nữ của một gia tộc quý tộc danh giá, thống trị giới thượng lưu của quốc gia—một người phụ nữ xinh đẹp mà ai nấy đều chỉ dám ngưỡng mộ từ xa như một đóa hoa trên cao không thể chạm tới.
-gametype: "Visual Novel"
+gametype: "Simulator"
+engine: "Unity"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "PC"
