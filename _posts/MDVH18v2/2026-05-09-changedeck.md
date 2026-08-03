@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] Change Deck v0.5.2 - [1.4GB]"
 mota: |
  Thay đổi bộ bài! Làm tăng kích thước ngực, mông hoặc chiều cao của đối thủ để trở thành người trụ lại cuối cùng trong cuộc thi Lust Off đầy ma mị này. Bản phát hành đầu tiên này của trò chơi dựa trên hình thức kéo búa bao đơn giản (nhưng vẫn có tiềm năng phát triển thêm!)
 gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
