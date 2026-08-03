@@ -3,7 +3,7 @@ layout: game
 pitu_id: "monkeybusiness"
 date: 2026-06-10 11:30:00 +0700
 title: "Việt Hóa Monkey Business Final - MDVH18"
-tags: [all, mdvh18, allvh, pc]
+tags: [all, mdvh18, allvh, pc, com]
 typegame: ["PC"]
 namebanner: "[Việt Hóa] Monkey Business Final Joiplay - [4.5GB]"
 mota: |
@@ -17,7 +17,7 @@ platform: "Joiplay/PC"
 dungluong: "4.5GB"
 phienban: "Final"
 dev: "Lazy Monkey"
-genre: "3DCG, Male protagonist, Animated, Corruption, Footjob, Handjob, Incest, Masturbation, MILF, Oral sex, Romance, School setting, Titfuck, Voyeurism, Cheating, Female domination, Male domination, Vaginal sex, Creampie, Pregnancy"
+genre: "Completed, 3DCG, Male protagonist, Animated, Corruption, Footjob, Handjob, Incest, Masturbation, MILF, Oral sex, Romance, School setting, Titfuck, Voyeurism, Cheating, Female domination, Male domination, Vaginal sex, Creampie, Pregnancy"
 
 linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3A2eWpUVVBx"
 linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC90eDNVdnM="
