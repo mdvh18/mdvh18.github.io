@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Dusk or Sensei v0.1 - [505MB]"
 mota: |
  Anh ta không nhớ bất cứ điều gì. Không biết mình là ai. Không biết tại sao cơ thể lại đầy những vết sẹo. Thậm chí không biết mình nên làm gì tiếp theo. Tất cả những gì anh ta biết là mình vừa trở về từ cuộc chiến — nhưng làm thế nào anh ta đến được đó… anh ta đã suy nghĩ rất lâu, và vẫn không thể tìm ra câu trả lời.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "505MB"
 phienban: "v0.1"
 dev: "Munei Yi"
-genre: "3DCG, Dystopian setting, Fantasy, Milf, Sci-fi"
+genre: "3dcg, male protagonist, dystopian setting, fantasy, milf, sci-fi, big ass, big tits, stripping"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0QzU3czdksz"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xeGV0NmozQjJDRHVqekRrMHQwS2xLQQ=="
