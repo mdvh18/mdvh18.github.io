@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] Summer's Gone S2 Ch.1-3 Final - [3.2GB]"
 mota: |
  Sau một trải nghiệm đau thương, một linh hồn trẻ tuổi cố gắng tìm đường trở lại cuộc sống. Trường đại học sắp khai giảng và những bí ẩn chuẩn bị được hé mở.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
