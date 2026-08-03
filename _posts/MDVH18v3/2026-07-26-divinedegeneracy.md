@@ -3,7 +3,7 @@ layout: game
 pitu_id: "divinedegeneracy"
 date: 2026-07-26 12:30:00 +0700
 title: "Việt Hóa Divine Degeneracy Full - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Divine Degeneracy Full - [1.2GB]"
 mota: |
@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "1.2GB"
 phienban: "Full"
 dev: "Honeylust"
-genre: "2dcg, animated, male protagonist, sandbox, milf, fantasy, adventure, big ass, big tits, prostitution, groping, teasing, harem, masturbation, voyeurism, mobile game"
+genre: "Completed, 2dcg, animated, male protagonist, sandbox, milf, fantasy, adventure, big ass, big tits, prostitution, groping, teasing, harem, masturbation, voyeurism, mobile game"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2loZjdXazlW"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L29RUXJ6dkJV"
