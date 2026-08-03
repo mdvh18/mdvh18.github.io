@@ -3,7 +3,7 @@ layout: game
 pitu_id: "hiddenrealities"
 date: 2026-06-17 12:30:00 +0700
 title: "Việt Hóa Hidden Realities Completed - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk, ntr]
+tags: [all, mdvh18, allvh, pc, apk, ntr, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Hidden Realities Completed - [631MB]"
 mota: |
@@ -17,7 +17,7 @@ platform: "APK/PC"
 dungluong: "631MB"
 phienban: "Completed"
 dev: "Nine Tempos"
-genre: "3DCG, Animated, Big ass, Big tits, Cheating, Incest, Male protagonist, Milf, Teasing, Sci-fi, Multiple endings, Oral sex, Vaginal sex, Harem, Point & Click, Netorare (avoidable), Swinging, Interracial, Stripping, Corruption"
+genre: "Completed, 3DCG, Animated, Big ass, Big tits, Cheating, Incest, Male protagonist, Milf, Teasing, Sci-fi, Multiple endings, Oral sex, Vaginal sex, Harem, Point & Click, Netorare (avoidable), Swinging, Interracial, Stripping, Corruption"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzNMY1lRYnlw"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzFzcXpSdEtD"
