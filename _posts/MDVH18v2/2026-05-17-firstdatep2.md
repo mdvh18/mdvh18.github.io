@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] First Date Part 2 - [2.8GB]"
 mota: |
  First Date là một câu chuyện ngắn về một chàng trai trở về quê hương của mình. Anh ta gặp một cô gái nhút nhát và đưa cô đi hẹn hò, rồi cuộc hẹn nhanh chóng trở nên nóng bỏng và nồng nhiệt.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "2.8GB"
 phienban: "Part 2"
 dev: "GrimCiri"
-genre: "3DCG, Animated, Male protagonist, Handjb, Footjb, Futa/Trans, Oral sex, Spanking, Teasing, Pov"
+genre: "3DCG, Animated, Male protagonist, Handjob, Footjob, Futa/Trans, Oral sex, Spanking, Teasing, Anal sex, Vaginal sex, Pov, Creampie"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2pBSEthTHpy"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRzZPTlVvOUpOdWc5ZVBNOHhDeWdIdw=="
