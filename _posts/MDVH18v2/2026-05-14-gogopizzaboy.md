@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] Go!Go!PizzaBoy! v0.2.0 - [2.5GB]"
 mota: |
  Câu chuyện mở ra khi một chàng trai trẻ nhận công việc bán thời gian là nhân viên giao pizza, dẫn đến việc anh phải chuyển tới một thành phố mới. Tuy nhiên, mọi thứ rẽ sang một hướng không ngờ tới khi anh thấy mình bị vướng vào một khu nghỉ dưỡng do các cô gái điều hành, một nhà khoa học kỳ quặc, và thậm chí là cả... những lỗi mã nguồn?
 gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
