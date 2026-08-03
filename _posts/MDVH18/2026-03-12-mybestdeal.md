@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] My Best Deal v4.5.0 APK/PC - [2.2GB]"
 mota: |
  Sau khi cứu một cô gái khỏi cái chết mười mươi, một chàng trai trẻ thấy mình đang ở trên thiên đường, nơi anh ta thực hiện một thỏa thuận với nữ thần tình yêu.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "2.2GB"
 phienban: "v4.5.0"
 dev: "Pirot King"
-genre: "3DCG, Animated, MILF, Twins, School setting, Footj, Handj, Les"
+genre: "3DCG, Anal Sex, Male protagonist, Animated, Incest, Creampie, Paranormal, MILF, Twins, School setting, Big tits, Big ass, Footjob, Handjob, Interracial, Lesbian, Oral sex, Vaginal sex, Mind Control"
 
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzhhSkJlTFJR"
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3RObVZ5UkNY"
