@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] Double Perception v6.0 FIX Mất thoại - [1.2GB]"
 mota: |
  Double Perception là một trò chơi với 2 thế giới. Đầu tiên là Thực tại. Không có gì đặc biệt, chỉ là một Trái Đất bình thường. Cõi thứ hai thú vị hơn một chút – Dawn of Arcanum.
 gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
