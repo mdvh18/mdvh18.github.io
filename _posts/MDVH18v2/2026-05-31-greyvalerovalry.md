@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] Greyvale Rivalry Ep.1 Fix APK - [3.4GB]"
 mota: |
  Chào mừng đến với Greyvale Rivalry, một tiểu thuyết trực quan thô tục, hài hước và gợi cảm đến điên rồ, nơi cuộc sống đại học chỉ là cái nền cho rượu bia, gái xinh và những trận đấu thể thao nảy lửa.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 timeplay: 5h20p
