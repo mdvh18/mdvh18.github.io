@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "3.5GB"
 phienban: "v0.16.1"
 dev: "Naughty Capy"
-genre: "3DCG, Animated, Groping, Handj, Masturbn, Milf, Parody, Point & Click, POV, School setting, Sci-Fi"
+genre: "3DCG, Animated, Anal, Big Ass, Big Tits, Groping, Handjob, Incest (stepcest), Male Protagonist, Masturbation, Milf, Oral Sex, Oral Sex, Parody, Point & Click, POV, School setting, Sci-Fi, Titfuck, Vaginal Sex, Voyeurism"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1RKVHU5aDNK"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2pOR3h2c3dO"
