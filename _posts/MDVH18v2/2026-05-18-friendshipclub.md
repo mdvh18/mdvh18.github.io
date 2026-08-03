@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] Welcome to the Friendship Club! v0.16 - [2.5GB]"
 mota: |
  Bạn vào vai Jin, một học sinh mới được mời đến Học viện Kanoi danh giá thế giới một cách đầy bí ẩn, nơi những thiên tài thống trị tất cả!
 gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
