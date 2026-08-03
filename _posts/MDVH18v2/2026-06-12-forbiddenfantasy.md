@@ -3,7 +3,7 @@ layout: game
 pitu_id: "forbiddenfantasy"
 date: 2026-06-12 20:30:00 +0700
 title: "Việt Hóa Forbidden Fantasy Completed Deluxe - MDVH18"
-tags: [all, mdvh18, allvh, pc]
+tags: [all, mdvh18, allvh, pc, com]
 typegame: ["PC"]
 namebanner: "[Việt Hóa] Forbidden Fantasy Completed Deluxe FIX Không vào được game - [3.2GB]"
 mota: |
@@ -16,7 +16,7 @@ platform: "Joiplay/PC"
 dungluong: "3.2GB"
 phienban: "Completed Supporter"
 dev: "OppaiMan"
-genre: "3dcg, Animated, Male protagonist, Fantasy, Adventure, Voiced, Monster girl, Monster, Superpowers, Big ass, Big tits, Oral sex, Handjob, Vaginal sex, Titfuck, Harem, Transformation, Multiple endings, Dating sim, Milf, Romance, Humor, Paranormal, Mobile game"
+genre: "Completed, 3dcg, Animated, Male protagonist, Fantasy, Adventure, Voiced, Monster girl, Monster, Superpowers, Big ass, Big tits, Oral sex, Handjob, Vaginal sex, Titfuck, Harem, Transformation, Multiple endings, Dating sim, Milf, Romance, Humor, Paranormal, Mobile game"
 
 linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1VxVXBleVhh"
 linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC90YWY3RzU="
