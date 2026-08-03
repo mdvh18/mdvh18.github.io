@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Wicked Ways v0.10 - [1.2GB]"
 mota: |
  Khi bạn cân bằng giữa một sự nghiệp đòi hỏi cao với một đời sống cá nhân phức tạp, bạn sẽ bị cuốn vào một mạng lưới của những mối quan hệ lãng mạn và những tình huống đạo đức khó xử, nơi mọi lựa chọn đều quan trọng. Những trải nghiệm cá nhân của bạn trở thành nguồn cảm hứng nghề nghiệp, cho phép bạn biến những khoảnh khắc và mối quan hệ thoáng qua thành thành công định hình sự nghiệp.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "1.2GB"
 phienban: "v0.10"
 dev: "LewdsMeister"
-genre: "3DCG, Slice of life, Big tits, MILF, Seduction, Groping, Handjb, Animated, Male protagonist, Mobile game"
+genre: "3DCG, Slice of life, Big tits, Oral sex, MILF, Seduction, Cheating, Corruption, Vaginal sex, Creampie, Groping, Handjob, Animated, Male protagonist, Mobile game"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3ZGckE1RnJo"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcEFJOGhnOWNPdW00MzBsYWJOZ2xhZw=="
