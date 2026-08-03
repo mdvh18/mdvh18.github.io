@@ -3,7 +3,7 @@ layout: game
 pitu_id: "rebellbeginning"
 date: 2026-07-31 11:30:00 +0700
 title: "Việt Hóa Rebellion: The Beginning Completed - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk, ntr]
+tags: [all, mdvh18, allvh, pc, apk, ntr, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Rebellion: The Beginning Completed (NTR) - [2.1GB]"
 mota: |
@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "2.1GB"
 phienban: "Completed"
 dev: "AGHAMUS"
-genre: "3DCG, Animated, Male Protagonist, Mobile Game, Anal Sex, Big Ass, Big Tits, Bukkake, Cheating, Creampie, Exhibitionism, Group sex, Handjob, Masturbation, Multiple Penetration, Netorare(Avoidable), Oral Sex, Rape, Slave, Titfuck, Urination, Vaginal Sex, Virgin, Cosplay, Graphic violence"
+genre: "Completed, 3DCG, Animated, Male Protagonist, Mobile Game, Anal Sex, Big Ass, Big Tits, Bukkake, Cheating, Creampie, Exhibitionism, Group sex, Handjob, Masturbation, Multiple Penetration, Netorare(Avoidable), Oral Sex, Rape, Slave, Titfuck, Urination, Vaginal Sex, Virgin, Cosplay, Graphic violence"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0Zld1I5WnBL"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0J0U3BQYlk4"
