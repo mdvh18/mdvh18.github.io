@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] The Fallen Angel v0.7 - [368MB]"
 mota: |
  Liệu bạn có thể giúp cô ấy?
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
