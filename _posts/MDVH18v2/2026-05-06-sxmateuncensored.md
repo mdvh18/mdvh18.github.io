@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Sexmate: Uncensored S1-v1.01 - [2.2GB]"
 mota: |
  Ryan và Lucia chuyển đến một thành phố mới của Ý để bắt đầu học đại học, mỗi người học tại cơ sở riêng của mình. Ryan nhanh chóng nảy sinh một mối quan hệ tình dục mãnh liệt với Amanda, đồng thời kết thêm những người bạn mới là Chris, Rob và Sarah.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "2.2GB"
 phienban: "S1-v1.01"
 dev: "Siliconbrianza"
-genre: "3DCG, Animated, Male protagonist, School setting, Milf, Lesbian, Group, Handj"
+genre: "3dcg, animated, male protagonist, school setting, milf, teasing, groping, blackmail, kinetic novel, bdsm, interracial, urination, anal sex, vaginal sex, oral sex, lesbian, group sex, handjob, masturbation, scat, rape, creampie"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzhwZ3dQUk54"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xekFBWlp3d3R0TTM2UjJOYk5qVnJXQQ=="
