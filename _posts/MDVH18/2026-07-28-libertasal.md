@@ -9,7 +9,7 @@ namebanner: "[Việt Hóa] Libertas: Awakened Lust Update v0.9 - [600MB]"
 mota: |
  Theo chân Emily, một người vợ chung thủy khi cô bị cuốn vào Libertas - thành phố của sự giải phóng. Thành phố này sẽ thử thách và tha hóa cô khi cô cố gắng chống lại nó.​
 gametype: "Visual Novel"
-engine: "renpy"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
