@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Sunset Rose v0.1 Elite - [776MB]"
 mota: |
  Trong cốt truyện này bạn vào vai một nhân vật nam chính, một gã khá thoải mái, tầm giữa tuổi đôi mươi, sống một mình. Không nuôi thú cưng, sống đúng kiểu độc thân. Bạn làm việc tại một quán ăn nhanh địa phương cùng với đồng nghiệp của mình là Daniela.
 gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "776MB"
 phienban: "v0.1 Elite"
 dev: "Lewdlab"
-genre: "3DCG, Animated, Groping, MILF Mastur, toys, Handj,"
+genre: "3dcg, Animated, Sandbox, Male protagonist, Teasing, Groping, MILF, Big tits, Big ass, Voyeurism, Masturbation, Sex toys, Handjob, Vaginal sex"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzhVam9WN3ox"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSXQxLWhTdGF3cU5PTGxLeXpCRGZtQQ=="
