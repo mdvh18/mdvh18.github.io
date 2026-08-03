@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] The Red Veil Ep.1 P.2 - [1GB]"
 mota: |
  Trong The Red Veil, bạn sẽ đối đầu với The Red Hand — một tổ chức tội phạm tàn bạo do tên Dante Morales khét tiếng cầm đầu, kẻ được biết đến trên đường phố với biệt danh El Diablo. Chúng kiểm soát mọi thứ, từ những giao dịch trong ngõ hẻm cho đến các cấp chính trị cao nhất. Thành phố đã bỏ cuộc. Không còn ai dám phản kháng nữa... ngoại trừ bạn.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "1GB"
 phienban: "Ep.1 P.2"
 dev: "Raw Magic"
-genre: "3DCG, Animated, Groping, Handj, Milf"
+genre: "3DCG, Anal sex, Animated, Big ass, Big tits, Groping, Handjob, Male domination, Male protagonist, Milf, Oral sex, Teasing, Vaginal sex"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3pzWnFyOU14"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xeFNFUnZWVlBtbHZXak5NYnY5a3NoUQ=="
