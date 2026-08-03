@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Training Slayer v1.03 - [369MB]"
 mota: |
  Một tựa game lấy chủ đề Slayer.
 gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "369MB"
 phienban: "v1.03"
 dev: "BokunDev"
-genre: "3DCG, Romance, Parody, Masturb"
+genre: "3DCG, Male Protagonist, Romance, Oral Sex, Vaginal Sex, Parody, Masturbation"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2JNb2ZzOVpO"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xM3JEaVhBcmUyQ2lCWHdKZkwtdEpMZw=="
