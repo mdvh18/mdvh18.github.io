@@ -3,7 +3,7 @@ layout: game
 pitu_id: "mycatgirlharem"
 date: 2026-06-11 12:30:00 +0700
 title: "Việt Hóa Short n' Sweet: My cat girl Harem Final Sxp2 - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Short n' Sweet: My cat girl Harem Final Sxp2 - [4.2GB]"
 mota: |
@@ -17,7 +17,7 @@ platform: "APK/PC"
 dungluong: "4.2GB"
 phienban: "Final Sxp2"
 dev: "Cyansun"
-genre: "3DCG, Animated, Big Ass, Big Tits, Creampie, Groping, Handjob, Harem, Male Protagonist, Monster Girl, Oral Sex, Pregnancy, Romance, Vaginal Sex"
+genre: "Completed, 3DCG, Animated, Big Ass, Big Tits, Creampie, Groping, Handjob, Harem, Male Protagonist, Monster Girl, Oral Sex, Pregnancy, Romance, Vaginal Sex"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2FYRGFpblVy"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2JLNXdYbWFY"
