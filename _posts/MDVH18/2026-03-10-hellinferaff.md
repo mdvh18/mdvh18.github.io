@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] HellKink: Infernal Affairs v0.2f - [421MB]"
 mota: |
  Malacoda, một con quỷ đầy quyến rũ, thấy mình bị cuốn khỏi những rào cản hành chính gò bó của địa ngục để đến với thành phố đồng quê thơ mộng Eden Meadows.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "421MB"
 phienban: "v0.2f"
 dev: "Spicy Peach"
-genre: "2DCG, Animated, Fantasy, Harem, Mastur, MILF, Toys, Monster"
+genre: "2DCG, Animated, Male Protagonist, Fantasy, Ahegao, BDSM, Creampie, Gay, Harem, Lesbian, Masturbation, Sex Toys, Teasing, Vaginal Sex, Big Ass, Big Tits, DILF, MILF, Sex toys, Monster girl"
 
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2RvZVBEUjlL"
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0xkVExKQ0ZL"
