@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] My Happy Life v1.7.1- [1.4GB]"
 mota: |
  Kevin vô tình chuyển sinh sang một thế giới khác sau một tai nạn giao thông. Đáng tiếc là anh đã bị mất trí nhớ. Tại thế giới này, Kevin đã gặp gỡ những cô giáo, những người bạn học nữ, các nữ bác sĩ và cả những cô y tá xinh đẹp.
 gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt, English, Chinese Traditional, Chinese"
 mdvh18: "Other"
 platform: "PC"
