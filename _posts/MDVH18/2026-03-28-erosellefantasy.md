@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Eroselle Fantasy Lust Sim v0.2.1 - [2.4GB]"
 mota: |
  Eroselle: Fantasy Lust Sim là một trò chơi mô phỏng cuộc sống kỳ ảo dành cho người lớn, nơi bạn xây dựng các mối quan hệ, khám phá một thế giới phép thuật sống động và quyến rũ cả những nữ chính trong cốt truyện lẫn các nhân vật phụ được tạo ngẫu nhiên.
 gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "2.4GB"
 phienban: "v0.2.1"
 dev: "Lust Works Studio"
-genre: "3DCG, Animated, Groping, Handj, Romance, Rpg, Oral sex, Simulator"
+genre: "3DCG, Animated, Big ass, Big Tits, Groping, Handjob, Male protagonist, Oral sex, Romance, Rpg, Oral sex, Sandbox, Simulator, Teasing"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0VHMnIxeWZu"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xT3pLR3RfSEZFNHRRaXlQYWZKaXBnQQ=="
