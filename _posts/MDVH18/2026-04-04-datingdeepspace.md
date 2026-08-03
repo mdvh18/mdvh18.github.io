@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Dating in Deep Space v0.4 - [983MB]"
 mota: |
  Nhân vật chính của chúng ta, Simon Seiyaz, thức dậy ở tương lai trên một con tàu vũ trụ chứa đầy 9 người phụ nữ xinh đẹp.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "983MB"
 phienban: "v0.4"
 dev: "BubbleGumKnight"
-genre: "3DCG, Humor, Sci-fi, Parody, Ahegao Teasing, Monster"
+genre: "3DCG, Humor, Sci-fi, Parody, Ahegao, Big Tits, Creampie, Exhibitionism, Male Protagonist, Teasing, Monster Girl"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL01GSnFqUDF0"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWFFJNlVQODNYTFRkazRtSGpLN0dFZw=="
