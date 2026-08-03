@@ -3,7 +3,7 @@ layout: game
 pitu_id: "kaijuprincess2"
 date: 2026-06-07 17:30:00 +0700
 title: "Việt Hóa Kaiju Princess 2 v1.13 - MDVH18"
-tags: [all, mdvh18, allvh, pc]
+tags: [all, mdvh18, allvh, pc, com]
 typegame: ["PC"]
 namebanner: "[Việt Hóa] Kaiju Princess 2 v1.13 + All DLC - [2.4GB]"
 mota: |
@@ -16,7 +16,7 @@ platform: "PC"
 dungluong: "2.4GB"
 phienban: "v1.13 + All DLC"
 dev: "PantyParrot"
-genre: "Adventure, Management, Monster Girl, Slice of Life, Comedy, Romance, Fantasy, Sandbox, Simulation, Animated, Male Protagonist, Turn-Based Combat, Harem, Big Tits, Small Tits, Tentacles, Vaginal Sex, Blowjob, Anal Sex, Creampie, Group Sex, BDSM, Exhibitionism, Corruption, Transformation, Mind Control, Pregnancy, Combat, Dark Fantasy, Psychological, Horror, Survival, Trainer, RPG, Exploration, Erotic Battle, Multiple Endings"
+genre: "Completed, Adventure, Management, Monster Girl, Slice of Life, Comedy, Romance, Fantasy, Sandbox, Simulation, Animated, Male Protagonist, Turn-Based Combat, Harem, Big Tits, Small Tits, Tentacles, Vaginal Sex, Blowjob, Anal Sex, Creampie, Group Sex, BDSM, Exhibitionism, Corruption, Transformation, Mind Control, Pregnancy, Combat, Dark Fantasy, Psychological, Horror, Survival, Trainer, RPG, Exploration, Erotic Battle, Multiple Endings"
 
 linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0oxN1pEWjRZ"
 linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9WazFWUFU="
