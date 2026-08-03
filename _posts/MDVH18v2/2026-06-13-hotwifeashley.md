@@ -3,7 +3,7 @@ layout: game
 pitu_id: "hotwifeashley"
 date: 2026-06-13 15:30:00 +0700
 title: "Việt Hóa Hotwife Ashley Ch.6 v1.0 Final - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk, ntr]
+tags: [all, mdvh18, allvh, pc, apk, ntr, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Hotwife Ashley Ch.6 v1.0 Final - [1.2GB]"
 mota: |
@@ -17,7 +17,7 @@ platform: "APK/PC"
 dungluong: "1.2GB"
 phienban: "Ch.6 v1.0 Final"
 dev: "respirit"
-genre: "3DCG, Animated, Voyeurism, Female Domination, Interracial, Big Tits, Oral Sex, Teasing, Cheating, NTR, Handjob, Humiliation, Masturbation, Sex Toys, POV, Creampie, Corruption, Exhibitionism, Footjob, Stripping, Vaginal Sex"
+genre: "Completed, 3DCG, Animated, Voyeurism, Female Domination, Interracial, Big Tits, Oral Sex, Teasing, Cheating, NTR, Handjob, Humiliation, Masturbation, Sex Toys, POV, Creampie, Corruption, Exhibitionism, Footjob, Stripping, Vaginal Sex"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzFwZXJBUkph"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2dmc1ZuMTJ6"
