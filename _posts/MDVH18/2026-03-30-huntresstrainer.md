@@ -8,14 +8,15 @@ typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Huntress Trainer v0.23 - [1.8GB]"
 mota: |
  Sau khi nhận công việc tại Học viện Beacon, hiện tại bạn đang chịu trách nhiệm về sức khỏe tâm lý và tinh thần của các Thợ săn và Nữ thợ săn mới, bạn sẽ không lạm dụng quyền hạn của mình, đúng chứ?
-gametype: "Sandbox"
+gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "1.8GB"
 phienban: "v0.23"
 dev: "HunterHeadquartersTycoon"
-genre: "3DCG, Parody, Trainer, Handj, Harem, Humor, Point & Click, School setting"
+genre: "3DCG, Male Protagonist, Male Domination, Parody, Big tits, Big Ass, Corruption, Trainer, Handjob, Harem, Sexual Harassment, Humor, Point & Click, Creampie, Vaginal Sex, Oral Sex, School setting, Creampie, Group Sex, Lesbian, Harem, Milf, Spanking, Sex Toys, Teasing"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3N0dzQzY0NO"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xaUJCbWFmTGFjQkE3aWNWZ05XQ1JUdw=="
