@@ -8,14 +8,15 @@ typegame: ["PC"]
 namebanner: "[Việt Hóa] Mysterious APP That Summons Hot Girls v7.0- [3.2GB]"
 mota: |
  Một chàng trai trẻ bị gia đình khinh rẻ phát hiện ra rằng mình đã bị bỏ lại, trong khi họ và cô em gái nhỏ lên đường đi nghỉ dưỡng tại một nơi đầy bí ẩn.
-gametype: "Visual Novel"
+gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "PC"
 dungluong: "3.2GB"
 phienban: "v7.0"
 dev: "Abbys_Cat"
-genre: "3DCG, 2DCG, Animated, Monster, Parody, HandJ, Milf, Furry, Harem."
+genre: "3dcg, 2d game, Animated, Male Protagonist, Mobile Game, Monster Girl, Parody, Big Tits, Big Ass, Vaginal sex, HandJob, Oral Sex, Anal Sex, Loli, Creampie, Milf, Interracial, Furry, Harem"
 
 linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1Foc2JrQXl1"
 linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOFA1bURkekN5UF9lOXZjS0daZFlMZw=="
