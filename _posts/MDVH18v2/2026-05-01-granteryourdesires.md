@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Granter of Your Desires R v0.21 Demo - [650MB]"
 mota: |
  Trò chơi mô phỏng hẹn hò nhái lại Persona bản đơn giản. Đây là một tiểu thuyết trực quan với các yếu tố thế giới mở, đây là phiên bản làm lại. Đã đến lúc thực hiện ước mơ và tạo ra dàn harem tuyệt nhất mà bạn từng mong muốn.
 gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "650MB"
 phienban: "v0.21 Demo"
 dev: "MaxCoffee"
-genre: "3DCG, Parody, Harem, Handjb, Titjb, Dating Sim"
+genre: "3dcg, Male Protagonist, Parody, Harem, Handjob, Vaginal Sex, Titjob, Big Tits, Creampie, Dating Sim, Oral Sex"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L21qb1JQSGlt"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzhHd2RIb00y"
