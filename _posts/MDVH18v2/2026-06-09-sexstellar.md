@@ -3,7 +3,7 @@ layout: game
 pitu_id: "sexstellar"
 date: 2026-06-09 17:30:00 +0700
 title: "Việt Hóa SEXSTELLAR Completed - MDVH18"
-tags: [all, mdvh18, allvh, pc]
+tags: [all, mdvh18, allvh, pc, com]
 typegame: ["PC"]
 namebanner: "[Việt Hóa] SEXSTELLAR Completed - [2GB]"
 mota: |
@@ -16,7 +16,7 @@ platform: "PC"
 dungluong: "2GB"
 phienban: "Completed"
 dev: "Carnality INC"
-genre: "3DCG, Adventure, Animated, Big Ass, Big Tits, Fantasy, Group Sex, Male Protagonist, Monster, Multiple Endings, Oral Sex, Romance, Sci-Fi, Simulation, Tentacles, Vaginal Sex"
+genre: "Completed, 3DCG, Adventure, Animated, Big Ass, Big Tits, Fantasy, Group Sex, Male Protagonist, Monster, Multiple Endings, Oral Sex, Romance, Sci-Fi, Simulation, Tentacles, Vaginal Sex"
 
 linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0d5cVlyN3p5"
 linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9DNkVDd0M="
