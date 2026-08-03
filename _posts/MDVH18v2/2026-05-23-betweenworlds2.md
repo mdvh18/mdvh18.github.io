@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] Between Worlds v0.2.0 - [3.1GB]"
 mota: |
  Between Worlds là một tiểu thuyết mang chủ đề giả tưởng đầy phép thuật và phiêu lưu, nơi bạn sẽ vào vai một nam nhân vật chính được bao quanh bởi vô số nhân vật nữ lộng lẫy và quyến rũ, mỗi người đều có tính cách và câu chuyện đời tư độc đáo của riêng mình.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
