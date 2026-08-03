@@ -1,6 +1,6 @@
 ---
 layout: game
-pitu_id: "rebellbeginning"
+pitu_id: "rebellbeginnin"
 date: 2026-07-31 11:30:00 +0700
 title: "Việt Hóa Rebellion: The Beginning Completed - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr, com]
