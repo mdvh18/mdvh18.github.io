@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Deconstruction of Emily 1.0.6 - [814MB]"
 mota: |
  Deconstruction of Emily theo chân bạn trong vai nhân vật chính và người bạn của bạn, Emily. Emily là một người tốt bụng, ngọt ngào và là đồng nghiệp lâu năm của bạn.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "814MB"
 phienban: "1.0.6"
 dev: "gouda1776"
-genre: "3DCG, Male Protagonist, Multiple Endings, Lesbian, Netorare, Toys"
+genre: "3DCG, Male Protagonist, Multiple Endings, Anal Sex, Bestiality (Optional), Corruption, Drugs, Lesbian, Masturbation, Netorare, Sex Toys, Oral Sex, Rape (Optional), Spanking, Urination (optional), Vaginal Sex, Graphic Violence, Trainer"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1JSVUZMd3oy"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZFowcUdCdlVtaV9BaEpuRjg1aVNmdw=="
