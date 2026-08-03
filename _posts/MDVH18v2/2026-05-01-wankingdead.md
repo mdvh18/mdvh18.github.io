@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] The Wanking Dead v0.054 Rework - [1.6GB]"
 mota: |
  Bạn vào vai một người đàn ông vừa tỉnh dậy sau cơn hôn mê, để rồi nhận ra rằng thế giới đã hoàn toàn khác so với những gì anh ta nhớ. Anh ta sẽ phải đối mặt với những lựa chọn khác nhau, và chúng sẽ gây ra những hậu quả cho những người sống sót khác. Liệu anh ta có thể trở thành người lãnh đạo mà thế giới mới này đang khao khát có được?
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "1.6GB"
 phienban: "v0.054 Rework"
 dev: "EHFaR"
-genre: "3DCG, Mind Control, Handjb, Romance, Graphic violence, Animated"
+genre: "3dcg, Male Protagonist, Exhibitionism, Oral Sex, Vaginal Sex, Male Domination, Mind Control, Handjob, Interracial, Big ass, Big tits, Spanking, Romance, Graphic violence, Anal sex, Creampie, Animated"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0w0aWN3RGNC"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L20yTDU4UFlw"
