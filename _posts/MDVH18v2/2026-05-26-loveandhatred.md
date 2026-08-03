@@ -3,7 +3,7 @@ layout: game
 pitu_id: "loveandhatred"
 date: 2026-05-26 12:30:00 +0700
 title: "Việt Hóa Love and Hatred Final - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Love and Hatred Final - [1.4GB]"
 mota: |
