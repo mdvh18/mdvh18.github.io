@@ -8,7 +8,8 @@ typegame: ["PC"]
 namebanner: "[Việt Hóa] Happy Island Fantasy v1.2.0.0 + DLCs - [7GB]"
 mota: |
  Câu chuyện của Hòn đảo hạnh phúc diễn ra trên một hòn đảo gần như cô lập. Ron đến đây trên một con tàu kho báu để khám phá những báu vật trong các kỳ quan cổ đại và gặp gỡ một vài mỹ nhân trên đảo. Bạn sẽ hoàn thành một cuộc hành trình hạnh phúc và thú vị trên hòn đảo này.
-gametype: "Visual Novel"
+gametype: "Sandbos"
+engine: "Unity"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "PC"
