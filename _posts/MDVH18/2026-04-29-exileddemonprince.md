@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] The Exiled Demon Prince v0.3.5 - [892MB]"
 mota: |
  The Exiled Demon Prince là một trò chơi kết hợp giữa VN/RPG giả tưởng cao cấp, giàu cốt truyện và có tính nhập vai cao, cho phép người chơi có quyền quyết định đáng kể với sự phát triển nhân vật và các lựa chọn có chiều sâu.
 gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "892MB"
 phienban: "v0.3.5"
 dev: "Spire Interactive"
-genre: "3DCG, Animated, Fantasy, Groping, Harem, Mobile game, Monster girl, Romance, Rpg"
+genre: "3DCG, Animated, Big ass, Big tits, Creampie, Fantasy, Groping, Harem, Male protagonist, Mobile game, Monster girl, Oral sex, Romance, Rpg, Sandbox, Teasing, Vaginal sex"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2JmNzRvc1g2"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xcGpjTGpxZFJZZGVwd1NVNXppZDhRZw=="
