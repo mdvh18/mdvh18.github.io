@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] Age of Chaos v0.1.2 - [935MB]"
 mota: |
  Các nhân vật chính - những thợ săn quái vật, du hành đến một lục địa khác để thu thập thông tin giá trị về các loài sinh vật bản địa cho trường học thợ săn. Vì lợi ích của Đế quốc, họ sẵn sàng hy sinh rất nhiều - đây là cách mà tất cả các học viên chính nghĩa của trường được nuôi dưỡng.
 gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
