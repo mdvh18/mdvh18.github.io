@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] Satoshi Big Weekend Part 2 - [1.2GB]"
 mota: |
  Satoshi vẫn cứ là Satoshi. Những ngày trôi qua, Mary ngày càng cảm thấy bực bội hơn khi không còn được bạn trai làm cho thỏa mãn nữa. Trong lúc tuyệt vọng, cô đã thổ lộ những lời phàn nàn của mình với Shizuka... người cũng đang gặp phải những vấn đề tương tự và có lẽ đang có một giải pháp cho rắc rối của cả hai.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
