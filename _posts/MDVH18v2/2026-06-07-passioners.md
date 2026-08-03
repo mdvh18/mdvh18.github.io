@@ -3,7 +3,7 @@ layout: game
 pitu_id: "passioners"
 date: 2026-06-07 15:30:00 +0700
 title: "Việt Hóa Passioners Completed - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Passioners Completed - [1.6GB]"
 mota: |
@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "1.6GB"
 phienban: "Completed"
 dev: "CryoDreams Interactive"
-genre: "3DCG, Adventure, Casual, Indie, RPG, Simulation"
+genre: "Completed, 3DCG, Adventure, Casual, Indie, RPG, Simulation"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1hkbXg5TWRD"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2tZZHZHSnEx"
