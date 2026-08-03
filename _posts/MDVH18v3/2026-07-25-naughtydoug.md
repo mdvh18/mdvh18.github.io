@@ -3,7 +3,7 @@ layout: game
 pitu_id: "naughtydoug"
 date: 2026-07-25 11:30:00 +0700
 title: "Việt Hóa Naughty Doug v1.0.2 Completed - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Naughty Doug v1.0.2 Completed - [1.6GB]"
 mota: |
@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "1.6GB"
 phienban: "Completed"
 dev: "HeedlessHedon"
-genre: "3DCG, Adventure, Indie, Animated, Sandbox"
+genre: "Completed, 3DCG, Adventure, Indie, Animated, Sandbox"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzdOYUEzbVZY"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L256RE56WVRo"
