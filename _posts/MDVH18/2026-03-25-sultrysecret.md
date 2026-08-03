@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Sultry Secrets v0.0.1 - [193MB]"
 mota: |
  Một cặp đôi trẻ chuyển đến Cảng Ventura đầy nắng với hy vọng bắt đầu một cuộc sống mới. Nhưng nắng vàng, biển xanh và những người quen mới lại ẩn chứa những bước ngoặt đầy bất ngờ.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "193MB"
 phienban: "v0.0.1 "
 dev: "MoonNut"
-genre: "2DCG, AI CG, Animated, Mastur"
+genre: "2DCG, AI CG, Animated, Interracial, Male protagonist, Masturbation, Oral sex, Sissification, Teasing, Vaginal sex"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0JLMWtVZmVy"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xV2lIWGhkTFFmQUIwa19JenZYUGRUZw=="
