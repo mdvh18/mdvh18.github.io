@@ -3,7 +3,7 @@ layout: game
 pitu_id: "tropicali"
 date: 2026-05-30 14:30:00 +0700
 title: "Việt Hóa Tropicali v1.0.0 Completed - MDVH18"
-tags: [all, mdvh18, allvh, pc]
+tags: [all, mdvh18, allvh, pc, com, apk]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Tropicali v1.0.0 Completed - [4GB]"
 mota: |
@@ -15,7 +15,7 @@ platform: "APK/PC"
 dungluong: "4GB"
 phienban: "Completed"
 dev: "Story Anon"
-genre: "3DCG, Management, Humor, Creampie, Female domination, Handjob, Male domination, Groping, Sexual Harassment, Teasing, Titfuck, Vaginal sex, Milf, Slave, Virgin, Harem, Big-Ass, Big-Tits, Sandbox, Oral sex, Rpg, Male protagonist"
+genre: "Completed, 3DCG, Management, Humor, Creampie, Female domination, Handjob, Male domination, Groping, Sexual Harassment, Teasing, Titfuck, Vaginal sex, Milf, Slave, Virgin, Harem, Big-Ass, Big-Tits, Sandbox, Oral sex, Rpg, Male protagonist"
 
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2FWR2R0QlI3"
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L013S1ROQXpV"
