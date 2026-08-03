@@ -3,7 +3,7 @@ layout: game
 pitu_id: "lolihelthcheckup2"
 date: 2026-06-30 19:30:00 +0700
 title: "Việt Hóa Loli Health Checkup 2 - MDVH18"
-tags: [all, mdvh18, allvh, pc]
+tags: [all, mdvh18, allvh, pc, com]
 typegame: ["PC"]
 namebanner: "[Việt Hóa] Loli Health Checkup 2 FIX LỖI K SAVE - [109MB]"
 mota: |
@@ -16,7 +16,7 @@ platform: "PC"
 dungluong: "109MB"
 phienban: "RJ01619395"
 dev: "FujizakuraWorks"
-genre: "3DCG, Animated, Big Breast, Heroine, Impregnation, Japanese"
+genre: "Completed, 3DCG, Animated, Big Breast, Heroine, Impregnation, Japanese"
 
 linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L21NSjRZaTZ2"
 linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xdEluaXhsOHUtZlhXWTkwTGJhaHdOdw=="
