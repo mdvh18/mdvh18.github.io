@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] Milf for Hire v0.2 - [476MB]"
 mota: |
  Bella đã 36 tuổi, vừa mới ly hôn và đang bắt đầu lại từ đầu tại một thành phố mới. Trong tay cô chẳng có gì ngoài một công việc dọn dẹp và một cậu con trai đang học đại học mà cô khó lòng chu cấp nổi. Khi được phân công đến làm việc tại dinh thự của một gia đình giàu có, cô đã lường trước được những ca làm việc kéo dài và những sàn nhà đầy vết bẩn.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
