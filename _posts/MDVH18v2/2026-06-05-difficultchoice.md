@@ -3,7 +3,7 @@ layout: game
 pitu_id: "difficultchoice"
 date: 2026-06-05 12:30:00 +0700
 title: "Việt Hóa Difficult Choice Completed - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Difficult Choice Completed - [430MB]"
 mota: |
@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "430MB"
 phienban: "Completed"
 dev: "TheEvilWithinHer"
-genre: "3DCG, Animated, Kinetic Novel, Anal Sex, Big Ass, Corruption, Incest, Sex Toys, Fisting, Giant toys, Nipple penetration, Exhibitionism, Lesbian, Female protagonist, Parody, Groping, Multiple penetration, Vaginal sex"
+genre: "Completed, 3DCG, Animated, Kinetic Novel, Anal Sex, Big Ass, Corruption, Incest, Sex Toys, Fisting, Giant toys, Nipple penetration, Exhibitionism, Lesbian, Female protagonist, Parody, Groping, Multiple penetration, Vaginal sex"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2pvWUs2MnpE"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzdOTnRYQUtQ"
