@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Sapphic Passion v0.1 - [72MB]"
 mota: |
  ....lesbians do lesbian things.....​
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "72MB"
 phienban: "v0.1 "
 dev: "Midnight Stories"
-genre: "3DCG, Les, Milf, Animated,"
+genre: "3DCG, Les, Milf, Animated"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3RVa3RkUXlh"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xVmZFbEg1V3ZlQ3diSTNsWGFhSU5oZw=="
