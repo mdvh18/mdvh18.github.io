@@ -8,7 +8,8 @@ typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Living With Belle v0.015 - [166MB]"
 mota: |
  Trong Living with Belle, một trò chơi chế theo phong cách NSFW, bạn có thể tương tác với Belle và những cô gái khác.
-gametype: "Visual Novel"
+gametype: "Simulation"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
