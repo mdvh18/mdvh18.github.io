@@ -7,7 +7,7 @@ tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Jujutsu Trainer v0.19 - [218MB]"
 mota: |
- Một trò chơi huấn luyện chế bản dành cho người lớn dựa trên bộ truyện tranh nổi tiếng Jujutsu Kaisen của Gege Akutami. Trong Jujutsu Trainer, bạn vào vai một chàng trai trẻ bị mất trí nhớ và bị ép buộc phải trở thành một chú thuật sư.
+ Một trò chơi Parody dành cho người lớn dựa trên bộ truyện tranh nổi tiếng Jujutsu Kaisen của Gege Akutami. Trong Jujutsu Trainer, bạn vào vai một chàng trai trẻ bị mất trí nhớ và bị ép buộc phải trở thành một chú thuật sư.
 gametype: "Sandbox"
 engine: "Renpy"
 language: "Tiếng Việt"
