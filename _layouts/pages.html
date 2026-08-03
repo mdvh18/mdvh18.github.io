@@ -152,7 +152,11 @@
               <div class="card-badge">{{ post.categories | first | replace: "-", " " }}</div>
             {% endif %}
           </div>
-
+           <div class="card-eng-tags">
+            {% for type in post.gametype %}
+            <span class="tag-item1 tag-{{ type | downcase | slugify }}">{{ type }}</span>
+            {% endfor %}
+            </div>
           <div class="card-info">
             <h3>{{ post.namebanner | default: post.title }}</h3>
           </div>
