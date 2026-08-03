@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] She Might Be A Cuckqueen v1.1.0 - [402MB]"
 mota: |
  She Might Be A Cuckqueen là một bộ phim hài kịch người lớn với nhịp điệu dồn dập, xoay quanh việc cố gắng tìm hiểu xem bạn gái của bạn thích hay ghét việc bạn ngoại tình. Hoặc, có lẽ là cả hai?
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "402MB"
 phienban: "v1.1.0"
 dev: "ziglo"
-genre: "2DCG, Animated, Groping, Humor, Kinetic novel, Masturbation"
+genre: "2DCG, Animated, Cuckqueen, Cheating, Groping, Humor, Kinetic novel, Male protagonist, Masturbation, Oral sex, Teasing, Vaginal sex"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2k0YlBSYzJQ"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSE9oTkVpRjZ5eVB2OUFMcmF0bEhOdw=="
