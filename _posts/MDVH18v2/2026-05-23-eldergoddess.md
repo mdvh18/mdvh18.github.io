@@ -3,19 +3,20 @@ layout: game
 pitu_id: "eldergoddess"
 date: 2026-05-23 12:30:00 +0700
 title: "Việt Hóa The Elder Goddess v1.0a Completed - MDVH18"
-tags: [all, mdvh18, allvh, pc]
+tags: [all, mdvh18, allvh, pc, com]
 typegame: ["PC"]
 namebanner: "[Việt Hóa] The Elder Goddess v1.0a Completed - [1.2GB]"
 mota: |
  Thế giới được tạo ra bởi hai vị thần. Một người là Aphrodite, nữ thần của tình yêu và sắc đẹp. Người còn lại là Baltos, vị thần độc ác của sự hỗn loạn và đồi bại.
 gametype: "RPG"
+engine: "Unity"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "PC"
 dungluong: "1.2GB"
 phienban: "Completed"
 dev: "Bunny Alice Games"
-genre: "2DCG, Censored, Childbirth, Clothes Changing, Dress up, Collar, Chain, Restraints, Corrupted Morals, Interspecies Sex, Japanese Game, Prostitution, Paid Dating, Shame, Humiliation"
+genre: "Completed, 2DCG, Censored, Childbirth, Clothes Changing, Dress up, Collar, Chain, Restraints, Corrupted Morals, Interspecies Sex, Japanese Game, Prostitution, Paid Dating, Shame, Humiliation"
 
 linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L25haEdYcm1l"
 linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC95SEM1Ykc="
