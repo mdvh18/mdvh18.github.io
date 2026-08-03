@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] Prana: The forgotten sin v0.0.1 - [113MB]"
 mota: |
  Phát trực tiếp, lãng mạn, và một chút gia vị nóng bỏng!? Chào mừng bạn đến với Sweet Succubus Home! Vừa mới bị sa thải và đang gặp vận đen, một nhạc sĩ đang chật vật mưu sinh đã vô tình chạm mặt một cô gái bí ẩn tên là Iris.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
