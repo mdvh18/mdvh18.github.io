@@ -3,7 +3,7 @@ layout: game
 pitu_id: "insightofyou"
 date: 2026-07-29 15:30:00 +0700
 title: "Việt Hóa iNSight of you Full - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] iNSight of you Full - [4.3GB]"
 mota: |
@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "4.3GB"
 phienban: "Full"
 dev: "AdventAnyx"
-genre: "3DCG, Male protagonist, Male domination, Animated, Sex toys, BDSM, Ahegao, Romance, Creampie, Trainer, Lesbian, Threesome, Group-sex, Management, Watersport, Big ass, Big tits, Masturbation, Oral sex, Vaginal sex, Teasing, Handjob, Titfuck, Urination, Virgin, Voyeurism, Female domination,, Footjob"
+genre: "Completed, 3DCG, Male protagonist, Male domination, Animated, Sex toys, BDSM, Ahegao, Romance, Creampie, Trainer, Lesbian, Threesome, Group-sex, Management, Watersport, Big ass, Big tits, Masturbation, Oral sex, Vaginal sex, Teasing, Handjob, Titfuck, Urination, Virgin, Voyeurism, Female domination,, Footjob"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0hVcFNXWEZj"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0Ntck10dlRt"
