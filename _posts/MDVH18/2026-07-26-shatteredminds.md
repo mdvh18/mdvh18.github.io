@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "5GB"
 phienban: "v0.27 Beta"
 dev: "eXtasy Games"
-genre: "3DCG, Animated, Point & click, Superpowers, Mind Control, POV, School setting, Handj, Mobile game, Milf, Dating sim, Harem, Management"
+genre: "3DCG, Animated, Sandbox, Point & click, Superpowers, Mind Control, Corruption, Male protagonist, Male Domination, POV, School setting, Big ass, Big tits, Handjob, Voyeurism, Teasing, Stripping, Mobile game, Virgin, Milf, Dating sim, Incest, Oral sex, Vaginal sex, Slave, Harem, Management"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3NaWmNRRHRk"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0c3SHl6UndE"
