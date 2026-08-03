@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] My Netorase Obsession Chap 10 - [863MB]"
 mota: |
  Hãy đồng hành cùng Edward, Erica và Diego trong cuộc hành trình khám phá đầy thú vị này, nơi các ranh giới của sự tin tưởng và tình yêu sẽ bị thử thách.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
