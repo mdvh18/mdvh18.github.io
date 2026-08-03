@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "1.8GB"
 phienban: "S1 v1.05B"
 dev: "Kinkbr"
-genre: "3DCG, Animated, BiG, Dating sim, Handj, Milf, Romance, Le, Toys"
+genre: "3dcg, Animated, Big ass, Big tits, Cheating, Dating sim, Sexual Harassment , Handjob, Male protagonist, Milf, Oral sex, Romance, Stripping, Teasing, Vaginal sex, Male Domination, Creampie, Female domination, Lesbian, Sex toys, Voyeurism"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1BlMWJSZTdY"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3ZjY2Vpcjc3"
