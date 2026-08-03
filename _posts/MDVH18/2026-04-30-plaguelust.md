@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Plague Lust v0.02 - [959MB]"
 mota: |
  Plague Lust là một trò chơi Visual Novel — một thế giới hậu tận thế ngập trong dục vọng nguyên bản và sự sinh tồn chết chóc. Một loại virus không xác định đã quét sạch hầu hết nhân loại.
 gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "959MB"
 phienban: "v0.02"
 dev: "Nani"
-genre: "3dcg, Dystopian setting milf, animated, Romance"
+genre: "3dcg, male protagonist, dystopian setting, sandbox, milf, big ass, big tits, animated, oral sex, romance, vaginal sex, ahegao, creampie, humor"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1Zuc1BnbjFI"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xaEgwRmdjX1BSbVFtallUeUp4aDRtZw=="
