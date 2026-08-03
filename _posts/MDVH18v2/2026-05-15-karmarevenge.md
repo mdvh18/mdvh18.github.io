@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] Karma's Revenge Ch.1 P2 - [628MB]"
 mota: |
  Mười năm trước, một nhóm người lạ mặt đã đột kích vào một ngôi nhà ở vùng nông thôn, giết sạch mọi người bên trong. Một cô gái đã may mắn sống sót. Tên cô ấy là Karma. Giờ đây, cô ấy đã quay trở lại để trả thù cho cái chết của gia đình mình.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
