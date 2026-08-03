@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "546MB"
 phienban: "Completed"
 dev: "FrameStyles"
-genre: "3dcg, animated, big ass, big tits, handjob, male protagonist, masturbation, oral sex, point & click, romance, sex toys, stripping, teasing, vaginal sex"
+genre: "Completed, 3dcg, animated, big ass, big tits, handjob, male protagonist, masturbation, oral sex, point & click, romance, sex toys, stripping, teasing, vaginal sex"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL25KMmpKdFpa"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xaXdtOGdxMC1wV0hlZmFnNlRQRmdjUQ=="
