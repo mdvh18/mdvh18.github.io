@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] A Foreign World Ep.9 - [1.4GB]"
 mota: |
  Những kẻ tị nạn từ một vũ trụ khác. Cốt truyện của tựa game tiểu thuyết trực quan này xoay quanh khái niệm cơ bản đó. Điều gì sẽ xảy ra khi hai thế giới hoàn toàn khác biệt va chạm với nhau?
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
