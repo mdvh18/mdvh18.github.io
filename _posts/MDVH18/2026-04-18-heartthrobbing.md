@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] Heart Throbbing School Days v0.21 - [335MB]"
 mota: |
  Chào mừng bạn đến với Học viện Hoes Peak! Bạn đã được nhận vào thông qua một buổi rút thăm may mắn, thật là hên quá đi mà! Chắc chắn rồi, những người khác ở đây có thể thực sự tài năng, điêu luyện và cực kỳ nóng bỏng.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
