@@ -16,7 +16,7 @@ platform: "PC"
 dungluong: "2.5GB"
 phienban: "Completed"
 dev: "Lewd Star"
-genre: "Animated, 3DCG, Male Protagonist, Multiple Endings, Big Ass, Big Tits, Group sex, Masturbation, Oral Sex, Vaginal Sex, Adventure, Male Domination"
+genre: "Completed, Animated, 3DCG, Male Protagonist, Multiple Endings, Big Ass, Big Tits, Group sex, Masturbation, Oral Sex, Vaginal Sex, Adventure, Male Domination"
 
 linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1c1NUs1MUVD"
 linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYVd3MTlGVTJ5ZjVGZTIzLUxfWUpKdw=="
