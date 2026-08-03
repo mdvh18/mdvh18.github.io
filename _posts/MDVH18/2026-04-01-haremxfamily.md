@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Harem x Family Ch.2Part 1 - [351MB]"
 mota: |
  Câu chuyện xoay quanh nhân vật chính Kaiser và những người phụ nữ quyến rũ, lôi cuốn sống trong gia đình sau khi cha của bạn đột ngột mất tích.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "351MB"
 phienban: "Ch.2Part 1"
 dev: "Hortn"
-genre: "Harem, MILF, Romance, Horror, Mystery, Animated"
+genre: "Harem, MILF, Big Tits, Corruption, Male protagonist, Romance, Horror, Mystery, Ahegao, Paranormal, Animated"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3BXV2NNM00x"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xbVl5aXJTRmhKMkw5OVRwNXBPMU9RQQ=="
