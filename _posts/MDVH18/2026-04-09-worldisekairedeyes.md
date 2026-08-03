@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] World Isekai Red Eyes v7.3.0- [3.3GB]"
 mota: |
  Bạn là một chàng trai neet 19 tuổi (không làm việc cũng không học tập), người đã bị giết bởi vài vị Nữ thần tốt bụng và được đưa đến một thế giới nơi mà, do một loại virus bí ẩn, đàn ông đã trở nên bất lực và bị thoái hóa về trạng thái trẻ thơ.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "3.3GB"
 phienban: "v7.3.0"
 dev: "Fapple"
-genre: "3DCG, Fantasy, Handj, Milf, Animated, Mobile Game"
+genre: "3DCG, Big Ass, Big Tits, Male Protagonist, Fantasy, Handjob, Vaginal sex, Milf, Oral Sex, Animated, Ahegao, Mobile Game"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3RLSkthVVZu"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRFJMNUhYRm1pRUxtWDFlZk8zVTlpUQ=="
