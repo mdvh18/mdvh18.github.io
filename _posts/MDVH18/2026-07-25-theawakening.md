@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] The Awakening v0.4.9 - [5.5GB/2.2GB APK]"
 mota: |
  Sau hai năm, cuối cùng bạn cũng tỉnh dậy sau một cơn hôn mê do tai nạn xe hơi gây ra. Bạn đang bị mất trí nhớ và không có một chút ý niệm nào về việc mình đang rơi vào tình cảnh như thế nào.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "5.5GB/2.2GB APK"
 phienban: "v0.4.7a"
 dev: "SLim Games"
-genre: "3DCG, Harem, Milf, Monster girl, Paranormal, Mobile game, Voiced"
+genre: "3DCG, Male protagonist, Corruption, Harem, Milf, Lesbian, Oral sex, Incest, Monster girl, Paranormal, Mobile game, Vaginal Sex, Anal Sex, Creampie, Voiced"
 
 linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzdadEhwd2V4"
 linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC92eVdvUjc="
