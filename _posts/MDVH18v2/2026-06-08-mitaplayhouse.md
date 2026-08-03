@@ -3,7 +3,7 @@ layout: game
 pitu_id: "mitaplayhouse"
 date: 2026-06-08 14:30:00 +0700
 title: "Việt Hóa Mita's Playhouse Final - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Mita's Playhouse Final - [453MB]"
 mota: |
@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "453MB"
 phienban: "Final"
 dev: "isvrat"
-genre: "3dcg, animated, male protagonist, big ass, big tits, multiple endings, footjob, vaginal sex, anal sex, oral sex, slave, sex toys, female domination, male domination, mobile game, titfuck, masturbation, handjob"
+genre: "Completed, 3dcg, animated, male protagonist, big ass, big tits, multiple endings, footjob, vaginal sex, anal sex, oral sex, slave, sex toys, female domination, male domination, mobile game, titfuck, masturbation, handjob"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0U0RG5GdXBQ"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0UxUmkxM0U3"
