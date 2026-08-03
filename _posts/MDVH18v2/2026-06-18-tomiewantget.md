@@ -3,7 +3,7 @@ layout: game
 pitu_id: "tomiewantget"
 date: 2026-06-18 15:30:00 +0700
 title: "Việt Hóa Tomie Wants to Get Married Renpy Completed - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Tomie Wants to Get Married Renpy Completed - [3.1GB]"
 mota: |
@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "3.1GB"
 phienban: "Completed"
 dev: "XHunterz x Ollane"
-genre: "Female Protagonist, Sandbox, Animated, Corruption, Prostitution, Dating Sim, Vaginal Sex, Oral Sex, Submissive, Groping, Voyeurism, Stripping, Sexual Harassment, Pregnancy, Male domination, Spanking, Anal Sex, Blackmail, Humiliation, Multiple Endings, Urination, Censored, Creampie, Bukkake, Multiple penetration, Rape, Sex toys, Interracial, Lesbian, Masturbation, Milf, Mobile game"
+genre: "Completed, Female Protagonist, Sandbox, Animated, Corruption, Prostitution, Dating Sim, Vaginal Sex, Oral Sex, Submissive, Groping, Voyeurism, Stripping, Sexual Harassment, Pregnancy, Male domination, Spanking, Anal Sex, Blackmail, Humiliation, Multiple Endings, Urination, Censored, Creampie, Bukkake, Multiple penetration, Rape, Sex toys, Interracial, Lesbian, Masturbation, Milf, Mobile game"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0IxRkN3R054"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzVCRWlyd3pN"
