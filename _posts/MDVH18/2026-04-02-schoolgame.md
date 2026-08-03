@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] School Game v0.975 bugfix4 - [1.7GB]"
 mota: |
  Trò chơi School Game là một trò chơi có các yếu tố nhập vai. Bạn tạo nhân vật của mình và phát triển trong môi trường học đường. Học các kỹ năng, mua sắm trang bị, gặp gỡ bạn cùng lớp, xây dựng danh tiếng và quản lý túi tiền của bạn.
 gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "PC"
 dungluong: "1.7GB"
 phienban: "v0.975 bugfix4"
 dev: "Sloths Command"
-genre: "2DCG, RPG, Simulator"
+genre: "2D Game, 2DCG, Male Protagonist, Mobile Game, Big Tits, Creampie, Sandbox, RPG, Simulator, Strategy"
 
 linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzF6RTJ2anVX"
 linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xckZoNDJ2V1QzdnRlVG8yUzZnc3ZoZw=="
