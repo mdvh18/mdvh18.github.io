@@ -3,7 +3,7 @@ layout: game
 pitu_id: "mandatorymentor"
 date: 2026-06-06 11:30:00 +0700
 title: "Việt Hóa Mandatory Mentor v1.1.2 - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Mandatory Mentor v1.1.2 Completed - [617MB]"
 mota: |
