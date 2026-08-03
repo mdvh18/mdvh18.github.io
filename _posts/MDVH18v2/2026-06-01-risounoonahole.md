@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] Risou no Onahole - [514MB]"
 mota: |
  Hãy dễ dàng tạo ra cô gái lý tưởng của bạn bằng các mẫu có sẵn! Không cần những công việc tẻ nhạt đâu! Với vô số mẫu có sẵn đa dạng, bạn có thể nhanh chóng tạo nên nhân vật trong mơ của mình!
 gametype: "Simulation"
+engine: "Unity"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "PC"
