@@ -3,7 +3,7 @@ layout: game
 pitu_id: "wantedwildsl"
 date: 2026-05-05 17:00:00 +0700
 title: "Việt Hóa WANTED: Wild Sluts Completed - MDVH18"
-tags: [all, mdvh18, allvh, pc]
+tags: [all, mdvh18, allvh, pc, com]
 typegame: ["PC"]
 namebanner: "[Việt Hóa] WANTED: Wild Sluts Completed - [2.5GB]"
 mota: |
@@ -16,7 +16,7 @@ platform: "PC"
 dungluong: "2.5GB"
 phienban: "Completed"
 dev: "Lewd Star"
-genre: "Animated, 3DCG, Multiple Endings, Group, Masturbation, Adventure"
+genre: "Animated, 3DCG, Male Protagonist, Multiple Endings, Big Ass, Big Tits, Group sex, Masturbation, Oral Sex, Vaginal Sex, Adventure, Male Domination"
 
 linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1c1NUs1MUVD"
 linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYVd3MTlGVTJ5ZjVGZTIzLUxfWUpKdw=="
