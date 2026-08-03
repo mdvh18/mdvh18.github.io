@@ -8,14 +8,15 @@ typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] One Twisted Fantasy v0.289 - [736MB]"
 mota: |
  Bạn bị kéo vào một thế giới giả tưởng đầy rắc rối, nơi những nỗ lực né tránh 'phiền phức' của bạn đã thất bại thảm hại khi bạn bị tấn công bởi lũ quỷ ngay trong nơi ở an toàn của mình.
-gametype: "Visual Novel"
+gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "736MB"
 phienban: "v0.289"
 dev: "Zelltin"
-genre: "3dcg, Romance, Harem, Turn based combat, Strategy"
+genre: "3dcg, Big ass, Big tits, Male protagonist, Romance, Harem, Turn based combat, Strategy"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL0ZzZVBCTndK"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xNTAzck15R1hydmx3czFNOHRIeVZudw=="
