@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] Dark and Light Thread of the Worlds v0.13 - [1.9GB]"
 mota: |
  Sau những hành động của Rin, sợi dây liên kết giữa các thế giới đã đứt gãy, và vũ trụ chìm trong hỗn loạn. Tôi, người anh hùng đã làm chủ sức mạnh của bóng tối và ánh sáng, mang trên mình nhiệm vụ khó khăn nhất - khôi phục lại sự cân bằng và cứu vãn những thế giới đã bị hủy diệt.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
