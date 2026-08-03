@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] Life in Wonderland Ch. 1-3 - [476MB]"
 mota: |
  Trong Life in Wonderland, mục tiêu duy nhất của bạn là tận hưởng dàn hậu cung khổng lồ của mình. Hãy khiến họ mang thai và cưng chiều họ (với họ, cách tuyệt vời nhất để được cưng chiều chính là khi có bạn ở bên trong)
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
