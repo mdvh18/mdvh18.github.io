@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] Depth's Revival 2 Ep.2 P2 - [845MB]"
 mota: |
  Một ngày nọ bạn thức dậy và mất đi tất cả những gì mình từng có. Bạn sẽ làm gì? Tiếp tục chiến đấu ư? Tôi e là mình không mạnh mẽ đến thế. Tôi đã chọn cách dễ dàng nhất để thoát lui và nếu bạn có thể tin được thì tôi thậm chí còn làm hỏng bét cả việc đó. Bây giờ tôi lại có một em em nóng bỏng ở trong đầu nói rằng cô ấy có thể sửa chữa cuộc đời tôi.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
