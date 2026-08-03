@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] A Mother's Love Part 1-16 Plus + Walkthrough - [4.2GB
 mota: |
  Mẹ của bạn gái chẳng ưa gì tôi — bà ấy chưa bao giờ coi trọng tôi dù chỉ một chút. Trên hết, bà ấy muốn tôi biến khỏi đời con gái mình vì cho rằng tôi đang cản trở con đường học vấn của cô ấy. Nhưng bà ấy đâu có ngờ, tôi lại dành tình cảm đặc biệt cho chính bà ấy. Khi bà ấy ngày càng tuyệt vọng trong việc tống khứ tôi đi, cả hai chúng tôi đã cùng ngồi lại và đưa ra một thỏa thuận ngầm.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "JOIPLAY/PC"
