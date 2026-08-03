@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] We Need Money v1.8 - [745MB]"
 mota: |
  Bạn là một chàng trai trẻ đang đứng trước ngưỡng cửa trưởng thành, bị lôi cuốn bởi những thú vui của cuộc sống thành thị và việc tán tỉnh các cô gái hơn là sách vở hay bài giảng. Nhưng cha của bạn lại có kế hoạch khác: đại học là việc không thể bàn cãi.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "745MB"
 phienban: "v1.8"
 dev: "Naughty Gamer Studio"
-genre: "3DCG, Futa/Trans, Trap, Milf, Femboy, Masturba"
+genre: "3DCG, Male Protagonist, Big Ass, Big Tits, Futa/Trans, Trap, Milf, Femboy, Vaginal sex , Teasing , Masturbation"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3p6TE5DOHRY"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMUdfSVNMQ2xPSHVRZTNaRGlGXzJ2QQ=="
