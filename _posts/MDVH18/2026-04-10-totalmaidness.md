@@ -3,19 +3,20 @@ layout: game
 pitu_id: "totalmaidness"
 date: 2026-04-10 11:30:00 +0700
 title: "Việt Hóa Total Maidness! - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Total Maidness! v1.09c - [980MB]"
+namebanner: "[Việt Hóa] Total Maidness! v1.09c Completed - [980MB]"
 mota: |
  Mẹ của nhân vật chính qua đời khi anh ta còn nhỏ, và anh ta đã có mối quan hệ tồi tệ với cha mình trong vài năm qua, sống trong một căn hộ tách biệt khỏi ngôi nhà nơi anh lớn lên. Tuy nhiên, không lâu sau sinh nhật lần thứ 21, cha của anh ta qua đời... và nhân vật chính được thừa kế tài sản của cha mình, bao gồm cả dinh thự... và những cô hầu gái đang trông nom nơi đó!
-gametype: "Visual Novel"
+gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "980MB"
 phienban: "v1.09c"
 dev: "OnionCuttingNinja"
-genre: "3DCG, Animated, Harem, Humor, Mastur, Milf, Mobile game"
+genre: "Completed,  3DCG, Animated, Big Ass, Big Tits, Creampie, Female Domination, Harem, Humor, Male Domination, Male Protagonist, Masturbation, Milf, Mobile game, Oral sex, Titfuck, Vaginal sex, Female domination, Sandbox, Cheating, Oral Sex, Multiple Penetration, Footjob, Titfuck, Virgin"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL3dWRTVvOVVR"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYXZZTkIzYXhHU1lzRW4zb0NJMVJHUQ=="
