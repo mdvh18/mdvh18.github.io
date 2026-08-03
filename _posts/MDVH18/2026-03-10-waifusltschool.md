@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Waifu Slt School v0.5.4 - [3.8GB]"
 mota: |
  Ngay sau khi vừa thi xong kỳ thi cấp ba cuối cùng và đang chạy đến bên cô gái trong mộng, bạn bị một chiếc xe tải quái ác đâm trúng trên đường và kết cục là rơi thẳng xuống địa ngục.
 gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "PC"
 dungluong: "3.8GB"
 phienban: "v0.5.4"
 dev: "mikiraus"
-genre: "3DCG, Groping, Animated, School Setting"
+genre: "3dcg, Male Protagonist, Teasing, Groping, Vaginal Sex, Animated, Male Domination, Big Tits, Sandbox, School Setting, Oral Sex"
 
 linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQ3hZR3ZIUENSYXg0NUZyRnhIWjdCQQ=="
 ---
