@@ -3,7 +3,7 @@ layout: game
 pitu_id: "gettinginside"
 date: 2026-07-27 10:02:00 +0700
 title: "Việt Hóa Getting Inside Hentai Story Completed - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Getting Inside Hentai Story Completed Fix All - [1GB]"
 mota: |
@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "1GB"
 phienban: "Completed"
 dev: "4nyStudio"
-genre: "2DCG, Adult, Anime, Eroge, Erotic, Hentai, NSFW, Porn, Romance, Visual Novel"
+genre: "Completed, 2DCG, Adult, Anime, Eroge, Erotic, Hentai, NSFW, Porn, Romance, Visual Novel"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3pLZzNiWHVj"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3h2c3VQdjVO"
