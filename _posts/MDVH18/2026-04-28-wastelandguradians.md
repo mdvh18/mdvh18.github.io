@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Wasteland Guardians v0.8 - [1GB]"
 mota: |
  Chiến tranh, thiên tai và những thảm họa do con người gây ra đã đưa thế giới này đến chỗ lụi tàn. Nhân loại chia thành các phe phái khác nhau: những người vẫn đang chiến đấu để sinh tồn, và những kẻ đã chấp nhận con quỷ bên trong mình và rơi vào cảnh hỗn loạn.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "1GB"
 phienban: "v0.8"
 dev: "SenseiDaimon"
-genre: "3DCG, Masturbation, Dystopian setting, Humor, Monster, Romance, Animated"
+genre: "3DCG, Male Protagonist, Multiple Protagonist, Big Ass, Big Tits, Incest, Male Domination, Masturbation, Teasing, Voyeurism, Virgin, Dystopian setting, Graphic violence, Humor, Monster, Romance, Animated, Handjob, Humiliation, Oral Sex, Slave, Spanking, Anal Sex, Female Domination, Pregnancy, Tentacles, Vaginal Sex"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1I4MnJLbjNt"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWDd2dzRMQnRIYmFHeHVBTi1IdFdZdw=="
