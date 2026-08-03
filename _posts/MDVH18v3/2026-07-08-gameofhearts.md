@@ -3,7 +3,7 @@ layout: game
 pitu_id: "gameofhearts"
 date: 2026-07-08 12:00:00 +0700
 title: "Việt Hóa Game of Hearts Ch.5 R2 - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK", "Compressed"]
 namebanner: "[Việt Hóa] Game of Hearts Ch.5 R2 Walkthrough Multi-Mod - [8GB/1.8GB APKB]"
 mota: |
@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "8GB/1.8GB APK"
 phienban: "Ch.5 R2"
 dev: "SparkHG"
-genre: "3DCG, Male Protagonist, MILF, Corruption, Paranormal, Romance, Ahegao, Animated, Cheating, Creampie, Harem, Oral sex, Prostitution, Stripping, Superpowers, Teasing, Transformation, Vaginal sex"
+genre: "Completed, 3DCG, Male Protagonist, MILF, Corruption, Paranormal, Romance, Ahegao, Animated, Cheating, Creampie, Harem, Oral sex, Prostitution, Stripping, Superpowers, Teasing, Transformation, Vaginal sex"
 
 linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzJKYmtKQ1lX"
 linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9mOXFiOEI="
