@@ -3,7 +3,7 @@ layout: game
 pitu_id: "thelecuyercult"
 date: 2026-06-16 12:30:00 +0700
 title: "Việt Hóa The Lécuyer Cult Final Chapter - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] The Lécuyer Cult Final Chapter - [3.3GB]"
 mota: |
@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "3.3GB"
 phienban: "Final Chapter"
 dev: "SALR Games"
-genre: "3dcg, Male protagonist, Mobile game, Anal sex, Big ass, Big tits, Incest, Male domination, BDSM, Oral sex, Vaginal sex, Voyeurism, Adventure, Fantasy, Religion, Harem"
+genre: "Completed, 3dcg, Male protagonist, Mobile game, Anal sex, Big ass, Big tits, Incest, Male domination, BDSM, Oral sex, Vaginal sex, Voyeurism, Adventure, Fantasy, Religion, Harem"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2lpY3podm0y"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1JNZDRtaWNk"
