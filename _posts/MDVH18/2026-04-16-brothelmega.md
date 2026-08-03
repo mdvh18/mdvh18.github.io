@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Brothel Megacorporation v0.30 - [3.3GB]"
 mota: |
  Epifania là một thành phố nơi tiền có thể mua được mọi thứ. Lãnh thổ tự trị này được quản lý bởi các siêu tập đoàn, quân đội tư nhân và các công đoàn độc lập. Bạn là một người đầy tham vọng đến với thành phố tội lỗi này với hy vọng sẽ làm nên chuyện lớn.
 gametype: "Simulation"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "3.3GB/APK 800MB"
 phienban: "v0.30"
 dev: "Khing Orchestra"
-genre: "Management, Trainer, MILF, Gloryhole, Footj, Multiple penetration, Lactation, Public Use"
+genre: "Prostitution, Management, Simulation, Trainer, Male protagonist, Creampie, Defloration, Voyeurism, MILF, Big Tits, Gloryhole, Footjob, Anal Sex, Pregnancy, Swinging, Multiple penetration, Lactation, Public Use, BDSM, Exhibitionism"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzhFS3MyZU5D"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWEFxS0tOOFAwMExsN0hrY2JFNFlEQQ=="
