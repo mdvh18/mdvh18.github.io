@@ -3,19 +3,20 @@ layout: game
 pitu_id: "mandatorymanager"
 date: 2026-05-02 12:30:00 +0700
 title: "Việt Hóa Mandatory Manager v1.02 EA - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Mandatory Manager v1.02 EA - [303MB]"
 mota: |
  Mandatory Manager đặt tương lai của bạn vào tay Misaki, một thực tập sinh mới được phân công, người hiện đang đứng giữa bạn và vị trí thăng tiến mà bạn đã được hứa hẹn. Với chỉ 30 ngày cho đến kỳ đánh giá cuối cùng của cô ấy, bạn sẽ đào tạo, đánh giá, khen thưởng những thành công và trừng phạt những thất bại của cô ấy khi bạn nhào nặn cô ấy.
 gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "303MB"
 phienban: "v1.02 EA"
 dev: "Kana"
-genre: "3DCG, Animated, Toys, Masturbation, Management, Mobile game"
+genre: "3dcg, animated, male protagonist, male domination, big ass, big tits, teasing, spanking, sandbox, Simulator sex toys, voyeurism, masturbation, management, mobile game, Multiple Endings, Pet Play, Trainer"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2NKamdSV2R4"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xb2lRbHRtclN2VVdpMnJCbDcwY1NFQQ=="
