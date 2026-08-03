@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] Summer Clover v1.11 - [3.6GB]"
 mota: |
  Trong một bước ngoặt của số phận, cấp trên của bạn là Shizuko đã đề xuất một sự thay đổi công việc đầy bất ngờ: một vị trí quản gia tại biệt thự của chính chủ thuê bạn!
 gametype: "Sandbox"
+engine: "Unity"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "PC"
