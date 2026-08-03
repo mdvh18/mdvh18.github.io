@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Symphony of the Void P2 v0.16 - [612MB]"
 mota: |
  Jevan Dre'allis là thành viên của đơn vị đặc nhiệm hắc tinh linh tinh nhuệ mang tên Wraith - những đặc vụ của Đền thờ Xana-Rhoa, đóng vai trò là sát thủ, gián điệp và kẻ phá hoại.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "612MB"
 phienban: "P2 v0.16"
 dev: "Mad Doc"
-genre: "3DCG, Animated, Masturb, Fantasy"
+genre: "3DCG, Animated, Male domination, Mind control, Humiliation, Masturbation, Slave, Fantasy"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2VKRmFxczZt"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xYk0zUGhIb1RENnpwZWl5RU9pR1podw=="
