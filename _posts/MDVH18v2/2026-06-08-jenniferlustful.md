@@ -3,7 +3,7 @@ layout: game
 pitu_id: "jenniferlustful"
 date: 2026-06-08 15:30:00 +0700
 title: "Việt Hóa Jennifer's Lustful Journey - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Jennifer's Lustful Journey Completed - [1GB]"
 mota: |
@@ -16,7 +16,7 @@ platform: "APK/PC"
 dungluong: "1GB"
 phienban: "Completed"
 dev: "Scarlet Lust Studios"
-genre: "3DCG, Animated, Big ass, Big tits, Female protagonist, Group sex, Lesbian, Masturbation, Oral sex, Vaginal sex"
+genre: "Completed, 3DCG, Animated, Big ass, Big tits, Female protagonist, Group sex, Lesbian, Masturbation, Oral sex, Vaginal sex"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2lWeGNQYmVW"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2VHR2o2aGl3"
