@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] Stories from Somnia Bay v0.2 - [772MB]"
 mota: |
  Chào mừng đến với Somnia Bay. Có điều gì đó không ổn ở nơi này. Bạn có thể cảm nhận được nó. Monique, Olivia, và David không còn lựa chọn nào khác ngoài việc chạy trốn.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
