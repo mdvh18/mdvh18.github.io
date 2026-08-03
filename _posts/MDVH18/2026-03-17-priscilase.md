@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Priscila Secret Ep.13- [3GB/900MB]"
 mota: |
  Hãy bước chân vào thế giới rực rỡ của Priscila, một người mẫu tuổi teen đang trên đà trở thành siêu sao. Thế nhưng, đằng sau vẻ ngoài hào nhoáng của những buổi chụp hình và trình diễn sàn catwalk, lại ẩn chứa một bí mật đen tối..
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "PC"
 dungluong: "Original 3GB/ Compressed 900MB"
 phienban: "Ep.13"
 dev: "Geiko Games"
-genre: "3DCG, Animated, Groping, Handj, Mastur"
+genre: "3DCG, Animated, Corruption, Female protagonist, Groping, Group Sex, Handjob, Lesbian, Masturbation, Oral Sex, Sexual harassment, Vaginal Sex"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL1lYOHl4UHhU"
 linkteraapkpccom: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xN2w5RXF3TDlJZThyOFZDeTJ0cERyZw=="
