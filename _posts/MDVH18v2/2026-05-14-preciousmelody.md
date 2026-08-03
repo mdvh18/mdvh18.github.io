@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] Precious Melody & Your Familiar Tale ch0.pt1-5.beta1 
 mota: |
  Bạn cư ngụ trên một ngọn cây trong khu rừng yên bình cùng với các chị em của mình—yên bình nhất có thể, nếu bạn coi những trò quậy phá của Sorii là 'yên bình'. Nhưng hỗn loạn là điều không thể tránh khỏi, và sự tĩnh lặng đó sẽ sớm bị hư không nuốt chửng.
 gametype: "Sandbox"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "679MB"
 phienban: "ch0.pt1-5.beta1"
 dev: "QSet13"
-genre: "3DCG, Male Protagonist, Mobile Game, Text Based, Harem, Loli, Adventure, Fantasy, Horror, Humor, Point & Click, Romance, Superpowers, Twins"
+genre: "3DCG, Male Protagonist, Mobile Game, Text Based, Harem, Incest, Loli, Masturbation, Stripping, Teasing, Urination, Virgin, Voyeurism, Adventure, Fantasy, Horror, Humor, Point & Click, Romance, Sandbox, Superpowers, Twins"
 
 linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sLzZYQm9FVzc3"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQ19XQTBDYjBaOU5NNHFZZW9TMU5RUQ=="
