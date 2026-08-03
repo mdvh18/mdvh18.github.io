@@ -9,13 +9,14 @@ namebanner: "[Việt Hóa] No More Money v4.3.1 GE - [2.7B]"
 mota: |
  Mọi chuyện bắt đầu từ khi chú tôi mất công ty và cả nhà bị buộc phải dời sang một thành phố khác. Tại đây chúng tôi phải bắt đầu lại từ con số không trong một căn hộ nhỏ chỉ có hai phòng ngủ.
 gametype: "Visual Novel"
+engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
 dungluong: "2.7B Compressed"
 phienban: "v4.3.1 S4 Ep.3 GE"
 dev: "RoyalCandy"
-genre: "3DCG, Adventure, MILF, Romance"
+genre: "3DCG, Anal Sex, Male protagonist, Adventure, Big ass, Big tits, MILF, Incest, Oral sex, Vaginal sex, Cheating, Creampie, Romance, Teasing"
 
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzM0WnZESHNw"
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3FidXBzUDI2"
