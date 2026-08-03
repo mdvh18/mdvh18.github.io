@@ -9,6 +9,7 @@ namebanner: "[Việt Hóa] Maji-iki The Failing Witch and Lewd Magical Hands v0.
 mota: |
  Phong cách RPG thu thập, với tiến trình như sau: ① Khám phá hầm ngục và đánh bại boss ② Tiến triển kịch bản ＋ Tăng ham muốn
 gametype: "RPG"
+engine: "Unity"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "PC"
