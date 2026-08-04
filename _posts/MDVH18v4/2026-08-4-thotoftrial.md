@@ -3,7 +3,7 @@ layout: game
 pitu_id: "thotoftrial"
 date: 2026-08-04 15:30:00 +0700
 title: "Việt Hóa Thot on Trial Completed - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk, com]
+tags: [all, mdvh18, allvh, pc, apk, com, ntr]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Thot on Trial v1.1.2S (NTR) Completed - [3GB]"
 mota: |
