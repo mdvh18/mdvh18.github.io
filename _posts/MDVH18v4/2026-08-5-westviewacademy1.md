@@ -3,7 +3,7 @@ layout: game
 pitu_id: "westviewacademy1"
 date: 2026-08-05 12:30:00 +0700
 title: "Việt Hóa Westview Academy S1 v0.6.4 - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK", "Compressed"]
 namebanner: "[Việt Hóa] Westview Academy S1 v0.6.4 + WT Mod Completed - [3GB]"
 mota: |
