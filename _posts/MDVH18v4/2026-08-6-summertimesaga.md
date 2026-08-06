@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "summertimesaga"
-date: 2026-08-06 15:30:00 +0700
+date: 2026-08-06 14:30:00 +0700
 title: "Việt Hóa Summertime Saga - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
