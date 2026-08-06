@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "westviewacademy2"
-date: 2026-08-05 14:30:00 +0700
+date: 2026-08-05 14:20:00 +0700
 title: "Việt Hóa Westview Academy S2 v0.7.0 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
