@@ -20,7 +20,7 @@ dev: "Kompas Productions"
 genre: "2DCG, Male protagonist, Point & click, Sandbox, School setting, Animated, Dating sim, Voyeurism, Exhibitionism, Incest (M/S, B/S, A/N), MILF, Masturbation, Sex toys, Camgirl, Oral sex, Titfuck, Footjob, Handjob, Anal sex, Vaginal sex, Virgin, Group sex, Big ass, Big tits, Footjob, Groping, Stripping, Twins, BDSM, Lesbian, Religion (Nun), Futa/trans, Cosplay, Female domination, Prostitution, Pregnancy, Mobile game, Monster girl, Lactation, Multiple penetration, Spanking"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1dpaldVMzkz"
-linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1k5d3JrY1h3"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzVpNkFtYzRV"
 linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9wZlRFckQ"
 linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xMU9ORlRzNUpJWTJFM3NyVEZWSXJyUQ"
 ---
