@@ -5,7 +5,7 @@ date: 2026-07-28 11:30:00 +0700
 title: "Việt Hóa RuleUniverse v0.64b - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] RuleUniverse v0.64b Update (APK Chống đẩy OK) - [3.3GB]"
+namebanner: "[Việt Hóa] RuleUniverse v0.64b Update (Lưu ý, không save ở đoạn frieza) - [3.3GB]"
 mota: |
  Trong trò chơi RuleUniverse, bạn thấy mình cô độc sau khi bị cha mẹ bỏ rơi từ khi còn nhỏ. Cuộc sống của một học sinh trẻ với thành tích học tập xuất sắc sắp bị đảo lộn bởi một cuộc gặp gỡ bất ngờ với một nhà khoa học quỷ trẻ tuổi, người đã tìm cách hợp nhất DNA của những chiến binh mạnh nhất vũ trụ vào cơ thể bạn.
 gametype: "Sandbox"
