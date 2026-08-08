@@ -19,6 +19,6 @@ dev: "Perverteer"
 genre: "Completed, 3DCG, Adventure, Corruption, Creampie, Group sex, Handjob, Harem, Interracial, Male protagonist, Milf, Mobile game, Oral sex, Sci-fi, Teasing, Vaginal sex, Voyeurism, Futa/trans"
 
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1ROekM4MllT"
-linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0RUQ0JTcWJU"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L01YaUxGY2N2"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xQnVTblY1NksyS3BHZTRKYUhfQnAwZw=="
 ---
