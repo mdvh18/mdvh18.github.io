@@ -18,7 +18,7 @@ phienban: "0.24 Extra Scenes Edition"
 dev: "Perverteer"
 genre: "3DCG, Adventure, Corruption, Creampie, Group sex, Handjob, Harem, Interracial, Male protagonist, Milf, Mobile game, Oral sex, Sci-fi, Teasing, Vaginal sex, Voyeurism, Futa/trans"
 
-linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L205SHljdm5x"
-linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1h0VUNSTnl2"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1oxeWhxWW9n"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91Lzg2MVZVa3lj"
 linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xRnVpVHBPUkpvakNfNkVka1dHNk04Zw=="
 ---
