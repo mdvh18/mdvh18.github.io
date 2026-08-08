@@ -5,7 +5,7 @@ date: 2026-08-08 15:30:00 +0700
 title: "Việt Hóa Victoria in Big City v0.80 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Victoria in Big City v0.80 (NTR) - [5GB/1.7GBAPK]"
+namebanner: "[Việt Hóa] Victoria in Big City v0.80 (NTR) - [8.5GB/2.2GBAPK]"
 mota: |
  Mắc kẹt trong sự tù túng của cuộc sống tẻ nhạt ở một thị trấn nhỏ, Victoria Cooper đưa ra quyết định khó khăn là dọn sạch đồ đạc, bỏ lại bạn trai và gia đình phía sau để chuyển đến Thành phố lớn. Điều khiển cô gái trẻ đẹp này khi cô ấy bắt đầu bước vào lối sống phức tạp.
 gametype: "Visual Novel"
@@ -13,7 +13,7 @@ engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "APK/PC"
-dungluong: "5GB/1.7GBAPK"
+dungluong: "8.5GB/2.2GBAPK"
 phienban: "v0.80"
 dev: "Groovers Games"
 genre: "3DCG, Female protagonist, Voyeurism, Corruption, Cheating, Oral sex, Lesbian, Anal sex, Interracial, Group sex, Vaginal sex, Exhibitionism, Creampie, Masturbation, Sex Toys, Spanking, Groping"
