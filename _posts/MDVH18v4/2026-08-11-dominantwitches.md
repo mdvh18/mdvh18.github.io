@@ -19,6 +19,6 @@ dev: "Nikociant"
 genre: "Completed, 3dcg, animated, male protagonist, sandbox, big ass, big tits, masturbation, groping, female domination, hand job, adventure, fantasy, urination, fetish, monster girl, oral sex, futa, lesbian"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1VZZ2RESFNB"
-linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L00zR1ZRbkRM"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0ozYktrNGhv"
 linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOEh5bHdsY3pjZWVUcDByRVc1blREdw"
 ---
