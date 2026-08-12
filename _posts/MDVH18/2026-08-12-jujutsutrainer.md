@@ -18,7 +18,7 @@ phienban: "v0.26"
 dev: "Milk Dragon Studios"
 genre: "parody, 2dcg, ai cg, monster, combat, paranormal, superpowers, monster girl, turn based, combat, trainer, male protagonist, Handjob, Masturbation, Oral Sex, Vaginal sex, Voyeurism, Mind control"
 
-linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3RVdE4zOTR3"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1U3VEpKeEdj"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3ZLUWNIU3hV"
 linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xWnVQaXQwa1lHdV84U1lLQUU1NlV0dw=="
 ---
