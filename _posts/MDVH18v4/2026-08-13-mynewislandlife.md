@@ -2,7 +2,7 @@
 layout: game
 pitu_id: "mynewislandlife"
 date: 2026-08-13 11:30:00 +0700
-title: "Việt Hóa My New Island Life v0.2.2 - MDVH18"
+title: "Việt Hóa My New Island Life v0.2.2 (Vô Setting ấn vietnamese chọn Việt Nam) - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] My New Island Life v0.2.2 - [1.6GB]"
