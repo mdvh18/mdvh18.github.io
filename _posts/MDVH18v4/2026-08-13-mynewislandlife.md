@@ -19,6 +19,6 @@ dev: "Visq"
 genre: "3DCG, Male protagonist, Adult, Anime, Comedy, Dating Sim, Erotic, Romance, Story Rich, Animated,Big ass, Big tits, Vaginal sex, Handjob, Voyeurism, Groping, Point & Click, Sandbox, Oral sex"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L01YNGljZ3d1"
-linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2IzcENSWGZt"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2laYllrakpm"
 linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xZUMyZDFOS1RuSGlKNV80Wi1uaUtZZw"
 ---
