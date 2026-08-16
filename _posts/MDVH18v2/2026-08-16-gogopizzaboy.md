@@ -2,10 +2,10 @@
 layout: game
 pitu_id: "gogopizzaboy"
 date: 2026-08-16 11:00:00 +0700
-title: "Việt Hóa Go!Go!PizzaBoy! v0.2.1 Update - MDVH18"
+title: "Việt Hóa Go!Go!PizzaBoy! v0.2.1 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Go!Go!PizzaBoy! v0.2.1 - [2.8/1.8GB]"
+namebanner: "[Việt Hóa] Go!Go!PizzaBoy! v0.2.1 Update - [2.8/1.8GB]"
 mota: |
  Câu chuyện mở ra khi một chàng trai trẻ nhận công việc bán thời gian là nhân viên giao pizza, dẫn đến việc anh phải chuyển tới một thành phố mới. Tuy nhiên, mọi thứ rẽ sang một hướng không ngờ tới khi anh thấy mình bị vướng vào một khu nghỉ dưỡng do các cô gái điều hành, một nhà khoa học kỳ quặc, và thậm chí là cả... những lỗi mã nguồn?
 gametype: "Sandbox"
