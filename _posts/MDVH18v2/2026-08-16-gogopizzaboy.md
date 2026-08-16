@@ -2,7 +2,7 @@
 layout: game
 pitu_id: "gogopizzaboy"
 date: 2026-08-16 11:00:00 +0700
-title: "Việt Hóa Go!Go!PizzaBoy! v0.2.1 - MDVH18"
+title: "Việt Hóa Go!Go!PizzaBoy! v0.2.1 Update - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Go!Go!PizzaBoy! v0.2.1 - [2.8/1.8GB]"
