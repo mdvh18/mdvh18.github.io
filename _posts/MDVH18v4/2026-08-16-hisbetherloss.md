@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "hisbetherloss"
-date: 2026-08-16 11:30:00 +0700
+date: 2026-08-16 14:30:00 +0700
 title: "Việt Hóa His Bet, Her Loss - MDVH18"
 tags: [all, mdvh18, allvh, pc, ntr, com]
 typegame: ["PC", "Joiplay"]
