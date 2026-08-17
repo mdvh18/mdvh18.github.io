@@ -18,6 +18,6 @@ phienban: "Completed"
 dev: "Hangover Cat"
 genre: "Completed, 2DCG, Big ass, Big tits, Male protagonist, Ntr"
 
-linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1k3QVFqN1Ji"
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2lqQkFYVllW"
 linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xTi15VERfSWhrMjdFY1NUbm5PRlZCUQ"
 ---
