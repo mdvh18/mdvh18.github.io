@@ -18,6 +18,6 @@ phienban: "Completed"
 dev: "HimitsuCP"
 genre: "Completed, 2dcg, ai cg, male protagonist, fantasy, adventure, combat, harem, management, sandbox, big ass, big tits, point and click, vaginal sex, teasing, groping, creampie, oral sex, monster girl, monster, humor,"
 
-linkpixel: "https://mdvh18.com/download.html?url= "
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1JQUzZ3eDFR"
 linktera: "https://mdvh18.com/download.html?url= "
 ---
