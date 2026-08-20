@@ -2,7 +2,7 @@
 layout: game
 pitu_id: "impacthotelworld"
 date: 2026-08-20 10:30:00 +0700
-title: "Việt Hóa Impact Hotel: World v0.4 - MDVH18"
+title: "Việt Hóa Impact Hotel: World v0.6 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Impact Hotel: World v0.6 Update - [928MB]"
