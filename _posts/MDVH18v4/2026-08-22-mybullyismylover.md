@@ -4,8 +4,8 @@ pitu_id: "mybullyismylover"
 date: 2026-08-22 12:30:00 +0700
 title: "Việt Hóa My Bully Is My Lover Ch.2 Ep.2 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
-typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] My Bully Is My Lover Ch.2 Ep.2 - [2GB]"
+typegame: ["PC", "APK", "Compressed"]
+namebanner: "[Việt Hóa] My Bully Is My Lover Ch.2 Ep.2 Mod - [2GB]"
 mota: |
  Trong trò chơi đong đầy cảm xúc và tập trung vào cốt truyện này, bạn bước vào vai một nhân vật chính từng chịu đựng những vết sẹo do bị bắt nạt ở trường cấp ba. Bị ám ảnh bởi ký ức về một cô gái từng biến cuộc sống thành nỗi thống khổ, bạn đã dấn thân qua cả cõi thiên đường và địa ngục theo cả nghĩa đen lẫn nghĩa bóng.
 gametype: "Visual Novel"
