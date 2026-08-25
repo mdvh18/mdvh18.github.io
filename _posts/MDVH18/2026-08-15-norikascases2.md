@@ -18,7 +18,7 @@ phienban: "S2 v0.36"
 dev: "Staxxik"
 genre: "3DCG, Big ass, Big tits, Dating sim, Handjob, Male protagonist, Mobile game, Oral sex, Vaginal sex, teasing, romance, harem, male domination, titfuck, anal, pov, creampie, virgin, group sex"
 
-linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzRqVW5WMnR0"
-linkpixelapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0JFREU2OGdu"
-linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xd2VyLTM2dTNmUFcycGpkUHE0YTlqQQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzRqVW5WMnR0"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0JFREU2OGdu"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xd2VyLTM2dTNmUFcycGpkUHE0YTlqQQ=="
 ---
