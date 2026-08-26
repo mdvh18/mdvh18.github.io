@@ -19,7 +19,7 @@ dev: "OppaiMan"
 genre: "Completed, 3dcg, Animated, Big ass, Big tits, Cheating, Creampie, Dating sim, Exhibitionism, Groping, Handjob, Humor, Male protagonist, Milf, Oral sex, Point & click, Romance, School setting, Stripping, Teasing, Titfuck, Vaginal sex, Voyeurism, Prostitution, Group Sex, Virgin"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0V4d0VWa2ha"
-linkpixelpc: "https://mdvh18.com/download.html?url="
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L29RVk40M2RQ"
 linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC8yWnhWMVZTWQ"
 linkggdrive: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMV9MVEFVanJ2UUlDekRnamhRcVR1UlBQS05pSGJ0R0F6P3VzcD1zaGFyaW5n"
 ---
