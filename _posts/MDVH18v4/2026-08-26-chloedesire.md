@@ -18,7 +18,7 @@ phienban: "Completed"
 dev: "OppaiMan"
 genre: "Completed, 3dcg, Animated, Big ass, Big tits, Creampie, Dating sim, Exhibitionism, Groping, Handjob, Humor, Male protagonist, Milf, Oral sex, Point & click"
 
-linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1JnYWM2Z2pK"
-linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzlSZVRWdXAz"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzlSZVRWdXAz"aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1JnYWM2Z2pK
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1JnYWM2Z2pK"
 linkggdrive: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUV4ZTZfVE9PZWRkMnU1Y2k4R1ZpR1FlUlBNN3RHMXRfP3VzcD1zaGFyaW5n"
 ---
