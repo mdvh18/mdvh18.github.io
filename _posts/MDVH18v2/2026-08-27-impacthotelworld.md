@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "impacthotelworld"
-date: 2026-08-20 10:30:00 +0700
+date: 2026-08-27 10:30:00 +0700
 title: "Việt Hóa Impact Hotel: World v0.6 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
@@ -18,7 +18,8 @@ phienban: "v0.6"
 dev: "Hexdusky"
 genre: "3DCG, Male Protagonist, Mobile Game, Visual Novel, sandbox, Big Ass, Big Tits, Harem, Voyeurism, Cosplay, Dating Sim, Fantasy, Humor, Romance"
 
-linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzJpOG5BRlZ1"
-linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0E4anFRM3hT"
-linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSWJ0QWc4RDdLQlJneGtmS0lUWEtBQQ=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzVRYmZyZGpm"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzNucUJLS1lC"
+linkggdrive: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMUJEeEFLUDZIbDNmU1gtazJmazhIUEt6bkg3ZDVYUzdsP3VzcD1zaGFyaW5n"
+linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xSWJ0QWc4RDdLQlJneGtmS0lUWEtBQQ=="
 ---
