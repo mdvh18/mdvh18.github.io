@@ -5,7 +5,7 @@ date: 2026-08-27 09:40:00 +0700
 title: "Việt Hóa FreshWomen Season 3 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] FreshWomen Season 3 80% Fix Bản quyền - [6.7GB]"
+namebanner: "[Việt Hóa] FreshWomen Season 3 80% Fix ALL - [6.7GB]"
 mota: |
  Bạn là một chàng trai đang cố tìm hiểu chuyện gì đã xảy ra với bố mình. Nhưng trong quá trình đó, bạn lại gặp một vụ va chạm làm mất đi một phần trí nhớ. Giờ đây, với một trang giấy trắng, bạn chuyển đến một thị trấn khác để bắt đầu bước vào đại học.
 gametype: "Visual Novel"
