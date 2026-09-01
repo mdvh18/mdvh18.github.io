@@ -18,7 +18,7 @@ dev: "AnbuAfterDark"
 genre: "2DCG, AI CG, Male Protagonist, Female Domination, Male Domination, Humiliation,, Milf, Spanking, Parody, Futa/Trans, Masturbation, Rpg, Turn based combat"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS9sL2lzeURMRjFV"
-linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0ZVUVdHOHBS"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1ZySFl5dFE2"
 linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC84QmFkMFc="
 linkggdrive: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMWEwSkR6UU9BU05rZFB3RUtMRkFWMWtTbVdNYzNxWWZOP3VzcD1zaGFyaW5n"
 ---
