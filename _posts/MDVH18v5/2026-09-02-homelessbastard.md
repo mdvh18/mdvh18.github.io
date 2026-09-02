@@ -5,7 +5,7 @@ date: 2026-09-02 11:30:00 +0700
 title: "Việt Hóa Homeless Bastard - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr, com]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Việt Hóa Homeless Bastard Completed - [500MB]"
+namebanner: "[Việt Hóa] Homeless Bastard Completed - [500MB]"
 mota: |
  Tom và vợ anh, Skyla, đi chơi tối ở quán bar. Tom say mèm và trên đường lái xe về nhà, đã vô tình đâm phải một gã vô gia cư. Vì sợ hãi, hai vợ chồng tìm cách xoay sở, nhưng gã vô gia cư lại chớp lấy thời cơ để ép quan hệ đổi lấy sự im lặng về chuyện vừa xảy ra.
 gametype: "Visual Novel"
