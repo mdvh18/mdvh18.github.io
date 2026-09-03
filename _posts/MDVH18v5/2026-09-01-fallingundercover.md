@@ -18,8 +18,8 @@ phienban: "v0.10.2"
 dev: "Azienda"
 genre: "2dcg, Animated, Male protagonist, Sci-Fi, Big ass, Big tits, Netorare, Groping, Vaginal sex, Teasing, Pov, Mobile game, Male domination, Cheating, Corruption"
 
-linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3Fjd2NlQ2JB"
-linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0VqN2FWV3VG"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3BBRW91R3pk"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3Z0ZjRMSlJw"
 linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9rU2xFZFVlSw"
 linkggdrive: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMW81cTBBRDA4V0kyOWtZVFhRajcyYzVydFUtZkkyak9zP3VzcD1kcml2ZV9saW5r"
 ---
