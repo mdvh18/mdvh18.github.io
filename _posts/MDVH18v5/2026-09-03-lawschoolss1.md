@@ -18,7 +18,7 @@ phienban: "Completed"
 dev: "MisterMaya"
 genre: "Male protagonist, 3DCG, Oral sex, VN, Humour, Animated, College, Sex, Creampiel, Female Domination, Groping, Male Domination, Masturbation, MILF, Romance, Sex Toys, Titfuck"
 
-linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzJ6SGtOWjJT"
+linkpixel: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2I4UXNjTHZi"
 linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9VUzduYlVtVg"
 linkggdrive: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMVlCc3ZkTk5IMHd5YkJfVmo4emp5WDNGVkpWYmNuOTIyP3VzcD1zaGFyaW5n"
 ---
