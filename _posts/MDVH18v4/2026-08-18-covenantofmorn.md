@@ -18,7 +18,7 @@ phienban: "v0.5.1"
 dev: "395games"
 genre: "3DCG, Animated, Mobile Game, Male Protagonist, Adventure, Big Ass, Teasing, Vaginal Sex, Creampie, Exploration, Dating Sim, Point & Click, Graphic violence, Sandbox"
 
-linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3BrY3RlRGZX"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzFTSHRRZlRS"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzlMY1Jrek51"
 linktera: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xUnJlTmVxVkY1R0dsSmRvd1M2elF4QQ"
 ---
