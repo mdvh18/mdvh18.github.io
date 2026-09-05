@@ -18,7 +18,7 @@ phienban: "v1.0.3 GOG DE"
 dev: "Lewdlab"
 genre: "Completed, 3DCG, Animated, Male protagonist, Multiple endings, Incest, Interracial, MILF, Corruption, Cheating, Big tits, Big ass, BDSM, Anal sex, Vaginal sex, Oral sex, Footjob, Titfuck, Group sex, Multiple penetration, Handjob, Harem, Mind control, Monster, Rape, Sex toys, Sleep sex, Stripping, Voyeurism, Creampie, Masturbation"
 
-linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1JMUUhTV1ZM"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzE0TWlHd3Yx"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1dFb2NKTllE"
 linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9nWGMxWkhUVg"
 linkggdrive: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXByY294N3l4UE1CVl9ibUpkQ2ViUzlOY0QwZ0lIZ3VLP3VzcD1kcml2ZV9saW5r"
