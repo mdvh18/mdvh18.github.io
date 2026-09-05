@@ -5,7 +5,7 @@ date: 2026-09-05 12:30:00 +0700
 title: "Việt Hóa Dreams of Desire - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Dreams of Desire v1.0.3 GOG DE Completed - [5GB/1.2GB]"
+namebanner: "[Việt Hóa] Dreams of Desire v1.0.3 GOG DE Fix APK - [5GB/1.2GB]"
 mota: |
  Do gặp vận rủi, có vẻ như cậu ấy bị ép phải vào một trường quân sự. Cậu ấy chưa bao giờ muốn làm lính. Khi mọi thứ dần trở nên không thể tránh khỏi, cậu ấy tình cờ vớ được một cuốn sách cũ viết về cách vận hành của tâm trí.
 gametype: "Visual Novel"
