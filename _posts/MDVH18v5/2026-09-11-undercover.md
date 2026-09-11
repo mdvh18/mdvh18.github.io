@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "undercover"
-date: 2026-09-01 11:30:00 +0700
+date: 2026-09-11 11:30:00 +0700
 title: "Việt Hóa Undercover v12.6 Final - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr, com]
 typegame: ["PC", "APK"]
