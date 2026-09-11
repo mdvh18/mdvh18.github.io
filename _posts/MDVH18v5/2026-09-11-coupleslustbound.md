@@ -3,7 +3,7 @@ layout: game
 pitu_id: "coupleslustbound"
 date: 2026-09-11 11:30:00 +0700
 title: "Việt Hóa Couples Lustbound - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
+tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Couples: Lustbound v0.6.0 (NTR) - [5GB/2GB]"
 mota: |
