@@ -18,8 +18,8 @@ phienban: "v3.1a"
 dev: "EmperoXXX Anime"
 genre: "3DCG, Male protagonist, Parody, Animated, Harem, Teasing, Virgin, Dating Sim, Humor, Romance, Fantasy, Sandbox, Big tits, Big Ass, Handjob, MILF, Ahegao, Incest, Exhibitionism, Vaginal Sex, Foot Job, Oral Sex, Anime, Monster girl, Anal, Turn-Based Combat, Combat"
 
-linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1lFVjk2bTNx"
-linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1o5TlI3Q05I"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1k5QkQxNnpR"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3RaTnI3VVpO"
 linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC94V3VwNW1iRg"
 linkggdrive: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMW9EMTJ4MTV5amF0cU10eTVzZ2Vrb1h2a2xhNUR5NEIyP3VzcD1zaGFyaW5n"
 ---
