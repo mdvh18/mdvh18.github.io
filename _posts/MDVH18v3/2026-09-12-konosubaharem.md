@@ -1,11 +1,11 @@
 ---
 layout: game
 pitu_id: "konosubaharem"
-date: 2026-09-10 10:30:00 +0700
+date: 2026-09-12 19:30:00 +0700
 title: "Việt Hóa KonoSuba - The Harem Adventures v3.1a - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] KonoSuba - The Harem Adventures v3.1a - [2.3GB/1.4GB]"
+namebanner: "[Việt Hóa] KonoSuba - The Harem Adventures v3.1a FIX - [2.3GB/1.4GB]"
 mota: |
  Hãy hóa thân thành người hùng của chúng ta, một nhà thám hiểm vừa may mắn vừa đen đủi tại thị trấn Axel, nơi cuộc sống chẳng hề bình thường. (Game bựa)
 gametype: "Sandbox"
