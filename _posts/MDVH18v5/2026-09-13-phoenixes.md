@@ -7,7 +7,7 @@ tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Phoenixes v17.0.1 (APK đọc mô tả) - [4.2GB/2.4GB]"
 mota: |
- Câu chuyện của PHOENIXES diễn ra trong một thế giới nơi cả phép thuật lẫn khoa học đều phát triển rực rỡ, một thế giới mà siêu anh hùng thực sự tồn tại. Bạn, một kẻ lang thang ở nơi giao thoa giữa ánh sáng và bóng tối. (Bản gốc APK bị dis đoạn chọn tên CLB, dùng file đi kèm apk nếu muốn chơi tiếp)
+ Câu chuyện của PHOENIXES diễn ra trong một thế giới nơi cả phép thuật lẫn khoa học đều phát triển rực rỡ, một thế giới mà siêu anh hùng thực sự tồn tại. Bạn, một kẻ lang thang ở nơi giao thoa giữa ánh sáng và bóng tối. (Bản gốc APK bị dis đoạn chọn tên CLB, dùng file đi kèm apk nếu muốn chơi tiếp, file đi kèm là Save Game 3, chơi thêm 1 vài sự kiện nó sẽ hiện)
 gametype: "Sandbox"
 engine: "Godot"
 language: "Tiếng Việt"
