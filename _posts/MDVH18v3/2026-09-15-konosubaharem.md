@@ -1,11 +1,11 @@
 ---
 layout: game
 pitu_id: "konosubaharem"
-date: 2026-09-12 19:30:00 +0700
+date: 2026-09-15 13:30:00 +0700
 title: "Việt Hóa KonoSuba - The Harem Adventures v3.1a - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] KonoSuba - The Harem Adventures v3.1a FIX - [2.3GB/1.4GB]"
+namebanner: "[Việt Hóa] KonoSuba - The Harem Adventures v3.1a FIX 2 - [2.3GB/1.4GB]"
 mota: |
  Hãy hóa thân thành người hùng của chúng ta, một nhà thám hiểm vừa may mắn vừa đen đủi tại thị trấn Axel, nơi cuộc sống chẳng hề bình thường. (Game bựa)
 gametype: "Sandbox"
@@ -18,8 +18,8 @@ phienban: "v3.1a"
 dev: "EmperoXXX Anime"
 genre: "3DCG, Male protagonist, Parody, Animated, Harem, Teasing, Virgin, Dating Sim, Humor, Romance, Fantasy, Sandbox, Big tits, Big Ass, Handjob, MILF, Ahegao, Incest, Exhibitionism, Vaginal Sex, Foot Job, Oral Sex, Anime, Monster girl, Anal, Turn-Based Combat, Combat"
 
-linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1k5QkQxNnpR"
-linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3RaTnI3VVpO"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3EyRmpzRlVt"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91Lzl2RWVpQVJF"
 linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC94V3VwNW1iRg"
 linkggdrive: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMW9EMTJ4MTV5amF0cU10eTVzZ2Vrb1h2a2xhNUR5NEIyP3VzcD1zaGFyaW5n"
 ---
