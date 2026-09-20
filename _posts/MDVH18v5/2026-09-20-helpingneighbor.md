@@ -1,7 +1,7 @@
 ---
 layout: game
 pitu_id: "helpingneighbor"
-date: 2026-09-01 10:30:00 +0700
+date: 2026-09-20 10:30:00 +0700
 title: "Việt Hóa Helping Out The Neighbor Final - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr, com]
 typegame: ["PC", "APK"]
