@@ -18,7 +18,7 @@ phienban: "v0.17"
 dev: "Big T"
 genre: "3DCG, Big Ass, Big Tits, Male Protagonist, Superpowers, Adventure, Sandbox, Parody, Mobile Game, Animated, Blackmail, Corruption, Harem, Milf, Teasing, Handjob, Oral Sex, Mind control, PoV, Cheating, Combat, Romance, NTR Avoidable, Lesbianism"
 
-linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L01oMjVZUWZY"
-linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3BjNFo2Smlp"
-linkteraapkpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly8xMDI0dGVyYWJveC5jb20vcy8xOWpFNmMyUDFKOUdLVGNlN3kxLWYwZw=="
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L01DNGRobTFk"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L29kWDZWalRw"
+linkggdrive: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMXB6X0JjWjQyV21senQ5aTJqSTRoN0VOWGR4VGdkSnllP3VzcD1zaGFyaW5n"
 ---
