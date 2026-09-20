@@ -1,11 +1,11 @@
 ---
 layout: game
 pitu_id: "companionss1"
-date: 2026-09-18 11:30:00 +0700
+date: 2026-09-20 13:30:00 +0700
 title: "Việt Hóa Companion of Darkness SS1 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Companion of Darkness SS1 Chap 9 Mod - [8GB/2.7GB]"
+namebanner: "[Việt Hóa] Companion of Darkness SS1 Chap 9 Mod Fix cảnh H - [8GB/2.7GB]"
 mota: |
  3 năm sau một biến cố đau thương, bạn trở về quê nhà của mình. Ngay trước khi đến nơi, bạn chứng kiến hai thế lực siêu nhiên đang dốc sức chiến đấu sinh tử với nhau. Có vẻ như bạn đã bị phát hiện và bị áp đảo một cách dễ dàng, nhưng thay vì bỏ mạng, bạn lại tỉnh dậy trên giường của mình như thể chưa từng có chuyện gì xảy ra.
 gametype: "Visual Novel"
