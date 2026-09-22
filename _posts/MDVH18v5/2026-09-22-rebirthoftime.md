@@ -4,8 +4,8 @@ pitu_id: "rebirthoftime"
 date: 2026-09-22 12:30:00 +0700
 title: "Việt Hóa Rebirth of Time: The Flame Rekindled - MDVH18"
 tags: [all, mdvh18, allvh, pc]
-typegame: ["PC"]
-namebanner: "[Việt Hóa] Rebirth of Time: The Flame Rekindled STH - [10GB]"
+typegame: ["PC", "Compressed"]
+namebanner: "[Việt Hóa] Rebirth of Time: The Flame Rekindled STH - [10GB/5.8GB]"
 mota: |
  Bạn vào vai chủ tịch của một công ty công nghệ sinh học dược phẩm, người đã bị chính đối tác kinh doanh kiêm anh em trai của mình phản bội và sát hại. Sau đó, bạn được một nữ sinh viên tiến sĩ ngưỡng mộ mình đưa trở về quá khứ. Trong câu chuyện này, bạn sẽ nhập học tại Học viện, tận hưởng cuộc sống đại học kéo dài bốn năm.
 gametype: "Sandbox"
@@ -13,7 +13,7 @@ engine: "RPGM"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "PC"
-dungluong: "10GB"
+dungluong: "10GB/5.8GB"
 phienban: "STH"
 dev: "SweetWorkShop"
 genre: "3DCG, Male protagonist, Animation, Voiced, Vaginal sex, Anal sex, Voyeurism, Big tits, Big ass, Incest, Masturbation, Teasing, Oral sex, Drugs, Virginity, Titfuck, Stripping, Groping"
