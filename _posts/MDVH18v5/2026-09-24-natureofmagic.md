@@ -5,7 +5,7 @@ date: 2026-09-24 11:30:00 +0700
 title: "Việt Hóa The Nature of Magic - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] The Nature of Magic Part 4 - [5GB/3GB]"
+namebanner: "[Việt Hóa] The Nature of Magic Part 4 WT Mod - [5GB/3GB]"
 mota: |
  Qua từng thế hệ trôi qua, ngày càng ít người sinh ra sở hữu Thiên Phú (Affinity). Nơi mà trước đây mọi con người, tộc elven và tộc orran đều có thể thi triển phép thuật, thì nay chỉ có một nửa số người sinh ra trong sáu Đại Gia Tộc của Eorþe phát triển được năng lực này. Phía bên ngoài các Gia Tộc, tỷ lệ này còn giảm mạnh hơn nữa.
 gametype: "Visual Novel"
