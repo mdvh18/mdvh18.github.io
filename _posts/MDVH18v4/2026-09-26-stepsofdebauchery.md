@@ -18,7 +18,7 @@ phienban: "Ep.5.2"
 dev: "Fooxied"
 genre: "3DCG, Animated, Ahegao, Creampie, Female Protagonist, Footjob, Big Ass, Big Tits, Blackmail, Cheating, Corruption, Groping, Handjob, lesbian, Masturbation, Oral Sex, Stripping, Teasing, Voyeurism, Adventure, Cosplay, Vaginal sex, Management, Point & Click, Sandbox, School Setting, Sex Toys"
 
-linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1FhTFd4TG5l"
+linkpixelapk: "https://mdvh18.com/download.html?url="
 linkpixelcom: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3dtaEp5OEo2"
 linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC95OWdBTlo1Zw"
 linkggdrive: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2RyaXZlL2ZvbGRlcnMvMW5yRHZEbHE3U2czcV9xQi1nZ2VsY0NISGR4NENMcnI4P3VzcD1zaGFyaW5n"
