@@ -504,8 +504,11 @@
         <button class="download-btn" id="btn-show" onclick="showLinks()">NHẤN ĐỂ HIỆN LINK TẢI</button>
         
         <div id="real-links" style="display: none; margin-top: 20px; animation: fadeIn 0.5s;">
-            {% if page.linkbuzzheavier %}
-            <a class="download-btn" href="{{ page.linkbuzzheavier }}" target="_blank">BUZZHEAVIER PC</a>
+            {% if page.linkbuzzpc %}
+            <a class="download-btn" href="{{ page.linkbuzzpc }}" target="_blank">BUZZHEAVIER PC</a>
+            {% endif %}
+            {% if page.linkbuzzapk %}
+            <a class="download-btn" href="{{ page.linkbuzzapk }}" target="_blank">BUZZHEAVIER APK</a>
             {% endif %}
             {% if page.linkggdrive %}
             <a class="download-btn" href="{{ page.linkggdrive }}" target="_blank">GOOGLE DRIVE</a>
