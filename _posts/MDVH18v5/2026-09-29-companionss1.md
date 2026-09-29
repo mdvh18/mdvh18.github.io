@@ -1,8 +1,8 @@
 ---
 layout: game
 pitu_id: "companionss1"
-date: 2026-09-20 13:30:00 +0700
-title: "Việt Hóa Companion of Darkness SS1 - MDVH18"
+date: 2026-09-29 10:00:00 +0700
+title: "Việt Hóa Companion of Darkness SS1 Fix tiếng - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Companion of Darkness SS1 Chap 9 Mod Fix cảnh H - [8GB/2.7GB]"
