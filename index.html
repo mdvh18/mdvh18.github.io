@@ -557,21 +557,19 @@ function triggerShopeeBypass(e) {
     } catch(err) {}
 
 
-    if (isAndroid) {
-        const clickTime = Date.now();
-        window.location.href = `shopeevn://open?url=${encodeURIComponent(randomUrl)}`;
+   if (isAndroid || isIOS) {
+    
+        window.location.href = "shopeevn://open?url=" + encodeURIComponent(randomUrl);
 
+    
+        const start = Date.now();
         setTimeout(function() {
-
-            if (Date.now() - clickTime < 1500) {
+            if (Date.now() - start < 1500) {
                 window.location.href = randomUrl;
             }
         }, 1200);
-    } else if (isIOS) {
-
-        window.location.href = randomUrl;
     } else {
-
+ 
         const newTab = window.open(randomUrl, '_blank');
         if (!newTab || newTab.closed || typeof newTab.closed === 'undefined') {
             window.location.href = randomUrl;
