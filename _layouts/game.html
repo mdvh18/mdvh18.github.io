@@ -190,7 +190,47 @@
     }
 }   
 </style>
-    
+ <style>
+@keyframes whitePulseGlow {
+    0% {
+        transform: scale(1);
+        color: #ffffff;
+        text-shadow: 0 0 2px rgba(255, 255, 255, 0.4);
+        opacity: 0.85;
+    }
+    50% {
+        transform: scale(1.05);
+        color: #ffffff;
+        text-shadow: 0 0 12px rgba(255, 255, 255, 0.9), 0 0 20px rgba(255, 255, 255, 0.6);
+        opacity: 1;
+    }
+    100% {
+        transform: scale(1);
+        color: #ffffff;
+        text-shadow: 0 0 2px rgba(255, 255, 255, 0.4);
+        opacity: 0.85;
+    }
+}
+
+.shopee-blink-white {
+    display: inline-block;
+    font-size: 19px;
+    font-weight: 800;
+    text-decoration: underline;
+    cursor: pointer;
+    line-height: 1.4;
+    word-break: break-word;
+    animation: whitePulseGlow 1.2s infinite ease-in-out;
+    -webkit-tap-highlight-color: transparent;
+    will-change: transform;
+}
+
+@media (max-width: 600px) {
+    .shopee-blink-white {
+        font-size: 16px;
+    }
+}
+</style>   
 <style>
 .game-info {background: linear-gradient(to bottom,#752b62, #a43973, #d4487f);
     padding: 20px;
@@ -441,6 +481,8 @@
             <li><a href="https://mdvh18.com/pages/ntr/">NTR</a></li>
             <li><a href="https://mdvh18.com/pages/com/">Hoàn thành</a></li>
             <li><a href="https://mdvh18.com/donate">DONATE</a></li>
+            <li><a href="javascript:void(0);" id="shopee-homepage-btn">Không Quảng Cáo</a>
+            <span id="shopee-error-msg" style="display:none; color: #ff4d4d; font-size: 12px; margin-left: 8px;"></span></li>
             <li><a href="https://www.facebook.com/profile.php?id=61575869116469">Fanpage</a></li>
         </ul>
     <div class="nav-search">
@@ -558,9 +600,11 @@
             <p style="margin-top: 15px; border-top: 1px solid rgba(255,255,255,0.2); padding-top: 10px;">
                 Mật khẩu giải nén: <b style="color: white; font-size: 18px;">MDVH18</b>
             </p>
-            <p style="margin-top: 15px; border-top: 1px solid rgba(255,255,255,0.2); padding-top: 10px;">
-                Hướng dẫn: <b style="color: white; font-size: 18px;">Vào Game phần Setting chọn ngôn ngữ Tiếng Việt</b>
-            </p>
+            <p style="margin-top: 15px; border-top: 1px solid rgba(255,255,255,0.2); padding-top: 12px; text-align: center; padding-left: 10px; padding-right: 10px;">
+    👉 <a href="javascript:void(0);" id="shopee-homepage-btn" class="shopee-blink-white">
+        Ấn vào đây để bỏ qua quảng cáo 7 ngày với giá 1 click free
+    </a> 👈
+</p>
         </div>
     </div>
 
@@ -719,4 +763,280 @@ window.onscroll = function() {
     <div class="megumin-left">
     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAWkPOxJVqkc0xIyKBoulfxbN9BXFI1j6jQMc9SnV2HjiESbR7VvDZM6FheAGZ86P57AnIEhX0Wy8HFw0xkd8lGV4svCOHtD9oecMQr22ItBvEVrLcJMixvPtvN31uIZZY-z0clWZD4iPkQ8A7Gpo_JkJkI9tW0dOvw9nmT1Lr1znL3xKJaLbq49s_Yw/s1600/IMG_20220521_032343.png" alt="Megumin Left">
 </div>
+<script>
+document.addEventListener('click', function(e) {
+    const link = e.target.closest('a');
+    if (!link || !link.href) return;
+
+    // Bắt mọi loại link tải: download.html, pixeldrain, gofile, mega, drive, fshare...
+    const isDownloadLink = link.href.includes('download.html?url=') || 
+                           link.href.includes('pixeldrain.com') || 
+                           link.href.includes('gofile.io') || 
+                           link.href.includes('mega.nz') || 
+                           link.href.includes('drive.google.com') || 
+                           link.href.includes('fshare.vn');
+
+    if (!isDownloadLink) return;
+
+    const btn = document.getElementById('shopee-homepage-btn');
+    if (btn && btn.contains(link)) return;
+
+    // Chặn hành vi mặc định NGAY LẬP TỨC (đồng bộ) để tránh browser tự nhảy link trước khi code async chạy xong
+    e.preventDefault();
+
+    const shopeeHomepageLinks = [
+        "https://s.shopee.vn/4VdDr6L9Oz",
+        "https://s.shopee.vn/1LgCBfurVy",
+        "https://s.shopee.vn/3LRGZQ4Orn",
+        "https://s.shopee.vn/4qG4MQ0fqY",
+        "https://s.shopee.vn/7Adz8kn0KG",
+        "https://s.shopee.vn/9pekJjVCC1",
+        "https://s.shopee.vn/5AsulB3wxM",
+        "https://s.shopee.vn/7VGpXTeZoe",
+        "https://s.shopee.vn/5LCKxWCkbI",
+        "https://s.shopee.vn/8pmD7xcGf4",
+        "https://s.shopee.vn/7faFjqOzQW",
+        "https://s.shopee.vn/5AsulB3wxM",
+        "https://s.shopee.vn/7faFjrAd9W",
+        "https://s.shopee.vn/6q18kLRUYX",
+        "https://s.shopee.vn/113LndyyvI",
+        "https://s.shopee.vn/8KpwXCISpc",
+        "https://s.shopee.vn/3B7qNiOjiD",
+        "https://s.shopee.vn/1BMm03F2De",
+        "https://s.shopee.vn/AUuR7FqWp1",
+        "https://s.shopee.vn/80D68hcpqk",
+        "https://s.shopee.vn/6VOILx8OUf",
+        "https://s.shopee.vn/50ZUZD5j4E",
+        "https://s.shopee.vn/905dKaFWvi",
+        "https://s.shopee.vn/50ZUZFZZwi",
+        "https://s.shopee.vn/6VOIM2Pgx1",
+        "https://s.shopee.vn/7faFkIh6PJ",
+        "https://s.shopee.vn/1gJ2bJZ6Rm",
+        "https://s.shopee.vn/905dKpt7OW",
+        "https://s.shopee.vn/113Lo9EEUU",
+        "https://s.shopee.vn/40gxNfl9Wi",
+        "https://s.shopee.vn/8AWWLPWdi0",
+        "https://s.shopee.vn/3qNXBT3dx2",
+        "https://s.shopee.vn/4B0Na5tn2Z",
+        "https://s.shopee.vn/1BMm0arC9B",
+        "https://s.shopee.vn/1LgCCuQNQi",
+        "https://s.shopee.vn/9zyAWqSvPo",
+        "https://s.shopee.vn/80D69BZeaz",
+        "https://s.shopee.vn/5LCKyIEXDj",
+        "https://s.shopee.vn/3g46zEupkK",
+        "https://s.shopee.vn/6q18l4dQPG",
+        "https://s.shopee.vn/113LoNhZKE",
+        "https://s.shopee.vn/60S1lZtbif",
+        "https://s.shopee.vn/6VOIMVQ0Xj",
+        "https://s.shopee.vn/4B0NaEr326",
+        "https://s.shopee.vn/7Adz9leKUT",
+        "https://s.shopee.vn/BUEov8M5d",
+        "https://s.shopee.vn/3Vkgn601Pm",
+        "https://s.shopee.vn/1BMm0q8RN4",
+        "https://s.shopee.vn/20vt0OdEkU",
+        "https://s.shopee.vn/3B7qOYv992",
+        "https://s.shopee.vn/9pekKpUT9i",
+        "https://s.shopee.vn/7KxPMG0kYL",
+        "https://s.shopee.vn/9fLK8YUQvU",
+        "https://s.shopee.vn/1BMm0x1DH6",
+        "https://s.shopee.vn/1qcSoCEZ1q",
+        "https://s.shopee.vn/2LYjP8LT6o",
+        "https://s.shopee.vn/9fLK8cy63k",
+        "https://s.shopee.vn/AUuR8BpEf5",
+        "https://s.shopee.vn/9V1twMsZNo",
+        "https://s.shopee.vn/6AlRyOo1M1"
+    ];
+
+    function getCookie(name) {
+        const value = `; ${document.cookie}`;
+        const parts = value.split(`; ${name}=`);
+        if (parts.length === 2) return parts.pop().split(';').shift();
+        return null;
+    }
+
+    const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+
+    async function checkIncognito() {
+        try {
+            if (navigator.storage && navigator.storage.estimate) {
+                const { quota } = await navigator.storage.estimate();
+                return quota < 120000000;
+            }
+            return false;
+        } catch (err) {
+            return true;
+        }
+    }
+
+    (async function() {
+        const isIncognito = isMobile ? false : await checkIncognito();
+
+        const savedTime = localStorage.getItem('shopee_click_time');
+        let isBypassed = false;
+        if (savedTime) {
+            const diffDays = (Date.now() - parseInt(savedTime, 10)) / (1000 * 60 * 60 * 24);
+            if (diffDays < 7) {
+                isBypassed = true;
+            } else {
+                localStorage.removeItem('shopee_click_time');
+            }
+        }
+        const isCookieBypassed = getCookie('shopee_unlocked') === 'true';
+        const isAppOpened = localStorage.getItem('shopee_app_opened') === 'true';
+
+        let shouldGoDirect = false;
+        if (isMobile) {
+            if (isAppOpened || (isBypassed && isCookieBypassed)) {
+                shouldGoDirect = true;
+            }
+        } else {
+            if (!isIncognito && (isBypassed && isCookieBypassed)) {
+                shouldGoDirect = true;
+            }
+        }
+
+        
+        if (shouldGoDirect) {
+            alert("Bạn đã làm xong, cảm ơn vì sự đóng góp cho team.");
+            window.location.href = link.href;
+            return;
+        }
+
+      
+        alert("Chưa load link shopee thành công, vui lòng thử lại.");
+
+      
+        let targetClicks = parseInt(localStorage.getItem('shopee_target_clicks') || '0', 10);
+        if (!targetClicks || targetClicks < 2 || targetClicks > 3) {
+            targetClicks = Math.floor(Math.random() * (3 - 2 + 1)) + 2;
+            localStorage.setItem('shopee_target_clicks', targetClicks.toString());
+        }
+
+        const urlParams = new URLSearchParams(window.location.search);
+        let currentClick = parseInt(urlParams.get('shopee_cnt') || localStorage.getItem('download_click_count') || '0', 10) + 1;
+
+        if (currentClick >= targetClicks) {
+            
+            localStorage.setItem('download_click_count', '0');
+            localStorage.removeItem('shopee_target_clicks');
+
+          
+            const randomUrl = shopeeLinks[Math.floor(Math.random() * shopeeLinks.length)];
+            window.open(randomUrl, "_blank");
+
+            
+            const cleanUrl = new URL(link.href);
+            cleanUrl.searchParams.delete('shopee_cnt');
+            window.location.href = cleanUrl.toString();
+        } else {
+      
+            localStorage.setItem('download_click_count', currentClick.toString());
+            const nextUrl = new URL(link.href);
+            nextUrl.searchParams.set('shopee_cnt', currentClick.toString());
+            window.location.href = nextUrl.toString();
+        }
+    })();
+});
+</script>
+  <script>
+(function() {
+    const shopeeHomepageLinks = [
+        "https://s.shopee.vn/4VdDr6L9Oz",
+        "https://s.shopee.vn/1LgCBfurVy",
+        "https://s.shopee.vn/3LRGZQ4Orn",
+        "https://s.shopee.vn/4qG4MQ0fqY",
+        "https://s.shopee.vn/7Adz8kn0KG",
+        "https://s.shopee.vn/9pekJjVCC1",
+        "https://s.shopee.vn/5AsulB3wxM",
+        "https://s.shopee.vn/7VGpXTeZoe",
+        "https://s.shopee.vn/5LCKxWCkbI",
+        "https://s.shopee.vn/8pmD7xcGf4",
+        "https://s.shopee.vn/7faFjqOzQW",
+        "https://s.shopee.vn/5AsulB3wxM",
+        "https://s.shopee.vn/7faFjrAd9W",
+        "https://s.shopee.vn/6q18kLRUYX",
+        "https://s.shopee.vn/113LndyyvI",
+        "https://s.shopee.vn/8KpwXCISpc",
+        "https://s.shopee.vn/3B7qNiOjiD",
+        "https://s.shopee.vn/1BMm03F2De",
+        "https://s.shopee.vn/AUuR7FqWp1",
+        "https://s.shopee.vn/80D68hcpqk",
+        "https://s.shopee.vn/6VOILx8OUf",
+        "https://s.shopee.vn/50ZUZD5j4E",
+        "https://s.shopee.vn/905dKaFWvi",
+        "https://s.shopee.vn/50ZUZFZZwi",
+        "https://s.shopee.vn/6VOIM2Pgx1",
+        "https://s.shopee.vn/7faFkIh6PJ",
+        "https://s.shopee.vn/1gJ2bJZ6Rm",
+        "https://s.shopee.vn/905dKpt7OW",
+        "https://s.shopee.vn/113Lo9EEUU",
+        "https://s.shopee.vn/40gxNfl9Wi",
+        "https://s.shopee.vn/8AWWLPWdi0",
+        "https://s.shopee.vn/3qNXBT3dx2",
+        "https://s.shopee.vn/4B0Na5tn2Z",
+        "https://s.shopee.vn/1BMm0arC9B",
+        "https://s.shopee.vn/1LgCCuQNQi",
+        "https://s.shopee.vn/9zyAWqSvPo",
+        "https://s.shopee.vn/80D69BZeaz",
+        "https://s.shopee.vn/5LCKyIEXDj",
+        "https://s.shopee.vn/3g46zEupkK",
+        "https://s.shopee.vn/6q18l4dQPG",
+        "https://s.shopee.vn/113LoNhZKE",
+        "https://s.shopee.vn/60S1lZtbif",
+        "https://s.shopee.vn/6VOIMVQ0Xj",
+        "https://s.shopee.vn/4B0NaEr326",
+        "https://s.shopee.vn/7Adz9leKUT",
+        "https://s.shopee.vn/BUEov8M5d",
+        "https://s.shopee.vn/3Vkgn601Pm",
+        "https://s.shopee.vn/1BMm0q8RN4",
+        "https://s.shopee.vn/20vt0OdEkU",
+        "https://s.shopee.vn/3B7qOYv992",
+        "https://s.shopee.vn/9pekKpUT9i",
+        "https://s.shopee.vn/7KxPMG0kYL",
+        "https://s.shopee.vn/9fLK8YUQvU",
+        "https://s.shopee.vn/1BMm0x1DH6",
+        "https://s.shopee.vn/1qcSoCEZ1q",
+        "https://s.shopee.vn/2LYjP8LT6o",
+        "https://s.shopee.vn/9fLK8cy63k",
+        "https://s.shopee.vn/AUuR8BpEf5",
+        "https://s.shopee.vn/9V1twMsZNo",
+        "https://s.shopee.vn/6AlRyOo1M1"
+    ];
+
+    const btn = document.getElementById('shopee-homepage-btn');
+    if (!btn) return;
+
+    function setCookie(name, value, days) {
+        let expires = "";
+        if (days) {
+            const date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + (value || "") + expires + "; path=/; SameSite=Lax";
+    }
+
+    btn.addEventListener('click', function(e) {
+        e.preventDefault();
+        e.stopPropagation();
+
+        const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+        const randomUrl = shopeeLinks[Math.floor(Math.random() * shopeeLinks.length)];
+
+        
+        setCookie('shopee_unlocked', 'true', 7);
+        try {
+            localStorage.setItem('shopee_click_time', Date.now().toString());
+            localStorage.setItem('download_click_count', '0');
+        } catch(err) {}
+
+        // Mở link Shopee
+        if (isMobile) {
+            window.location.href = randomUrl;
+        } else {
+            window.open(randomUrl, '_blank');
+        }
+    });
+})();
+</script>
 </html>
