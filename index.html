@@ -80,8 +80,10 @@ layout: default
             <li><a href="https://mdvh18.com/pages/ntr/">NTR</a></li>
             <li><a href="https://mdvh18.com/pages/com/">Hoàn Thành</a></li>
             <li><a href="https://mdvh18.com/donate" style="font-size: 1.2em;">DONATE</a></li>
-            <li><a href="javascript:void(0);" id="shopee-homepage-btn">Không Quảng Cáo</a>
-            <span id="shopee-error-msg" style="display:none; color: #ff4d4d; font-size: 12px; margin-left: 8px;"></span></li>
+            <li>
+    <a href="javascript:void(0);" id="shopee-homepage-btn" onclick="triggerShopeeBypass(event)">Không Quảng Cáo</a>
+    <span id="shopee-error-msg" style="display:none; color: #ff4d4d; font-size: 12px; margin-left: 8px;"></span>
+</li>
             <li><a href="https://www.facebook.com/profile.php?id=61575869116469">Fanpage</a></li>
         </ul>
     <div class="nav-search">
@@ -538,9 +540,10 @@ function triggerShopeeBypass(e) {
     }
 
     const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-    const randomUrl = shopeeLinks[Math.floor(Math.random() * shopeeLinks.length)];
+  
+    const randomUrl = shopeeHomepageLinks[Math.floor(Math.random() * shopeeHomepageLinks.length)];
 
-    // Gán cookie và storage mở khóa 7 ngày
+  
     setCookie('shopee_unlocked', 'true', 7);
     try {
         localStorage.setItem('shopee_click_time', Date.now().toString());
@@ -551,7 +554,6 @@ function triggerShopeeBypass(e) {
         }
     } catch(err) {}
 
-    // Mở link Shopee
     if (isMobile) {
         window.location.href = randomUrl;
     } else {
