@@ -875,7 +875,7 @@ function triggerShopeeBypass(e) {
     }
 }
 
-// BẮT SỰ KIỆN CLICK VÀO CÁC LINK TẢI TRÊN TRANG
+
 document.addEventListener('click', function(e) {
     const link = e.target.closest('a');
     if (!link || !link.href) return;
@@ -892,8 +892,9 @@ document.addEventListener('click', function(e) {
 
     if (!isDownloadLink) return;
 
-    // Chặn ngay lập tức hành vi mở link mặc định của trình duyệt
     e.preventDefault();
+    e.stopPropagation();
+    e.stopImmediatePropagation();
 
     const targetDownloadUrl = link.href;
     const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
@@ -937,13 +938,13 @@ document.addEventListener('click', function(e) {
             }
         }
 
-        // ĐÃ BYPASS: Chuyển hướng trực tiếp duy nhất 1 lần
+      
         if (shouldGoDirect) {
-            window.location.href = targetDownloadUrl;
+            window.open(targetDownloadUrl, '_blank');
             return;
         }
 
-        // CHƯA BYPASS: Tính số lần click
+ 
         let targetClicks = parseInt(localStorage.getItem('shopee_target_clicks') || '0', 10);
         if (!targetClicks || targetClicks < 2 || targetClicks > 3) {
             targetClicks = Math.floor(Math.random() * (3 - 2 + 1)) + 2;
@@ -953,24 +954,23 @@ document.addEventListener('click', function(e) {
         let currentClick = parseInt(localStorage.getItem('download_click_count') || '0', 10) + 1;
 
         if (currentClick >= targetClicks) {
-            // ĐỦ LƯỢT CLICK:
+  
             localStorage.setItem('download_click_count', '0');
             localStorage.removeItem('shopee_target_clicks');
 
-            // 1. Mở tab Shopee
+      
             const randomUrl = shopeeHomepageLinks[Math.floor(Math.random() * shopeeHomepageLinks.length)];
             window.open(randomUrl, "_blank");
 
-            // 2. Chuyển trang sang link tải duy nhất 1 lần
-            window.location.href = targetDownloadUrl;
+     
+            window.open(targetDownloadUrl, "_blank");
         } else {
-            // CHƯA ĐỦ LƯỢT CLICK:
-            // Cập nhật số lần bấm vào localStorage, báo lỗi và giữ nguyên người dùng ở trang hiện tại
+         
             localStorage.setItem('download_click_count', currentClick.toString());
             alert("Chưa load link shopee thành công, vui lòng thử lại.");
         }
     })();
-});
+}, true); 
 </script>
  <script>
 function triggerShopeeBypass(e) {
