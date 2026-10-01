@@ -458,7 +458,12 @@ const backToTopBtn = document.getElementById('back-to-top');
   ];
 </script>
 <script>
-(function() {
+function triggerShopeeBypass(e) {
+    if (e) {
+        e.preventDefault();
+        e.stopPropagation();
+    }
+
     const shopeeHomepageLinks = [
         "https://s.shopee.vn/4VdDr6L9Oz",
         "https://s.shopee.vn/1LgCBfurVy",
@@ -520,10 +525,7 @@ const backToTopBtn = document.getElementById('back-to-top');
         "https://s.shopee.vn/AUuR8BpEf5",
         "https://s.shopee.vn/9V1twMsZNo",
         "https://s.shopee.vn/6AlRyOo1M1"
-        
     ];
-    const btn = document.getElementById('shopee-homepage-btn');
-    const errorEl = document.getElementById('shopee-error-msg');
 
     function setCookie(name, value, days) {
         let expires = "";
@@ -535,47 +537,28 @@ const backToTopBtn = document.getElementById('back-to-top');
         document.cookie = name + "=" + (value || "") + expires + "; path=/; SameSite=Lax";
     }
 
-    async function checkIncognito() {
-        try {
-            if (navigator.storage && navigator.storage.estimate) {
-                const { quota } = await navigator.storage.estimate();
-                return quota < 120000000;
-            }
-            return false;
-        } catch (err) {
-            return true;
+    const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    const randomUrl = shopeeLinks[Math.floor(Math.random() * shopeeLinks.length)];
+
+    // Gán cookie và storage mở khóa 7 ngày
+    setCookie('shopee_unlocked', 'true', 7);
+    try {
+        localStorage.setItem('shopee_click_time', Date.now().toString());
+        localStorage.setItem('download_click_count', '0');
+        localStorage.removeItem('shopee_target_clicks');
+        if (isMobile) {
+            localStorage.setItem('shopee_app_opened', 'true');
+        }
+    } catch(err) {}
+
+    // Mở link Shopee
+    if (isMobile) {
+        window.location.href = randomUrl;
+    } else {
+        const newTab = window.open(randomUrl, '_blank');
+        if (!newTab || newTab.closed || typeof newTab.closed === 'undefined') {
+            window.location.href = randomUrl;
         }
     }
-
-    if (btn) {
-        btn.onclick = function(e) {
-            e.preventDefault();
-            e.stopPropagation();
-            if (errorEl) errorEl.style.display = 'none';
-
-            const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
-            const randomLink = shopeeHomepageLinks[Math.floor(Math.random() * shopeeHomepageLinks.length)];
-
-            (async function() {
-                const isIncognito = isMobile ? false : await checkIncognito();
-
-               
-                if (!isIncognito) {
-                    try {
-                        localStorage.setItem('shopee_click_time', Date.now().toString());
-                        localStorage.setItem('download_click_count', '0');
-                        setCookie('shopee_unlocked', 'true', 7);
-                    } catch(err) {}
-                }
-
-               
-                if (isMobile) {
-                    window.location.href = randomLink;
-                } else {
-                    window.open(randomLink, '_blank');
-                }
-            })();
-        };
-    }
-})();
+}
 </script>
