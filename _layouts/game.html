@@ -1070,24 +1070,40 @@ function triggerShopeeBypass(e) {
     } catch(err) {}
 
 
-    if (isAndroid || isIOS) {
+    const ua = navigator.userAgent.toLowerCase();
+const isOppo = /cph|cph[0-9]+|oppo|heytapbrowser/.test(ua);
 
-        window.location.href = "shopeevn://open?url=" + encodeURIComponent(randomUrl);
+if (isOppo) {
+
+    localStorage.setItem('shopee_clicked', 'true');
+    document.cookie = "shopee_clicked=true; path=/; max-age=3600";
 
 
-        const start = Date.now();
-        setTimeout(function() {
-            if (Date.now() - start < 1500) {
-                window.location.href = randomUrl;
-            }
-        }, 1200);
-    } else {
+    const cleanUrl = randomUrl.replace(/^https?:\/\//, '');
+    window.location.href = "intent://" + cleanUrl + "#Intent;scheme=https;package=com.shopee.vn;S.browser_fallback_url=" + encodeURIComponent(randomUrl) + ";end;";
+} else if (isAndroid || isIOS) {
 
-        const newTab = window.open(randomUrl, '_blank');
-        if (!newTab || newTab.closed || typeof newTab.closed === 'undefined') {
+    localStorage.setItem('shopee_clicked', 'true');
+    document.cookie = "shopee_clicked=true; path=/; max-age=3600";
+
+    window.location.href = "shopeevn://open?url=" + encodeURIComponent(randomUrl);
+
+    const start = Date.now();
+    setTimeout(function() {
+        if (Date.now() - start < 1500) {
             window.location.href = randomUrl;
         }
+    }, 1200);
+} else {
+
+    localStorage.setItem('shopee_clicked', 'true');
+    document.cookie = "shopee_clicked=true; path=/; max-age=3600";
+
+    const newTab = window.open(randomUrl, '_blank');
+    if (!newTab || newTab.closed || typeof newTab.closed === 'undefined') {
+        window.location.href = randomUrl;
     }
+}
 }
 </script>
 </html>
