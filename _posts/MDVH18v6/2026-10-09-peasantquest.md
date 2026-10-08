@@ -3,8 +3,8 @@ layout: game
 pitu_id: "peasantquest"
 date: 2026-10-09 10:30:00 +0700
 title: "Việt Hóa Peasant's Quest - MDVH18"
-tags: [all, mdvh18, allvh, pc, apk]
-typegame: ["PC", "APK"]
+tags: [all, mdvh18, allvh, pc]
+typegame: ["PC"]
 namebanner: "[Việt Hóa] Peasant's Quest v4.12 Thêm bản k mod cho Joi - [5.8GBB]"
 mota: |
  Peasant's Quest lấy bối cảnh trong một thế giới thời trung cổ, nơi bạn sẽ vào vai một cậu bé nông dân trẻ tuổi lên đường tìm kiếm những cuộc phiêu lưu, và biết đâu trên hành trình ấy lại vô tình gặp gỡ vài cô nàng nóng bỏng đang gặp nạn.
@@ -12,7 +12,7 @@ gametype: "RPG"
 engine: "Renpy"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
-platform: "APK/PC"
+platform: "PC"
 dungluong: "5.8GB"
 phienban: "v4.12"
 dev: "Tinkerer"
