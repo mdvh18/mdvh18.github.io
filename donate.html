@@ -12,27 +12,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ủng Hộ MDVH18 - Tiếp Lửa Đam Mê</title>
     <style>
-        body { margin: 0; background: #0f0c29; color: white; font-family: 'Segoe UI', sans-serif; display: flex; align-items: center; justify-content: center; min-height: 100vh; padding: 20px; }
-        .donate-card { background: rgba(255, 255, 255, 0.05); padding: 30px; border-radius: 30px; backdrop-filter: blur(20px); border: 1px solid rgba(255,255,255,0.1); text-align: center; max-width: 450px; width: 100%; box-shadow: 0 10px 30px rgba(0,0,0,0.5); }
-        .qr-img { width: 100%; max-width: 220px; border-radius: 15px; border: 4px solid #f78f90; margin: 15px 0; }
+        body { margin: 0; background: #0f0c29; color: white; font-family: 'Segoe UI', sans-serif; display: flex; align-items: center; justify-content: center; min-height: 100vh; padding: 20px; box-sizing: border-box; }
+        .donate-card { background: rgba(255, 255, 255, 0.05); padding: 30px; border-radius: 30px; backdrop-filter: blur(20px); border: 1px solid rgba(255,255,255,0.1); text-align: center; max-width: 900px; width: 100%; box-shadow: 0 10px 30px rgba(0,0,0,0.5); box-sizing: border-box; }
+        .qr-img { width: 100%; max-width: 220px; border-radius: 15px; border: 4px solid #f78f90; margin: 15px auto; display: block; }
         h1 { background: linear-gradient(135deg,#f78f90,#D79BBB); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 5px; font-size: 28px; }
         .info-text { font-size: 13px; color: #ccc; line-height: 1.5; margin-bottom: 15px; }
         
-
         .donor-container { background: rgba(247, 143, 144, 0.1); border: 1px dashed #f78f90; border-radius: 15px; padding: 15px; margin: 20px 0; position: relative; overflow: hidden; }
-        .donor-title { font-weight: bold; color: #f78f90; font-size: 14px; margin-bottom: 10px; text-transform: uppercase; letter-spacing: 1px; }
-        
+        .donor-title { font-weight: bold; color: #f78f90; font-size: 15px; margin-bottom: 6px; text-transform: uppercase; letter-spacing: 1px; }
+        .donor-count-text { font-size: 13px; color: #ddd; margin-bottom: 12px; }
+        .donor-count-number { color: #f78f90; font-weight: bold; font-size: 15px; }
 
         .donor-list { max-height: 500px; overflow-y: auto; scrollbar-width: none; }
         .donor-list::-webkit-scrollbar { display: none; }
         
-        .donor-item { background: rgba(255,255,255,0.05); margin: 5px 0; padding: 8px; border-radius: 8px; font-size: 13px; border-left: 3px solid #f78f90; animation: fadeIn 0.5s ease; }
+        .donor-item { background: rgba(255,255,255,0.05); margin: 5px 0; padding: 8px; border-radius: 8px; font-size: 13px; border-left: 3px solid #f78f90; animation: fadeIn 0.5s ease; text-align: center; }
         .donor-name { color: #fff; font-weight: bold; text-shadow: 0 0 8px rgba(247, 143, 144, 0.5); }
         .donor-amount { color: #f78f90; font-weight: bold; }
 
         .footer-msg { font-size: 12px; color: #f78f90; font-style: italic; margin-top: 15px; line-height: 1.4; }
         
-        .bank-info { background: rgba(0,0,0,0.3); padding: 12px; border-radius: 10px; font-size: 13px; text-align: left; }
+        .bank-info { background: rgba(0,0,0,0.3); padding: 12px; border-radius: 10px; font-size: 13px; text-align: left; max-width: 400px; margin: 0 auto; box-sizing: border-box; }
         .back-btn { display: inline-block; color: #f78f90; text-decoration: none; font-weight: bold; margin-top: 15px; border: 1px solid #f78f90; padding: 8px 20px; border-radius: 50px; transition: 0.3s; font-size: 14px; }
         .back-btn:hover { background: #f78f90; color: white; }
 
@@ -55,6 +55,7 @@
 
         <div class="donor-container">
             <div class="donor-title">💎 HALL OF FAME MDVH18 💎</div>
+            <div class="donor-count-text">Cảm ơn <span class="donor-count-number" id="donor-count">0</span> những người anh em đã donate cho nhóm</div>
             <div class="donor-list">
                 <div class="donor-item">
                     <span class="donor-name">DINH DINH XUAN</span> - 
@@ -229,15 +230,15 @@
                     <span class="donor-name">LE MINH HANH</span> - 
                     <span class="donor-amount">Donate: 250k VND</span>
                 </div>
-                    <div class="donor-item">
+                <div class="donor-item">
                     <span class="donor-name">NGUYEN THE ANH</span> - 
                     <span class="donor-amount">Donate: 50k VND</span>
                 </div>
-                    <div class="donor-item">
+                <div class="donor-item">
                     <span class="donor-name">NGUYEN HUNG TRAN</span> - 
                     <span class="donor-amount">Donate: 100k VND</span>
                 </div>
-                    <div class="donor-item">
+                <div class="donor-item">
                     <span class="donor-name">HẢO HÁN GIẤU TÊN</span> - 
                     <span class="donor-amount">Donate: 25k VND</span>
                     <span class="donor-amount">ND: ung ho ong dich game</span>
@@ -301,7 +302,7 @@
                     <span class="donor-name">NGUYEN MINH TRUNG</span> - 
                     <span class="donor-amount">Donate: 22k VND</span>
                 </div>
-               <div class="donor-item">
+                <div class="donor-item">
                     <span class="donor-name">HẢO HÁN GIẤU TÊN</span> - 
                     <span class="donor-amount">Donate: 30k VND</span>
                 </div>
@@ -419,7 +420,7 @@
                     <span class="donor-name">LE QUANG DAI</span> - 
                     <span class="donor-amount">Donate: 34.560 VND</span>
                 </div>
-               <div class="donor-item">
+                <div class="donor-item">
                     <span class="donor-name">HẢO HÁN GIẤU TÊN</span> - 
                     <span class="donor-amount">Donate: 100k VND</span>
                     <span class="donor-amount">ND: Vung buoc dam me</span>
@@ -453,7 +454,7 @@
                     <span class="donor-name">NGO DANG QUANG</span> - 
                     <span class="donor-amount">Donate: 150k VND</span>
                 </div>
-               <div class="donor-item">
+                <div class="donor-item">
                     <span class="donor-name">HẢO HÁN GIẤU TÊN</span> - 
                     <span class="donor-amount">Donate: 10k VND</span>
                     <span class="donor-amount">ND: Web viet hoa co tam</span>
@@ -468,11 +469,11 @@
                     <span class="donor-amount">Donate: 10k VND</span>
                     <span class="donor-amount">ND: </span>
                 </div>
-               <div class="donor-item">
+                <div class="donor-item">
                     <span class="donor-name">NGUYEN PHUONG NAM</span> - 
                     <span class="donor-amount">Donate: 20k VND</span>
                 </div>
-               <div class="donor-item">
+                <div class="donor-item">
                     <span class="donor-name">HẢO HÁN GIẤU TÊN</span> - 
                     <span class="donor-amount">Donate: 50k VND</span>
                     <span class="donor-amount">ND: chuc team phat trien hon</span>
@@ -688,50 +689,54 @@
                     <span class="donor-amount">Donate: 29k VND</span>
                 </div>
                 <p class="footer-msg">Mọi sự ủng hộ của anh em là động lực cho Team tiếp tục cố gắng!</p>
-               </div>
+            </div>
+        </div>
 
         <a href="https://mdvh18.com/" class="back-btn">QUAY LẠI TRANG CHỦ</a>
     </div>
+
     <script>
-document.addEventListener("DOMContentLoaded", function() {
-    const donorList = document.querySelector('.donor-list');
-    
+    document.addEventListener("DOMContentLoaded", function() {
+        const donorList = document.querySelector('.donor-list');
+        const donorCountEl = document.getElementById('donor-count');
 
-    if (donorList && donorList.children.length > 0) {
-
-        donorList.style.overflow = 'hidden';
-        donorList.style.display = 'flex';
-        donorList.style.flexDirection = 'column';
-        donorList.style.position = 'relative';
-        
-
-        const donorContent = donorList.innerHTML;
-        donorList.innerHTML = `<div class="scroll-wrapper">${donorContent}${donorContent}</div>`;
-        
-        const wrapper = donorList.querySelector('.scroll-wrapper');
-        let scrollSpeed = 0.5;
-        let currentScroll = 0;
-
-        function animateScroll() {
-            currentScroll -= scrollSpeed;
-            
-
-            if (Math.abs(currentScroll) >= wrapper.offsetHeight / 2) {
-                currentScroll = 0;
+        if (donorList) {
+            const donorItems = donorList.querySelectorAll('.donor-item');
+            if (donorCountEl) {
+                donorCountEl.textContent = donorItems.length;
             }
-            
-            wrapper.style.transform = `translateY(${currentScroll}px)`;
-            requestAnimationFrame(animateScroll);
+
+            if (donorItems.length > 0) {
+                donorList.style.overflow = 'hidden';
+                donorList.style.display = 'flex';
+                donorList.style.flexDirection = 'column';
+                donorList.style.position = 'relative';
+
+                const donorContent = donorList.innerHTML;
+                donorList.innerHTML = `<div class="scroll-wrapper">${donorContent}${donorContent}</div>`;
+
+                const wrapper = donorList.querySelector('.scroll-wrapper');
+                let scrollSpeed = 0.5;
+                let currentScroll = 0;
+
+                function animateScroll() {
+                    currentScroll -= scrollSpeed;
+
+                    if (Math.abs(currentScroll) >= wrapper.offsetHeight / 2) {
+                        currentScroll = 0;
+                    }
+
+                    wrapper.style.transform = `translateY(${currentScroll}px)`;
+                    requestAnimationFrame(animateScroll);
+                }
+
+                donorList.addEventListener('mouseenter', () => scrollSpeed = 0);
+                donorList.addEventListener('mouseleave', () => scrollSpeed = 0.5);
+
+                animateScroll();
+            }
         }
-
-
-        donorList.addEventListener('mouseenter', () => scrollSpeed = 0);
-        donorList.addEventListener('mouseleave', () => scrollSpeed = 0.5);
-
-
-        animateScroll();
-    }
-});
-</script>
+    });
+    </script>
 </body>
 </html>
