@@ -9,7 +9,7 @@ namebanner: "[Việt Hóa] Peasant's Quest v4.12 Thêm bản k mod cho Joi - [5.
 mota: |
  Peasant's Quest lấy bối cảnh trong một thế giới thời trung cổ, nơi bạn sẽ vào vai một cậu bé nông dân trẻ tuổi lên đường tìm kiếm những cuộc phiêu lưu, và biết đâu trên hành trình ấy lại vô tình gặp gỡ vài cô nàng nóng bỏng đang gặp nạn.
 gametype: "RPG"
-engine: "Renpy"
+engine: "RPGM"
 language: "Tiếng Việt"
 mdvh18: "MDVH18"
 platform: "PC"
