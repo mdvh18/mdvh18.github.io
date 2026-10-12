@@ -7,7 +7,7 @@ tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
 namebanner: "[Việt Hóa] Project Venus v0.2.6 - [2.8GBB]"
 mota: |
- Peasant's Quest lấy bối cảnh trong một thế giới thời trung cổ, nơi bạn sẽ vào vai một cậu bé nông dân trẻ tuổi lên đường tìm kiếm những cuộc phiêu lưu, và biết đâu trên hành trình ấy lại vô tình gặp gỡ vài cô nàng nóng bỏng đang gặp nạn.
+ Project Venus là một tựa game bắn súng hành động kinh dị mang đậm phong cách Resident Evil. Bạn sẽ vào vai Jillian, một nhân viên văn phòng bình thường đang trên đường tìm kiếm em gái mình, nhưng rồi một đại dịch thảm họa thây ma bùng phát đã thay đổi tất cả.
 gametype: "RPG"
 engine: "RPGM"
 language: "Tiếng Việt"
