@@ -19,6 +19,6 @@ dev: "Vol_games"
 genre: "2DCG, Ai cg, Male Protagonist, Big Ass, Big Tits, Handjob, Oral Sex, Gangbang, Threesome, Voyeurism, Teasing, Interracial, Ahegao, Swinging, Creampie, Milf, Titfuck, Vaginal sex, NTR"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L0oxUHBtZ2U5"
-linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1k1TEFKOGVw"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1NRZFlOVDVw"
 linkbuzz: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9idXp6aGVhdmllci5jb20vbGJyemd4dWlscXZr"
 ---
