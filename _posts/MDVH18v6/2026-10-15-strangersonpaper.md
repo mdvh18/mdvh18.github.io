@@ -5,7 +5,7 @@ date: 2026-10-16 10:30:00 +0700
 title: "Việt Hóa Strangers on Paper - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Strangers on Paper Ch.3 v0.3.4 - [6GB]"
+namebanner: "[Việt Hóa] Strangers on Paper Ch.3 v0.3.4 Update APK - [6GB]"
 mota: |
  Còn nơi nào tuyệt vời hơn để tìm nguồn cảm hứng ngoài việc ở giữa những người lạ trong một quán bar? Điều bắt đầu như một cuộc tìm kiếm cảm hứng có thể sẽ giúp bạn và những người khác thoát khỏi sự cô đơn, cho dù đó chỉ là trong một đêm, hay cho đến suốt phần đời còn lại.
 gametype: "Visual Novel"
