@@ -5,7 +5,7 @@ date: 2026-10-16 10:30:00 +0700
 title: "Việt Hóa Help! I Married a Slut! Ch.5 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Help! I Married a Slut! Ch.5 - [1.7GB]"
+namebanner: "[Việt Hóa] Help! I Married a Slut! Ch.5 (NTR) - [1.7GB]"
 mota: |
  Vào lễ kỷ niệm ngày cưới lần thứ năm của họ, Kenji đưa Airi đi ăn tối. Những tưởng đó chỉ là một bữa tiệc kỷ niệm đơn giản, nhưng mọi thứ lại chuyển hướng sau cuộc chạm trán tình cờ với một người đàn ông từ quá khứ của Airi. Hắn biết cô. Biết cô quá rõ là đằng khác.
 gametype: "Visual Novel"
