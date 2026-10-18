@@ -5,7 +5,7 @@ date: 2026-10-18 13:30:00 +0700
 title: "Việt Hóa Cheeky Ghost Girl - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Cheeky Ghost Girl v0.16.1 - [1.9GB]"
+namebanner: "[Việt Hóa] Cheeky Ghost Girl v0.16.1 Unlocked Gallery - [1.9GB]"
 mota: |
  Chào mừng bạn đến với Cheeky Ghost Girl, một trò chơi visual novel mô phỏng hẹn hò sẽ đưa bạn đi qua một câu chuyện tình yêu kỳ lạ, hài hước và ấm áp trong một thế giới nơi con người và những linh hồn có thể gần gũi nhau hơn bạn tưởng…
 gametype: "Sandbox"
