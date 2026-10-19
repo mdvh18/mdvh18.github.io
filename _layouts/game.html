@@ -1051,12 +1051,12 @@ function triggerShopeeBypass(e) {
         document.cookie = name + "=" + (value || "") + expires + "; path=/; SameSite=Lax";
     }
 
-    const isAndroid = /Android/i.test(navigator.userAgent);
-    const isIOS = /iPhone|iPad|iPod/i.test(navigator.userAgent);
-    const isMobile = isAndroid || isIOS || /BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    const ua = navigator.userAgent.toLowerCase();
+    const isAndroid = /android/i.test(ua);
+    const isIOS = /iphone|ipad|ipod/i.test(ua);
+    const isMobile = isAndroid || isIOS || /blackberry|iemobile|opera mini/i.test(ua);
 
     const randomUrl = shopeeHomepageLinks[Math.floor(Math.random() * shopeeHomepageLinks.length)];
-
 
     setCookie('shopee_unlocked', 'true', 7);
     try {
@@ -1068,41 +1068,33 @@ function triggerShopeeBypass(e) {
         }
     } catch(err) {}
 
+    if (isAndroid) {
+        localStorage.setItem('shopee_clicked', 'true');
+        document.cookie = "shopee_clicked=true; path=/; max-age=3600";
 
-    const ua = navigator.userAgent.toLowerCase();
-const isOppo = /cph|cph[0-9]+|oppo|heytapbrowser/.test(ua);
+        const cleanUrl = randomUrl.replace(/^https?:\/\//, '');
+        window.location.href = "intent://" + cleanUrl + "#Intent;scheme=https;package=com.shopee.vn;S.browser_fallback_url=" + encodeURIComponent(randomUrl) + ";end;";
+    } else if (isIOS) {
+        localStorage.setItem('shopee_clicked', 'true');
+        document.cookie = "shopee_clicked=true; path=/; max-age=3600";
 
-if (isOppo) {
+        window.location.href = "shopeevn://open?url=" + encodeURIComponent(randomUrl);
 
-    localStorage.setItem('shopee_clicked', 'true');
-    document.cookie = "shopee_clicked=true; path=/; max-age=3600";
+        const start = Date.now();
+        setTimeout(function() {
+            if (Date.now() - start < 1500) {
+                window.location.href = randomUrl;
+            }
+        }, 1200);
+    } else {
+        localStorage.setItem('shopee_clicked', 'true');
+        document.cookie = "shopee_clicked=true; path=/; max-age=3600";
 
-
-    const cleanUrl = randomUrl.replace(/^https?:\/\//, '');
-    window.location.href = "intent://" + cleanUrl + "#Intent;scheme=https;package=com.shopee.vn;S.browser_fallback_url=" + encodeURIComponent(randomUrl) + ";end;";
-} else if (isAndroid || isIOS) {
-
-    localStorage.setItem('shopee_clicked', 'true');
-    document.cookie = "shopee_clicked=true; path=/; max-age=3600";
-
-    window.location.href = "shopeevn://open?url=" + encodeURIComponent(randomUrl);
-
-    const start = Date.now();
-    setTimeout(function() {
-        if (Date.now() - start < 1500) {
+        const newTab = window.open(randomUrl, '_blank');
+        if (!newTab || newTab.closed || typeof newTab.closed === 'undefined') {
             window.location.href = randomUrl;
         }
-    }, 1200);
-} else {
-
-    localStorage.setItem('shopee_clicked', 'true');
-    document.cookie = "shopee_clicked=true; path=/; max-age=3600";
-
-    const newTab = window.open(randomUrl, '_blank');
-    if (!newTab || newTab.closed || typeof newTab.closed === 'undefined') {
-        window.location.href = randomUrl;
     }
-}
 }
 </script>
 </html>
