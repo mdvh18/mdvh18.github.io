@@ -5,9 +5,9 @@ date: 2026-10-22 16:30:00 +0700
 title: "Việt Hóa Lusty Buccaneers - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Lusty Buccaneers v0.55 + Cheat MDVH18- [400MB]"
+namebanner: "[Việt Hóa] Lusty Buccaneers v0.55  + Cheat MDVH18- [400MB]"
 mota: |
- Trong Lusty Buccaneers, bạn vào vai một cướp biển trẻ, ra khơi cùng một nhóm cướp biển nóng bỏng để đi tìm những cuộc phiêu lưu.
+ (APK đừng chọn tiếng) Trong Lusty Buccaneers, bạn vào vai một cướp biển trẻ, ra khơi cùng một nhóm cướp biển nóng bỏng để đi tìm những cuộc phiêu lưu.
 gametype: "Sandbox"
 engine: "Renpy"
 language: "Tiếng Việt"
