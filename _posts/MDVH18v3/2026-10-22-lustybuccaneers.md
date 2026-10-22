@@ -19,7 +19,7 @@ dev: "Nika"
 genre: "2DCG, Ahegao, AI CG, Male protagonist, Animated, Anal sex , Big tits, Footjob, Handjob, Big ass, Parody, Mobile game, Oral sex, Vaginal sex, Titfuck, Group sex, POV, harem, rape, Adventure, Sandbox, Dating sim"
 
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L1JjQ0ZqZWVU"
-linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzgzVHhUVFdN"
+linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L25CZFd1M3Y1"
 linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC95QjhOa09aeA=="
 linkbuzz: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9idXp6aGVhdmllci5jb20vY3U4M2ozOWxnc2Yw"
 ---
