@@ -8,7 +8,7 @@ typegame: ["PC"]
 namebanner: "[Việt Hóa] Lust Manor: Leona’s Secret Uncensored Final (Có sẵn VH) - [875MB]"
 mota: |
  Anh ta đến để trộm. Cô ấy ở lại để hầu hạ. Hãy dẫn dắt màn hóa trang của Leona bên trong Dinh thự Amadeus: xâm nhập, tán tỉnh và mạo hiểm. Tám nữ chính. Những âm mưu sẽ giữ sức hút cho đến phút cuối cùng—phần thưởng của bạn phụ thuộc vào độ táo bạo khi chơi.
-gametype: "Sanbox"
+gametype: "Sandbox"
 engine: "Unity"
 language: "Tiếng Việt"
 mdvh18: "Kinky"
