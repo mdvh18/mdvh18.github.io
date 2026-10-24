@@ -978,7 +978,6 @@ function triggerShopeeBypass(e) {
         e.stopPropagation();
     }
 
-    // Đã lọc bỏ các link trùng lặp
     const shopeeHomepageLinks = [
         "https://s.shopee.vn/4VdDr6L9Oz",
         "https://s.shopee.vn/1LgCBfurVy",
@@ -1024,7 +1023,6 @@ function triggerShopeeBypass(e) {
         "https://s.shopee.vn/6VOIMVQ0Xj",
         "https://s.shopee.vn/4B0NaEr326",
         "https://s.shopee.vn/7Adz9leKUT",
-        "https://s.shopee.vn/BUEov8M5d",
         "https://s.shopee.vn/3Vkgn601Pm",
         "https://s.shopee.vn/1BMm0q8RN4",
         "https://s.shopee.vn/20vt0OdEkU",
@@ -1058,7 +1056,6 @@ function triggerShopeeBypass(e) {
 
     const randomUrl = shopeeHomepageLinks[Math.floor(Math.random() * shopeeHomepageLinks.length)];
 
-    // Lưu trạng thái mở khóa
     setCookie('shopee_unlocked', 'true', 7);
     document.cookie = "shopee_clicked=true; path=/; max-age=3600; SameSite=Lax";
 
@@ -1072,13 +1069,24 @@ function triggerShopeeBypass(e) {
         }
     } catch(err) {}
 
-    // Điều hướng chuẩn giúp giữ nguyên tracking và mở đúng trang sản phẩm trên App
-    if (isMobile) {
-        // Trên điện thoại (Android & iOS): Mở trực tiếp link https://s.shopee.vn/...
-        // Trình duyệt sẽ tự động giải mã link rút gọn, lưu cookie affiliate và đẩy thẳng vào trang sản phẩm trong App Shopee
-        window.location.href = randomUrl;
+    // Tạo cấu trúc JSON chứa đường dẫn web để ép App Shopee tự giải mã link rút gọn
+    const encodedUrl = encodeURIComponent(randomUrl);
+    const deepLinkParams = encodeURIComponent(JSON.stringify({ url: randomUrl }));
+
+    if (isAndroid) {
+        // Dùng scheme shopeevn:// đẩy vào trình duyệt nội bộ của App Shopee trên Android
+        const androidIntent = "intent://home?navRoute=" + deepLinkParams + "#Intent;scheme=shopeevn;package=com.shopee.vn;S.browser_fallback_url=" + encodedUrl + ";end;";
+        window.location.href = androidIntent;
+    } else if (isIOS) {
+        // Trên iOS: Mở thẳng qua Universal Link bằng thẻ <a> để Safari tự kích hoạt App đúng chuẩn
+        const a = document.createElement('a');
+        a.href = randomUrl;
+        a.rel = 'noopener noreferrer';
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
     } else {
-        // Trên máy tính: Tạo thẻ <a> ẩn với rel="noreferrer" để tránh bị trình duyệt (như Brave) chặn hoặc làm lỗi bộ chuyển hướng của Shopee
+        // Trên PC: Mở tab mới
         const a = document.createElement('a');
         a.href = randomUrl;
         a.target = '_blank';
