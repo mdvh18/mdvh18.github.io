@@ -978,6 +978,7 @@ function triggerShopeeBypass(e) {
         e.stopPropagation();
     }
 
+    // Đã lọc bỏ các link trùng lặp
     const shopeeHomepageLinks = [
         "https://s.shopee.vn/4VdDr6L9Oz",
         "https://s.shopee.vn/1LgCBfurVy",
@@ -990,7 +991,6 @@ function triggerShopeeBypass(e) {
         "https://s.shopee.vn/5LCKxWCkbI",
         "https://s.shopee.vn/8pmD7xcGf4",
         "https://s.shopee.vn/7faFjqOzQW",
-        "https://s.shopee.vn/5AsulB3wxM",
         "https://s.shopee.vn/7faFjrAd9W",
         "https://s.shopee.vn/6q18kLRUYX",
         "https://s.shopee.vn/113LndyyvI",
@@ -1058,42 +1058,34 @@ function triggerShopeeBypass(e) {
 
     const randomUrl = shopeeHomepageLinks[Math.floor(Math.random() * shopeeHomepageLinks.length)];
 
+    // Lưu trạng thái mở khóa
     setCookie('shopee_unlocked', 'true', 7);
+    document.cookie = "shopee_clicked=true; path=/; max-age=3600; SameSite=Lax";
+
     try {
         localStorage.setItem('shopee_click_time', Date.now().toString());
         localStorage.setItem('download_click_count', '0');
         localStorage.removeItem('shopee_target_clicks');
+        localStorage.setItem('shopee_clicked', 'true');
         if (isMobile) {
             localStorage.setItem('shopee_app_opened', 'true');
         }
     } catch(err) {}
 
-    if (isAndroid) {
-        localStorage.setItem('shopee_clicked', 'true');
-        document.cookie = "shopee_clicked=true; path=/; max-age=3600";
-
-        const cleanUrl = randomUrl.replace(/^https?:\/\//, '');
-        window.location.href = "intent://" + cleanUrl + "#Intent;scheme=https;package=com.shopee.vn;S.browser_fallback_url=" + encodeURIComponent(randomUrl) + ";end;";
-    } else if (isIOS) {
-        localStorage.setItem('shopee_clicked', 'true');
-        document.cookie = "shopee_clicked=true; path=/; max-age=3600";
-
-        window.location.href = "shopeevn://open?url=" + encodeURIComponent(randomUrl);
-
-        const start = Date.now();
-        setTimeout(function() {
-            if (Date.now() - start < 1500) {
-                window.location.href = randomUrl;
-            }
-        }, 1200);
+    // Điều hướng chuẩn giúp giữ nguyên tracking và mở đúng trang sản phẩm trên App
+    if (isMobile) {
+        // Trên điện thoại (Android & iOS): Mở trực tiếp link https://s.shopee.vn/...
+        // Trình duyệt sẽ tự động giải mã link rút gọn, lưu cookie affiliate và đẩy thẳng vào trang sản phẩm trong App Shopee
+        window.location.href = randomUrl;
     } else {
-        localStorage.setItem('shopee_clicked', 'true');
-        document.cookie = "shopee_clicked=true; path=/; max-age=3600";
-
-        const newTab = window.open(randomUrl, '_blank');
-        if (!newTab || newTab.closed || typeof newTab.closed === 'undefined') {
-            window.location.href = randomUrl;
-        }
+        // Trên máy tính: Tạo thẻ <a> ẩn với rel="noreferrer" để tránh bị trình duyệt (như Brave) chặn hoặc làm lỗi bộ chuyển hướng của Shopee
+        const a = document.createElement('a');
+        a.href = randomUrl;
+        a.target = '_blank';
+        a.rel = 'noopener noreferrer';
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
     }
 }
 </script>
