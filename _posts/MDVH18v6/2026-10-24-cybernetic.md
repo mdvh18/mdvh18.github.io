@@ -18,7 +18,7 @@ phienban: "Ep.10 Final"
 dev: "1Thousand"
 genre: "Completed3DCG, Animated, Male protagonist, Big ass, Big tits, Corruption, Drugs, Exhibitionism, Masturbation, Milf, Oral Sex, Stripping, Teasing, Vaginal sex, Graphic violence, Humor, Romance, Sci-fi"
 
-linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L2U5eTdNNnNr"
+linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzVvd2l6MW8y"
 linkpixelcom: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91LzVNYmF3Q0dZ"
 linkbuzz: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9idXp6aGVhdmllci5jb20vZG10djd4MHdlMnVs"
 linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC90OU90eDdtOQ=="
