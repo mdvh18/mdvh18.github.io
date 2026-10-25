@@ -971,7 +971,7 @@ document.addEventListener('click', function(e) {
     })();
 }, true); 
 </script>
- <script>
+<script>
 const shopeeHomepageLinks = [
     "https://s.shopee.vn/4VdDr6L9Oz",
     "https://s.shopee.vn/1LgCBfurVy",
@@ -1043,42 +1043,13 @@ function setCookie(name, value, days) {
     document.cookie = name + "=" + (value || "") + expires + "; path=/; SameSite=Lax";
 }
 
-function prepareShopeeLink() {
-    const btn = document.getElementById('shopee-homepage-btn');
-    if (!btn) return;
-
-    const ua = navigator.userAgent.toLowerCase();
-    const isAndroid = /android/i.test(ua);
-    const isIOS = /iphone|ipad|ipod/i.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
-
-    const randomUrl = shopeeHomepageLinks[Math.floor(Math.random() * shopeeHomepageLinks.length)];
-
-    if (isAndroid) {
-        const encodedUrl = encodeURIComponent(randomUrl);
-        const deepLinkParams = encodeURIComponent(JSON.stringify({ url: randomUrl }));
-        btn.href = "intent://home?navRoute=" + deepLinkParams + "#Intent;scheme=shopeevn;package=com.shopee.vn;S.browser_fallback_url=" + encodedUrl + ";end;";
-        btn.removeAttribute('target');
-    } else if (isIOS) {
-        btn.href = randomUrl;
-        btn.rel = 'noreferrer';
-        btn.removeAttribute('target');
-    } else {
-        // Trên PC: Mở tab mới
-        btn.href = randomUrl;
-        btn.target = '_blank';
-        btn.rel = 'noopener noreferrer';
-    }
-}
-
-
-prepareShopeeLink();
-document.addEventListener('DOMContentLoaded', prepareShopeeLink);
-
 function triggerShopeeBypass(e) {
     const ua = navigator.userAgent.toLowerCase();
     const isAndroid = /android/i.test(ua);
-    const isIOS = /iphone|ipad|ipod/i.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+    const isIOS = /iphone|ipad|ipod/i.test(ua);
     const isMobile = isAndroid || isIOS || /blackberry|iemobile|opera mini/i.test(ua);
+
+    const randomUrl = shopeeHomepageLinks[Math.floor(Math.random() * shopeeHomepageLinks.length)];
 
     setCookie('shopee_unlocked', 'true', 7);
     document.cookie = "shopee_clicked=true; path=/; max-age=3600; SameSite=Lax";
@@ -1092,12 +1063,30 @@ function triggerShopeeBypass(e) {
             localStorage.setItem('shopee_app_opened', 'true');
         }
     } catch(err) {}
+
+    // Tạo cấu trúc JSON chứa đường dẫn web để ép App Shopee tự giải mã link rút gọn
+    const encodedUrl = encodeURIComponent(randomUrl);
+    const deepLinkParams = encodeURIComponent(JSON.stringify({ url: randomUrl }));
+
+    let finalUrl = randomUrl;
+    if (isAndroid) {
+        // Dùng scheme shopeevn:// đẩy vào trình duyệt nội bộ của App Shopee trên Android
+        finalUrl = "intent://home?navRoute=" + deepLinkParams + "#Intent;scheme=shopeevn;package=com.shopee.vn;S.browser_fallback_url=" + encodedUrl + ";end;";
+    }
+
+    // Gán thẳng vào thẻ <a> vừa bấm và KHÔNG dùng e.preventDefault() để vượt chặn pop-up 100%
     const targetEl = (e && e.currentTarget && e.currentTarget.tagName === 'A') 
         ? e.currentTarget 
         : document.getElementById('shopee-homepage-btn');
 
-    if (targetEl && (!targetEl.href || targetEl.getAttribute('href') === '#')) {
-        prepareShopeeLink();
+    if (targetEl) {
+        targetEl.href = finalUrl;
+        if (isAndroid || isIOS) {
+            targetEl.removeAttribute('target');
+        } else {
+            targetEl.target = '_blank';
+            targetEl.rel = 'noopener noreferrer';
+        }
     }
 }
 </script>
