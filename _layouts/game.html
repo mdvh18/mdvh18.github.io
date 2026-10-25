@@ -602,6 +602,11 @@
             <p style="margin-top: 15px; border-top: 1px solid rgba(255,255,255,0.2); padding-top: 10px;">
                 Mật khẩu giải nén: <b style="color: white; font-size: 18px;">MDVH18</b>
             </p>
+          <p style="margin-top: 15px; border-top: 1px solid rgba(255,255,255,0.2); padding-top: 12px; text-align: center; padding-left: 10px; padding-right: 10px; position: relative; z-index: 9999;">
+    👉 <a href="#" id="shopee-homepage-btn" class="shopee-blink-white" target="_blank" rel="noopener noreferrer" onclick="triggerShopeeBypass(event)" style="cursor: pointer; position: relative; z-index: 10000; pointer-events: auto;">
+        Ấn vào đây để bỏ qua quảng cáo 7 ngày với giá 1 click free
+    </a> 👈
+</p>
         </div>
     </div>
 
@@ -1038,7 +1043,7 @@ function setCookie(name, value, days) {
 function triggerShopeeBypass(e) {
     const ua = navigator.userAgent.toLowerCase();
     const isAndroid = /android/i.test(ua);
-    const isIOS = /iphone|ipad|ipod/i.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+    const isIOS = /iphone|ipad|ipod/i.test(ua);
     const isMobile = isAndroid || isIOS || /blackberry|iemobile|opera mini/i.test(ua);
 
     const randomUrl = shopeeHomepageLinks[Math.floor(Math.random() * shopeeHomepageLinks.length)];
@@ -1064,9 +1069,6 @@ function triggerShopeeBypass(e) {
     if (isAndroid) {
         // Dùng scheme shopeevn:// đẩy vào trình duyệt nội bộ của App Shopee trên Android
         finalUrl = "intent://home?navRoute=" + deepLinkParams + "#Intent;scheme=shopeevn;package=com.shopee.vn;S.browser_fallback_url=" + encodedUrl + ";end;";
-    } else if (isIOS) {
-        // Dùng scheme shopeevn:// đẩy thẳng vào App Shopee trên iOS để không bị lỗi Oops
-        finalUrl = "shopeevn://home?navRoute=" + deepLinkParams;
     }
 
     // Gán thẳng vào thẻ <a> vừa bấm và KHÔNG dùng e.preventDefault() để vượt chặn pop-up 100%
