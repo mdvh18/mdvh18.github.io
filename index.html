@@ -80,10 +80,7 @@ layout: default
             <li><a href="https://mdvh18.com/pages/ntr/">NTR</a></li>
             <li><a href="https://mdvh18.com/pages/com/">Hoàn Thành</a></li>
             <li><a href="https://mdvh18.com/donate" style="font-size: 1.2em;">DONATE</a></li>
-            <li>
-    <a href="javascript:void(0);" id="shopee-homepage-btn" onclick="triggerShopeeBypass(event)">Không Quảng Cáo</a>
-    <span id="shopee-error-msg" style="display:none; color: #ff4d4d; font-size: 12px; margin-left: 8px;"></span>
-</li>
+            <li><a href="#" onclick="triggerShopeeBypass(event)">Nhấn vào đây để mở khóa</a></li>
             <li><a href="https://www.facebook.com/profile.php?id=61575869116469">Fanpage</a></li>
         </ul>
     <div class="nav-search">
@@ -460,89 +457,93 @@ const backToTopBtn = document.getElementById('back-to-top');
   ];
 </script>
 <script>
-function triggerShopeeBypass(e) {
-    if (e) {
-        e.preventDefault();
-        e.stopPropagation();
+const shopeeHomepageLinks = [
+    "https://s.shopee.vn/4VdDr6L9Oz",
+    "https://s.shopee.vn/1LgCBfurVy",
+    "https://s.shopee.vn/3LRGZQ4Orn",
+    "https://s.shopee.vn/4qG4MQ0fqY",
+    "https://s.shopee.vn/7Adz8kn0KG",
+    "https://s.shopee.vn/9pekJjVCC1",
+    "https://s.shopee.vn/5AsulB3wxM",
+    "https://s.shopee.vn/7VGpXTeZoe",
+    "https://s.shopee.vn/5LCKxWCkbI",
+    "https://s.shopee.vn/8pmD7xcGf4",
+    "https://s.shopee.vn/7faFjqOzQW",
+    "https://s.shopee.vn/7faFjrAd9W",
+    "https://s.shopee.vn/6q18kLRUYX",
+    "https://s.shopee.vn/113LndyyvI",
+    "https://s.shopee.vn/8KpwXCISpc",
+    "https://s.shopee.vn/3B7qNiOjiD",
+    "https://s.shopee.vn/1BMm03F2De",
+    "https://s.shopee.vn/AUuR7FqWp1",
+    "https://s.shopee.vn/80D68hcpqk",
+    "https://s.shopee.vn/6VOILx8OUf",
+    "https://s.shopee.vn/50ZUZD5j4E",
+    "https://s.shopee.vn/905dKaFWvi",
+    "https://s.shopee.vn/50ZUZFZZwi",
+    "https://s.shopee.vn/6VOIM2Pgx1",
+    "https://s.shopee.vn/7faFkIh6PJ",
+    "https://s.shopee.vn/1gJ2bJZ6Rm",
+    "https://s.shopee.vn/905dKpt7OW",
+    "https://s.shopee.vn/113Lo9EEUU",
+    "https://s.shopee.vn/40gxNfl9Wi",
+    "https://s.shopee.vn/8AWWLPWdi0",
+    "https://s.shopee.vn/3qNXBT3dx2",
+    "https://s.shopee.vn/4B0Na5tn2Z",
+    "https://s.shopee.vn/1BMm0arC9B",
+    "https://s.shopee.vn/1LgCCuQNQi",
+    "https://s.shopee.vn/9zyAWqSvPo",
+    "https://s.shopee.vn/80D69BZeaz",
+    "https://s.shopee.vn/5LCKyIEXDj",
+    "https://s.shopee.vn/3g46zEupkK",
+    "https://s.shopee.vn/6q18l4dQPG",
+    "https://s.shopee.vn/113LoNhZKE",
+    "https://s.shopee.vn/60S1lZtbif",
+    "https://s.shopee.vn/6VOIMVQ0Xj",
+    "https://s.shopee.vn/4B0NaEr326",
+    "https://s.shopee.vn/7Adz9leKUT",
+    "https://s.shopee.vn/3Vkgn601Pm",
+    "https://s.shopee.vn/1BMm0q8RN4",
+    "https://s.shopee.vn/20vt0OdEkU",
+    "https://s.shopee.vn/3B7qOYv992",
+    "https://s.shopee.vn/9pekKpUT9i",
+    "https://s.shopee.vn/7KxPMG0kYL",
+    "https://s.shopee.vn/9fLK8YUQvU",
+    "https://s.shopee.vn/1BMm0x1DH6",
+    "https://s.shopee.vn/1qcSoCEZ1q",
+    "https://s.shopee.vn/2LYjP8LT6o",
+    "https://s.shopee.vn/9fLK8cy63k",
+    "https://s.shopee.vn/AUuR8BpEf5",
+    "https://s.shopee.vn/9V1twMsZNo",
+    "https://s.shopee.vn/6AlRyOo1M1"
+];
+
+function setCookie(name, value, days) {
+    let expires = "";
+    if (days) {
+        const date = new Date();
+        date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+        expires = "; expires=" + date.toUTCString();
     }
+    document.cookie = name + "=" + (value || "") + expires + "; path=/; SameSite=Lax";
+}
 
-    const shopeeHomepageLinks = [
-        "https://s.shopee.vn/4VdDr6L9Oz",
-        "https://s.shopee.vn/1LgCBfurVy",
-        "https://s.shopee.vn/3LRGZQ4Orn",
-        "https://s.shopee.vn/4qG4MQ0fqY",
-        "https://s.shopee.vn/7Adz8kn0KG",
-        "https://s.shopee.vn/9pekJjVCC1",
-        "https://s.shopee.vn/5AsulB3wxM",
-        "https://s.shopee.vn/7VGpXTeZoe",
-        "https://s.shopee.vn/5LCKxWCkbI",
-        "https://s.shopee.vn/8pmD7xcGf4",
-        "https://s.shopee.vn/7faFjqOzQW",
-        "https://s.shopee.vn/7faFjrAd9W",
-        "https://s.shopee.vn/6q18kLRUYX",
-        "https://s.shopee.vn/113LndyyvI",
-        "https://s.shopee.vn/8KpwXCISpc",
-        "https://s.shopee.vn/3B7qNiOjiD",
-        "https://s.shopee.vn/1BMm03F2De",
-        "https://s.shopee.vn/AUuR7FqWp1",
-        "https://s.shopee.vn/80D68hcpqk",
-        "https://s.shopee.vn/6VOILx8OUf",
-        "https://s.shopee.vn/50ZUZD5j4E",
-        "https://s.shopee.vn/905dKaFWvi",
-        "https://s.shopee.vn/50ZUZFZZwi",
-        "https://s.shopee.vn/6VOIM2Pgx1",
-        "https://s.shopee.vn/7faFkIh6PJ",
-        "https://s.shopee.vn/1gJ2bJZ6Rm",
-        "https://s.shopee.vn/905dKpt7OW",
-        "https://s.shopee.vn/113Lo9EEUU",
-        "https://s.shopee.vn/40gxNfl9Wi",
-        "https://s.shopee.vn/8AWWLPWdi0",
-        "https://s.shopee.vn/3qNXBT3dx2",
-        "https://s.shopee.vn/4B0Na5tn2Z",
-        "https://s.shopee.vn/1BMm0arC9B",
-        "https://s.shopee.vn/1LgCCuQNQi",
-        "https://s.shopee.vn/9zyAWqSvPo",
-        "https://s.shopee.vn/80D69BZeaz",
-        "https://s.shopee.vn/5LCKyIEXDj",
-        "https://s.shopee.vn/3g46zEupkK",
-        "https://s.shopee.vn/6q18l4dQPG",
-        "https://s.shopee.vn/113LoNhZKE",
-        "https://s.shopee.vn/60S1lZtbif",
-        "https://s.shopee.vn/6VOIMVQ0Xj",
-        "https://s.shopee.vn/4B0NaEr326",
-        "https://s.shopee.vn/7Adz9leKUT",
-        "https://s.shopee.vn/3Vkgn601Pm",
-        "https://s.shopee.vn/1BMm0q8RN4",
-        "https://s.shopee.vn/20vt0OdEkU",
-        "https://s.shopee.vn/3B7qOYv992",
-        "https://s.shopee.vn/9pekKpUT9i",
-        "https://s.shopee.vn/7KxPMG0kYL",
-        "https://s.shopee.vn/9fLK8YUQvU",
-        "https://s.shopee.vn/1BMm0x1DH6",
-        "https://s.shopee.vn/1qcSoCEZ1q",
-        "https://s.shopee.vn/2LYjP8LT6o",
-        "https://s.shopee.vn/9fLK8cy63k",
-        "https://s.shopee.vn/AUuR8BpEf5",
-        "https://s.shopee.vn/9V1twMsZNo",
-        "https://s.shopee.vn/6AlRyOo1M1"
-    ];
-
-    function setCookie(name, value, days) {
-        let expires = "";
-        if (days) {
-            const date = new Date();
-            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
-            expires = "; expires=" + date.toUTCString();
-        }
-        document.cookie = name + "=" + (value || "") + expires + "; path=/; SameSite=Lax";
-    }
-
+function getTargetUrl() {
     const ua = navigator.userAgent.toLowerCase();
     const isAndroid = /android/i.test(ua);
-    const isIOS = /iphone|ipad|ipod/i.test(ua);
-    const isMobile = isAndroid || isIOS || /blackberry|iemobile|opera mini/i.test(ua);
-
     const randomUrl = shopeeHomepageLinks[Math.floor(Math.random() * shopeeHomepageLinks.length)];
+
+    if (isAndroid) {
+        const encodedUrl = encodeURIComponent(randomUrl);
+        const deepLinkParams = encodeURIComponent(JSON.stringify({ url: randomUrl }));
+        return "intent://home?navRoute=" + deepLinkParams + "#Intent;scheme=shopeevn;package=com.shopee.vn;S.browser_fallback_url=" + encodedUrl + ";end;";
+    }
+    return randomUrl;
+}
+
+function saveBypassState() {
+    const ua = navigator.userAgent.toLowerCase();
+    const isMobile = /android|iphone|ipad|ipod|blackberry|iemobile|opera mini/i.test(ua);
 
     setCookie('shopee_unlocked', 'true', 7);
     document.cookie = "shopee_clicked=true; path=/; max-age=3600; SameSite=Lax";
@@ -556,32 +557,46 @@ function triggerShopeeBypass(e) {
             localStorage.setItem('shopee_app_opened', 'true');
         }
     } catch(err) {}
+}
 
-    // Tạo cấu trúc JSON chứa đường dẫn web để ép App Shopee tự giải mã link rút gọn
-    const encodedUrl = encodeURIComponent(randomUrl);
-    const deepLinkParams = encodeURIComponent(JSON.stringify({ url: randomUrl }));
+function triggerShopeeBypass(e) {
+    const ua = navigator.userAgent.toLowerCase();
+    const isAndroid = /android/i.test(ua);
+    const isIOS = /iphone|ipad|ipod/i.test(ua);
+    const targetUrl = getTargetUrl();
 
-    if (isAndroid) {
-        // Dùng scheme shopeevn:// đẩy vào trình duyệt nội bộ của App Shopee trên Android
-        const androidIntent = "intent://home?navRoute=" + deepLinkParams + "#Intent;scheme=shopeevn;package=com.shopee.vn;S.browser_fallback_url=" + encodedUrl + ";end;";
-        window.location.href = androidIntent;
-    } else if (isIOS) {
-        // Trên iOS: Mở thẳng qua Universal Link bằng thẻ <a> để Safari tự kích hoạt App đúng chuẩn
-        const a = document.createElement('a');
-        a.href = randomUrl;
-        a.rel = 'noopener noreferrer';
-        document.body.appendChild(a);
-        a.click();
-        document.body.removeChild(a);
+    // Lưu cookie/storage sau hoặc ngay lúc click nhưng giữ luồng đồng bộ thật nhanh
+    saveBypassState();
+
+    // CÁCH 1 (Mạnh nhất - Không bao giờ bị chặn): 
+    // Nếu phần tử được bấm là thẻ <a> (hoặc nằm trong thẻ <a>), KHÔNG dùng e.preventDefault()
+    // Gán thẳng href vào thẻ <a> đó để trình duyệt coi đây là thao tác click link tự nhiên 100%
+    if (e && e.currentTarget && e.currentTarget.tagName === 'A') {
+        e.currentTarget.href = targetUrl;
+        if (!isAndroid && !isIOS) {
+            e.currentTarget.target = '_blank';
+            e.currentTarget.rel = 'noopener noreferrer';
+        }
+        return; // Để trình duyệt tự mở link theo hành vi mặc định của thẻ <a>
+    }
+
+    // CÁCH 2 (Nếu gắn vào thẻ div, button hoặc gọi qua JS):
+    if (e) {
+        e.preventDefault();
+        e.stopPropagation();
+    }
+
+    if (isAndroid || isIOS) {
+        // Trên Mobile: Chuyển hướng trực tiếp thay vì tạo thẻ <a> ảo (Safari iOS 17+ chặn .click() ảo)
+        window.location.assign(targetUrl);
     } else {
-        // Trên PC: Mở tab mới
-        const a = document.createElement('a');
-        a.href = randomUrl;
-        a.target = '_blank';
-        a.rel = 'noopener noreferrer';
-        document.body.appendChild(a);
-        a.click();
-        document.body.removeChild(a);
+        // Trên PC: Gọi window.open NGAY LẬP TỨC với thuộc tính noopener
+        const newWin = window.open(targetUrl, '_blank', 'noopener,noreferrer');
+        
+        // Fallback: Nếu trình duyệt có cài Adblock/Strict Popup Blocker chặn luôn window.open
+        if (!newWin || newWin.closed || typeof newWin.closed === 'undefined') {
+            window.location.assign(targetUrl);
+        }
     }
 }
 </script>
