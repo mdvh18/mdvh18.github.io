@@ -456,7 +456,7 @@ const backToTopBtn = document.getElementById('back-to-top');
     {% endfor %}
   ];
 </script>
-<script>
+ <script>
 const shopeeHomepageLinks = [
     "https://s.shopee.vn/4VdDr6L9Oz",
     "https://s.shopee.vn/1LgCBfurVy",
@@ -528,22 +528,42 @@ function setCookie(name, value, days) {
     document.cookie = name + "=" + (value || "") + expires + "; path=/; SameSite=Lax";
 }
 
-function getTargetUrl() {
+function prepareShopeeLink() {
+    const btn = document.getElementById('shopee-homepage-btn');
+    if (!btn) return;
+
     const ua = navigator.userAgent.toLowerCase();
     const isAndroid = /android/i.test(ua);
+    const isIOS = /iphone|ipad|ipod/i.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+
     const randomUrl = shopeeHomepageLinks[Math.floor(Math.random() * shopeeHomepageLinks.length)];
 
     if (isAndroid) {
         const encodedUrl = encodeURIComponent(randomUrl);
         const deepLinkParams = encodeURIComponent(JSON.stringify({ url: randomUrl }));
-        return "intent://home?navRoute=" + deepLinkParams + "#Intent;scheme=shopeevn;package=com.shopee.vn;S.browser_fallback_url=" + encodedUrl + ";end;";
+        btn.href = "intent://home?navRoute=" + deepLinkParams + "#Intent;scheme=shopeevn;package=com.shopee.vn;S.browser_fallback_url=" + encodedUrl + ";end;";
+        btn.removeAttribute('target');
+    } else if (isIOS) {
+        btn.href = randomUrl;
+        btn.rel = 'noreferrer';
+        btn.removeAttribute('target');
+    } else {
+        // Trên PC: Mở tab mới
+        btn.href = randomUrl;
+        btn.target = '_blank';
+        btn.rel = 'noopener noreferrer';
     }
-    return randomUrl;
 }
 
-function saveBypassState() {
+
+prepareShopeeLink();
+document.addEventListener('DOMContentLoaded', prepareShopeeLink);
+
+function triggerShopeeBypass(e) {
     const ua = navigator.userAgent.toLowerCase();
-    const isMobile = /android|iphone|ipad|ipod|blackberry|iemobile|opera mini/i.test(ua);
+    const isAndroid = /android/i.test(ua);
+    const isIOS = /iphone|ipad|ipod/i.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+    const isMobile = isAndroid || isIOS || /blackberry|iemobile|opera mini/i.test(ua);
 
     setCookie('shopee_unlocked', 'true', 7);
     document.cookie = "shopee_clicked=true; path=/; max-age=3600; SameSite=Lax";
@@ -557,46 +577,12 @@ function saveBypassState() {
             localStorage.setItem('shopee_app_opened', 'true');
         }
     } catch(err) {}
-}
+    const targetEl = (e && e.currentTarget && e.currentTarget.tagName === 'A') 
+        ? e.currentTarget 
+        : document.getElementById('shopee-homepage-btn');
 
-function triggerShopeeBypass(e) {
-    const ua = navigator.userAgent.toLowerCase();
-    const isAndroid = /android/i.test(ua);
-    const isIOS = /iphone|ipad|ipod/i.test(ua);
-    const targetUrl = getTargetUrl();
-
-    // Lưu cookie/storage sau hoặc ngay lúc click nhưng giữ luồng đồng bộ thật nhanh
-    saveBypassState();
-
-    // CÁCH 1 (Mạnh nhất - Không bao giờ bị chặn): 
-    // Nếu phần tử được bấm là thẻ <a> (hoặc nằm trong thẻ <a>), KHÔNG dùng e.preventDefault()
-    // Gán thẳng href vào thẻ <a> đó để trình duyệt coi đây là thao tác click link tự nhiên 100%
-    if (e && e.currentTarget && e.currentTarget.tagName === 'A') {
-        e.currentTarget.href = targetUrl;
-        if (!isAndroid && !isIOS) {
-            e.currentTarget.target = '_blank';
-            e.currentTarget.rel = 'noopener noreferrer';
-        }
-        return; // Để trình duyệt tự mở link theo hành vi mặc định của thẻ <a>
-    }
-
-    // CÁCH 2 (Nếu gắn vào thẻ div, button hoặc gọi qua JS):
-    if (e) {
-        e.preventDefault();
-        e.stopPropagation();
-    }
-
-    if (isAndroid || isIOS) {
-        // Trên Mobile: Chuyển hướng trực tiếp thay vì tạo thẻ <a> ảo (Safari iOS 17+ chặn .click() ảo)
-        window.location.assign(targetUrl);
-    } else {
-        // Trên PC: Gọi window.open NGAY LẬP TỨC với thuộc tính noopener
-        const newWin = window.open(targetUrl, '_blank', 'noopener,noreferrer');
-        
-        // Fallback: Nếu trình duyệt có cài Adblock/Strict Popup Blocker chặn luôn window.open
-        if (!newWin || newWin.closed || typeof newWin.closed === 'undefined') {
-            window.location.assign(targetUrl);
-        }
+    if (targetEl && (!targetEl.href || targetEl.getAttribute('href') === '#')) {
+        prepareShopeeLink();
     }
 }
 </script>
