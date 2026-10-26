@@ -549,17 +549,15 @@ function triggerShopeeBypass(e) {
         }
     } catch(err) {}
 
-    // Tạo cấu trúc JSON chứa đường dẫn web để ép App Shopee tự giải mã link rút gọn
     const encodedUrl = encodeURIComponent(randomUrl);
-    const deepLinkParams = encodeURIComponent(JSON.stringify({ url: randomUrl }));
-
     let finalUrl = randomUrl;
+
     if (isAndroid) {
-        // Dùng scheme shopeevn:// đẩy vào trình duyệt nội bộ của App Shopee trên Android
-        finalUrl = "intent://home?navRoute=" + deepLinkParams + "#Intent;scheme=shopeevn;package=com.shopee.vn;S.browser_fallback_url=" + encodedUrl + ";end;";
+        // Tách domain và path để build URL theo chuẩn Chrome Intent cho HTTP/HTTPS App Links
+        const urlWithoutProtocol = randomUrl.replace(/^https?:\/\//, '');
+        finalUrl = "intent://" + urlWithoutProtocol + "#Intent;scheme=https;package=com.shopee.vn;S.browser_fallback_url=" + encodedUrl + ";end;";
     }
 
-    // Gán thẳng vào thẻ <a> vừa bấm và KHÔNG dùng e.preventDefault() để vượt chặn pop-up 100%
     const targetEl = (e && e.currentTarget && e.currentTarget.tagName === 'A') 
         ? e.currentTarget 
         : document.getElementById('shopee-homepage-btn');
@@ -572,6 +570,9 @@ function triggerShopeeBypass(e) {
             targetEl.target = '_blank';
             targetEl.rel = 'noopener noreferrer';
         }
+    } else {
+        // Fallback tự động click nếu không tìm thấy thẻ <a>
+        window.location.href = finalUrl;
     }
 }
 </script>
