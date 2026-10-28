@@ -80,7 +80,7 @@ layout: default
             <li><a href="https://mdvh18.com/pages/ntr/">NTR</a></li>
             <li><a href="https://mdvh18.com/pages/com/">Hoàn Thành</a></li>
             <li><a href="https://mdvh18.com/donate" style="font-size: 1.2em;">DONATE</a></li>
-            <li><a href="#" id="shopee-homepage-btn" onclick="triggerShopeeBypass()">Không Quảng Cáo</a></li>
+            <li><a href="#" id="shopee-homepage-btn" onmouseenter="prepareShopeeLink()" ontouchstart="prepareShopeeLink()" onclick="triggerShopeeBypass()">Không Quảng Cáo</a></li>
             <li><a href="https://www.facebook.com/profile.php?id=61575869116469">Fanpage</a></li>
         </ul>
     <div class="nav-search">
@@ -528,7 +528,10 @@ function setCookie(name, value, days) {
     document.cookie = name + "=" + (value || "") + expires + "; path=/; SameSite=Lax";
 }
 
-function initShopeeLink() {
+function prepareShopeeLink() {
+    const targetEl = document.getElementById('shopee-homepage-btn');
+    if (!targetEl || targetEl.getAttribute('data-ready') === 'true') return;
+
     const ua = navigator.userAgent.toLowerCase();
     const isAndroid = /android/i.test(ua);
     const isIOS = /iphone|ipad|ipod/i.test(ua);
@@ -541,16 +544,17 @@ function initShopeeLink() {
         finalUrl = "intent://" + urlWithoutProtocol + "#Intent;scheme=https;package=com.shopee.vn;S.browser_fallback_url=" + encodeURIComponent(randomUrl) + ";end;";
     }
 
-    const targetEl = document.getElementById('shopee-homepage-btn');
-    if (targetEl) {
-        targetEl.href = finalUrl;
-        if (isAndroid || isIOS) {
-            targetEl.removeAttribute('target');
-        } else {
-            targetEl.target = '_blank';
-            targetEl.rel = 'noopener noreferrer';
-        }
+    targetEl.href = finalUrl;
+    
+    if (isIOS) {
+        targetEl.target = '_top'; 
+    } else if (isAndroid) {
+        targetEl.removeAttribute('target');
+    } else {
+        targetEl.target = '_blank';
+        targetEl.rel = 'noopener noreferrer';
     }
+    targetEl.setAttribute('data-ready', 'true');
 }
 
 function triggerShopeeBypass() {
@@ -571,5 +575,5 @@ function triggerShopeeBypass() {
     } catch(err) {}
 }
 
-document.addEventListener("DOMContentLoaded", initShopeeLink);
+document.addEventListener("DOMContentLoaded", prepareShopeeLink);
 </script>
