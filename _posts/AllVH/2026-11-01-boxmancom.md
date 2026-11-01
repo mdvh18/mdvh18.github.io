@@ -4,7 +4,7 @@ pitu_id: "boxmancom"
 date: 2026-11-01 12:30:00 +0700
 title: "Việt Hóa Boxman v1.1 Completed - MDVH18"
 tags: [all, allvh, pc, apk]
-typegame: ["PC"]
+typegame: ["PC", "APK"]
 namebanner: "[Việt Hóa] Boxman v1.1 Completed Update PC (APK v1.01) - [770MB]"
 mota: |
  Bạn là Jake, một nhân viên xếp thùng hàng tại công ty HAULR Co. Với cô bạn gái đầy hoài nghi Emily là điểm tựa duy nhất.
