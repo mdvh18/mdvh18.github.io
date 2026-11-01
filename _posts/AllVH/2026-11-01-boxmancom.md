@@ -21,5 +21,5 @@ genre: "2dcg, animated, male protagonist, sandbox, 2d game, vaginal sex, cheatin
 linkpixelapk: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L04zSk1xRERI"
 linkpixelpc: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9waXhlbGRyYWluLmNvbS91L3ZZN2N5N3dQ"
 linkbuzz: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9idXp6aGVhdmllci5jb20vbjlyeGt3MGd6ODh4"
-linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC9wbm8zdFBsWA=="
+linkgofile: "https://mdvh18.com/download.html?url=aHR0cHM6Ly9nb2ZpbGUuaW8vZC80WXZsNHZCWA=="
 ---
