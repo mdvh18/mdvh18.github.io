@@ -1,11 +1,11 @@
 ---
 layout: game
 pitu_id: "betweenhumanity"
-date: 2026-10-29 10:30:00 +0700
+date: 2026-11-01 13:30:00 +0700
 title: "Việt Hóa Between Humanity - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
-namebanner: "[Việt Hóa] Between Humanity v0.4.0 Mod + v0.4.1 - [2.9GB]"
+namebanner: "[Việt Hóa] Between Humanity FIX v0.4.0 Mod + v0.4.1 - [2.9GB]"
 mota: |
  Mọi trí nhớ về lý do bạn có mặt ở đó đều mờ mịt trong tận cùng tâm trí bạn. Nhưng ngay khi bạn cố gắng quay lại cuộc sống thường ngày, bạn nhận ra có gì đó đã đổi khác tận gốc rễ. Bạn được mời đến ở nhà của cô bạn thân, nơi bạn cũng sẽ sống chung với mẹ và em gái cô ấy, mỗi người đều mang những rắc rối và vất vả thường nhật của riêng mình.
 gametype: "Visual Novel"
