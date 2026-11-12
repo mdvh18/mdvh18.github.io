@@ -507,6 +507,7 @@
     </div>
   <div class="game-info">
   <h5 style="margin-top: 0; font-size: 20px;">Thông Tin Game</h5>
+  <div id="mdvh-game-meta" data-id="{{ page.pitu_id }}" data-price="{{ page.price | default: 'free' }}" data-date="{% if page.date %}{{ page.date | date_to_xmlschema }}{% endif %}" hidden></div>
   {% if page.infor %}<div><b>Infor:</b> {{ page.infor }}</div>{% endif %}
   {% if page.gametype %}<div><b>Thể loại:</b> {{ page.gametype }}</div>{% endif %}
   {% if page.engine %}<div><b>Engine:</b> {{ page.engine }}</div>{% endif %}
