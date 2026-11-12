@@ -5,6 +5,7 @@ date: 2026-06-14 10:30:00 +0700
 title: "Việt Hóa] Boring Life v0.3 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Boring Life v0.3 ĐÃ FIX APK - [1.1GB]"
 mota: |
  Một chàng trai trẻ chuyển đến một thị trấn mới, bắt đầu lại cuộc sống vốn nhàm chán của mình.

@@ -5,6 +5,7 @@ date: 2026-06-27 16:30:00 +0700
 title: "Việt Hóa Blood of the Dragon - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Blood of the Dragon v0.4.2 - [1.4GB]"
 mota: |
  Khao khát chứng tỏ bản thân, bạn tập luyện để trở thành người hầu cho hiệp sĩ. Sau khi cuối cùng cũng đánh bại được thầy của mình, ngôi làng của bạn bị tấn công, đánh thức một sức mạnh đang ngủ yên trong dòng máu của bạn.

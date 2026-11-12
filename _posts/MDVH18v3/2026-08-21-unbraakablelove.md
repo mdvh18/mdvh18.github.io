@@ -5,6 +5,7 @@ date: 2026-08-21 12:00:00 +0700
 title: "Việt Hóa Unbreakable Love v0.8 Update - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Unbreakable Love (NTR) v0.8 Update - [2.2GB]"
 mota: |
  Tom và Sarah là một cặp vợ chồng hạnh phúc. Họ trở lại hòn đảo nơi Tom từng lớn lên để hưởng tuần trăng mật. Đáng lẽ đây phải là một chuyến đi thư giãn... nhưng hòn đảo này không chỉ chứa đựng những ký ức đơn thuần.

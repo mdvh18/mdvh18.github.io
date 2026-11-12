@@ -5,6 +5,7 @@ date: 2026-05-31 10:30:00 +0700
 title: "Việt Hóa Greyvale Rivalry Ep.1 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Greyvale Rivalry Ep.1 Fix APK - [3.4GB]"
 mota: |
  Chào mừng đến với Greyvale Rivalry, một tiểu thuyết trực quan thô tục, hài hước và gợi cảm đến điên rồ, nơi cuộc sống đại học chỉ là cái nền cho rượu bia, gái xinh và những trận đấu thể thao nảy lửa.

@@ -5,6 +5,7 @@ date: 2026-06-14 15:30:00 +0700
 title: "Việt Hóa Recall Destiny v0.3a - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Recall Destiny v0.3a - [838MB]"
 mota: |
  Cuộc Chiến Quy Mô đã tàn phá cả thế giới khi những kẻ tham gia tìm kiếm quyền thống trị đối với sự xuất hiện của một loại công nghệ bí ẩn, cho đến khi chẳng còn lại gì. Một cuộc chiến không có người chiến thắng.

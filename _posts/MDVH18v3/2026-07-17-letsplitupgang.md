@@ -5,6 +5,7 @@ date: 2026-07-17 12:30:00 +0700
 title: "Việt Hóa Let's Split Up Gang - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Let's Split Up Gang (NTR) vJuly26 - [800MB]"
 mota: |
  Băng nhóm có một người mới, và gã đó đang cố tìm cách làm hư các cô gái. Trò chơi này tập trung nặng vào các chủ đề NTR/Cuckold, nên nếu điều đó không hợp gu bạn, thì đừng chơi nó.

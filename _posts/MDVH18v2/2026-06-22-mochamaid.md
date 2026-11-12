@@ -5,6 +5,7 @@ date: 2026-06-22 12:30:00 +0700
 title: "Việt Hóa Mocha Maid v0.1.5 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Mocha Maid v0.1.5 - [2.1GB]"
 mota: |
  Trong Mocha Maid bạn sẽ theo chân cuộc đời của Haru, một chàng trai chỉ muốn sống lặng lẽ nhất có thể, nhưng vì không còn tiền sau khi bị đuổi việc, cậu có cơ hội mở một cửa tiệm cùng một người lạ lớn tuổi, và cùng với người bạn Asuka, cậu bắt đầu Mocha Maid

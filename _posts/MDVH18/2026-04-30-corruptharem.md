@@ -5,6 +5,7 @@ date: 2026-04-30 12:30:00 +0700
 title: "Việt Hóa Corrupt My Harem - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Corrupt My Harem v3.0 - [1.4GB]"
 mota: |
  Corrupt My Harem kể về câu chuyện của một chàng trai trẻ bị ràng buộc với một con quỷ hùng mạnh, sở hữu ma thuật đen tối cho phép anh ta bóp méo cảm xúc và lôi kéo những người khác về phía mình.

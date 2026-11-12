@@ -5,6 +5,7 @@ date: 2026-06-22 10:30:00 +0700
 title: "Việt Hóa Riverside Cabin Final - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Riverside Cabin Final - [2.6GB]"
 mota: |
  Trong một căn chòi vắng sâu trong rừng, có hai người thấy mình bị mắc kẹt không chỉ vì sự cô quạnh. Họ chia sẻ một tình yêu bị ngăn cấm ngày càng lớn dần sau mỗi cái nhìn trộm và những lời thú tội thầm thì.

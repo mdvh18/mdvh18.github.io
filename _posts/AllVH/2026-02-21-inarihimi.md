@@ -5,6 +5,7 @@ date: 2026-02-21 15:30:00 +0700
 title: "[Việt Hóa] Inari - MDVH18"
 tags: [all, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Inari v1.5.12 - [478MB]"
 mota: |
  Hãy tận hưởng một trò chơi mô phỏng lãng mạn lấy bối cảnh tại một thị trấn ven biển tuyệt đẹp, và tạo nên những câu chuyện đa dạng cùng những người phụ nữ đầy quyến rũ.

@@ -5,6 +5,7 @@ date: 2026-05-08 12:00:00 +0700
 title: "Việt Hóa Dream Corruption v0.2.1 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Dream Corruption v0.2.1 - [596MB]"
 mota: |
  Dream Corruption là một tiểu thuyết trực quan kích dục nơi bạn bị mắc kẹt trong một thế giới giấc mơ kỳ ảo cùng với các nhân vật manga và hoạt hình. Là một thực thể bất thường trong thế giới này, bạn phải định hướng giấc mơ của họ, nhào nặn những khao khát và mức độ tha hóa của họ thông qua các cuộc chạm trán dựa trên sự lựa chọn.

@@ -5,6 +5,7 @@ date: 2026-05-31 17:30:00 +0700
 title: "Việt Hóa Shittsui Reijou Amelia - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Shittsui Reijou Amelia – Zettai Meirei no Meido Kyouiku - [992MB]"
 mota: |
  Cô từng là trưởng nữ của một gia tộc quý tộc danh giá, thống trị giới thượng lưu của quốc gia—một người phụ nữ xinh đẹp mà ai nấy đều chỉ dám ngưỡng mộ từ xa như một đóa hoa trên cao không thể chạm tới.

@@ -5,6 +5,7 @@ date: 2026-04-04 16:30:00 +0700
 title: "Việt Hóa StudentXchange - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] StudentXchange v2 - [537MB]"
 mota: |
  Câu chuyện kể về Elsa trên hành trình phát triển và khám phá bản thân của riêng cô ấy.

@@ -5,6 +5,7 @@ date: 2026-03-07 16:30:00 +0700
 title: "ENG Elf~Wanna Be Touched♡ - MDVH18"
 tags: [all, english, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[ENG] Elf~Wanna Be Touched♡ v0.1.1 - [60MB]"
 mota: |
  Bạn và Elf là những người bạn đồng hành trong các cuộc phiêu lưu. Một ngày nọ, cô ấy mời bạn đến phòng riêng của mình, và một chương mới bắt đầu—với bạn là người kề cạnh cô ấy.

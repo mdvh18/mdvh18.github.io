@@ -5,6 +5,7 @@ date: 2026-06-11 15:00:00 +0700
 title: "Việt Hóa Project: S.P.E.S. v0.15 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Project: S.P.E.S. v0.15 - FIX APK BỊ LỖI THOẠI - [3.1GB]"
 mota: |
  Bạn là một chàng trai 19 tuổi, 6 tháng trước mẹ bạn qua đời và bạn thấy mình cô độc một mình. May mắn thay bên cạnh bạn luôn có Victoria và Sofia

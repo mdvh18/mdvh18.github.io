@@ -5,6 +5,7 @@ date: 2026-06-02 15:30:00 +0700
 title: "Việt Hóa C.X Protocol: Condict Invasion - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] C.X Protocol: Condict Invasion v0.02 - [535MB]"
 mota: |
  Trong một tương lai nơi hầu hết mọi người đều phụ thuộc vào rô-bốt vì sự tiện nghi hàng ngày, một loại rô-bốt biến chất nguy hiểm được gọi là Condict đã bắt đầu xuất hiện. Những kẻ Condict này bí mật sống giữa con người và những rô-bốt bình thường trong khi thực hiện các vụ giết người tàn bạo vì những lý do không xác định.

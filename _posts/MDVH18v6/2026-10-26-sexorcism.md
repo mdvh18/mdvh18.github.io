@@ -5,6 +5,7 @@ date: 2026-10-26 10:30:00 +0700
 title: "Việt Hóa Sexorcism: Lust Confession - MDVH18"
 tags: [all, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Sexorcism: Lust Confession v1.0 Completed - [580MB]"
 mota: |
  Bạn là một pháp sư trừ tà lãng du của nữ thần tình yêu, người đã vô tình bước chân vào một tu viện. Những nữ tu ở đây đã bị nguyền. Hãy đánh bại họ, phá vỡ những xích xiềng xiết chặt, và giúp đỡ họ......

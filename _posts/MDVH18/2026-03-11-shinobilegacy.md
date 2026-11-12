@@ -5,6 +5,7 @@ date: 2026-03-11 14:30:00 +0700
 title: "Việt Hóa Shinobi Legacy - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Shinobi Legacy v0.1 - [221MB]"
 mota: |
  Anh đã bao giờ tự hỏi cuộc sống của mình sẽ ra sao trong vũ trụ Naruto chưa? Một thế giới đầy rẫy những pha hành động, khoái lạc, và trên hết là… những nữ nhẫn giả cực kỳ nóng bỏng.

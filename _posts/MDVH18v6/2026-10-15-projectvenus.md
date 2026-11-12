@@ -5,6 +5,7 @@ date: 2026-10-15 13:30:00 +0700
 title: "Việt Hóa Project Venus - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Project Venus v0.2.6 FIX - [2.8GBB]"
 mota: |
  Project Venus là một tựa game bắn súng hành động kinh dị mang đậm phong cách Resident Evil. Bạn sẽ vào vai Jillian, một nhân viên văn phòng bình thường đang trên đường tìm kiếm em gái mình, nhưng rồi một đại dịch thảm họa thây ma bùng phát đã thay đổi tất cả.

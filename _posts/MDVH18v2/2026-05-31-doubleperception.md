@@ -5,6 +5,7 @@ date: 2026-05-31 15:00:00 +0700
 title: "Việt Hóa Double Perception v6.0 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Double Perception v6.0 FIX Mất thoại - [1.2GB]"
 mota: |
  Double Perception là một trò chơi với 2 thế giới. Đầu tiên là Thực tại. Không có gì đặc biệt, chỉ là một Trái Đất bình thường. Cõi thứ hai thú vị hơn một chút – Dawn of Arcanum.

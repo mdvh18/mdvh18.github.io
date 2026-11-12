@@ -5,6 +5,7 @@ date: 2026-05-23 15:30:00 +0700
 title: "Việt Hóa Darling Touch v.0.3.0 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Darling Touch v.0.3.0 - [371MB]"
 mota: |
  Một tựa game mô phỏng chạm dành cho người lớn với các cô vợ anime quyến rũ. Hãy chọn Người thương của bạn, chơi qua các phân cảnh và mở khóa thêm nhiều nội dung khác trong quá trình trải nghiệm. Chỉ dành cho người trên 18 tuổi.

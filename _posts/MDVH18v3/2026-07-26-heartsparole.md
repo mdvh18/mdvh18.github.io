@@ -5,6 +5,7 @@ date: 2026-07-26 15:30:00 +0700
 title: "Việt Hóa Hearts on Parole v0.3.5r - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Hearts on Parole v0.3.5r - [2.7GB]"
 mota: |
  Bạn vào vai Byron Boldston, một nhân viên giám sát thời gian thử thách và tạm tha, người theo dõi những người đang, đúng như bạn đoán đấy, chịu án thử thách và tạm tha. Bạn sẽ gặp nhiều người trên chặng đường này, vài người là bạn cũ và vài người là người mới.

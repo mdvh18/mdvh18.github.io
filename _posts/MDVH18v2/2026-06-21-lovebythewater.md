@@ -5,6 +5,7 @@ date: 2026-06-21 11:31:00 +0700
 title: "Việt Hóa Love by the Water v0.5  - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Love by the Water v0.5 - [3GB]"
 mota: |
  Do một mối liên kết kỳ lạ với đại dương, nhân vật chính—một người ham đọc sách được nuôi dạy bởi người cha làm nghề chài lưới—chưa bao giờ có thể đi đủ xa khỏi nhà để thực sự trải nghiệm thế giới xung quanh.

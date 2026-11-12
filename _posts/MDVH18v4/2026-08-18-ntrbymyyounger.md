@@ -5,6 +5,7 @@ date: 2026-08-18 11:30:00 +0700
 title: "Việt Hóa NTR by my Younger Childhood Friend!? - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] NTR by my Younger Childhood Friend!? (Thuần ịt) Final - [289MB]"
 mota: |
  Một trò chơi tương tác tình cảm Live2D kết hợp ASMR xoay quanh mối quan hệ thân thiết đến mức nguy hiểm với cô bạn thuở nhỏ nhà bên, người vốn đã có bạn trai.

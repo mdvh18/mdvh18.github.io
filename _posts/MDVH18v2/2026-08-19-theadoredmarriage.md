@@ -5,6 +5,7 @@ date: 2026-08-19 12:20:00 +0700
 title: "Việt Hóa The Adored Marriage Ch.3  - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] The Adored Marriage Ch.3 v1.0 (NTR) - [1.3GB]"
 mota: |
  Một cặp vợ chồng hạnh phúc, sau khi đã chia sẻ nhiều năm tháng vui vẻ bên nhau, quyết định khám phá một khía cạnh mới trong mối quan hệ của họ. Từng bước một, họ dấn thân vào những vùng đất mới lạ, bắt đầu một hành trình tự khám phá bản thân và những trải nghiệm cùng nhau.

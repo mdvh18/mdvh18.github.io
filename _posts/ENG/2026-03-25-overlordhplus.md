@@ -5,6 +5,7 @@ date: 2026-03-25 10:30:00 +0700
 title: "ENG Overlord H Plus R2 - MDVH18"
 tags: [all, english, apk, pc]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[ENG] Overlord H Plus R2 - [214MB]"
 mota: |
  Bạn đang dành những phút cuối cùng trong trò chơi DMMO-RPG yêu thích của mình, YGGDRASIL, trước khi nó chính thức đóng cửa vĩnh viễn vào lúc nửa đêm. Tuy nhiên, khi thời khắc đó đến, dường như chẳng có chuyện gì xảy ra cả.

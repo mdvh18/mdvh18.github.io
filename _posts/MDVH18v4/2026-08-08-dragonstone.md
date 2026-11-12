@@ -5,6 +5,7 @@ date: 2026-08-08 11:30:00 +0700
 title: "Việt Hóa DragonStone Final - MDVH18"
 tags: [all, mdvh18, allvh, pc, com]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] DragonStone Final - [1.6GB]"
 mota: |
  Khám phá một thế giới mở rộng lớn nơi nguy hiểm rình rập khắp mọi ngóc ngách, và chỉ cần một bước đi sai lầm thôi là mọi thứ có thể tan tành... Nhưng ngược lại, một nước đi đúng đắn thôi là có thể giúp bạn giàu to...

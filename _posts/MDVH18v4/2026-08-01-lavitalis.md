@@ -5,6 +5,7 @@ date: 2026-08-01 10:30:00 +0700
 title: "Việt Hóa La Vitalis: Immortal Loss v0.50.0 - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] La Vitalis: Immortal Loss v0.50.1 (Giải nén 3.8GB) - [558MB]"
 mota: |
  Một sinh viên y thuật trẻ tuổi đầy quyến rũ... Một vương quốc hoàng kim bị tàn phá bởi một căn bệnh chưa từng được biết đến... Và những bí mật của giả kim thuật có thể thiêu rụi mọi thứ...

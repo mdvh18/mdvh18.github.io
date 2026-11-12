@@ -5,6 +5,7 @@ date: 2026-10-23 10:30:00 +0700
 title: "Việt Hóa Lust Manor: Leona’s Secret - MDVH18"
 tags: [all, allvh, pc, com]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Lust Manor: Leona’s Secret Uncensored Final (Có sẵn VH) - [875MB]"
 mota: |
  Anh ta đến để trộm. Cô ấy ở lại để hầu hạ. Hãy dẫn dắt màn hóa trang của Leona bên trong Dinh thự Amadeus: xâm nhập, tán tỉnh và mạo hiểm. Tám nữ chính. Những âm mưu sẽ giữ sức hút cho đến phút cuối cùng—phần thưởng của bạn phụ thuộc vào độ táo bạo khi chơi.

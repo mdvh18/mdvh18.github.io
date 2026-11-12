@@ -5,6 +5,7 @@ date: 2026-03-06 10:30:00 +0700
 title: "ENG RunRunRun v0.1 PC/APK - MDVH18"
 tags: [all, english, apk, pc]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[ENG] RunRunRun v0.1 PC/APK - [161MB]"
 mota: |
  Khi đại dịch thây ma bùng phát, ca trực đêm yên tĩnh của John bỗng chốc biến thành một mớ hỗn độn. Đồng hành cùng Lynn, một người sống sót khác, cả hai phải đối mặt với những hiểm nguy quái gở, thu lượm nhu yếu phẩm và dựng rào chắn để bảo vệ bản thân khỏi lũ xác sống!

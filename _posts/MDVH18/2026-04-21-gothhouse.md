@@ -5,6 +5,7 @@ date: 2026-04-21 12:31:00 +0700
 title: "Việt Hóa] GothHouse Ch.4 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] GothHouse Ch.4 - [1.3GB]"
 mota: |
  Bạn vào vai một cô nàng tiên Gothic futanari và cũng mang trong mình một phần máu của loài quạ (người về từ cõi chết). Bị săn đuổi bởi những ký ức tồi tệ và luôn lo sợ về việc lạm dụng sức mạnh cõi âm của mình, Darci Nightshade (bạn có thể thay đổi tên gọi) đang cố gắng tìm chỗ đứng trong xã hội Avalonian. GothHouse là phần ngoại truyện của FurrHouse.

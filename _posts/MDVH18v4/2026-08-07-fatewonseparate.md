@@ -5,6 +5,7 @@ date: 2026-08-07 15:30:00 +0700
 title: "Việt Hóa Fate Won't Separate Us - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Fate Won't Separate Us v0.8a (NTR) + WT Mod - [4GB]"
 mota: |
  Bạn là Jeremiah, đang có một mối tình đẹp đẽ với Freya. Bạn suýt chút nữa đã vực dậy được cái cuộc đời tồi tệ của mình thì lại gặp một ông lão kỳ lạ.

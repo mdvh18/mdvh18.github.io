@@ -5,6 +5,7 @@ date: 2026-08-14 17:30:00 +0700
 title: "Việt Hóa Justice L: Next Generation v0.17 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Justice L: Next Generation v0.17 (NTR) FIX - [2.3GB]"
 mota: |
  Lấy bối cảnh tại những thành phố mang tính biểu tượng của thế giới DC. Cuộc phiêu lưu đưa người chơi đắm chìm vào thế giới của các siêu anh hùng, siêu tội phạm, và những nhân vật có đạo đức mơ hồ sống trong bóng tối.

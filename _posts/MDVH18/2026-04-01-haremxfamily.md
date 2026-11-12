@@ -5,6 +5,7 @@ date: 2026-04-01 15:30:00 +0700
 title: "Việt Hóa Harem x Family Ch.2Part 1 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Harem x Family Ch.2Part 1 - [351MB]"
 mota: |
  Câu chuyện xoay quanh nhân vật chính Kaiser và những người phụ nữ quyến rũ, lôi cuốn sống trong gia đình sau khi cha của bạn đột ngột mất tích.

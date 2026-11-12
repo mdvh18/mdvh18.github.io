@@ -5,6 +5,7 @@ date: 2026-04-28 00:30:00 +0700
 title: "Việt Hóa Abyssal Lust v0.4.2 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Abyssal Lust v0.4.2 - [2GB]"
 mota: |
  Bạn thức dậy trong bóng tối ngột ngạt, không khí nồng nặc mùi sáp tan chảy. Một bộ xương nói những lời bí ẩn về định mệnh và những tội lỗi đã bị lãng quên.

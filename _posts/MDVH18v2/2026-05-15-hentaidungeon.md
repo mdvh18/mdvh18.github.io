@@ -5,6 +5,7 @@ date: 2026-05-15 18:00:00 +0700
 title: "Việt Hóa Hentai Dungeon v1.2 - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Hentai Dungeon v1.2 - [54MB]"
 mota: |
  Bước vào một hầm ngục đầy rẫy những trận chiến thẻ bài, nơi mỗi đối thủ đều có thể phá hỏng ngày mới của bạn. Hãy giành chiến thắng để nhận được những nâng cấp tạm thời và xem bạn có thể đi bao xa trước khi bị hầm ngục khuất phục

@@ -5,6 +5,7 @@ date: 2026-07-07 15:30:00 +0700
 title: "Việt Hóa Ethereal Ties Holiday Special - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Ethereal Ties Holiday Special 0.1 - [1.8GB]"
 mota: |
  Một nhánh game của Ethereal Ties, nơi bạn gặp gỡ một linh hồn cô gái đã mất và giúp cô ấy tận hưởng những cảm giác bên cạnh những người bạn mới. Bản APK lệch khung menu, anh em chịu khó nhé.

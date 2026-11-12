@@ -5,6 +5,7 @@ date: 2026-04-05 13:30:00 +0700
 title: "Việt Hóa Lewd Lore: Isekai Fantasy - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Lewd Lore: Isekai Fantasy v0.20 - [1.9GB]"
 mota: |
  Hãy sẵn sàng đắm chìm vào thế giới quyến rũ và đầy thú vị của 'Lewd Lore: Isekai Fantasy', một trò chơi Visual Novel người lớn kể về một chàng trai trẻ được chuyển sinh sang thế giới khác với những năng lực dâm dục. 

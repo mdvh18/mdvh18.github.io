@@ -5,6 +5,7 @@ date: 2026-04-12 11:30:00 +0700
 title: "Việt Hóa My Girlfriend and My Nightmare - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] My Girlfriend and My Nightmare v0.6.11 - [892MB]"
 mota: |
  Bạn vào vai Alan, một anh chàng mắc kẹt trong một công việc chẳng ra gì, chỉ cố gắng sống qua ngày đoạn tháng. Một buổi sáng nọ, cậu bất ngờ gặp lại người bạn thời thơ ấu Nala

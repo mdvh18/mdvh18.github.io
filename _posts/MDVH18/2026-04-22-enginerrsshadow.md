@@ -5,6 +5,7 @@ date: 2026-04-22 10:30:00 +0700
 title: "Việt Hóa Engineers of Shadow-Moon Station - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Engineers of Shadow-Moon Station v0.1.2b - [1.2GB]"
 mota: |
  Trong một thế giới nơi nhân loại đã bắt đầu mở rộng ra các vì sao, hãy dõi theo câu chuyện của một chàng trai trẻ nhận được một lời mời làm việc ngàn năm có một. Anh được một tập đoàn lớn tuyển dụng làm kỹ sư để thực hiện giai đoạn tiếp theo của quá trình thuộc địa hóa không gian.

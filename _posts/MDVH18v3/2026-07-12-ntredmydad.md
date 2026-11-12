@@ -5,6 +5,7 @@ date: 2026-07-12 11:30:00 +0700
 title: "Việt Hóa NTR'ed by My Dad - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] NTR'ed by My Dad v0.4.1 (NTR) - [1.1GB]"
 mota: |
  Eric đưa người vợ dịu dàng, Grace, về ngôi nhà ở vùng quê của cha anh là Fletcher để nghỉ lại vài hôm. Những gì khởi đầu như một chuyến đi nghỉ đơn giản, bình yên dần dần trở nên tồi tệ giữa sự tĩnh lặng của thị trấn vắng vẻ này.

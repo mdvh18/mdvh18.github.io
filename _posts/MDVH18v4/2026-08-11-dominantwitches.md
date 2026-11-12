@@ -5,6 +5,7 @@ date: 2026-08-11 10:30:00 +0700
 title: "Việt Hóa Dominant Witches - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Dominant Witches Completed Fix - [2.7GB]"
 mota: |
  Bạn vào vai một học trò trường phép thuật được cử đi học việc ở một thành lũy nằm ở chốn khỉ ho cò gáy. Bạn gặp ở đó ba mụ phù thủy cùng một người giữ quán trọ. Ngoài ra trong trò chơi còn có succubus, ma cà rồng và kitsune sống ở bên ngoài thành lũy.

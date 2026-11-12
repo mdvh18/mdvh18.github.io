@@ -5,6 +5,7 @@ date: 2026-08-26 10:30:00 +0700
 title: "Việt Hóa My Goth Desires Ch.9 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] My Goth Desires Ch.9 (NTR) - [600MB]"
 mota: |
  Do tính khí mạnh mẽ, cô ấy chật vật giữ lấy việc làm ổn định, dẫn đến cảnh túng thiếu tiền bạc kéo dài cho hai người. Lúc Lilith cuối cùng cũng kiếm được việc mới, mọi thứ có vẻ khá lên, cho tới khi cô gặp Shane.

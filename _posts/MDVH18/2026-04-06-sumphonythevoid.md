@@ -5,6 +5,7 @@ date: 2026-04-06 12:30:00 +0700
 title: "Việt Hóa Symphony of the Void - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Symphony of the Void P2 v0.16 - [612MB]"
 mota: |
  Jevan Dre'allis là thành viên của đơn vị đặc nhiệm hắc tinh linh tinh nhuệ mang tên Wraith - những đặc vụ của Đền thờ Xana-Rhoa, đóng vai trò là sát thủ, gián điệp và kẻ phá hoại.

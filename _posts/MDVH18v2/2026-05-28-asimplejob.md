@@ -5,6 +5,7 @@ date: 2026-05-28 10:30:00 +0700
 title: "Việt Hóa A Simple Job v1.0 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] A Simple Job v1.0 Completed - [278MB]"
 mota: |
  Bạn có thể là Lucas (tên có thể thay đổi), một học sinh bình thường với những trải nghiệm bình thường. Bạn có thể quyết định Lucas sẽ thực hiện những hành động nào trong những cuộc phiêu lưu bình thường ở cuộc sống hàng ngày của anh ấy.

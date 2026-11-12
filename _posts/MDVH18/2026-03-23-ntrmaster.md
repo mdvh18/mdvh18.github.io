@@ -5,6 +5,7 @@ date: 2026-03-23 13:30:00 +0700
 title: "Việt Hóa NTR Master v0.2.1 - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] NTR Master v0.2.1 - [1.1GB]"
 mota: |
  Trong cuộc phiêu lưu đầy những thử thách về giới hạn đạo đức này, bạn sẽ vào vai một kẻ phỏng vấn tạp chí bí ẩn.

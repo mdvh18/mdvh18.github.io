@@ -5,6 +5,7 @@ date: 2026-03-02 10:30:00 +0700
 title: "[Việt Hóa] Sister live broadcast - MDVH18"
 tags: [all, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Sister live broadcast 1.25 - [601MB]"
 mota: |
  Có vẻ như chị gái tôi đã bắt đầu một buổi phát trực tiếp ngay tại văn phòng để lo tiền học phí cho tôi! Công việc làm thêm mùa hè của nhân vật chính đã bắt đầu, nhằm bảo vệ chị gái mình, người đã một tay nuôi nẫng anh khôn lớn.

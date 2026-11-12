@@ -5,6 +5,7 @@ date: 2026-09-25 12:30:00 +0700
 title: "Việt Hóa Training Slayer - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Training Slayer v1.15 Cheat - [430MB]"
 mota: |
  Một tựa game lấy chủ đề Slayer. Cheat ấn vào Avatar nhân vật rồi ấn vào tên.

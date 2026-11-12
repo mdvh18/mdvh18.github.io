@@ -5,6 +5,7 @@ date: 2026-06-15 15:31:00 +0700
 title: "Việt Hóa Moonlight Ep.3 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Moonlight Ep.3 v0.03.10- [2.4GB]"
 mota: |
  Trong thế giới của Moonlight, Cấy ghép thần kinh (NI) đã trở thành một phần không thể thiếu trong cuộc sống hàng ngày, kiểm soát mọi thứ từ giao tiếp đến việc sản sinh dopamine. Một ứng dụng mới gần đây đã gia nhập thị trường, cho phép con người thoát ly vào một thế giới ảo trong khi cơ thể họ bị AI điều khiển và đưa đi làm việc.

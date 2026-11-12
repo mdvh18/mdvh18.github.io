@@ -5,6 +5,7 @@ date: 2026-07-14 15:30:00 +0700
 title: "Việt Hóa The Sunken Promise v0.7 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] The Sunken Promise v0.7 (NTR) - [1.9GB]"
 mota: |
  Một chuyến đi biển đến một nghi lễ linh thiêng đã trở thành thảm họa khi một cơn bão dữ dội cuốn bạn dạt vào bờ một hòn đảo chưa từng được khám phá. Khi dạt vào bờ, bạn chỉ thấy hai người sống sót khác: Myrielle yêu dấu của bạn và Borwin, gã thủy thủ béo ị, háo sắc trên con tàu xấu số.

@@ -5,6 +5,7 @@ date: 2026-07-11 11:30:00 +0700
 title: "Việt Hóa Time Heals Ch.1 P2 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Time Heals Ch.1 P2 - [3.3GB/1GB APK]"
 mota: |
  Câu chuyện theo chân hành trình của một chàng trai 19 tuổi từng một thời giàu có khi cậu đối mặt và cố gắng vượt qua những khó khăn này. Cậu chuyển đến nhà mới, làm quen với những người mới và xây dựng những tình bạn mới, trong khi gặp phải những khó khăn mà trước đây cậu từng nghĩ chỉ có trên phim.

@@ -5,6 +5,7 @@ date: 2026-06-27 11:30:00 +0700
 title: "Việt Hóa Goddesses' Whim v0.4.6c - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Goddesses' Whim v0.4.6c - [2.2GB]"
 mota: |
  Bạn, nhân vật chính của mọi chuyện này, với một trái tim bao dung (và cả thứ gì đó khác nữa..) vì quá khứ của mình, là một người có cuộc sống tẻ nhạt và cô độc. Nhưng rồi một ngày, với tính cách luôn muốn giúp đỡ người khác bằng mọi giá, bạn quyết định hy sinh mạng sống vì người khác, điều đó đã thu hút sự chú ý của một nữ thần.

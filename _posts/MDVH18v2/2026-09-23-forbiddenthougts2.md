@@ -5,6 +5,7 @@ date: 2026-09-23 11:00:00 +0700
 title: "Việt Hóa Forbidden Thoughts Ch.2 Up.5 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Forbidden Thoughts Ch.2 Up.5 + Walkthrough Mod - [2GB]"
 mota: |
  Forbidden Thoughts là một game 18+ xoay quanh cốt truyện về cuộc sống thường nhật, nơi những cuộc trò chuyện bình thường và những ánh nhìn tình cờ dần phát triển thành những suy nghĩ và quyết định cấm kỵ.

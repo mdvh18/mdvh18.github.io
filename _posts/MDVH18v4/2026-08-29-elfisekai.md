@@ -5,6 +5,7 @@ date: 2026-08-29 11:30:00 +0700
 title: "Việt Hóa I Met an Elf in Another World - MDVH18"
 tags: [all, mdvh18, allvh, pc, com]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] I Met an Elf in Another World v1.0 Completed - [112MB]"
 mota: |
  Bạn được đưa đến một thế giới khác và gặp một người phụ nữ elf tên là Alfie. Cô ấy có vẻ đã chăm sóc và chữa lành vết thương cho bạn. Thế nhưng, ham muốn của Alfie mạnh đến mức bạn buộc phải chiều cô ấy bất cứ lúc nào và bất cứ nơi đâu cô ấy muốn.

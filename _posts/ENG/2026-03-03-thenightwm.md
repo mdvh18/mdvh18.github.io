@@ -5,6 +5,7 @@ date: 2026-03-03 10:30:00 +0700
 title: "[ENG] The Night We Met - MDVH18"
 tags: [all, english, apk, pc]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[ENG] The Night We Met v1.1 - [1.8B]"
 mota: |
  Những lựa chọn của bạn thực sự quan trọng và có thể làm thay đổi hoàn toàn diễn biến của câu chuyện: khi thì tinh tế, lúc lại vô cùng rõ rệt. Hãy khám phá 8 cái kết độc nhất và hiện thực hóa giấc mơ tận hưởng niềm vui cùng các cô gái, và trải nghiệm mọi quyết định từ những hành động của chính mình!

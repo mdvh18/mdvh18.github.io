@@ -5,6 +5,7 @@ date: 2026-07-20 10:30:00 +0700
 title: "Việt Hóa Contagion Crisis v0.7.0 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Contagion Crisis v0.7.0 - [3.3GB/2.2GBAPK]"
 mota: |
  Vào năm 2018, một thứ bệnh truyền nhiễm lọt vào thành phố Grimhaven, Washington, biến mọi thứ nó chạm vào thành những con quái vật đầy dục vọng. Hai chị em Sarah và Ava phải băng qua thành phố, cố hết sức tránh những kẻ biến dị trong lúc tìm đường đến nơi trú ẩn.

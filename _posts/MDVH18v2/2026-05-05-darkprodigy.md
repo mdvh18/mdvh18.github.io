@@ -5,6 +5,7 @@ date: 2026-05-05 10:30:00 +0700
 title: "Việt Hóa Dark Prodigy Simulator v1.0 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Dark Prodigy Simulator v1.0 Completed - [382MB]"
 mota: |
  Bước vào lớp áo choàng của Chúa tể Bóng tối, một trong những chiến binh mạnh mẽ nhất từng tồn tại. Sự cô độc của bạn bị phá vỡ khi một kẻ lưu vong tài năng nhưng đầy nguy hiểm, một Nữ Chiến binh Trắng trẻ tuổi bị đuổi khỏi Học viện của mình... tìm đến bạn.

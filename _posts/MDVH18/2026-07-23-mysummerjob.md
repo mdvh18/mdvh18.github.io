@@ -5,6 +5,7 @@ date: 2026-07-23 10:00:00 +0700
 title: "Việt Hóa My Summer Job - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] My Summer Job v0.4 (NTR/NTS) Update - [1.1GB]"
 mota: |
  Sau khi tốt nghiệp trung học, bạn lên đường đến ngôi làng yên tĩnh Sleepy Fields để tận hưởng kỳ nghỉ hè cùng người bạn thân nhất của mình là Leo và cô bạn Alice.

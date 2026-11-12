@@ -5,6 +5,7 @@ date: 2026-08-24 13:30:00 +0700
 title: "Việt Hóa Pandora's Box 2 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Pandora's Box 2 v0.44 Update - [4.0GB/2GB]"
 mota: |
  Câu chuyện diễn ra vào 19 năm sau các sự kiện của phần game đầu tiên. Cả hai nhân vật chính đều quay trở lại vai diễn của mình + một vai nữ chính mới.

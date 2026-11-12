@@ -5,6 +5,7 @@ date: 2026-04-14 16:30:00 +0700
 title: "Việt Hóa One Twisted Fantasy - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] One Twisted Fantasy v0.289 - [736MB]"
 mota: |
  Bạn bị kéo vào một thế giới giả tưởng đầy rắc rối, nơi những nỗ lực né tránh 'phiền phức' của bạn đã thất bại thảm hại khi bạn bị tấn công bởi lũ quỷ ngay trong nơi ở an toàn của mình.

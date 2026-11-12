@@ -5,6 +5,7 @@ date: 2026-07-10 12:30:00 +0700
 title: "Việt Hóa Perverted Tea House v0.1.1c - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Perverted Tea House v0.1.1c - [1.6GB]"
 mota: |
  Nhân vật chính là học trò tài năng của Người tu luyện nổi tiếng và đáng sợ nhất hành tinh, quyết tâm khám phá nguồn gốc của mình, và sớm được giao nhiệm vụ đối đầu với mối đe dọa lớn nhất của Vũ trụ: Thần Nguyền rủa. Anh ta sẽ được giúp đỡ bởi nhóm của mình: một vài người được chọn trong số những phụ nữ quyền năng và nóng bỏng nhất Thiên hà!

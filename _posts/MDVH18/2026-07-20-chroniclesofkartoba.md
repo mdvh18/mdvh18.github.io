@@ -5,6 +5,7 @@ date: 2026-07-20 20:30:00 +0700
 title: "Việt Hóa Chronicles of Kartoba Ch.1 P3 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Chronicles of Kartoba Ch.1 P3 Update + WT Mod - [1.5GB]"
 mota: |
  Chronicles of Kartoba là một visual novel giả tưởng đen tối, nơi bạn vào vai một chàng trai trẻ có cuộc sống yên bình bị đập tan vào cái đêm dòng máu ma cà rồng đang ngủ yên trong người thức tỉnh.

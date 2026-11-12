@@ -5,6 +5,7 @@ date: 2026-06-03 15:30:00 +0700
 title: "Việt Hóa Heroine Adventures 3 Release 15 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Heroine Adventures 3 Release 15 - [2.1GB]"
 mota: |
  Phần 3 của Heroine Adventures. Một tập hợp các câu chuyện về Wonder Woman, Lara Croft, Black Widow, Zatanna, Batgirl, Tifa, Black Canary và Power Girl.

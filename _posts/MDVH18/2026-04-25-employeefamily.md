@@ -5,6 +5,7 @@ date: 2026-04-25 11:30:00 +0700
 title: "Việt Hóa My Employee's Family - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["Compressed", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] My Employee's Family Ep.8b Bugfix - [800MB]"
 mota: |
  Bạn có cơ hội lợi dụng gia đình của nhân viên mình.

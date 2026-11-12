@@ -5,6 +5,7 @@ date: 2026-05-28 15:00:00 +0700
 title: "Việt Hóa Ehko Island v1.9 Compeleted - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Ehko Island v1.9 Compeleted ĐÃ FIX APK - [2.3GB]"
 mota: |
  Đảo Ehko là một tiểu thuyết trực quan người lớn lấy bối cảnh khoa học viễn tưởng loạn lạc kể về một nhiếp ảnh gia nghiệp dư đam mê chân và bàn chân, đang cố gắng quyến rũ và chụp lại những người phụ nữ say đắm lòng người nhất hòn đảo để châm ngòi cho một cuộc cách mạng.

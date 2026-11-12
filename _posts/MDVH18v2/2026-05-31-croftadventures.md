@@ -5,6 +5,7 @@ date: 2026-05-31 11:30:00 +0700
 title: "Việt Hóa Croft Adventures v0.6.8b - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Croft Adventures v0.6.8b - [1GB]"
 mota: |
  Chào mừng người dùng đến với trang phát triển trò chơi điện tử của tôi, tôi đang thực hiện câu chuyện tương tác dành cho người lớn này về một nhân vật nữ nổi tiếng.

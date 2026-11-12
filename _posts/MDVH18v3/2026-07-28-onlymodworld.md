@@ -5,6 +5,7 @@ date: 2026-07-28 12:30:00 +0700
 title: "Việt Hóa Only Mods World - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Only Mods World v0.4 Ver Premium - [1.6GB]"
 mota: |
  Bạn đang cháy túi, cùng đường, và chỉ cách việc làm trong mơ đúng một cú click. May sao, một đường sống mở ra như một trang web nội dung mờ ám đang tìm người mới.

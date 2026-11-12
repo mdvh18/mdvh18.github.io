@@ -5,6 +5,7 @@ date: 2026-06-17 10:30:00 +0700
 title: "Việt Hóa Mika's Adventure NTR HAREM v0.1.5 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Mika's Adventure NTR HAREM v0.1.5 - [430MB]"
 mota: |
  Vào vai Mika — một thầy tu đáng yêu với mặt xinh xắn, sự tinh ranh của quỷ, và thèm khát chiếm lấy không biết xấu hổ. Được Lilith, con quỷ cái đầy sức mạnh, chọn, Mika nhận việc len lỏi vào nhóm của người hùng, làm hư những người đi cùng hắn, và cướp lấy mọi cô gái lọt vào mắt của cậu ta.

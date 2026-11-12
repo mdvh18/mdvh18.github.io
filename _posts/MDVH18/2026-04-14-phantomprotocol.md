@@ -5,6 +5,7 @@ date: 2026-04-14 08:00:00 +0700
 title: "Việt Hóa Phantom Protocol - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Phantom Protocol v0.2.5 - [1.4GB]"
 mota: |
  Đừng gây quá nhiều sự chú ý. Hãy biết rõ vị trí của mình và phục tùng. Trong một thế giới đầy rẫy những Bóng ma, bạn chỉ có thể tin tưởng những người có đủ sức mạnh để bảo vệ bạn.

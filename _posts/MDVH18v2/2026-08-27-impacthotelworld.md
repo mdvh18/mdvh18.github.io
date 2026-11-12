@@ -5,6 +5,7 @@ date: 2026-08-27 10:30:00 +0700
 title: "Việt Hóa Impact Hotel: World v0.6 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Impact Hotel: World v0.6 Update - [928MB]"
 mota: |
  Ngay ngoài thành phố, một chàng trai ôm mộng lớn mở khách sạn riêng với một việc cần làm: trả món nợ ngày trước. Nhưng cậu chưa từng ngờ tới việc mỗi căn phòng lại tràn đầy sức sống đến vậy—đầy ắp những điều thầm kín, những cuộc nói chuyện thâu đêm, và những ánh nhìn lưu luyến làm xoay chuyển mọi thứ.

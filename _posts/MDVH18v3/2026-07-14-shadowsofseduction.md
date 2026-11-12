@@ -5,6 +5,7 @@ date: 2026-07-14 20:30:00 +0700
 title: "Việt Hóa Shadows of Seduction v0.4.06070 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Shadows of Seduction v0.4.06070 WT Mod FIX APK - [3.7GB]"
 mota: |
  Bạn sẽ sa vào những cám dỗ chứ? Chưa hết đâu—có những tiếng động lạ phát ra từ dưới tầng hầm sau khi được cử đến trừ tà.

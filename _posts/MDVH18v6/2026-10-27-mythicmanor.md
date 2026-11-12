@@ -5,6 +5,7 @@ date: 2026-10-27 11:30:00 +0700
 title: "Việt Hóa Mythic Manor - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Mythic Manor v0.22 Multi Mod - [4.3GB/2.4GB]"
 mota: |
  Mythic Manor là một tựa game mang đến một mái nhà mới và một thế giới mới. Hãy đắm chìm vào những tưởng tượng của bạn và trải nghiệm cuộc sống thường ngày khi cùng chung sống trong một dinh thự với năm cô nàng thần thoại tuyệt đẹp.

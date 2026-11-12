@@ -5,6 +5,7 @@ date: 2026-09-26 12:30:00 +0700
 title: "Việt Hóa Steps of Debauchery - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Steps of Debauchery Ep.5.2 - [13,6GB/4.8GB/3.2GBAPK]"
 mota: |
  Theo chân Riley, một cô gái rời thị trấn nhỏ lên thành phố để giúp chồng thực hiện ước mơ. Trong khi Mike bận rộn với quán bar của mình, Riley luôn hết lòng hỗ trợ anh và thường đặt hạnh phúc của người khác lên trên chính mình.

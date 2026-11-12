@@ -5,6 +5,7 @@ date: 2026-07-14 12:30:00 +0700
 title: "Việt Hóa Once Again Ch.1 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Once Again Ch.1 - [1.3GB]"
 mota: |
  Sau khi trải qua cái chết và tỉnh dậy vào một năm trước, bạn nhận ra năng lực không giới hạn mà mình có trong tay; bạn có thể trúng số, hay thậm chí là ngăn chặn một biến cố tồi tệ! Tuy nhiên, khi mọi thứ bắt đầu thay đổi quanh bạn, bạn bắt đầu thấy được những ảnh hưởng mà mình gây ra lên thế giới.

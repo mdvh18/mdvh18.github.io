@@ -5,6 +5,7 @@ date: 2026-07-31 12:30:00 +0700
 title: "Việt Hóa Rebellion: Rise of the Damned Completed - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr, com]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Rebellion: Rise of the Damned Completed (NTR) - [2.7GB]"
 mota: |
  Một ngôi sao đang lên trong giới học thuật, một người chơi thể thao tài năng, và một người chồng may mắn, mọi cánh cửa dường như đều rộng mở trước mắt anh. Nhưng anh nào ngờ quyết định định mệnh đưa vợ đi tham quan khảo cổ ở miền nam nước Ý lại dẫn đến sự sụp đổ của đời mình.

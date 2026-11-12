@@ -5,6 +5,7 @@ date: 2026-05-15 10:30:00 +0700
 title: "Việt Hóa Wicked Ways v0.10 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Wicked Ways v0.10 - [1.2GB]"
 mota: |
  Khi bạn cân bằng giữa một sự nghiệp đòi hỏi cao với một đời sống cá nhân phức tạp, bạn sẽ bị cuốn vào một mạng lưới của những mối quan hệ lãng mạn và những tình huống đạo đức khó xử, nơi mọi lựa chọn đều quan trọng. Những trải nghiệm cá nhân của bạn trở thành nguồn cảm hứng nghề nghiệp, cho phép bạn biến những khoảnh khắc và mối quan hệ thoáng qua thành thành công định hình sự nghiệp.

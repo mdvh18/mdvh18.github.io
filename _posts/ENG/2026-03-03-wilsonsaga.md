@@ -5,6 +5,7 @@ date: 2026-03-03 11:10:00 +0700
 title: "ENG Wilson Saga - MDVH18"
 tags: [all, english, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[ENG] Wilson Saga Final - [933MB]"
 mota: |
  Wilson Saga là một tiểu thuyết trực quan dành cho người lớn với các yếu tố khám phá nhẹ nhàng. Hãy tương tác với các nhân vật khác nhau, tìm kiếm hoặc mua những vật phẩm cần thiết, và mở khóa các phân cảnh mới khi bạn hoàn thành mỗi chuỗi tương tác.

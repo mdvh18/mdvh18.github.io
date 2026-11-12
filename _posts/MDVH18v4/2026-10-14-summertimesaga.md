@@ -5,6 +5,7 @@ date: 2026-10-14 10:30:00 +0700
 title: "Việt Hóa Summertime Saga - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Summertime Saga v21.0.0 wip.8194 - [1.3GB]"
 mota: |
  Những tình tiết bí ẩn quanh cái chết chỉ là khởi đầu cho những chuyến phiêu lưu của cậu ấy khi cậu biết rằng bố mình đang mắc nợ một băng nhóm tội phạm mờ ám. Thêm vào danh sách rắc rối, chàng anh hùng trẻ tuổi của chúng ta cần tiết kiệm đủ tiền cho học kỳ đại học và kiếm một người đi cùng trong đêm dạ hội!

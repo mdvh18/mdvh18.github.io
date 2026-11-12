@@ -5,6 +5,7 @@ date: 2026-05-24 15:00:00 +0700
 title: "Việt Hóa The Incredible Miss Fortune Completed - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] The Incredible Miss Fortune Completed - [1.5GB]"
 mota: |
  Kể về một gã đàn ông (Marley) bị biến thành con gái với mục tiêu giành giải thưởng tiền mặt tại một cuộc thi sắc đẹp. Yếu tố cắm sừng có thể né được

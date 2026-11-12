@@ -5,6 +5,7 @@ date: 2026-10-01 10:30:00 +0700
 title: "Việt Hóa Cuckold & Hotwife: Corruption in Paradise - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Cuckold & Hotwife: Corruption in Paradise v0.1 (NTR) Ngắn vcut - [230MB]"
 mota: |
  Bạn nhìn nhận thế giới qua đôi mắt của Alex, một người đàn ông thành đạt từng có một cuộc hôn nhân và sự nghiệp dường như song hành hoàn hảo. Thế nhưng, nỗ lực đầu tiên của anh trong việc xây dựng mái ấm gia đình khi lồng ghép những sở thích tình dục cá nhân (fetish) vào đó đã kết thúc bằng một vụ ly hôn.

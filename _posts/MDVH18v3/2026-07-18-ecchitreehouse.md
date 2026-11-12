@@ -5,6 +5,7 @@ date: 2026-07-18 11:30:00 +0700
 title: "Việt Hóa Ecchi Treehouse! - MDVH18"
 tags: [all, mdvh18, allvh, pc, com]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Ecchi Treehouse! v1.1 Completed (Không thoại, thuần ịt) - [147MB]"
 mota: |
  Ecchi Treehouse! Tự chỉnh theo ý thích cùng một cô nàng thỏ vừa đáng yêu vừa nóng bỏng!

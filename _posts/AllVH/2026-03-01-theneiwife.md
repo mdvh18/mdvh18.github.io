@@ -5,6 +5,7 @@ date: 2026-03-01 10:00:00 +0700
 title: "[Việt Hóa] The Neighbor's Wife 2 - MDVH18"
 tags: [all, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] The Neighbor's Wife 2 - [1.9GB]"
 mota: |
  Bạn được cô nàng hàng xóm nóng bỏng mời đến ăn bữa tối, hay là trở thành bữa tối.

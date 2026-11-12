@@ -5,6 +5,7 @@ date: 2026-03-02 12:00:00 +0700
 title: "[ENG] The Sx Teacher - MDVH18"
 tags: [3dcg, all, english, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[ENG] The Sx Teacher S.01 Ep.01 - [1.1GB]"
 mota: |
  Những cuộc phiêu lưu của bà Nora và hai cô con gái. Bà Nora vừa chấp nhận một công việc giảng dạy giáo dục giới tính tại một trường trung học địa phương cho các học sinh năm cuối.

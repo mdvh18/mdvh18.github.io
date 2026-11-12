@@ -5,6 +5,7 @@ date: 2026-04-01 11:30:00 +0700
 title: "Việt Hóa ChariKiss - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] ChariKiss v0.10.5 - [650MB]"
 mota: |
  Chào mừng bạn đến với ChariKiss! Một cuốn tiểu thuyết trực quan yuri đơn giản, dễ thương đang trong quá trình phát triển. Bạn sẽ có thể hẹn hò với nhiều nhân vật đáng yêu trên hành trình của mình, nhưng hãy đưa ra lựa chọn thật cẩn thận nhé!

@@ -5,6 +5,7 @@ date: 2026-03-10 16:30:00 +0700
 title: "Việt Hóa Paracosmic Reality - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Paracosmic Reality v1.14.0 - [928MB]"
 mota: |
  Một ngày nọ thức dậy và thấy một bức thư bí ẩn trong hòm thư, bạn nhận ra mình vừa được thừa kế một bất động sản! Bạn chẳng hề hay biết rằng ngôi nhà mới này sẽ thay đổi toàn bộ thế giới của mình!

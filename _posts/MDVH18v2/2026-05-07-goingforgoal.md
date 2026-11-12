@@ -5,6 +5,7 @@ date: 2026-05-07 15:30:00 +0700
 title: "Việt Hóa Going for Goal v0.15 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Going for Goal v0.15 - [2.3GB]"
 mota: |
  Cốt lõi của trò chơi là bạn vào vai một cầu thủ bóng đá với rất nhiều tiềm năng. Khốn kiếp, thậm chí bạn có thể đã là người giỏi nhất rồi. Đây là hành trình khám phá của chính bạn.

@@ -5,6 +5,7 @@ date: 2026-05-10 12:30:00 +0700
 title: "Việt Hóa The Sin of Christmas Completed - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] The Sin of Christmas Completed - [222MB]"
 mota: |
  Trò chơi ngắn đặc biệt cho Giáng sinh

@@ -5,6 +5,7 @@ date: 2026-04-24 11:30:00 +0700
 title: "Việt Hóa Serenity Meadows - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Serenity Meadows v0.8 - [1.1GB]"
 mota: |
  Trò chơi kể về câu chuyện của Mike (có thể thay đổi tên) trong năm cuối trung học. Hiện tại, anh phải đối mặt với tất cả những lo âu và thử thách của thời điểm then chốt này trong cuộc đời.

@@ -5,6 +5,7 @@ date: 2026-09-30 12:30:00 +0700
 title: "Việt Hóa Becky's Reckoning - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Becky's Reckoning v1.4 - [1.1GB]"
 mota: |
  Becky's Reckoning là phần tiếp theo tiếp nối các sự kiện trong Shelly's Future Past, theo chân hành trình của Becky—con gái của Shelly và Triss—khi cô bắt đầu chuyến hành trình tìm kiếm một cuộc sống bình thường sau khi đã giúp mẹ mình giải cứu Trái Đất khỏi thảm họa diệt vong đang cận kề.

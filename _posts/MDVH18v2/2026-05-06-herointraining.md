@@ -5,6 +5,7 @@ date: 2026-05-06 17:00:00 +0700
 title: "Việt Hóa Hero in Training - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Hero in Training v0.12 - [983MB]"
 mota: |
  HiT là một trò chơi tiểu thuyết trực quan kích dục, nơi bạn sẽ theo chân câu chuyện của một người hùng cần trải qua quá trình huấn luyện cường độ cao để bảo vệ ngôi làng và những người anh ấy yêu thương khỏi một mối đe dọa khủng khiếp!

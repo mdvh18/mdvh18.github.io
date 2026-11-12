@@ -5,6 +5,7 @@ date: 2026-02-22 12:30:00 +0700
 title: "[Việt Hóa] Summer Vacation with a Female Brat - MDVH18"
 tags: [all, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Summer Vacation with a Female Brat - [786MB]"
 mota: |
  Kỳ nghỉ hè. Trong khi bố mẹ đang ở nước ngoài, Takuma sống cùng với cô em gái của mình, Hiyori. Hiyori từng là một cô bé rất ngoan ngoãn và đáng yêu, nhưng dạo gần đây, con bé bắt đầu trở nên hơi bướng bỉnh và hay vặn vẹo.

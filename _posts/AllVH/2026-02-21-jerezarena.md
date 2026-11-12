@@ -5,6 +5,7 @@ date: 2026-02-21 16:30:00 +0700
 title: "[Việt Hóa] Jerez s Arena - MDVH18"
 tags: [all, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Jerez s Arena - [330MB]"
 mota: |
  Glenn là một chủ nô, kẻ coi trọng tiền bạc hơn cả mạng sống con người. Hắn đã thắng thầu Claudia, con gái của gia tộc Quinel từng là quý tộc, tại một buổi đấu giá.

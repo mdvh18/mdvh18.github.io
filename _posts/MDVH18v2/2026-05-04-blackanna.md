@@ -5,6 +5,7 @@ date: 2026-05-04 10:30:00 +0700
 title: "Việt Hóa Black Anna Final - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Black Anna Final - [237MB]"
 mota: |
  Gợi cảm và tâm trạng, vừa nhanh chóng lại vừa chậm rãi. Đêm của một người đàn ông sống cô độc một mình.

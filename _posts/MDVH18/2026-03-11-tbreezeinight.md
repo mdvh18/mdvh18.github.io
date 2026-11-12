@@ -5,6 +5,7 @@ date: 2026-03-11 19:30:00 +0700
 title: "Việt Hóa The Breeze in Night - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] The Breeze in Night v0.1.1 - [502MB]"
 mota: |
  Bạn trở về nhà sau khi học đại học, hãy tận hưởng thời gian cùng bốn cô gái nóng bỏng.

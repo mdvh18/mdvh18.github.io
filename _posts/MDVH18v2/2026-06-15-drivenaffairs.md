@@ -5,6 +5,7 @@ date: 2026-06-15 17:30:00 +0700
 title: "Việt Hóa Driven Affairs v0.9 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Driven Affairs v0.9 - [2GB]"
 mota: |
  Driven Affairs là một cuốn tiểu thuyết nơi bạn vào vai một tài xế ở thành phố New York, lái chiếc Bentley của mình và xây dựng mối quan hệ với những khách hàng giàu có và quyến rũ của bạn!

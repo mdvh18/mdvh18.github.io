@@ -5,6 +5,7 @@ date: 2026-04-25 16:30:00 +0700
 title: "ENG Survivor Girls Sanctuary Final - MDVH18"
 tags: [all, english, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[ENG] Survivor Girls Sanctuary Final - [362MB]"
 mota: |
  Một ngày nọ, thế giới bất ngờ bị xâm lăng bởi những quái vật không rõ nguồn gốc, nhấn chìm tất cả vào thời kỳ tận thế. Người chơi sẽ vào vai nhân vật chính.

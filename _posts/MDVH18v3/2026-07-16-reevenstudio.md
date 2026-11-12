@@ -5,6 +5,7 @@ date: 2026-07-16 12:30:00 +0700
 title: "Việt Hóa Re Even v0.3.1 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Re Even v0.3.1 - [1.5GB]"
 mota: |
  Bị đổ tội giết chính cha ruột khi còn nhỏ. Sau nhiều năm ngồi tù, cuối cùng cũng được tự do. Muốn xây dựng lại cuộc đời, nhưng mọi thứ đã thay đổi. Những giấc mơ giờ đây mở ra cánh cửa dẫn tới những thế giới khác, một thế giới mà định mệnh gắn liền với nó.

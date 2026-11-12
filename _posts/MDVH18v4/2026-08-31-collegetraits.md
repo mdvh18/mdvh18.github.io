@@ -5,6 +5,7 @@ date: 2026-08-31 12:30:00 +0700
 title: "Việt Hóa College Traits - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] College Traits v0.10.4 + Cheat (K ngắn đâu) - [220MB]"
 mota: |
  Bạn mới vào trường năm nhất và phải làm quen với môi trường mới. Gặp gỡ các cô gái và chinh phục họ trong 100 ngày.

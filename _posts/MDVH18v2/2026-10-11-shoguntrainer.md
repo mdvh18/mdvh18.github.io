@@ -5,6 +5,7 @@ date: 2026-10-11 12:00:00 +0700
 title: "Việt Hóa Shogun Trainer Chapter 2 Update - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Shogun Trainer Ch.2 1.0 (Đổi tiếng ấn A góc phải) - [830MB]"
 mota: |
  Chào mừng bạn đến với Shogun Trainer, một tựa game dành cho người hâm mộ (fangame) lấy bối cảnh trong vũ trụ Genshin với nhân vật chính là Raiden Shogun. Trong trò chơi này, bạn sẽ vào vai Quan Đại Thần Quản Trị của Hiệp Hội Shogun.

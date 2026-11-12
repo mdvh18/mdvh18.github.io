@@ -5,6 +5,7 @@ date: 2026-07-09 09:00:00 +0700
 title: "Việt Hóa My Dress Up NTR: Unseen Desire - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] My Dress Up NTR: Unseen Desire v0.7 P3 Update - [1.4GB]"
 mota: |
  Một bản parody của "My Dress-Up Darling", nơi bạn vào vai Gojo, một người thợ may trang phục nhút nhát nhưng tài năng đang tận hưởng những ngày tháng yên bình bên cạnh Marin. Mọi thứ dường như vẫn bình thường cho đến một ngày, trường của bạn có hiệu trưởng mới, và cùng lúc đó, một học sinh chuyển trường tên là Kenji xuất hiện.

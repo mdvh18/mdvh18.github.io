@@ -5,6 +5,7 @@ date: 2026-06-08 15:30:00 +0700
 title: "Việt Hóa King's Revolt v0.1.1 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] King's Revolt v0.1.1 FIX LỖI FONT - [475MB]"
 mota: |
  Hãy theo dõi câu chuyện hấp dẫn về một nhân viên văn phòng khốn khổ, người có quá khứ là một cựu võ sĩ MMA bị kéo trở lại dưới ánh đèn sân khấu khi anh bị đẩy vào thế giới hỗn loạn của những lính đánh thuê.

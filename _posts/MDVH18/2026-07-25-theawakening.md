@@ -5,6 +5,7 @@ date: 2026-07-25 10:00:00 +0700
 title: "Việt Hóa The Awakening - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK", "Compressed"]
+price: "free"
 namebanner: "[Việt Hóa] The Awakening v0.4.9 - [5.5GB/2.2GB APK]"
 mota: |
  Sau hai năm, cuối cùng bạn cũng tỉnh dậy sau một cơn hôn mê do tai nạn xe hơi gây ra. Bạn đang bị mất trí nhớ và không có một chút ý niệm nào về việc mình đang rơi vào tình cảnh như thế nào.

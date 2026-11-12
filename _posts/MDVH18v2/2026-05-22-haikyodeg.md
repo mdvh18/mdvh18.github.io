@@ -5,6 +5,7 @@ date: 2026-05-22 14:30:00 +0700
 title: "Việt Hóa G in the Ruins Haikyode G v2.1  - MDVH18"
 tags: [all, mdvh18, allvh, pc, com]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] G in the Ruins Haikyode G v2.1  - [319MB]"
 mota: |
  Egotto, một cô gái tò mò và thích phiêu lưu với trí tưởng tượng sống động, luôn khám phá những ảo tưởng của mình mỗi đêm, dấn thân vào những bối cảnh độc đáo và đầy bí ẩn.

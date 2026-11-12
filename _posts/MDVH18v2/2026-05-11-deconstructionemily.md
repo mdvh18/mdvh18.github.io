@@ -5,6 +5,7 @@ date: 2026-05-11 11:30:00 +0700
 title: "Việt Hóa Deconstruction of Emily - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Deconstruction of Emily 1.0.6 - [814MB]"
 mota: |
  Deconstruction of Emily theo chân bạn trong vai nhân vật chính và người bạn của bạn, Emily. Emily là một người tốt bụng, ngọt ngào và là đồng nghiệp lâu năm của bạn.

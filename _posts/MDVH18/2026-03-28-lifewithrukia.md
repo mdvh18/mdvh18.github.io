@@ -5,6 +5,7 @@ date: 2026-03-28 15:30:00 +0700
 title: "Việt Hóa Life with Rukia - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Life with Rukia v0.1.1 - [123MB]"
 mota: |
  Life With Rukia là một trò chơi mô phỏng hẹn hò chế bản dành cho người lớn, nơi những lựa chọn của bạn đều có sức nặng. Hãy tán tỉnh, gắn kết với Rukia cùng các nhân vật biểu tượng khác, và đắm mình vào cuộc sống học đường thư giãn đầy rẫy những bất ngờ.

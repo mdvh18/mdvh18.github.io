@@ -5,6 +5,7 @@ date: 2026-10-06 12:30:00 +0700
 title: "Việt Hóa Knight of Love - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Knight of Love P1K5 - [12GB/5GB]"
 mota: |
  Khi còn là một thanh niên, bạn đến thị trấn Moondale nhỏ bé và yên bình, nơi gần đây liên tục diễn ra những điều kỳ lạ. Trường tư thục nam sinh—nơi bạn vừa bị đuổi học—đã để lại cho bạn một dấu ấn: dấu ấn của sự còn tờ rinh.

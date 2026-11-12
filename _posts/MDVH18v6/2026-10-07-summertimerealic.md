@@ -5,6 +5,7 @@ date: 2026-10-07 11:30:00 +0700
 title: "Việt Hóa Summertime Saga: Realistic Remake - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Summertime Saga: Realistic Remake v0.3.0 - [1.3GB/875MB]"
 mota: |
   Theo chân một chàng trai trẻ sau tang lễ của cha mình, khi anh chuyển đến sống cùng một người bạn của gia đình, bắt đầu lật mở những gánh nặng xung quanh các khoản nợ của cha để lại, đồng thời chuẩn bị cho ngày trở lại trường đại học.

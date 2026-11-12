@@ -5,6 +5,7 @@ date: 2026-04-15 11:30:00 +0700
 title: "Việt Hóa False Narrative - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] False Narrative v0.4 - [2.7GB]"
 mota: |
  Nhân vật chính là một thanh niên 18 tuổi đang sống cùng cha mình. Một ngày nọ, cha anh gặp gỡ một người phụ nữ và quyết định kết hôn với bà ấy. Thật tình cờ, người phụ nữ đó cũng có một cô con gái bằng tuổi với nhân vật chính.

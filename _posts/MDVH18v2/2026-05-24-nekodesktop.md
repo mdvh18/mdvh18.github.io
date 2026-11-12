@@ -5,6 +5,7 @@ date: 2026-05-24 10:00:00 +0700
 title: "Việt Hóa Neko Desktop Pet 2 v1.2 - MDVH18"
 tags: [all, mdvh18, allvh, pc, com]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Neko Desktop Pet 2 v1.2 Completed - [397MB]"
 mota: |
  Neko-chan đã ở đây vì bạn! Người bạn đồng hành tương tác trên màn hình máy tính của bạn đã quay trở lại để ở bên cạnh bạn trong khi bạn lướt mạng, xem video, chơi game hoặc chỉ đơn giản là thư giãn.

@@ -5,6 +5,7 @@ date: 2026-05-13 17:00:00 +0700
 title: "Việt Hóa The Last Year - MDVH18"
 tags: [all, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] The Last Year v0.5.4 - [1GB]"
 mota: |
  The Last Year là một trò chơi visual novel và sandbox kết hợp giữa chính kịch tuổi teen, lãng mạn và bí ẩn. Người chơi sẽ vào vai một nam sinh trong năm cuối trung học, đưa ra những lựa chọn và xây dựng các mối quan hệ.

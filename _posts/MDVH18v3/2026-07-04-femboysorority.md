@@ -5,6 +5,7 @@ date: 2026-07-04 12:31:00 +0700
 title: "Việt Hóa Femboy Sorority 0.3e - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Femboy Sorority 0.3e - [1.7GB]"
 mota: |
  Nhân vật chính đã chuyển từ lớp kỹ thuật sang lớp nghệ thuật, quyết định cuối cùng cũng theo đuổi sở thích mà anh đã giấu mọi người bấy lâu. Cùng khoảng thời gian đó, cô bạn thanh mai trúc mã của anh cũng nhập học vào cùng trường đại học. Câu chuyện bắt đầu đúng một ngày trước thời khắc đó.

@@ -5,6 +5,7 @@ date: 2026-03-23 11:30:00 +0700
 title: "Việt Hóa] Just a f#cking game - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Just a f#cking game v1.4 - [4.45GB]"
 mota: |
  Bạn bắt đầu chuyến hành trình của mình với tư cách là một giáo viên tại một ngôi trường nữ sinh.

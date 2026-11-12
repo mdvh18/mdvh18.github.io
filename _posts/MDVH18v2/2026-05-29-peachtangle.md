@@ -5,6 +5,7 @@ date: 2026-05-29 11:30:00 +0700
 title: "Việt Hóa Peach Tangle Completed - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Peach Tangle Completed - [670MB]"
 mota: |
  Một chàng trai và một cô gái, cùng một câu chuyện về việc đánh bại sự cô đơn trong một khu rừng thần bí. Một tiểu thuyết trực quan lãng mạn ngắn gọn và ấm lòng, nơi bạn sẽ làm quen với cô nàng cá tính đáng yêu Mira! Các cảnh hoạt họa, âm nhạc tuyệt vời và nghệ thuật đạt giải thưởng!

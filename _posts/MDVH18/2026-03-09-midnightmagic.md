@@ -6,6 +6,7 @@ title: "Việt Hóa Midnight Magic - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 namebanner: "[Việt Hóa] Midnight Magic v0.0.16 - [2.2GB]"
 typegame: ["PC"]
+price: "free"
 mota: |
  Cuộc sống yên bình của bạn tan thành mây khói vào cái đêm lính canh của Nhà vua thiêu rụi cô nhi viện... khi em gái Alice của bạn vẫn còn kẹt lại bên trong. Trắng tay với đầy rẫy những câu hỏi cùng một vương quốc đang muốn lấy mạng mình, bạn lạc lõng tại một vùng đất nơi những kẻ mang dòng máu ma thuật bị săn lùng, khiếp sợ và bị gạt ra ngoài lề xã hội.
 gametype: "Sandbox"

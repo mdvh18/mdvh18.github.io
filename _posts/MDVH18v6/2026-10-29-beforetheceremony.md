@@ -5,6 +5,7 @@ date: 2026-10-29 12:30:00 +0700
 title: "Việt Hóa Before the Ceremony - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Before the Ceremony v0.4 (NTR) - [820MB]"
 mota: |
  Cuộc sống bình yên của họ bất ngờ bị gián đoạn khi Karl nhận được một bức thư không ngờ tới từ Bronn, người đồng đội cũ đồng thời là một trong những người bạn thân nhất của anh. Những tưởng chỉ là một buổi hội ngộ đơn giản giữa những người bạn cũ, nhưng nó lại có thể biến thành một điều mà không ai trong số họ có thể ngờ tới...

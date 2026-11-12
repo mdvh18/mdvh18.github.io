@@ -5,6 +5,7 @@ date: 2026-06-23 10:30:00 +0700
 title: "Việt Hóa Sparkle Roulette Compeleted - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Sparkle Roulette Compeleted - [137MB]"
 mota: |
  Chơi với Sparkle nàoooo

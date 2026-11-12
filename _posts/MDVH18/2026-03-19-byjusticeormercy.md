@@ -5,6 +5,7 @@ date: 2026-03-19 17:30:00 +0700
 title: "Việt Hóa By Justice or Mercy - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK", "Compressed"]
+price: "free"
 namebanner: "[Việt Hóa] By Justice or Mercy v21 - [3.1BG/974MB]"
 mota: |
  Trong By Justice or Mercy, bạn vào vai một gã thanh niên ít nói, nóng tính, nhưng đầy tham vọng. Bốn năm sau khi bị gán mác là kẻ sát nhân, bạn đang trên đường về nhà sau khi đã bỏ chạy trước đó.

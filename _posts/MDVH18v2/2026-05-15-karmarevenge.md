@@ -5,6 +5,7 @@ date: 2026-05-15 17:00:00 +0700
 title: "Việt Hóa Karma's Revenge - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Karma's Revenge Ch.1 P2 - [628MB]"
 mota: |
  Mười năm trước, một nhóm người lạ mặt đã đột kích vào một ngôi nhà ở vùng nông thôn, giết sạch mọi người bên trong. Một cô gái đã may mắn sống sót. Tên cô ấy là Karma. Giờ đây, cô ấy đã quay trở lại để trả thù cho cái chết của gia đình mình.

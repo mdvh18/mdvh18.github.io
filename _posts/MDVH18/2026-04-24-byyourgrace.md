@@ -5,6 +5,7 @@ date: 2026-04-24 12:30:00 +0700
 title: "Việt Hóa By Your Grace - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] By Your Grace v0.2 - [730MB]"
 mota: |
  By Your Grace là một visual novel giả tưởng dành cho người lớn, nơi bạn vào vai một vị vua trẻ đang cai trị một vương quốc thịnh vượng nhưng mong manh. Phía sau những bức tường lâu đài là những căng thẳng chính trị, trách nhiệm triều chính và cuộc sống riêng tư phức tạp của những người thân cận nhất với ngai vàng.

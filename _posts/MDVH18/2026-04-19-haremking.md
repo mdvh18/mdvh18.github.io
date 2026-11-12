@@ -5,6 +5,7 @@ date: 2026-04-19 11:30:00 +0700
 title: "Việt Hóa Harem King - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Harem King v0.2a - [1.5GB]"
 mota: |
  Bạn vào vai Isaac, một người đàn ông đã cố tình chọn một cuộc sống nhỏ bé, yên bình giữa một thế giới hỗn loạn — làm thợ mộc cùng với cha mình, tránh xa những âm mưu chính trị nơi cung đình, mặc dù là cháu trai của Vua Mikhail xứ Aurelion.

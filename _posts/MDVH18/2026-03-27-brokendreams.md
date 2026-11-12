@@ -5,6 +5,7 @@ date: 2026-03-27 16:30:00 +0700
 title: "Việt Hóa Broken Dreams - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Broken Dreams v0.5.1 - [1.8GB]"
 mota: |
  Bạn thức dậy trong cuộc sống tẻ nhạt của một nhà tâm lý học, đi làm như bao ngày khác tại trường đại học, kết thúc ngày làm việc và ghé vào một quán bar, rồi trong chớp mắt... bạn không còn là chính mình nữa.

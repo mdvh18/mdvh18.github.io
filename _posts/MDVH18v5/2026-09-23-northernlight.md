@@ -5,6 +5,7 @@ date: 2026-09-23 12:30:00 +0700
 title: "Việt Hóa Northern Lights: The Beginning - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Northern Lights: The Beginning v0.5 - [665MB]"
 mota: |
  Bước vào thế giới của Leo với những cảnh quay tương tác đầy chân thực! Bạn sẽ đắm chìm vào một cốt chuyện giật gân xoay quanh một nhóm điệp viên bí mật, nơi mỗi người đều dấn thân vào những nhiệm vụ nguy hiểm và kín kẽ. Hành trình của họ đong đầy sự kịch tính, những âm mưu và cả niềm đam mê cháy bỏng.

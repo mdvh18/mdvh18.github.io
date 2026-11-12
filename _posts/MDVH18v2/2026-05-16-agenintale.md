@@ -5,6 +5,7 @@ date: 2026-05-16 15:30:00 +0700
 title: "Việt Hóa A genin tale - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] A genin tale v0.3 - [250NB]"
 mota: |
  Nơi bạn vào vai một cậu bé được gửi đến Làng Lá để tiếp tục huấn luyện ninja sau khi ngôi làng của mình bị tấn công. Tại đây, bạn cũng sẽ phải khám phá những gì đã xảy ra với gia đình mình và truy tìm những kẻ chịu trách nhiệm cho cuộc tấn công đó.

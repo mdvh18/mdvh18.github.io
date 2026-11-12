@@ -5,6 +5,7 @@ date: 2026-04-29 05:00:00 +0700
 title: "Việt Hóa Idol Forgin - MDVH18"
 tags: [all, allvh]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Idol Forging v1.0.1.23 - [391MB]"
 mota: |
  Một trò chơi mô phỏng lãng mạn kết hợp quản lý thời gian thuộc thể loại AVG. Trong vai một người hâm mộ, bạn đón thần tượng Momoka về để bắt đầu cuộc sống chung. Gây ảnh hưởng đến mối quan hệ thông qua lịch trình hàng ngày và các lựa chọn đối thoại: làm việc, cổ vũ tại các buổi hòa nhạc, tặng quà..

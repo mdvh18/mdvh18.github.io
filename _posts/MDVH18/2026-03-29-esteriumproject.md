@@ -5,6 +5,7 @@ date: 2026-03-29 12:30:00 +0700
 title: "Việt Hóa] Esterium Project - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Esterium Project v0.004 - [85MB]"
 mota: |
  Bạn có thể chọn lớp nhân vật và tiểu sử cho nhân vật chính. Hiện tại chưa có nhiều lựa chọn, nhưng sẽ có thêm nội dung trong tương lai. Hiện tại, trò chơi có hệ thống hành trang và giao dịch, chế tạo, nhật ký nhiệm vụ chi tiết, đối thoại và khám phá các địa điểm.

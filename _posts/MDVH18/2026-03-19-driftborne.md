@@ -5,6 +5,7 @@ date: 2026-03-19 14:30:00 +0700
 title: "Việt Hóa Driftborne - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Driftborne Ep.1.2 - [551MB]"
 mota: |
  Bạn sẽ làm gì nếu sợi dây liên kết duy nhất với cuộc sống bình thường đột ngột bị đập tan bởi một thế lực xa lạ từ quá khứ đã bị quên lãng từ lâu? Cô độc, và bị bỏ mặc cho đến chết, bạn buộc phải vạch ra một con đường mới từ một tàn lửa cũ, bấu víu vào bất cứ ai còn sót lại để quan tâm.

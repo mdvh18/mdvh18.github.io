@@ -5,6 +5,7 @@ date: 2026-05-01 17:30:00 +0700
 title: "Việt Hóa The Wanking Dead - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["Compressed", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] The Wanking Dead v0.054 Rework - [1.6GB]"
 mota: |
  Bạn vào vai một người đàn ông vừa tỉnh dậy sau cơn hôn mê, để rồi nhận ra rằng thế giới đã hoàn toàn khác so với những gì anh ta nhớ. Anh ta sẽ phải đối mặt với những lựa chọn khác nhau, và chúng sẽ gây ra những hậu quả cho những người sống sót khác. Liệu anh ta có thể trở thành người lãnh đạo mà thế giới mới này đang khao khát có được?

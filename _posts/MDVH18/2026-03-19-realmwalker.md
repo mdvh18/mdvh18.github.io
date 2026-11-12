@@ -5,6 +5,7 @@ date: 2026-03-19 21:30:00 +0700
 title: "Việt Hóa RealmWalker - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] RealmWalker v1.7 - [3.3GB]"
 mota: |
  Trong Realm Walker, anh được nữ tư tế quyền năng Kalythra triệu hồi để đánh bại một mối nguy hại đang rình rập. Tuy nhiên, khi kiểm tra khả năng tương thích với phép thuật của anh, cô ta cho rằng anh không xứng đáng và bỏ mặc anh trong một hầm ngục đầy rẫy quái vật.

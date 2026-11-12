@@ -5,6 +5,7 @@ date: 2026-06-05 12:30:00 +0700
 title: "Việt Hóa Difficult Choice Completed - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Difficult Choice Completed - [430MB]"
 mota: |
  Nếu bạn muốn ăn trộm thứ gì đó, hãy chuẩn bị tinh thần bị bắt. Và hãy chấp nhận hình phạt của mình một cách có tự trọng.

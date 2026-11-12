@@ -5,6 +5,7 @@ date: 2026-06-05 15:00:00 +0700
 title: "Việt Hóa Mystery of Magic - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Mystery of Magic v0.2.3p FIX lỗi ảnh - [1.3GB]"
 mota: |
  Trò chơi này diễn ra ở một vũ trụ song song. Vì vậy nó có thể hơi khác so với bản gốc. Giáo sư Doubleroar đã bị dịch chuyển bởi Những Kẻ Tầm Tối.

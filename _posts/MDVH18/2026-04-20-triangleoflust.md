@@ -5,6 +5,7 @@ date: 2026-04-20 13:30:00 +0700
 title: "Việt Hóa Triangle of Lust - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Triangle of Lust v0.8 - [1.3GB]"
 mota: |
  Trò chơi này dành cho những người yêu thích thể loại ugly bastard và sở thích đàn ông già, ngoài ra còn có cả NTR.

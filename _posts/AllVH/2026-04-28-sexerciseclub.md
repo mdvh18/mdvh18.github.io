@@ -5,6 +5,7 @@ date: 2026-04-28 18:30:00 +0700
 title: "Việt Hóa Sexercise Club Completed - MDVH18"
 tags: [all, allvh]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Sexercise Club Completed - [340MB]"
 mota: |
  Huấn luyện những cô nàng tuyệt đẹp trong phòng tập gym của riêng bạn. Quản lý các bài tập, tăng chỉ số, lên lịch các buổi tập cá nhân và dẫn dắt từng nữ chính vượt qua những khao khát và tình huống khó xử của họ. Biến mồ hôi và kỷ luật thành sự tự tin, những đường cong và những bài tập tình dục thuần túy!

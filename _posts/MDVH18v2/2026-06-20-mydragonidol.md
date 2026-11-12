@@ -5,6 +5,7 @@ date: 2026-06-20 15:31:00 +0700
 title: "Việt Hóa My Dragon Idol Uncensored - MDVH18"
 tags: [all, mdvh18, allvh, pc, com]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] My Dragon Idol Uncensored Completed - [590MB]"
 mota: |
  Trò chơi mô phỏng hẹn hò tăng chỉ số, nơi bạn giúp một ngôi sao đang chật vật với mặt trái của sự nổi tiếng.

@@ -5,6 +5,7 @@ date: 2026-07-22 10:30:00 +0700
 title: "Việt Hóa Strange Search Sister APK/PC - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Strange Search Sister V0.2.1 Update - [303MB]"
 mota: |
  Một tựa game tiểu thuyết trực quan dành cho người lớn với cốt truyện sâu sắc, lấy bối cảnh trong vũ trụ Genshin Impact. ✦ Câu Chuyện Bắt Đầu Với Sự Mất Mát ✦ Bạn tỉnh dậy một mình trên một bờ biển xa lạ. Ký ức của bạn chỉ còn là những mảnh vụn. Cơ thể bạn cảm thấy nặng nề.

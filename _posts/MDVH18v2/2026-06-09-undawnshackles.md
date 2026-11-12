@@ -5,6 +5,7 @@ date: 2026-06-09 15:30:00 +0700
 title: "Việt Hóa UNDAWN: Shackles Of Eternity Ch.2 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] UNDAWN: Shackles Of Eternity Ch.2 - [814MB]"
 mota: |
  Đây là một câu chuyện lấy bối cảnh trong một thế giới nơi ánh sáng và bóng tối từ lâu đã hòa vào làm một, và sự thật chỉ phụ thuộc vào kẻ nắm giữ quyền lực lớn hơn. Không có phe chính nghĩa ở đây, không có anh hùng trong bộ giáp sáng ngời. Ngay cả những ý định thuần khiết nhất cũng có thể biến thành thảm họa, và lựa chọn rõ ràng nhất có thể mở ra cánh cửa dẫn đến một điều gì đó tồi tệ hơn nhiều.

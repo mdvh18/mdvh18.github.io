@@ -5,6 +5,7 @@ date: 2026-09-11 13:31:00 +0700
 title: "Việt Hóa Crowhaven Ep.6 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Crowhaven Ep.6 Update - [1.4GB]"
 mota: |
  Bạn được thuê làm bác sĩ gia đình tại một thị trấn tên là Crowhaven, trong một phòng khám mới toanh, làm việc cùng với hai cô y tá xinh đẹp (hóa ra họ là chị em ruột).

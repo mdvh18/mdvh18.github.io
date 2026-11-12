@@ -5,6 +5,7 @@ date: 2026-03-10 12:30:00 +0700
 title: "ENG In for a Penny - MDVH18"
 tags: [all, english, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[ENG] In for a Penny v0.76 - [2.92GB]"
 mota: |
  Ngay sau khi vừa thi xong kỳ thi cấp ba cuối cùng và đang chạy đến bên cô gái trong mộng, bạn bị một chiếc xe tải quái ác đâm trúng trên đường và kết cục là rơi thẳng xuống địa ngục.

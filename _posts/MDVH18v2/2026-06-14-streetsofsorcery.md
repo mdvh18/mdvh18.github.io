@@ -5,6 +5,7 @@ date: 2026-06-14 17:31:00 +0700
 title: "Việt Hóa LA: Streets of Sorcery v1.8b  - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] LA: Streets of Sorcery v1.8b - [3GB]"
 mota: |
  Điều tra các tội ác phép thuật, tán tỉnh cộng sự của bạn, đọc suy nghĩ của nghi phạm, và định hình cái kết dựa trên những lựa chọn của bạn. Chào mừng đến với Sở Vi phạm Phép thuật!

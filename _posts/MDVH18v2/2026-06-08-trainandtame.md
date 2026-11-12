@@ -5,6 +5,7 @@ date: 2026-06-08 10:30:00 +0700
 title: "Việt Hóa Train and Tame Final - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Train and Tame Final - [580MB]"
 mota: |
  Train and Tame là nơi bạn vào vai một huấn luyện viên cá nhân tại một câu lạc bộ thể hình cao cấp dành cho những người phụ nữ giàu có.

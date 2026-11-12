@@ -5,6 +5,7 @@ date: 2026-10-14 12:30:00 +0700
 title: "Việt Hóa Eva's Ecstasy - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Eva's Ecstasy v1.4 - [2.3GB]"
 mota: |
  Lấy bối cảnh sáu năm sau các sự kiện trong Amy's Ecstasy. Nữ chính của chúng ta, Eva, là một cô gái bình thường có cuộc sống hoàn toàn thay đổi khi cô gặp một người tự xưng là hiểu Eva hơn bất kỳ ai khác.

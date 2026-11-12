@@ -5,6 +5,7 @@ date: 2026-06-24 16:30:00 +0700
 title: "Việt Hóa Tsunade's Scroll v0.2 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Tsunade's Scroll v0.2 (Độ dài trung bình k ngắn) - [735MB]"
 mota: |
  Bạn đang vào vai Orochimaru xấu xa, kẻ bằng mọi giá phải trả thù Konoha. Giả làm thầy Kakashi siêu ngầu, hắn đã nắm trọn ngôi làng.

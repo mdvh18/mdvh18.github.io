@@ -5,6 +5,7 @@ date: 2026-05-21 12:30:00 +0700
 title: "Việt Hóa The Fallen Angel v0.7 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] The Fallen Angel v0.7 - [368MB]"
 mota: |
  Liệu bạn có thể giúp cô ấy?

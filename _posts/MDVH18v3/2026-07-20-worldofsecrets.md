@@ -5,6 +5,7 @@ date: 2026-07-20 15:30:00 +0700
 title: "Việt Hóa World of Secrets v0.6.7 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] World of Secrets v0.6.7 - [5GB/1.5GBAPK]"
 mota: |
  Đắm mình vào chiều sâu tăm tối của World of Secrets, nơi mọi lựa chọn của bạn khắc nên số phận của một linh hồn đơn độc mắc kẹt trong mạng lưới điều bí ẩn. Được nuôi dạy trong sự cô lập, bị ám ảnh bởi quá khứ phủ đầy bí mật, bạn sẽ đi qua một thế giới nơi lòng tin là một canh bạc và sức mạnh ẩn nấp ở mọi ngóc ngách.

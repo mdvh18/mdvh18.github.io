@@ -5,6 +5,7 @@ date: 2026-05-10 17:30:00 +0700
 title: "Việt Hóa High Desire Ep.3 - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] High Desire Ep.3 - [3.1GB]"
 mota: |
  High Desire là một trò chơi tiểu thuyết dành cho người lớn, đưa bạn vào vai một chàng trai trẻ đang có nhiều mâu thuẫn cùng những ước mơ lớn lao trở thành một tay đua xe chuyên nghiệp.

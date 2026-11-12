@@ -5,6 +5,7 @@ date: 2026-03-12 15:30:00 +0700
 title: "Việt Hóa Secrets Between Lines - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Secrets Between Lines Ch.2 APK/PC- [1.1GB]"
 mota: |
  Bạn vào vai một tài xế taxi đang chật vật để duy trì cuộc sống của mình. Giờ làm việc kéo dài, người mẹ đau ốm, và một người anh trai dường như chẳng còn quan tâm gì nữa đã biến mỗi ngày thành một chuỗi mệt mỏi và thất vọng lặng lẽ.

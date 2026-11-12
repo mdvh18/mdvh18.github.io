@@ -5,6 +5,7 @@ date: 2026-05-08 09:00:00 +0700
 title: "Việt Hóa Life in a Secret Share House - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Life in a Secret Share House v1.0.7 - [308MB]"
 mota: |
  Bạn (nhân vật chính) sống trong một căn nhà chia sẻ hai người. Một ngày nọ, công ty quản lý thông báo với bạn rằng sẽ có một người thuê nhà mới chuyển đến.

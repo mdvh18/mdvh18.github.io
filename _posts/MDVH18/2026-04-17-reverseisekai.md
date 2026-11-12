@@ -5,6 +5,7 @@ date: 2026-04-17 10:00:00 +0700
 title: "Việt Hóa Reverse Isekai v0.1 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Reverse Isekai v0.1 - [1.3GB]"
 mota: |
  Thế giới Ethernia đã bị chiến tranh tàn phá, buộc những cư dân ở đó, chủ yếu là tộc tiên, phải tìm đến Trái Đất làm nơi trú ẩn cuối cùng. Trong khi các nhà lãnh đạo toàn cầu đang tranh cãi về cách xử lý sự xuất hiện đột ngột của một chủng tộc khác, một cuộc thử nghiệm độc đáo bắt đầu tại một ngôi trường địa phương.

@@ -5,6 +5,7 @@ date: 2026-10-22 16:30:00 +0700
 title: "Việt Hóa Lusty Buccaneers - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Lusty Buccaneers v0.55  + Cheat MDVH18- [400MB]"
 mota: |
  (APK không chọn tiếng việt, cứ chơi thẳng) Trong Lusty Buccaneers, bạn vào vai một cướp biển trẻ, ra khơi cùng một nhóm cướp biển nóng bỏng để đi tìm những cuộc phiêu lưu.

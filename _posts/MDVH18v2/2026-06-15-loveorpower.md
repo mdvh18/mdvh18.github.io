@@ -5,6 +5,7 @@ date: 2026-06-15 10:30:00 +0700
 title: "Việt Hóa Love or Power v0.3.8 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Love or Power v0.3.8 - [1.1GB]"
 mota: |
  Ngày xửa ngày xưa... Hai quốc gia Groejen và Eskium lao vào cuộc chiến tranh. Gần cuối cuộc chiến gian khổ, Groejen suy yếu. Eskium sắp sửa giành chiến thắng. Với mọi thứ đều bất lợi cho Groejen, họ đã phát triển các Eldon với vô số bùa chú và độc dược từ thế giới khác.

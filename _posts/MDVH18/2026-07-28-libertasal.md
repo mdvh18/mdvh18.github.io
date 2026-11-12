@@ -5,6 +5,7 @@ date: 2026-07-28 10:30:00 +0700
 title: "Việt Hóa Libertas: Awakened Lust - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Libertas: Awakened Lust Update v0.9 - [600MB]"
 mota: |
  Theo chân Emily, một người vợ chung thủy khi cô bị cuốn vào Libertas - thành phố của sự giải phóng. Thành phố này sẽ thử thách và tha hóa cô khi cô cố gắng chống lại nó.​

@@ -5,6 +5,7 @@ date: 2026-05-07 17:30:00 +0700
 title: "Việt Hóa Colorful Worlds v0.4.5 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Colorful Worlds v0.4.5 - [806MB]"
 mota: |
  Chào mừng bạn đến với cuộc sống đại học và hành trình làm hoạt náo viên của Elisa! Cô ấy đã bắt đầu lên đường để được khoác lên mình bộ đồng phục trong mơ. Nhưng cô ấy sẽ chèo lái con đường này như thế nào? Liệu cô ấy sẽ trở thành ngôi sao được khao khát nhất trường, chỉ mải mê đuổi theo những bữa tiệc và sự nổi tiếng

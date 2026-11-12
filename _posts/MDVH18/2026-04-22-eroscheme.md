@@ -5,6 +5,7 @@ date: 2026-04-22 18:30:00 +0700
 title: "Việt Hóa Ero Scheme v0.8.4 Pre Alpha - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Ero Scheme v0.8.4 Pre Alpha (NTR) - [1.1GB]"
 mota: |
  Vào vai Ark (tên có thể thay đổi), một nhà chiến lược hoài nghi đang nỗ lực vươn lên từ đống đổ nát. Thu thập những người theo dõi và thách thức Quý bà Erostegia đầy quyến rũ nhưng xảo quyệt để tranh giành Ngôi báu.

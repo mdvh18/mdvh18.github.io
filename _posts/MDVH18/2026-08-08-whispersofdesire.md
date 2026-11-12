@@ -5,6 +5,7 @@ date: 2026-08-08 17:30:00 +0700
 title: "Việt Hóa Whispers of Desire - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Whispers of Desire v0.7 (NTR) - [5GB/1.7GB]"
 mota: |
  Whispers of Desire — trải nghiệm đa nhân vật, tập trung vào cốt truyện, khám phá tình yêu, sự cám dỗ và hành trình khám phá bản thân. Câu chuyện xoay quanh Sarah và Alex, một cặp vợ chồng đang hạnh phúc bắt đầu một chương mới trong cuộc đời họ.

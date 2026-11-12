@@ -5,6 +5,7 @@ date: 2026-05-21 15:31:00 +0700
 title: "Việt Hóa Hearts in the Shadows v0.3 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Hearts in the Shadows v0.3 - [878MB]"
 mota: |
  Hearts in the Shadows là một hành trình của những căng thẳng, dục vọng và sự mơ hồ về mặt đạo đức, nơi mọi mối quan hệ đều bộc lộ những khía cạnh tốt đẹp nhất — và cả tồi tệ nhất — bên trong Trevor.

@@ -5,6 +5,7 @@ date: 2026-06-28 10:20:00 +0700
 title: "Việt Hóa Secrets of the Island House v0.02.02b - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Secrets of the Island House v0.02.02b - [557MB]"
 mota: |
  Khi đến đó, bạn khám phá ra một thế giới ẩn giấu... những hội kín, một giao kèo cổ xưa, và ma thuật lẩn khuất bên dưới vẻ ngoài hoàn hảo ấy. Bạn đã sẵn sàng để phơi bày sự thật, đối mặt với những hậu quả, và gặp gỡ những người vừa nguy hiểm lại vừa hấp dẫn chưa?

@@ -5,6 +5,7 @@ date: 2026-05-17 12:00:00 +0700
 title: "Việt Hóa First Date Part 2 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] First Date Part 2 - [2.8GB]"
 mota: |
  First Date là một câu chuyện ngắn về một chàng trai trở về quê hương của mình. Anh ta gặp một cô gái nhút nhát và đưa cô đi hẹn hò, rồi cuộc hẹn nhanh chóng trở nên nóng bỏng và nồng nhiệt.

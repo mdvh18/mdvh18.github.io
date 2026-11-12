@@ -5,6 +5,7 @@ date: 2026-03-28 11:30:00 +0700
 title: "Việt Hóa Eroselle Fantasy Lust Sim - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Eroselle Fantasy Lust Sim v0.2.1 - [2.4GB]"
 mota: |
  Eroselle: Fantasy Lust Sim là một trò chơi mô phỏng cuộc sống kỳ ảo dành cho người lớn, nơi bạn xây dựng các mối quan hệ, khám phá một thế giới phép thuật sống động và quyến rũ cả những nữ chính trong cốt truyện lẫn các nhân vật phụ được tạo ngẫu nhiên.

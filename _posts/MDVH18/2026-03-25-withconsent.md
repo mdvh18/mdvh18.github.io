@@ -5,6 +5,7 @@ date: 2026-03-25 14:30:00 +0700
 title: "Việt Hóa With Consent - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] With Consent v4.0.1 (NTR) - [786MB]"
 mota: |
  With Consent là một trò chơi (có phần) chậm rãi, khai thác chủ đề NETORASE/SHARING dưới dạng tiểu thuyết hình ảnh người lớn (AVN). Câu chuyện xoay quanh John (tên có thể thay đổi), một nhà phát triển phần mềm, và bạn gái lâu năm của anh ta là Sarah (tên có thể thay đổi), một sinh viên đại học.

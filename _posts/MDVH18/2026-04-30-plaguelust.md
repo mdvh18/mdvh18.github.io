@@ -5,6 +5,7 @@ date: 2026-04-30 15:30:00 +0700
 title: "Việt Hóa Plague Lust v0.02 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Plague Lust v0.02 - [959MB]"
 mota: |
  Plague Lust là một trò chơi Visual Novel — một thế giới hậu tận thế ngập trong dục vọng nguyên bản và sự sinh tồn chết chóc. Một loại virus không xác định đã quét sạch hầu hết nhân loại.

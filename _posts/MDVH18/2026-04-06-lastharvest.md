@@ -5,6 +5,7 @@ date: 2026-04-06 11:30:00 +0700
 title: "Việt Hóa Last Harvest - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Last Harvest v0.2.5a - [1GB]"
 mota: |
  Bạn đang từ thành phố trở về nông trại với gia đình nhận nuôi của mình và từ thời điểm này trở đi cuộc sống sẽ không còn như trước nữa. Bây giờ bạn cần phải sinh tồn và biến những giấc mơ trở thành hiện thực.

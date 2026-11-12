@@ -5,6 +5,7 @@ date: 2026-03-04 12:30:00 +0700
 title: "ENG Ideal Hikikomori Life -Father and Daughter Living Together - MDVH18"
 tags: [all, english, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[ENG] Ideal Hikikomori Life -Father and Daughter Living Together- [v1.1.4] - [470MB]"
 mota: |
  Bạn vốn sống xa cô con gái hikikomori (sống tách biệt) của mình là Mai-chan, nhưng vì một vài lý do nhất định, cả hai rốt cuộc lại dọn về sống chung dưới một mái nhà...

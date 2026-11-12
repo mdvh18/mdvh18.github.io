@@ -5,6 +5,7 @@ date: 2026-04-17 15:30:00 +0700
 title: "Việt Hóa The Fiancée v2.0g - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] The Fiancée (NTR) v2.0g - [1GB]"
 mota: |
  Cô ấy chỉ muốn chia sẻ một vài tin vui trước khi lên đường đến Mauritius cùng hôn phu của mình. Nhiều lựa chọn có thể thay đổi diễn biến của câu chuyện và dẫn đến một trong sáu kết thúc khác nhau.

@@ -5,6 +5,7 @@ date: 2026-11-06 10:30:00 +0700
 title: "Việt Hóa Together in Paradise - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Together in Paradise v0.45f - [2GB]"
 mota: |
  Together in Paradise là sự kết hợp giữa mô phỏng cuộc sống chung nhà và lối chơi kể chuyện visual novel trong một bối cảnh vùng nhiệt đới. Hãy cân bằng giữa công việc, chi phí sinh hoạt gia đình và cuộc sống thường nhật, đồng thời từng bước bồi đắp mối quan hệ của bạn.

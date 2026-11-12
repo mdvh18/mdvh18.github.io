@@ -5,6 +5,7 @@ date: 2026-05-27 18:30:00 +0700
 title: "Việt Hóa Between Her Toes v1.0  - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Between Her Toes v1.0 Completed - [850MB]"
 mota: |
  Bạn từng là bạn cùng phòng của cô ấy. Giờ bạn lại là thú cưng dưới chân cô ấy. Rất tiếc.

@@ -5,6 +5,7 @@ date: 2026-09-10 11:30:00 +0700
 title: "Việt Hóa Incredible Desire - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Incredible Desire v2.0 (Ngắn) - [1.7GB]"
 mota: |
  Incredible Desire là một câu chuyện xoay quanh hai nhân vật, Helen và Violet, cùng những trải nghiệm mà họ chia sẻ với nhau. Đây là một câu chuyện nguyên bản, bắt đầu với hai chương đầu tiên. Chương đầu tiên hiện có sẵn để chơi miễn phí.

@@ -5,6 +5,7 @@ date: 2026-10-20 11:30:00 +0700
 title: "Việt Hóa Harem Fantasy - MDVH18"
 tags: [all, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Harem Fantasy v1.4.12 All DLCs (Có sẵn VH) - [4.7GB/1.6GB]"
 mota: |
  (Bản nặng hơn có thêm video file rar) Harem Fantasy là một tựa game visual novel, nơi bạn sẽ trở thành một thầy chữa bệnh trong Hậu cung Hoàng gia—nơi tràn ngập những mỹ nhân quyến rũ và cũng đầy dẫy những âm mưu chết người.

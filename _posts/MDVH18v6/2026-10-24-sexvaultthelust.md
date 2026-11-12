@@ -5,6 +5,7 @@ date: 2026-10-24 10:30:00 +0700
 title: "Việt Hóa Sex Vault: The Lust-Tec Project - MDVH18"
 tags: [all, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Sex Vault: The Lust-Tec Project Final - [551MB]"
 mota: |
  Thảm họa diệt vong, thây ma, và một hầm trú ẩn đầy những cô nàng nóng bỏng. Hãy chiêu mộ một đội ngũ những mỹ nhân sống sót quyến rũ. Cứu rỗi nhân loại chưa bao giờ mang lại cảm giác tuyệt vời đến thế.

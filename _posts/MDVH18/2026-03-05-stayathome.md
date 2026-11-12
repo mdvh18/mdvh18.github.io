@@ -5,6 +5,7 @@ date: 2026-03-05 11:30:00 +0700
 title: "Việt Hóa Staying at Home APK/PC - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Staying at Home (NTR) v0.1 - [465MB]"
 mota: |
  Bạn vào vai Michael (hoặc bất cứ tên nào bạn muốn), một sinh viên y khoa năm hai, người vừa mới trở về nhà sau một bi kịch xảy ra trong gia đình.

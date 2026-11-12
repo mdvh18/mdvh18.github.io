@@ -5,6 +5,7 @@ date: 2026-09-09 11:30:00 +0700
 title: "Việt Hóa My Netorase Delusions - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] My Netorase Delusions v0.5 (NTR) - [500MB]"
 mota: |
  My Netorase Delusions là một tựa game visual novel xoay quanh một nhân viên văn phòng cảm thấy đời sống của mình trở nên đơn điệu và nhàm chán… cho đến khi anh ta khám phá ra sở thích cuckold. Một câu chuyện nơi bạn sẽ chia sẻ người quan trọng nhất cuộc đời mình, người vợ của bạn, với những người đàn ông khác do chính bạn lựa chọn: Mike, một người đàn ông mạnh mẽ và áp đảo, hoặc Haru, một cậu bạn femboy e ấp và mỏng manh!

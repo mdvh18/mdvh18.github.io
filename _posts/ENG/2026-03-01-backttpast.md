@@ -5,6 +5,7 @@ date: 2026-03-01 16:30:00 +0700
 title: "[ENG] Back to the Past - MDVH18"
 tags: [all, english, apk, pc]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[ENG] Back to the Past v0.10 - [1.1GB]"
 mota: |
  Stewie đã thất bại trong việc ngăn chặn trải nghiệm trước ngưỡng cửa cái chết, và giờ đây Ste phải quay ngược thời gian để tìm hiểu xem điều gì đã đi chệch hướng! Trên hành trình đó, Ste nhận ra rằng chính mình đang gây ảnh hưởng đến quá khứ, và việc ngăn chặn sự kiện kia hóa ra lại khó khăn hơn nhiều so với những gì anh từng nghĩ.

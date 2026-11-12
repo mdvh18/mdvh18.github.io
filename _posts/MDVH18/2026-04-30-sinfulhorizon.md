@@ -5,6 +5,7 @@ date: 2026-04-30 11:30:00 +0700
 title: "Việt Hóa Sinful Horizon v0.6 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Sinful Horizon v0.6 (NTR) - [951MB]"
 mota: |
  Sau một chuỗi các sự kiện không may, nhân vật chính của chúng ta — Jack (hoặc bất kỳ cái tên nào bạn chọn) — buộc phải từ bỏ cuộc sống cũ và bắt đầu lại từ con số không. Trong lúc chật vật để sinh tồn tại một thị trấn mới, anh vô tình tìm thấy một quán bar nhỏ ẩn chứa nhiều điều hơn vẻ bề ngoài của nó.

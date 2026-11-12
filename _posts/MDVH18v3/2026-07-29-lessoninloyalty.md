@@ -5,6 +5,7 @@ date: 2026-07-29 10:30:00 +0700
 title: "Việt Hóa Lesson in Loyalty - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Lesson in Loyalty Update Ch.8 P1 - [3.1GB]"
 mota: |
  Kurt là giáo viên 25 tuổi, người có cuộc sống không như ý. Để trang trải, cậu làm gia sư qua một công ty môi giới, đồng thời làm thêm công việc huấn luyện viên thể hình tại một phòng gym địa phương. Bị ngó lơ và không được coi trọng—cho đến khi một cuộc gặp gỡ tình cờ với người bạn cũ đã thay đổi tất cả.

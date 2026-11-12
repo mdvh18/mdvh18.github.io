@@ -5,6 +5,7 @@ date: 2026-04-28 15:30:00 +0700
 title: "Việt Hóa She Might Be A Cuckqueen - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] She Might Be A Cuckqueen v1.1.0 - [402MB]"
 mota: |
  She Might Be A Cuckqueen là một bộ phim hài kịch người lớn với nhịp điệu dồn dập, xoay quanh việc cố gắng tìm hiểu xem bạn gái của bạn thích hay ghét việc bạn ngoại tình. Hoặc, có lẽ là cả hai?

@@ -5,6 +5,7 @@ date: 2026-10-06 10:30:00 +0700
 title: "Việt Hóa Life in Windvale - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Life in Windvale v0.4 P3 EA (NTR) - [1.6GB]"
 mota: |
  Life in Windvale là một tựa game mang phong cách NTR tích hợp thêm lựa chọn Swinging. Nhân vật chính quản lý một trang trại cùng người vợ mang tính cách vô cùng cá tính và năng động của mình.

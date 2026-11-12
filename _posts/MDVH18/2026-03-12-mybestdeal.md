@@ -5,6 +5,7 @@ date: 2026-03-12 12:30:00 +0700
 title: "Việt Hóa My Best Deal APK/PC - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] My Best Deal v4.5.0 APK/PC - [2.2GB]"
 mota: |
  Sau khi cứu một cô gái khỏi cái chết mười mươi, một chàng trai trẻ thấy mình đang ở trên thiên đường, nơi anh ta thực hiện một thỏa thuận với nữ thần tình yêu.

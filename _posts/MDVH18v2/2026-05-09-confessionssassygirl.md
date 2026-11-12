@@ -5,6 +5,7 @@ date: 2026-05-09 14:00:00 +0700
 title: "Việt Hóa Confessions of a Sassy Girl  - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Confessions of a Sassy Girl v0.8.1 - [2.1GB]"
 mota: |
  Trường trung học là địa ngục, nhất là khi bạn bị buộc phải viết nhật ký. Cứ hỏi Ami thì biết. Cuốn nhật ký của cô ấy là một bản tường thuật hài hước, thẳng thắn về cuộc sống tuổi teen, tràn ngập sự mỉa mai và những quan sát dí dỏm.

@@ -5,6 +5,7 @@ date: 2026-02-22 13:30:00 +0700
 title: "[Việt Hóa] The Censor - MDVH18"
 tags: [all, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] The Censor v4.1.3 - [600MB]"
 mota: |
  Bạn là Yuto Fujimoto, một thiên tài máy tính. Vừa mới tốt nghiệp, bạn chỉ muốn tận hưởng một cuộc sống an nhàn, thư thả tại nhà, nhưng để sinh tồn thì vẫn cần phải có một công việc. Thật tình cờ, Facibook đang tuyển dụng nhân viên kiểm duyệt nội dung cộng đồng.

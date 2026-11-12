@@ -5,6 +5,7 @@ date: 2026-06-29 10:30:00 +0700
 title: "Việt Hóa Harmony in Autumndale v0.2.0b - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Harmony in Autumndale v0.2.0b Only PC FIX LỖI MẤT THOẠI - [100MB]"
 mota: |
  Lấy bối cảnh tại một thị trấn nơi con người và người thú vẫn đang chật vật sống cùng nhau sau bao đời xích mích. Khi bắt đầu cuộc đời mới, những quyết định của bạn sẽ tạo nên những mối quan hệ sâu đậm, đong đầy hơi ấm, tiếng cười, những rung động tâm hồn và bầu không khí gợi tình đầy mê hoặc đang dần nhen nhóm.

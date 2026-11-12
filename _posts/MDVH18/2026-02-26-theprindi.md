@@ -5,6 +5,7 @@ date: 2026-02-26 15:30:00 +0700
 title: "[Việt Hóa] The Princess Diaries - MDVH18"
 tags: [all, mdvh18, allvh, pc, com]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] The Princess Diaries - [523MB]"
 mota: |
  Ước mơ của mọi cô bé là trở thành một nàng công chúa xinh đẹp, sống trong tòa lâu đài nguy nga với đầy rẫy người hầu, những yến tiệc lộng lẫy, và được những chàng hoàng tử bảnh bao trên bạch mã theo đuổi. Thế nhưng thực tế lại tàn khốc hơn nhiều, và Hazel sắp nhận ra điều đó. Các hoàng tử không phải lúc nào cũng hào nhoáng.

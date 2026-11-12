@@ -5,6 +5,7 @@ date: 2026-03-25 15:30:00 +0700
 title: "Việt Hóa Secret Island - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Secret Island v0.16.8.0 - [1.7GB]"
 mota: |
  Lấy bối cảnh một thế giới giả tưởng hiện đại, Secret Island đưa bạn vào vai một pháp sư đầy quyền năng và một tay lính đánh thuê dạn dày kinh nghiệm trận mạc.

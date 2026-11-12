@@ -5,6 +5,7 @@ date: 2026-07-12 10:30:00 +0700
 title: "Việt Hóa Sinful Valley New Update - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Sinful Valley v0.4.0 Update - [1GB]"
 mota: |
  Sau cái chết bí ẩn của cha mẹ, bạn thừa hưởng một ngôi nhà và trang trại dột nát tại thị trấn Canbe Valley cổ kính nhưng đầy rẫy sự lừa dối. Khi khám phá thị trấn có vẻ ngoài thịnh vượng này, bạn sẽ vạch trần một thế giới tràn ngập sự tha hóa và những thủ đoạn gian trá ẩn nấp sau mọi ngóc ngách.

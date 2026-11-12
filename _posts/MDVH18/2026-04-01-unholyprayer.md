@@ -5,6 +5,7 @@ date: 2026-04-01 16:00:00 +0700
 title: "Việt Hóa UnHolY PraYeR - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] UnHolY PraYeR - [1.1GB]"
 mota: |
  Bạn là một nữ tu làm việc cho giáo hội, chiến đấu với quái vật và xác sống, cố gắng thanh tẩy chúng.

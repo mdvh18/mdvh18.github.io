@@ -5,6 +5,7 @@ date: 2026-05-01 12:00:00 +0700
 title: "Việt Hóa Granter of Your Desires R - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Granter of Your Desires R v0.21 Demo - [650MB]"
 mota: |
  Trò chơi mô phỏng hẹn hò nhái lại Persona bản đơn giản. Đây là một tiểu thuyết trực quan với các yếu tố thế giới mở, đây là phiên bản làm lại. Đã đến lúc thực hiện ước mơ và tạo ra dàn harem tuyệt nhất mà bạn từng mong muốn.

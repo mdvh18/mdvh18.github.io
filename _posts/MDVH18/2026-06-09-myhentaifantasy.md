@@ -5,6 +5,7 @@ date: 2026-06-09 18:30:00 +0700
 title: "Việt Hóa My Hentai Fantasy - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] My Hentai Fantasy v0.16.1 UPDATE - [3.5GB]"
 mota: |
  Tôi vừa tỉnh dậy mà không nhớ bất cứ điều gì, dường như tôi đang sống một cuộc sống trong mơ, nhưng tại sao mọi thứ lại có vẻ kỳ quặc đến vậy?

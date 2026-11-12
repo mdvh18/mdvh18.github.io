@@ -5,6 +5,7 @@ date: 2026-03-24 12:30:00 +0700
 title: "Việt Hóa Ero-Slash Showdown - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Ero-Slash Showdown v0.2.3 - [70MB]"
 mota: |
  Ero-slash là một trò chơi có lối chơi tương tự như osu!, hiện đang trong quá trình phát triển.

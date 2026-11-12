@@ -5,6 +5,7 @@ date: 2026-04-15 12:30:00 +0700
 title: "Việt Hóa My Lovable Demon - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] My Lovable Demon v0.2.2 - [320MB]"
 mota: |
  Bạn đã triệu hồi một nữ quỷ nóng bỏng. Hãy xây dựng mối quan hệ, đi hẹn hò, xoa đầu cô ấy, chiến đấu với cái ác và làm tình thật nhiều!

@@ -5,6 +5,7 @@ date: 2026-03-30 16:30:00 +0700
 title: "Việt Hóa One Piece: Passion on the Grand Line - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] One Piece: Passion on the Grand Line v0.3.2 - [1.1GB]"
 mota: |
  Passion on the Grand Line là một tiểu thuyết trực quan dành cho người lớn và trò chơi phiêu lưu lấy cảm hứng từ vũ trụ One Piece, với cốt truyện gốc, nhiều lựa chọn và các cảnh NSFW có hoạt họa.

@@ -5,6 +5,7 @@ date: 2026-08-01 12:00:00 +0700
 title: "Việt Hóa Vulgar Reverie v0.22 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Vulgar Reverie v0.22 (NTR) FIX - [2.8GB]"
 mota: |
  Một câu nói đơn giản thôi. Nếu hai người yêu nhau, mọi trở ngại đều có thể vượt qua. Nhưng câu hỏi đặt ra là... Cả hai người sẵn sàng đi xa đến mức nào vì tình yêu đó?

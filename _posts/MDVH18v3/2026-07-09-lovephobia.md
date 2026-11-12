@@ -5,6 +5,7 @@ date: 2026-07-09 12:30:00 +0700
 title: "Việt Hóa Lovephobia v0.85 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Lovephobia v0.85 (NTR nhẹ) - [1.4GB]"
 mota: |
  Lovephobia là nơi nhân vật chính trở về nhà sau chuyến đi Work and Travel kéo dài một năm. Một thế giới nhỏ với nhiều số phận đan xen vào nhau.

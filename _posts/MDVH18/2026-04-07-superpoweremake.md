@@ -5,6 +5,7 @@ date: 2026-04-07 11:30:00 +0700
 title: "Việt Hóa Supower - Remake - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Supower - Remake v0.68 - [1.2GB]"
 mota: |
  Nữ quỷ Maria đã ban cho bạn năng lực chi phối nhận thức của người khác, gọi là 'Supower'.Trong khi đó, vì lý do công việc, bạn đã bắt đầu chung sống với Silica. Tại thành phố mới này, bạn đã gặp gỡ một vài người phụ nữ đầy quyến rũ...

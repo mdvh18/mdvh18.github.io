@@ -5,6 +5,7 @@ date: 2026-04-07 12:30:00 +0700
 title: "Việt Hóa Innocent Witches v0.12B - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Innocent Witches v0.12B - [2.6GB]"
 mota: |
  Một câu chuyện vừa tuyệt vời vừa kỳ lạ đã được một người quen cũ qua thư từ kể lại cho tôi. Anh ấy kể về cái thời khi mình vẫn còn là một gã trai đơn thuần, luôn khao khát những thân xác phụ nữ trẻ trung.

@@ -5,6 +5,7 @@ date: 2026-08-01 13:30:00 +0700
 title: "Việt Hóa Under Your Spell v0.5.4 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Under Your Spell v0.5.4 - [376MB]"
 mota: |
  Trong năm năm học ở Tír na nÓg, ngôi trường phép thuật hàng đầu ở Ireland và khắp châu Âu, bạn chưa bao giờ vươn tới bất kỳ mức cao nào về học hành hay thể thao, nhưng điều đáng nói nhất là - chưa từng có bạn gái.

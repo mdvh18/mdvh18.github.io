@@ -5,6 +5,7 @@ date: 2026-03-18 12:30:00 +0700
 title: "Việt Hóa The Boss's Wife: A Dangerous Affair - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] The Boss's Wife: A Dangerous Affair v1.2 - [1.5GB]"
 mota: |
  Hãy bước vào thế giới của những khao khát cấm đoán và đam mê thầm kín trong tựa game Visual Novel người lớn đầy lôi cuốn. Trong vai Morgan, một người đàn ông lôi cuốn và đầy tham vọng, anh sẽ phải lèo lái qua những mối quan hệ đầy phức tạp.

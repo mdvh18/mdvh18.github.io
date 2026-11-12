@@ -5,6 +5,7 @@ date: 2026-07-10 09:30:00 +0700
 title: "Việt Hóa Shakai Seikatsu - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Shakai Seikatsu v0.24.0 Update - [1.6GB]"
 mota: |
  Shakai Seikatsu là một trò chơi visual novel harem dành cho người lớn với các yếu tố của visual novel và giả lập hẹn hò. Sau cái chết thảm khốc của cha mẹ, bạn thấy mình rơi vào trầm cảm và không còn ý chí để sống tiếp

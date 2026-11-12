@@ -5,6 +5,7 @@ date: 2026-03-10 15:30:00 +0700
 title: "Việt Hóa HellKink: Infernal Affairs - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] HellKink: Infernal Affairs v0.2f - [421MB]"
 mota: |
  Malacoda, một con quỷ đầy quyến rũ, thấy mình bị cuốn khỏi những rào cản hành chính gò bó của địa ngục để đến với thành phố đồng quê thơ mộng Eden Meadows.

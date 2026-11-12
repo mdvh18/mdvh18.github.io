@@ -5,6 +5,7 @@ date: 2026-06-11 12:30:00 +0700
 title: "Việt Hóa The Beach House v0.1.5 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] The Beach House v0.1.5 - [939MB]"
 mota: |
  Bạn vào vai một chàng trai 20 tuổi đang sống một cuộc sống bình yên, giản dị tại một thị trấn nhỏ ven biển. Nhưng sớm thôi, một chuyện không ngờ tới sẽ thay đổi hoàn toàn cuộc đời bạn. Chờ đợi bạn là một khởi đầu mới với những cô gái xinh đẹp, những lựa chọn khó cưỡng và những chuyến phiêu lưu đầy gay cấn.

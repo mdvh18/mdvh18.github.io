@@ -5,6 +5,7 @@ date: 2026-03-25 11:30:00 +0700
 title: "Việt Hóa Sultry Secrets - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Sultry Secrets v0.0.1 - [193MB]"
 mota: |
  Một cặp đôi trẻ chuyển đến Cảng Ventura đầy nắng với hy vọng bắt đầu một cuộc sống mới. Nhưng nắng vàng, biển xanh và những người quen mới lại ẩn chứa những bước ngoặt đầy bất ngờ.

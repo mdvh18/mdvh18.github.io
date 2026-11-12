@@ -5,6 +5,7 @@ date: 2026-09-19 12:00:00 +0700
 title: "Việt Hóa Dreamland v0.7.0p - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Dreamland v0.7.0p - [3.3GB]"
 mota: |
  Chào mừng đến với Dreamland! Một thị trấn tổ chức các hoạt động kỳ nghỉ xuân hoang dã nhất, tràn ngập những cô nàng nóng bỏng, những bữa tiệc và tình dục. Tuy nhiên, nếu nhìn kỹ hơn, bạn sẽ khám phá ra rằng Dreamland còn ẩn chứa một bí ẩn đen tối và kinh hoàng đang ám ảnh bạn cùng bạn bè mình...

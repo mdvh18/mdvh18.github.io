@@ -5,6 +5,7 @@ date: 2026-08-31 11:30:00 +0700
 title: "Việt Hóa Summer Camp - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Summer Camp v0.1.6 (Thuần ịt) - [613MB]"
 mota: |
  Bạn là một sinh viên đại học chuyên ngành tâm lý trẻ tuổi, đẹp trai, thông minh và cực kỳ thu hút phụ nữ. Giống như nhiều sinh viên châu Âu khác, cậu sẽ dành mùa hè làm quản trại ở Mỹ để trau dồi cả tiếng Anh lẫn lý lịch của mình.

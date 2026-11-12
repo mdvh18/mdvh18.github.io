@@ -5,6 +5,7 @@ date: 2026-03-03 12:30:00 +0700
 title: "[ENG] Short NTR Stories - MDVH18"
 tags: [all, english, apk, pc]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[ENG] Short NTR Stories v1.0 - [438MB]"
 mota: |
  Đây là một tuyển tập các câu chuyện. Mỗi câu chuyện là một trải nghiệm riêng biệt, khai thác các chủ đề về tình yêu, ngoại tình, phản bội, tha hóa, suy sụp tinh thần. Các câu chuyện này hoàn toàn không có sự liên kết với nhau.

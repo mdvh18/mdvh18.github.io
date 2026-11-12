@@ -5,6 +5,7 @@ date: 2026-11-02 12:31:00 +0700
 title: "Việt Hóa Shattered Minds v0.29 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Shattered Minds v0.29 + WT Mod - [5.7GB/2GB]"
 mota: |
  Shattered Minds là một trò chơi thế giới mở, trong đó bạn điều khiển cuộc đời của một sinh viên đại học. Cuộc sống bình thường của bạn bị đảo lộn sau khi bạn nhận ra mình có khả năng điều khiển tâm trí của người khác.

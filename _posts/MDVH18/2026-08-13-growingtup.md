@@ -5,6 +5,7 @@ date: 2026-08-13 18:00:00 +0700
 title: "Việt Hóa Growing Things Up - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Growing Things Up S1 v1.07A UPDATE - [2GB]"
 mota: |
  Growing Thing's Up là một tựa game mô phỏng hẹn hò 18+ đầy lôi cuốn, nơi bạn vào vai một chàng trai trẻ vừa đặt chân đến một thành phố mới, trong lòng tràn đầy những kỳ vọng lẫn sự bất an.

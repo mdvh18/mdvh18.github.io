@@ -5,6 +5,7 @@ date: 2026-07-13 12:30:00 +0700
 title: "Việt Hóa Starstruck City v0.3 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Starstruck City v0.3 - [1.3GB]"
 mota: |
  Câu chuyện theo chân nhân vật chính khi cậu chuyển tới một thành phố nhộn nhịp để tìm kiếm cơ may và những điều mới mẻ. Cậu sẽ ở tạm cùng dì và anh chị em họ trong lúc xoay xở với những khó khăn của thành phố và tìm một nơi ở cho riêng mình.

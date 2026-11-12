@@ -5,6 +5,7 @@ date: 2026-04-04 14:30:00 +0700
 title: "Việt Hóa Dating in Deep Space - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Dating in Deep Space v0.4 - [983MB]"
 mota: |
  Nhân vật chính của chúng ta, Simon Seiyaz, thức dậy ở tương lai trên một con tàu vũ trụ chứa đầy 9 người phụ nữ xinh đẹp.

@@ -5,6 +5,7 @@ date: 2026-08-05 10:30:00 +0700
 title: "Việt Hóa Heliorise - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Heliorise v0.2.1 + Multi Mod - [3GB]"
 mota: |
  Từ nhỏ, bạn đã mồ côi không có người thân. Nhưng vào ngày bạn đến tuổi khôn lớn, một bức thư lạ lùng tới - bạn có một người chị gái. Cô ấy sống ở thành phố lớn nhất thế giới - Heliorise, và thật lòng mời bạn về sum họp.

@@ -5,6 +5,7 @@ date: 2026-03-18 10:35:00 +0700
 title: "ENG Chronicles of the Chaosborn - MDVH18"
 tags: [all, english, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[ENG] Chronicles of the Chaosborn v0.27 - [3.7GB]"
 mota: |
  Bạn đang rơi vào một tình cảnh khá ngặt nghèo với gia đình mình... Thế nên đã đến lúc phải xốc lại tinh thần và chăm sóc cho họ rồi! Hãy tự tay xây dựng ngôi làng của riêng mình.

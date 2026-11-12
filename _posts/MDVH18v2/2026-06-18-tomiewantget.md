@@ -5,6 +5,7 @@ date: 2026-06-18 15:30:00 +0700
 title: "Việt Hóa Tomie Wants to Get Married Renpy Completed - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Tomie Wants to Get Married Renpy Completed - [3.1GB]"
 mota: |
  Tomie là sinh viên đại học đã nghỉ học. Cô ấy không còn hứng thú với việc học hành hay làm việc chăm chỉ, và cô ấy muốn gặp gỡ rồi kết hôn với một người đàn ông giàu có để thỏa mãn thói phù phiếm của bản thân.

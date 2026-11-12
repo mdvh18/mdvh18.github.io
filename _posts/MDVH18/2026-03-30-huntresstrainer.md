@@ -5,6 +5,7 @@ date: 2026-03-30 13:30:00 +0700
 title: "Việt Hóa Huntress Trainer - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Huntress Trainer v0.23 - [1.8GB]"
 mota: |
  Sau khi nhận công việc tại Học viện Beacon, hiện tại bạn đang chịu trách nhiệm về sức khỏe tâm lý và tinh thần của các Thợ săn và Nữ thợ săn mới, bạn sẽ không lạm dụng quyền hạn của mình, đúng chứ?

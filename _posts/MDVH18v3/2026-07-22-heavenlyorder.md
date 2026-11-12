@@ -5,6 +5,7 @@ date: 2026-07-22 13:30:00 +0700
 title: "Việt Hóa Heavenly Order v0.0.3 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Heavenly Order v0.0.3 - [780MB]"
 mota: |
  Bạn được gọi tới Pandora. Những vị nữ thần sa ngã Iris, Nữ thần Tình Yêu; Emma, Nữ thần Đam Mê; và Sharon, Nữ thần Định Mệnh từng làm chủ cõi này đã đặt ra luật trời của riêng họ lên bạn: HÃY DẠY DỖ HỌC TRÒ CỦA CHÚNG TA.

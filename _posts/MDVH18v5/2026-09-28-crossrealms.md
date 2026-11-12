@@ -5,6 +5,7 @@ date: 2026-09-28 11:30:00 +0700
 title: "Việt Hóa Cross Realms - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Cross Realms v0.4.1 - [5GB/2.2GB]"
 mota: |
  Vào ngày đầu tiên của cuộc đời sinh viên, bạn cùng một nhóm bạn bị cuốn vào một vòng xoáy bí ẩn. Khi tỉnh dậy, bạn nhận ra mình đang ở một nơi hoàn toàn xa lạ - đây không phải là Trái Đất. Trong quá trình khám phá thế giới mới này, bạn phát hiện ra đây là một thế giới tu tiên (Khí), nơi mà thực lực là thứ quyết định tất cả.

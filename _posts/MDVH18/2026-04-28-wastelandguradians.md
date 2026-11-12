@@ -5,6 +5,7 @@ date: 2026-04-28 17:30:00 +0700
 title: "Việt Hóa Wasteland Guardians - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Wasteland Guardians v0.8 - [1GB]"
 mota: |
  Chiến tranh, thiên tai và những thảm họa do con người gây ra đã đưa thế giới này đến chỗ lụi tàn. Nhân loại chia thành các phe phái khác nhau: những người vẫn đang chiến đấu để sinh tồn, và những kẻ đã chấp nhận con quỷ bên trong mình và rơi vào cảnh hỗn loạn.

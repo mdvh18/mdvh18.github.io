@@ -5,6 +5,7 @@ date: 2026-07-09 11:30:00 +0700
 title: "Việt Hóa Correctional Church v0.2.1 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Correctional Church v0.2.1 - [980MB]"
 mota: |
  Bạn là một học sinh trung học bình thường đã quên mất kiếp trước của mình. Một cuộc sống mới. Một gia đình mới. Mẹ nuôi. Chị em kế. Bạn sống hạnh phúc cùng nhau... cho đến khi Giáo hội phát hiện ra tội lỗi đó. Thế giới này đòi hỏi sự phục tùng.

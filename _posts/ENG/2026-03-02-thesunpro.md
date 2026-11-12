@@ -5,6 +5,7 @@ date: 2026-03-03 12:30:00 +0700
 title: "ENG The Sunken Promise - MDVH18"
 tags: [2dcg, all, english, apk, pc]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[ENG] The Sunken Promise v0.6 - [1.1GB]"
 mota: |
  Bạn là một nhà mạo hiểm dày dạn kinh nghiệm, và kho báu lớn nhất cuộc đời bạn chính là người vợ tộc tiên xinh đẹp, Myrielle. Là một nữ tu thành kính, nàng vừa thủy chung, vừa dành cho bạn một sự tận hiến sâu sắc.

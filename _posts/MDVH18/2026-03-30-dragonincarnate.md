@@ -5,6 +5,7 @@ date: 2026-03-30 14:30:00 +0700
 title: "Việt Hóa Dragon Incarnate - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Dragon Incarnate v0.1.9 - [1.2GB]"
 mota: |
  Sau một khởi đầu đầy khó khăn, bạn và những người bạn đồng hành của mình sẽ dấn thân vào một hành trình khám phá những bí mật của loài rồng. Câu chuyện chính có thể được tiếp tục thông qua nhiệm vụ chính theo tiến độ của riêng bạn.

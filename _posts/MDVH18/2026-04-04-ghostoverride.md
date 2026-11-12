@@ -5,6 +5,7 @@ date: 2026-04-04 15:30:00 +0700
 title: "Việt Hóa Ghost Override - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Ghost Override v0.1 - [416MB]"
 mota: |
  Bạn là thủ lĩnh đáng kính của Lynx, một băng đảng đang lên nhằm khẳng định vị thế tại Thành phố Ash. Khi một con chip bị đánh cắp – thứ vốn dĩ sẽ giúp bạn truy cập vào mạng lưới giám sát toàn thành phố – nhất quyết không chịu giải mã, bạn buộc phải tìm kiếm sự trợ giúp từ một hacker ẩn dật.

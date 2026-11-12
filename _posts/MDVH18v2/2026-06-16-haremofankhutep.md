@@ -5,6 +5,7 @@ date: 2026-06-16 15:31:00 +0700
 title: "Việt Hóa Harem of Ankhutep v0.3 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Harem of Ankhutep v0.3 - [2.8GB]"
 mota: |
  Harem of Ankhutep lấy bối cảnh trong một thế giới giả tưởng được lấy cảm hứng từ thần thoại Ai Cập, một dự án đầy tâm huyết được xây dựng xoay quanh dàn nhân vật gốc gồm những cô gái quái vật xinh đẹp và đáng yêu. Dưới ánh mặt trời sa mạc, cuộc sống ở Ankhutep tràn ngập những cảnh tượng kỳ lạ, bí ẩn, và rất nhiều sự lãng mạn nồng cháy tương xứng với những phân cảnh đầy tình cảm của trò chơi.

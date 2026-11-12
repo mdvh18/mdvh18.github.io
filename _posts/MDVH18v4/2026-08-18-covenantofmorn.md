@@ -5,6 +5,7 @@ date: 2026-08-18 15:30:00 +0700
 title: "Việt Hóa Covenant of Morn - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Covenant of Morn v0.5.1 - [1.9GB]"
 mota: |
  Máu của cô ấy để giữ cho bạn sống, đổi lại việc giúp cô ấy thực hiện một nhiệm vụ quan trọng. Chẳng mấy chốc bạn bị cuốn vào một thế giới đầy phép thuật và điều bí ẩn, nhận ra đằng sau mọi chuyện còn ẩn chứa nhiều điều hơn những gì mắt thấy.

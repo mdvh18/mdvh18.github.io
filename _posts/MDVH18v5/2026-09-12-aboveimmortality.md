@@ -5,6 +5,7 @@ date: 2026-09-12 12:30:00 +0700
 title: "Việt Hóa Above the Immortality Realm - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Above the Immortality Realm v0.6.0 (Netori) - [898MB]"
 mota: |
  Đây là một tựa game chủ đề Netori lấy bối cảnh thế giới tu tiên. Bạn vào vai Mặc Thăng — một đệ tử bình thường chỉ có tư chất trung bình tại một tông môn được gọi là Huyền Môn.

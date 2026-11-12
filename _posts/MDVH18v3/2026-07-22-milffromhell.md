@@ -5,6 +5,7 @@ date: 2026-07-22 13:00:00 +0700
 title: "Việt Hóa MILF from Hell v0.1 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] MILF from Hell v0.1 (Preview) - [703MB]"
 mota: |
  Việc người chơi và Sophia đến Lâu đài Beaumont, màn ra mắt gia đình kỳ lạ của cô ấy, cùng việc nhận ra đêm cưới sắp tới có thể nguy hiểm hơn nhiều so với những gì cả hai từng tưởng tượng.

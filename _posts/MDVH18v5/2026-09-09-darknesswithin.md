@@ -5,6 +5,7 @@ date: 2026-09-09 13:30:00 +0700
 title: "Việt Hóa The Darkness Within - MDVH18"
 tags: [all, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] The Darkness Within v0.1 Mod (Có Sẵn VH) - [500MB]"
 mota: |
  The Darkness Within là một tựa game Visual Novel 18+ giả tưởng hiện đại, kết hợp giữa tình cảm tiến triển chậm rãi và một vài yếu tố kinh dị tâm lý. Đây là một câu chuyện tập trung sâu sắc vào tâm lý nhân vật, nơi mỗi nhân vật chính đều có những động cơ phức tạp, những bí mật và một vai trò quan trọng trong cuộc xung đột siêu nhiên đang cận kề.

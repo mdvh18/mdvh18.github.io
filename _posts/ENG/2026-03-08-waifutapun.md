@@ -5,6 +5,7 @@ date: 2026-03-08 15:00:00 +0700
 title: "ENG Waifu Tapper Universe - MDVH18"
 tags: [all, english, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[ENG] Waifu Tapper Universe v1.0.2 - [412MB]"
 mota: |
  Waifu Tapper Universe là một tựa game clicker rảnh tay với một bước ngoặt cực lớn: mọi phân cảnh đơn lẻ đều được hoạt họa đầy đủ! Hãy chơi cùng những nữ anh hùng trò chơi điện tử biểu tượng mà bạn yêu thích khi bạn phá hủy giáp trụ của họ và tiến triển qua các màn chơi.

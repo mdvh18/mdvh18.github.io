@@ -5,6 +5,7 @@ date: 2026-06-01 15:30:00 +0700
 title: "Việt Hóa Stories from Somnia Bay v0.2 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Stories from Somnia Bay v0.2 - [772MB]"
 mota: |
  Chào mừng đến với Somnia Bay. Có điều gì đó không ổn ở nơi này. Bạn có thể cảm nhận được nó. Monique, Olivia, và David không còn lựa chọn nào khác ngoài việc chạy trốn.

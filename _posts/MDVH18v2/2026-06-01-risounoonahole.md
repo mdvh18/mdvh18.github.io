@@ -5,6 +5,7 @@ date: 2026-06-01 11:30:00 +0700
 title: "Việt Hóa Risou no Onahole - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Risou no Onahole - [514MB]"
 mota: |
  Hãy dễ dàng tạo ra cô gái lý tưởng của bạn bằng các mẫu có sẵn! Không cần những công việc tẻ nhạt đâu! Với vô số mẫu có sẵn đa dạng, bạn có thể nhanh chóng tạo nên nhân vật trong mơ của mình!

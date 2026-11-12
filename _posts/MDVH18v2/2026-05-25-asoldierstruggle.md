@@ -5,6 +5,7 @@ date: 2026-05-25 12:30:01 +0700
 title: "Việt Hóa A Soldier's Struggle Completed - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] A Soldier's Struggle Completed - [1.4GB]"
 mota: |
  Sau nhiều năm xa cách, một chàng trai trẻ trở về nhà để hàn gắn những mối quan hệ đã rạn nứt và tìm kiếm sức mạnh trong tình yêu. A Soldier’s Struggle là một tiểu thuyết tuyến tính ngắn kể về sự kiên cường, quá trình chữa lành và sức mạnh trường tồn của bạn bè.

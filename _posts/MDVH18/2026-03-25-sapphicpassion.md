@@ -5,6 +5,7 @@ date: 2026-03-25 12:30:00 +0700
 title: "Việt Hóa Sapphic Passion - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Sapphic Passion v0.1 - [72MB]"
 mota: |
  ....lesbians do lesbian things.....​

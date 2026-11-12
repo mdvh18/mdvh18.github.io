@@ -5,6 +5,7 @@ date: 2026-03-19 16:30:00 +0700
 title: "Việt Hóa Best Friends - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["APK", "Compressed"]
+price: "free"
 namebanner: "[Việt Hóa] Best Friends Ch.11.1 - [1GB]"
 mota: |
  Hai gã trai vùng Newcastle chuẩn bị cho chương tiếp theo của cuộc đời khi họ học xong, và chuẩn bị lên đại học nhưng một người đã giữ kín một bí mật lớn với người bạn thân nhất của mình.

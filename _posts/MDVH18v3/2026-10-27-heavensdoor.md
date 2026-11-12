@@ -5,6 +5,7 @@ date: 2026-10-27 12:30:00 +0700
 title: "Việt Hóa Heaven's Door - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Heaven's Door Ch.5 v0.5.1 - [3.6GB/2.7GBAPK]"
 mota: |
  Vào một đêm thứ Năm muộn, bạn đang lái xe ngang qua, như bạn đã làm mười mấy lần qua mấy tối thứ Năm gần đây. Nhưng lần này, có điều gì đó bảo bạn dừng xe lại và bước vào... Và đời bạn đổi thay theo những lối mà bạn không thể ngờ tới.

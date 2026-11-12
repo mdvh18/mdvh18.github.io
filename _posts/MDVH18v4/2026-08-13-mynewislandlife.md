@@ -5,6 +5,7 @@ date: 2026-08-13 11:30:00 +0700
 title: "Việt Hóa My New Island Life v0.2.2 (Vô Setting ấn vietnamese chọn Việt Nam) - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] My New Island Life v0.2.2 - [1.6GB]"
 mota: |
  Một cuộc điện thoại từ người dì đã thay đổi tất cả: sức khỏe của ông bạn hình như đang kém dần đi. Dù vẫn hoài nghi về tin tức bất thình lình này, bạn lại thấy mình bị đưa đến một hòn đảo ngập nắng để chăm sóc cho ông. Nhưng thứ đang chờ đợi bạn lại khác xa những gì đã được kể...

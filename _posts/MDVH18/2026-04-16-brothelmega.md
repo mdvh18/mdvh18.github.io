@@ -5,6 +5,7 @@ date: 2026-04-16 10:30:00 +0700
 title: "Việt Hóa Brothel Megacorporation - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Brothel Megacorporation v0.30 - [3.3GB]"
 mota: |
  Epifania là một thành phố nơi tiền có thể mua được mọi thứ. Lãnh thổ tự trị này được quản lý bởi các siêu tập đoàn, quân đội tư nhân và các công đoàn độc lập. Bạn là một người đầy tham vọng đến với thành phố tội lỗi này với hy vọng sẽ làm nên chuyện lớn.

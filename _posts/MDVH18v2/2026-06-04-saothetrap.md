@@ -5,6 +5,7 @@ date: 2026-06-04 17:30:10 +0700
 title: "Việt Hóa SAO The Trap of Breath Concealed Magic - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Sword Art Online: The Trap of Breath Concealed Magic verβ6 - [6GB]"
 mota: |
  Cuộc sống hiện tại đang rất tốt đẹp; bạn đang tận hưởng những chuỗi ngày chơi VRMMORPG cùng bạn gái và đi hẹn hò với cô ấy. Tuy nhiên, một ngày nọ, bạn gặp Inoda, người sở hữu kỹ năng hiếm gặp Stealth Veil với nhược điểm chí mạng là làm suy yếu nặng nề nhân vật của anh ta trong tựa game VRMMORPG mà bạn đang chơi.

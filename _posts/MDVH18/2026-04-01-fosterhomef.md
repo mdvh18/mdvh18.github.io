@@ -5,6 +5,7 @@ date: 2026-04-01 12:30:00 +0700
 title: "Việt Hóa Foster Home F v0.1 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Foster Home F v0.1 - [450MB]"
 mota: |
  Frey trẻ tuổi buộc phải chuyển đến sống cùng một người bạn cũ của gia đình và các con gái của bà, đồng thời đảm nhận vị trí y tá tại trường đại học của họ.

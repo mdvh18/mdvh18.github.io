@@ -5,6 +5,7 @@ date: 2026-10-31 10:30:00 +0700
 title: "Việt Hóa A Perfect Marriage - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] A Perfect Marriage v0.7.6 - [1.6GB]"
 mota: |
  David và Anna Parker là một cặp vợ chồng trẻ vô cùng hạnh phúc cùng cô con gái mới sinh. Những ai quen biết đều nhận xét họ có một cuộc hôn nhân hoàn hảo. Thế nhưng, sự đố kỵ và phản bội sẽ sớm đưa cuộc hôn nhân của họ vào thử thách. Bạn sẽ là người quyết định số phận của họ!

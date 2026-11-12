@@ -5,6 +5,7 @@ date: 2026-09-17 10:30:00 +0700
 title: "Việt Hóa Two Week Notice v1.0 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Two Week Notice v1.0 (Ngắn) Completed - [950MB]"
 mota: |
  Làm việc trong ngành bán lẻ vô cùng đơn điệu và chán ngắt, nhưng một lần tương tác hay cuộc gặp gỡ tình cờ có thể thay đổi điều đó. Two Week Notice là một tựa game kinetic visual novel thuộc thể loại lát cắt cuộc sống đầy nhẹ nhàng. Game xoay quanh Nathan, một kẻ làm công ăn lương, khi anh tương tác với các đồng nghiệp trong những ca làm việc mệt óc tại 5-Twelve™ trong suốt một tuần.

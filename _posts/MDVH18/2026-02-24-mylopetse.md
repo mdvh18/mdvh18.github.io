@@ -5,6 +5,7 @@ date: 2026-02-24 14:30:00 +0700
 title: "[Việt Hóa] My Loyal Pets SE - MDVH18"
 tags: [all, mdvh18, allvh, pc, com]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] My Loyal Pets SE - [882MB]"
 mota: |
  Hãy tận hưởng theo cách của bạn.

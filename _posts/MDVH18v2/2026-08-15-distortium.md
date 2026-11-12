@@ -5,6 +5,7 @@ date: 2026-08-15 10:30:00 +0700
 title: "Việt Hóa Distortium v0.3.1 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK", "Compressed"]
+price: "free"
 namebanner: "[Việt Hóa] Distortium v0.3.1 Update - [2GB]"
 mota: |
  Bước vào cuộc sống của một chàng trai trẻ sống cùng bảo mẫu và con gái của cô ấy. Sau khi chuyển đến một địa điểm mới vì công việc của bảo mẫu, bạn bắt đầu theo học tại một ngôi trường mới.

@@ -5,6 +5,7 @@ date: 2026-09-09 12:30:00 +0700
 title: "Việt Hóa Game of Whores - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Game of Whores v0.34 - [2.2GB]"
 mota: |
  Bạn vào vai cựu quản lý của một nhà thổ, với mục tiêu quay trở lại ngành kinh doanh này, đồng thời giúp 3 nữ chính của tựa game đạt được quyền lực và ảnh hưởng.

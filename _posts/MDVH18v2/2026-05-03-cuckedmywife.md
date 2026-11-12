@@ -5,6 +5,7 @@ date: 2026-05-03 10:00:00 +0700
 title: "Việt Hóa Cucked by My Wife Final - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Cucked by My Wife Final - [300MB]"
 mota: |
  Cucked by My Wife là một visual novel dành cho người lớn, mang đến một cái nhìn nghiêm túc và sâu sắc về cuckolding, một hiện tượng tâm lý tính dục mà ở đó một cá nhân có được sự hưng phấn từ việc đối tác của mình tham gia quan hệ tình dục tự nguyện với người khác.

@@ -5,6 +5,7 @@ date: 2026-07-11 10:30:00 +0700
 title: "Việt Hóa Ms.Denvers - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Ms.Denvers v0.1.2.7 Update Multi-Mod - [2.4GB]"
 mota: |
  Wanda Denvers là một bà mẹ đơn thân 40 tuổi với một cậu con trai và hai cô con gái. Cô ấy là hiệu trưởng của trường trung học Middleton. Câu chuyện này tập trung vào cuộc sống của cô sau 5 năm ly hôn, khi cô phải vật lộn với nhiệm vụ tự mình chăm sóc cho 3 người con.

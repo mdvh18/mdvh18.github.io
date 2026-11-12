@@ -5,6 +5,7 @@ date: 2026-07-23 12:30:00 +0700
 title: "Việt Hóa My Girl Loves Handcuff - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] My Girl Loves Handcuffs v0.7 - [570MB]"
 mota: |
  Sau khi chạy trốn khỏi cha mẹ là những kẻ cuồng tín điên rồ, cô người yêu của anh bắt đầu mắc chứng mộng du—cô ấy dậm chân rầm rập khắp căn hộ nhỏ hẹp và làm anh thức giấc mỗi đêm.

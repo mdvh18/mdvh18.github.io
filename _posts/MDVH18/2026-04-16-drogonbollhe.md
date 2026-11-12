@@ -5,6 +5,7 @@ date: 2026-04-16 10:00:00 +0700
 title: "Việt Hóa Doragon Boll: Hybrid Eroventures - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Doragon Boll: Hybrid Eroventures v0.3.5 - [293MB]"
 mota: |
  Tại Vũ trụ thứ 7, cụ thể hơn là trên Trái Đất, có một anh hùng lai giữa hai chủng tộc: Son Gohan, chàng Saiyan tài năng và giàu lòng nhân ái, đang đối mặt với một cuộc phiêu lưu mới đầy bất ngờ.

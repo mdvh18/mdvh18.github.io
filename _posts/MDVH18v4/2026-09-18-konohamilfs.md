@@ -5,6 +5,7 @@ date: 2026-09-18 13:00:00 +0700
 title: "Việt Hóa Konoha Milfs v1.2 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Konoha Milfs v1.2 - [2.8GB]"
 mota: |
  Bối cảnh trò chơi diễn ra sau cuộc chiến ninja lớn lần thứ tư. Câu chuyện kể về nhịp sống thường ngày của một cậu bé mồ côi, người may mắn được Hokage nhận nuôi từ thuở nhỏ.

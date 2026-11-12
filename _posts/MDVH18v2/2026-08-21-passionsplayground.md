@@ -5,6 +5,7 @@ date: 2026-08-21 10:00:00 +0700
 title: "Việt Hóa Passions Playground v0.5.5 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Passions Playground v0.5.5 - [3.0GB]"
 mota: |
  Điều hướng các mối quan hệ, xây dựng các kết nối và tạo nên câu chuyện của riêng bạn trong tựa game hấp dẫn và lôi cuốn này. Các quyết định của bạn sẽ ảnh hưởng đến mọi thứ, vì vậy hãy lựa chọn một cách khôn ngoan!

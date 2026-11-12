@@ -5,6 +5,7 @@ date: 2026-06-24 12:20:00 +0700
 title: "Việt Hóa After Thunder - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] After Thunder v0.3 - [1.1GB]"
 mota: |
  After Thunder lấy bối cảnh ở một thế giới giả tưởng vùng Viễn Đông. Trong trò chơi bạn sẽ vào vai một chiến binh trẻ tuổi.

@@ -6,6 +6,7 @@ title: "Việt Hóa Tomboy Supremacy - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
 price: "free"
+price: "free"
 namebanner: "[Việt Hóa] Tomboy Supremacy v0.10b Prologue - [2GB]"
 mota: |
  Một cựu binh Lục quân Mỹ trở về nhà với gia đình tại miền Nam bang Missouri sau bốn năm xa cách. Giờ đây, anh phải đối mặt với cô em gái Cheyenne thuộc tuýp tsundere lại còn mắc hội chứng cuồng anh trai, cô em gái khác là Mary-Sue thì đang lao vào cuộc chiến sinh tử đầy máu me với lũ sóc ở hạt Greene, bang Missouri, và cô chị cùng cha khác mẹ Luna—người đang phải chia sẻ tâm trí mình với nhân cách của một con gấu bông điên loạn, nghiện rượu tên là Cozmo.

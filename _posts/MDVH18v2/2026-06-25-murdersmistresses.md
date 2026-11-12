@@ -5,6 +5,7 @@ date: 2026-06-25 12:30:00 +0700
 title: "Việt Hóa Murders & Mistresses v0.15.1.2s - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Murders & Mistresses v0.15.1.2s - [2.6GB]"
 mota: |
  Bạn vào vai một cố vấn cảnh sát đã nhúng chàm với quá khứ tội phạm, điều tra một vụ án mạng kép tàn bạo trong khi phải đối mặt với cám dỗ, sự thao túng, và những bản năng đen tối của chính bạn — cả ở nơi làm việc lẫn tại nhà.

@@ -5,6 +5,7 @@ date: 2026-09-14 09:00:00 +0700
 title: "Việt Hóa Jujutsu Trainer v0.28 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Jujutsu Trainer v0.28 - [496MB]"
 mota: |
  Một trò chơi Parody dành cho người lớn dựa trên bộ truyện tranh nổi tiếng Jujutsu Kaisen của Gege Akutami. Trong Jujutsu Trainer, bạn vào vai một chàng trai trẻ bị mất trí nhớ và bị ép buộc phải trở thành một chú thuật sư.

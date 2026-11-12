@@ -5,6 +5,7 @@ date: 2026-04-21 10:30:00 +0700
 title: "Việt Hóa Living With Belle - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Living With Belle v0.015 - [166MB]"
 mota: |
  Trong Living with Belle, một trò chơi chế theo phong cách NSFW, bạn có thể tương tác với Belle và những cô gái khác.

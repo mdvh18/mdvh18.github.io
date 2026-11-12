@@ -5,6 +5,7 @@ date: 2026-04-02 11:30:00 +0700
 title: "Việt Hóa School Game v0.975 - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] School Game v0.975 bugfix4 - [1.7GB]"
 mota: |
  Trò chơi School Game là một trò chơi có các yếu tố nhập vai. Bạn tạo nhân vật của mình và phát triển trong môi trường học đường. Học các kỹ năng, mua sắm trang bị, gặp gỡ bạn cùng lớp, xây dựng danh tiếng và quản lý túi tiền của bạn.

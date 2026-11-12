@@ -5,6 +5,7 @@ date: 2026-06-13 14:15:00 +0700
 title: "Việt Hóa Ikinobiru Megumin - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Ecchi na Oshigoto o Shite 30-nichi Ikinobiru Megumin! FIX lỗi nhiệm vụ tiếp rượu - [270MB]"
 mota: |
  Megumin cuối cùng đã đến thành phố Axel. Cô bắt đầu nhận các công việc để trang trải cho cuộc sống mới của mình, nhưng cô sớm phải đối mặt với một thực tế phũ phàng: chỉ riêng các nhiệm vụ của Bang hội là không đủ để sống qua ngày. Anh em nào tải rồi tải fix FIX đè vào thư mục game là được nhé.

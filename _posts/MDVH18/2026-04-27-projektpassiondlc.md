@@ -5,6 +5,7 @@ date: 2026-04-27 15:30:00 +0700
 title: "Việt Hóa Projekt: Passion Kollege Days - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["Compressed", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Projekt: Passion Kollege Days - [418MB]"
 mota: |
  Trái Đất đã bị bỏ hoang từ lâu, và những gì còn lại của nhân loại giờ đây đang rải rác khắp thiên hà. Vậy chuyện gì đã xảy ra với Trái Đất? Phần lịch sử đó từ lâu đã bị vùi lấp vào quên lãng. Nhưng bạn quan tâm làm gì chứ? Bạn còn có những vấn đề của riêng mình phải giải quyết mà.

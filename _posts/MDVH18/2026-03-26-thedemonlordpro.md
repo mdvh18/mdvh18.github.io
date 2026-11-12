@@ -5,6 +5,7 @@ date: 2026-03-26 13:30:00 +0700
 title: "Việt Hóa The Demon Lord's Project - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] The Demon Lord's Project v0.23 - [641MB]"
 mota: |
  Bạn bị một thực thể hùng mạnh bắt cóc trong khi đang ngủ, đưa tới thế giới của chúng, và chúng từ chối tiết lộ lý do chính xác tại sao chúng giữ bạn ở đó.

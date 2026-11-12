@@ -5,6 +5,7 @@ date: 2026-07-13 15:30:00 +0700
 title: "Việt Hóa I Have Known You v4.03.04 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] I Have Known You v4.03.04 - [4.2GB]"
 mota: |
  Câu chuyện bắt đầu khi bạn trở về quê nhà Wildflower để giúp một người bạn tìm hiểu về một buổi lễ kỳ lạ. Nhưng việc tưởng chừng như là giúp đỡ đơn thuần lại sớm trở nên đáng sợ hơn nhiều. Những điều bị chôn vùi từ lâu về thời săn phù thủy ở nơi này lại hiện ra, và bạn nhanh chóng nhận ra rằng Wildflower không chỉ lưu giữ những kỷ niệm—nơi này còn giấu kín những hiểm nguy ngay trước mắt.

@@ -5,6 +5,7 @@ date: 2026-09-16 12:30:00 +0700
 title: "Việt Hóa My Bimbo Dream: Kingpin - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] My Bimbo Dream: Kingpin v0.11.5 Multi Mod + DLC - [9.5GB/3.2GB]"
 mota: |
  Bạn đang ngập trong nợ nần, bị vướng vào những vụ tống tiền và đang dần lấn sâu vào thế giới ngầm tội phạm. Bạn sẽ dấn thân bao xa để chạm tay vào ảo mộng hoàn hảo và cuộc sống mà bạn tin rằng mình xứng đáng có được?

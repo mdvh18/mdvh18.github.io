@@ -5,6 +5,7 @@ date: 2026-06-13 17:30:10 +0700
 title: "Việt Hóa Boundaries of Morality - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Boundaries of Morality v0.720 - [3.1GB]"
 mota: |
  Trung tâm của câu chuyện là Emma, một cô gái trẻ bắt đầu công việc mới tại một công ty lớn. Nhưng cô nhanh chóng nhận ra những bức tường văn phòng không chỉ che giấu các cơ hội nghề nghiệp mà còn cả một mạng lưới âm mưu và bí mật chằng chịt mà cô phải khéo léo vượt qua. CHỌN TIẾNG VIỆT ANH EM CHỌN Ô CÓ ĐỐNG CỜ Ở PHÍA DƯỚI CHỮ DISCORD NHÉ.

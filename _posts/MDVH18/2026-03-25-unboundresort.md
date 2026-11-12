@@ -5,6 +5,7 @@ date: 2026-03-25 15:30:00 +0700
 title: "Việt Hóa Unbound Resort - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Unbound Resort v0.1 (NTR) - [342MB]"
 mota: |
  Bạn và vợ mình thích khám phá thế giới NTR và NTS, và bạn biết điều gì sẽ xảy ra tiếp theo rồi đấy. Nếu không, hãy chơi trò chơi này đi.

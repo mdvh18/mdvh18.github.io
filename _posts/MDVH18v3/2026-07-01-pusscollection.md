@@ -5,6 +5,7 @@ date: 2026-07-01 13:40:00 +0700
 title: "Việt Hóa The Puss Collection v0.3.0 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] The Puss Collection v0.3.0 - [323MB]"
 mota: |
  11 bức tượng mèo. Bên trong một trong số chúng có kim cương — một phần thừa kế được tiết lộ trong lá thư từ người dì quá cố của bạn. Nằm rải rác khắp khách sạn nơi bà từng làm việc, những bức tượng dẫn bạn đến một công việc thực tập, mở ra cánh cửa dẫn đến một thế giới đầy bí mật, âm mưu và cám dỗ. Nhưng chẳng mất bao lâu để nhận ra — bạn không phải là người duy nhất đang tìm kiếm.

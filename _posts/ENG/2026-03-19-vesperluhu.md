@@ -5,6 +5,7 @@ date: 2026-03-19 10:30:00 +0700
 title: "ENG Vesper - Lust & Hunger - MDVH18"
 tags: [all, english, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[ENG] Vesper - Lust & Hunger v0.3.13 - [1.1GB]"
 mota: |
  Tỉnh dậy trong một hầm ngục, anh nhận ra mình không nhớ làm sao mình lại ở đây — hay tại sao. Để thoát thân, anh sẽ phải đi sâu hơn, qua những căn phòng nguy hiểm và những cuộc chạm trán kỳ lạ mà cái giá phải trả hầu như luôn đắt hơn vẻ ngoài của chúng.

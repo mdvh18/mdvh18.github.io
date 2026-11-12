@@ -5,6 +5,7 @@ date: 2026-07-09 10:30:00 +0700
 title: "Việt Hóa Lost Solace Ch.2 P1 v0.2a - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Lost Solace Ch.2 P1 v0.2a - [1.3GB]"
 mota: |
  Sau khi đặt chân đến đô thị Solace City, một người đàn ông với quá khứ mờ ám bắt đầu gỡ những mối tơ vò mà kẻ khác để lại. Những mối tơ đó liên quan đến những cô gái mất tích, một ngôi trường mang bí mật đen tối, và một thành phố được xây dựng trên sự mục nát và dối trá.

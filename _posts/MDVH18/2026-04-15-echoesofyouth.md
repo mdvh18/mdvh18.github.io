@@ -5,6 +5,7 @@ date: 2026-04-15 13:30:00 +0700
 title: "Việt Hóa Echoes of Youth - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Echoes of Youth v1.0.2 - [2.5GB]"
 mota: |
  Một câu chuyện về sự trưởng thành, nơi bạn sẽ khám phá, đưa ra các lựa chọn và xây dựng các mối quan hệ.

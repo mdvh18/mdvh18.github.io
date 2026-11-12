@@ -5,6 +5,7 @@ date: 2026-04-30 17:30:00 +0700
 title: "Việt Hóa The Ruined Bloom v0.5.7 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] The Ruined Bloom v0.5.7 (NTR) - [446MB]"
 mota: |
  Câu chuyện này dõi theo hành trình của Yuu Kanata, một nam sinh trung học bình thường, khi anh cố gắng bảo vệ em gái mình là Misaki Kanata khỏi một thế giới tàn khốc. Mỗi lựa chọn bạn đưa ra sẽ quyết định số phận của gia đình này...

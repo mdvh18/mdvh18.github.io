@@ -5,6 +5,7 @@ date: 2026-09-03 10:30:00 +0700
 title: "Việt Hóa After The Reunion - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] After The Reunion Eva - [871MB]"
 mota: |
  Mười năm sau khi tốt nghiệp, lớp C trường Trung học Lockwood hội ngộ trong một đêm đong đầy kỷ niệm, nỗi hoài niệm và những bất ngờ không báo trước. Trong số đó, hai mươi cựu nữ sinh rơi vào tầm ngắm của hai gã bạn học phong lưu với những ý đồ không mấy trong sáng, quyết tâm kết thúc đêm nay với một người trong vòng tay.

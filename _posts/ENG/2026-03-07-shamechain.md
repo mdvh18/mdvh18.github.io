@@ -5,6 +5,7 @@ date: 2026-03-07 17:30:00 +0700
 title: "ENG Shame Chain - MDVH18"
 tags: [all, english, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[ENG] Shame Chain v1.0 - [948MB]"
 mota: |
  Một ngày nọ, anh vô tình chứng kiến một sự việc ngoài dự tính. Trong lúc chờ đèn đỏ trên đường đi lấy mô hình đã đặt trước, anh nhìn thấy một cô gái quen thuộc - Nishimura, bạn cùng lớp của mình.

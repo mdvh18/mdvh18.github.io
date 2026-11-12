@@ -5,6 +5,7 @@ date: 2026-03-19 10:10:00 +0700
 title: "ENG Sinners Landing - MDVH18"
 tags: [all, english, apk, pc]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[ENG] Sinners Landing v1.0.0w - [3.5GB]"
 mota: |
  Một gã du đãng dâm đãng đang đào tẩu, một đại pháp sư giận dữ và cô con gái đã mất đời con gái của ông ta; hãy bước vào bức thư tình gửi đến dòng game D&D cổ điển, chỉ là có thêm nhiều cảnh ân ái, vui vẻ cùng những tác phẩm nghệ thuật 2D được vẽ tay và hoạt hóa tỉ mỉ từ những nhà phát triển đứng sau Paradise Lust.

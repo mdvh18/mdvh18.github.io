@@ -5,6 +5,7 @@ date: 2026-04-07 16:30:00 +0700
 title: "Việt Hóa Superheroes Suck - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Superheroes Suck v2.066 - [4.64GB]"
 mota: |
  Trong trò chơi, bạn sẽ vào vai một người đàn ông đang mấp mé bên bờ vực của sự chán chường ngay trước khi cơ hội sở hữu những năng lực siêu nhân đến để giải cứu anh ta khỏi cuộc sống thường nhật, và đẩy anh ta vào nhà hát chống tội phạm của một siêu anh hùng!

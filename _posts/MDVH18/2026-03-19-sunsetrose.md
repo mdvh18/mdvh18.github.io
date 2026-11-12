@@ -5,6 +5,7 @@ date: 2026-03-19 15:30:00 +0700
 title: "Việt Hóa Sunset Rose - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Sunset Rose v0.1 Elite - [776MB]"
 mota: |
  Trong cốt truyện này bạn vào vai một nhân vật nam chính, một gã khá thoải mái, tầm giữa tuổi đôi mươi, sống một mình. Không nuôi thú cưng, sống đúng kiểu độc thân. Bạn làm việc tại một quán ăn nhanh địa phương cùng với đồng nghiệp của mình là Daniela.

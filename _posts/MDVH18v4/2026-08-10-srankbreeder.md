@@ -5,6 +5,7 @@ date: 2026-08-10 10:30:00 +0700
 title: "Việt Hóa S Rank Breeder - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] S Rank Breeder Chapter 3 (NTR) - [1.2GB]"
 mota: |
  Trong thời gian tới, một căn bệnh khiến con người gần như không thể có con. Để đất nước không bị lụi tàn, chính quyền đã đứng ra tiếp quản. Mỗi người trẻ tuổi được gửi đến một trường đặc biệt, được chấm điểm dựa trên thân thể và giá trị sinh sản của họ, rồi xếp hạng.

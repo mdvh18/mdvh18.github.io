@@ -5,6 +5,7 @@ date: 2026-06-04 10:30:00 +0700
 title: "Việt Hóa Aurora Protocol v0.5 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Aurora Protocol v0.5 - [740MB]"
 mota: |
  Bước vào vị trí của một nhân vật vừa mới chuyển đến nhà gia đình của một người bạn. Người này cũng tình cờ là những chủ sở hữu nổi tiếng của Artimus Corp, tập đoàn đa nghìn tỷ đô la thống trị ngành công nghiệp công nghệ.

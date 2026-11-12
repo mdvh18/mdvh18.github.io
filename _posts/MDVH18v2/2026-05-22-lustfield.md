@@ -5,6 +5,7 @@ date: 2026-05-22 15:30:00 +0700
 title: "Việt Hóa Lustfield v1.1.0 Completed - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Lustfield v1.1.0 Completed - [1.3GB]"
 mota: |
  Lusfield là một tựa game Parody dành cho người lớn. Trò chơi dựa trên các loạt phim hoạt hình nổi tiếng là The Simpsons và Futurama. Nhân vật chính Fry vô tình bị dịch chuyển tức thời đến vũ trụ của gia đình Simpsons.

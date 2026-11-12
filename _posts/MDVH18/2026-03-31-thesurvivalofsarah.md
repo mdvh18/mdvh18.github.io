@@ -5,6 +5,7 @@ date: 2026-03-31 12:30:00 +0700
 title: "Việt Hóa The Survival of Sarah Rose - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] The Survival of Sarah Rose v0.70 - [1.4GB]"
 mota: |
  The Survival of Sarah Rose là một tiểu thuyết trực quan khiêu dâm kỳ ảo sử thi, kể về cuộc đời của trưởng nữ thuộc hoàng gia Rose. Khi bi kịch ập đến, Sarah nhận thấy cuộc sống vốn dĩ an toàn và ổn định của mình bị đẩy vào cảnh hỗn loạn.

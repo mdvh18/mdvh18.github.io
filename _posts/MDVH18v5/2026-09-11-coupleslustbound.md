@@ -5,6 +5,7 @@ date: 2026-09-11 11:30:00 +0700
 title: "Việt Hóa Couples Lustbound - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Couples: Lustbound v0.6.0 (NTR) - [5GB/2GB]"
 mota: |
  Katy và John đang có một cuộc hôn nhân hạnh phúc — nhưng ngay cả những mối quan hệ bền chặt nhất cũng có lúc vấp ngã. Một khoảnh khắc ranh giới bị mờ đi đã trở thành ngọn lửa châm ngòi làm thay đổi mọi thứ. Thứ bắt đầu như một sai lầm khó chịu lại mở ra cánh cửa dẫn đến những câu hỏi mà họ chưa từng nghĩ mình sẽ phải đối mặt: sự tin tưởng, khao khát và tính chân thành.

@@ -5,6 +5,7 @@ date: 2026-03-25 16:30:00 +0700
 title: "Việt Hóa Harem Corruption - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Harem Corruption v10.0 - [732MB]"
 mota: |
  Harem Corruption kể về một chàng trai trẻ có được quyền năng phi thường là kiểm soát chính ham muốn.

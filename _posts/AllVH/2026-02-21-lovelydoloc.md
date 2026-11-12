@@ -5,6 +5,7 @@ date: 2026-02-21 16:30:00 +0700
 title: "[Việt Hóa] Lovey-Dovey Lockdown - MDVH18"
 tags: [all, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Lovey-Dovey Lockdown Final - [1.1GB]"
 mota: |
  Bạn và cô nàng crush thời đại học đã bị nhốt trong một căn phòng bởi sự can thiệp của thần thánh. Cách duy nhất để thoát ra là bạn phải…

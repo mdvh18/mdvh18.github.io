@@ -5,6 +5,7 @@ date: 2026-02-21 18:30:00 +0700
 title: "[Việt Hóa] Molester on the train - MDVH18"
 tags: [all, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Molester on the train - [429MB]"
 mota: |
  Bạn vừa bị đuổi việc, đang trên đường trở về nhà trên chuyến tàu và đằng trước bạn là một cô bé học sinh....

@@ -5,6 +5,7 @@ date: 2026-09-12 11:30:00 +0700
 title: "Việt Hóa Price of Desires - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Price of Desires Ep.4.0b (NTR) - [1GB]"
 mota: |
  Vào ngày cuối cùng của chuyến nghỉ dưỡng nhiệt đới đầy cuồng nhiệt, một cặp đôi nhận được một lời đề nghị cám dỗ đầy tội lỗi: tham gia vào một chuỗi trò chơi mạo hiểm để giành lấy phần thưởng thay đổi cuộc đời. Sự dối trá, dục vọng và những lựa chọn đầy rủi ro sẽ quyết định liệu họ ra về với chiến thắng… hay sẽ phá hỏng những gì họ đang có mãi mãi.

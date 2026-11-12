@@ -5,6 +5,7 @@ date: 2026-06-12 12:30:01 +0700
 title: "Việt Hóa Garden of Venus v1.0.5 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Garden of Venus v1.0.5 - [628MB]"
 mota: |
  Hãy tưởng tượng bạn là gã đàn ông duy nhất trong một thị trấn nhỏ với đầy những cô gái xinh đẹp - và ham muốn... Ở một thế giới khác, rất giống nhưng lại khác biệt với thế giới của chúng ta, không còn nhiều đàn ông nữa.

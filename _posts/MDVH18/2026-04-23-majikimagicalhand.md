@@ -5,6 +5,7 @@ date: 2026-04-23 10:30:00 +0700
 title: "Việt Hóa Maji-iki The Failing Witch and Lewd Magical Hands - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Maji-iki The Failing Witch and Lewd Magical Hands v0.21f - [523MB]"
 mota: |
  Phong cách RPG thu thập, với tiến trình như sau: ① Khám phá hầm ngục và đánh bại boss ② Tiến triển kịch bản ＋ Tăng ham muốn

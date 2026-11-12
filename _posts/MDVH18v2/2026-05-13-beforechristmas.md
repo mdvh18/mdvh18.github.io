@@ -5,6 +5,7 @@ date: 2026-05-13 12:30:00 +0700
 title: "Việt Hóa Night Before Christmas Completed - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Night Before Christmas Completed - [664MB]"
 mota: |
  Một gia đình cùng nhau quây quần để ăn mừng các ngày lễ, khi tình trạng thiếu thốn thức ăn không may xảy ra cùng sự xuất hiện của một vị khách bất ngờ đã dẫn đến việc giải phóng nguồn năng lượng bùng nổ

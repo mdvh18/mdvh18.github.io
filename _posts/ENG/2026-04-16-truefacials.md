@@ -5,6 +5,7 @@ date: 2026-04-16 18:30:00 +0700
 title: "ENG True Facials v0.594 Pro + Mod - MDVH18"
 tags: [all, english, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[ENG] True Facials v0.594 Pro + Mod - [1.16GB + MOD 7GB]"
 mota: |
  Bạn sẽ được làm ình với những cô gái xinh đẹp và tràn đầy sức sống.

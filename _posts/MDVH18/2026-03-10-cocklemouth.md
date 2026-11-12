@@ -5,6 +5,7 @@ date: 2026-03-10 18:30:00 +0700
 title: "Việt Hóa Cocklemouth Village - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Cocklemouth Village v0.5 - [1.3GB]"
 mota: |
  Một đầu bếp lành nghề chuyển đến một ngôi làng ở miền Bắc nước Anh để làm việc trong nhà hàng mới của bạn mình. Hãy cùng theo chân nhân vật chính khi anh gặp gỡ những người dân tại Cocklemouth.

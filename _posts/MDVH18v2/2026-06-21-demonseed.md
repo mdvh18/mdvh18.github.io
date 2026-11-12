@@ -5,6 +5,7 @@ date: 2026-06-21 15:31:00 +0700
 title: "Việt Hóa Demon Seed v0.5.1 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Demon Seed v0.5.1 - [1.6GB]"
 mota: |
  Cuộc sống của bạn khá bình thường, trừ việc bạn có vẻ khá dễ dàng để lên giường với đàn bà. Nhưng cuộc sống vốn dĩ bình thường đó dường như chẳng còn bình thường nữa sau khi những chuyện ngày càng kỳ quặc xảy đến với bạn.

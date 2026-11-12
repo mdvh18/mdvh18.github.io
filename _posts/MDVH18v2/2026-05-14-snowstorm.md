@@ -5,6 +5,7 @@ date: 2026-05-14 12:30:00 +0700
 title: "Việt Hóa SnowStorm v0.12 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["Compressed", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] SnowStorm v0.12 - [3GB]"
 mota: |
  Ở tận phương Bắc xa xôi, bao quanh bởi những hồ nước, núi non và rừng già, có ba gia tộc đang cùng chung sống tại ngôi làng kỳ lạ Njardarheimr: Hvitr Ulfr (Sói Trắng), Myrk Hrafn (Quạ Đen), và Bloba Bjorn (Gấu Máu).

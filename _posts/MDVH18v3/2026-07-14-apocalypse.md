@@ -5,6 +5,7 @@ date: 2026-07-14 19:30:00 +0700
 title: "Việt Hóa Apocalypse 2059 v0.3.5 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Apocalypse 2059 v0.3.5 FIX APK - [1.4GB/APK1.2GB]"
 mota: |
  Năm 2030, một sự kiện gọi là Cơn Tai Ương đã thay đổi bộ mặt Trái Đất mãi mãi. Vũ khí hạt nhân cướp đi bao mạng sống trong chớp mắt, loài người, luật lệ và lẽ phải đều tan thành bụi. Hai mươi năm đã trôi qua. Con người của thời trước đang già đi, trong khi con người mới lớn lên, chẳng biết gì về thế giới đã từng có mặt trước kia.

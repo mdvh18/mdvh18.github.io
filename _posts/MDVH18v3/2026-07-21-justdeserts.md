@@ -5,6 +5,7 @@ date: 2026-07-21 10:30:00 +0700
 title: "Việt Hóa Just Deserts Final - MDVH18"
 tags: [all, mdvh18, allvh, pc, com]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Just Deserts Final Joi(Plugin 7.1.3) (KHÔNG SEX) - [975MB]"
 mota: |
  Just Deserts là một game hẹn hò hành động viễn tưởng nơi bạn vào vai một người lính phải bảo vệ thành phố khỏi cuộc tấn công của người ngoài hành tinh bí ẩn, đồng thời phải chinh phục trái tim của những cô gái trong mơ!

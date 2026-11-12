@@ -5,6 +5,7 @@ date: 2026-05-12 10:30:00 +0700
 title: "Việt Hóa Witch Trainer: Silver Mod - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Witch Trainer: Silver Mod v1.49.2 - [950MB]"
 mota: |
  Về cơ bản, đây là một bản mod tổng hợp từ vài bản mod khác nhau cùng với một số nội dung mới. Nó bổ sung thêm các cảnh quay mới, bản đồ, các thay đổi về bối cảnh, thuốc men, trang phục tùy chỉnh và trang phục tiến hóa. Hiện tại, bản mod vẫn chưa hoàn thiện và các nội dung mới cùng bản sửa lỗi đang được cập nhật định kỳ,

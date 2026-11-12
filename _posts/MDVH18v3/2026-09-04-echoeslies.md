@@ -5,6 +5,7 @@ date: 2026-09-04 10:40:00 +0700
 title: "Việt Hóa Echoes: The Lies We Tell Ourselves - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Echoes: The Lies We Tell Ourselves Ep.4 Multi Mod - [4.2GB/1.36GB]"
 mota: |
  Một sinh viên điện ảnh trẻ tuổi đang cố gắng rũ bỏ quá khứ đau buồn bằng cách làm lại từ đầu tại Đại học Oakheart. Để tồn tại, cậu ấy phải mang một chiếc mặt nạ—của một gã quyến rũ, hóm hỉnh và hướng ngoại. Nhưng sau hậu trường, cậu ấy chỉ là một đạo diễn trầm lặng, thích quan sát, và sợ hãi việc để bất kỳ ai thấy con người thật của mình.

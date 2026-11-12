@@ -5,6 +5,7 @@ date: 2026-03-22 12:30:00 +0700
 title: "Việt Hóa Anime Hot Resort - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Anime Hot Resort v0.19 - [190MB]"
 mota: |
  Anime Hot Resort là một tiểu thuyết trực quan dành cho người lớn (visual novel) đầy lôi cuốn lấy bối cảnh tại một khu nghỉ dưỡng nhiệt đới sang trọng, nơi các nhân vật anime được yêu thích cùng hội ngộ trong một kỳ nghỉ để đời.

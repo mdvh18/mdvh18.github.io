@@ -5,6 +5,7 @@ date: 2026-05-19 15:30:00 +0700
 title: "Việt Hóa The Creditor's Wife v0.1d3 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] The Creditor's Wife v0.1d3 - [567MB]"
 mota: |
  Trong Creditor's Wife, bạn vào vai một chàng trai trẻ bị bán vào kiếp phục vụ để trả nợ cho người mẹ đã khuất. Sống như một người giúp việc trong căn dinh thự sang trọng, bạn phải đối mặt với sự bắt nạt, những căng thẳng và cả những màn quyến rũ nồng cháy từ chính gia đình của chủ nợ.

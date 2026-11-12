@@ -5,6 +5,7 @@ date: 2026-08-29 12:31:00 +0700
 title: "Việt Hóa Special Harem Class v0.4.7a - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Special Harem Class v0.4.7a - [1.7GB]"
 mota: |
  Tiếc là phải báo cho bạn biết, bạn đã không được nhận vào bất kỳ trường đại học nào mà bạn đã nộp đơn. Chán thật. Nhưng đừng lo!

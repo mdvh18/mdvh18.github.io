@@ -5,6 +5,7 @@ date: 2026-06-10 15:30:00 +0700
 title: "Việt Hóa Cradle Beyond the Veil v0.2.3b - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Cradle Beyond the Veil v0.2.3b - [950MB]"
 mota: |
  Con người vốn đã đang phải đối phó với tình trạng dân số quá đông, nguồn tài nguyên ngày càng cạn kiệt, chiến tranh, dịch bệnh, và công nghệ đang phát triển nhanh hơn mức chúng ta có thể xoay xở.

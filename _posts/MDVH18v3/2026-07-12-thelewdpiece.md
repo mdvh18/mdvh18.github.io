@@ -5,6 +5,7 @@ date: 2026-07-12 12:30:00 +0700
 title: "Việt Hóa The Lewd Piece v0.3 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] The Lewd Piece v0.3 Cheat (Có 4 nhân vật) - [202MB]"
 mota: |
  Bạn đã giải cứu Nami và Carrot. Với việc Nico Robin tham gia ngay sau đó, bạn biết rằng con đường dẫn đến kho báu huyền thoại không chỉ nằm ở tấm bản đồ, mà còn là việc tập hợp một thủy thủ đoàn gồm những người phụ nữ xinh đẹp và đáng gờm nhất trên biển.

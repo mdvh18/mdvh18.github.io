@@ -5,6 +5,7 @@ date: 2026-03-19 20:30:00 +0700
 title: "Việt Hóa xxxFiles v0.1.5 - MDVH18"
 tags: [all, mdvh18, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] xxxFiles v0.1.5 - [3.9GB]"
 mota: |
  Về trò chơi thì nó giống như game Prototype hoặc Venom nhưng có thêm yếu tố tình dục. Cũng chẳng có gì nhiều để nói ở đây cả. Bạn không có một quá khứ đau thương hay bất cứ thứ gì đại loại thế, bạn chỉ đơn giản là một sinh vật ngoài hành tinh thích làm ... mà thôi.​

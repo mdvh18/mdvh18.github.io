@@ -5,6 +5,7 @@ date: 2026-02-21 21:30:00 +0700
 title: "[Việt Hóa] The Secret Atelier - MDVH18"
 tags: [all, allvh, pc]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] The Secret Atelier v3.0- [5.36GB]"
 mota: |
  Bạn là giáo viên hướng dẫn của câu lạc bộ mỹ thuật, và người duy nhất còn lại trong phòng lúc này là Ichijou Erika.

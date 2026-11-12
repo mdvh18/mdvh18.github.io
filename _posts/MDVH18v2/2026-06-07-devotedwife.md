@@ -5,6 +5,7 @@ date: 2026-06-07 15:20:00 +0700
 title: "Việt Hóa Devoted Wife v0.57 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Devoted Wife v0.57 Joiplay- [810MB]"
 mota: |
  Sự xuất hiện của chàng trai trẻ khiến nam chính nhận ra rằng mình có một sở thích tình dục kỳ lạ mà anh hy vọng vợ mình sẽ nuông chiều theo. Khi anh bắt đầu thử nghiệm các tưởng tượng khác nhau với vợ mình, anh nhận thấy rằng sở thích của họ không phải lúc nào cũng trùng khớp.

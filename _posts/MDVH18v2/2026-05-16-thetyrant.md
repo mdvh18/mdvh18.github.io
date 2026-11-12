@@ -5,6 +5,7 @@ date: 2026-05-16 10:30:00 +0700
 title: "Việt Hóa The Tyrant v0.9.7 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, ntr]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] The Tyrant v0.9.7 - [3.5GB]"
 mota: |
  Trò chơi xoay quanh một người chơi trở về sau một năm làm sinh viên trao đổi. Đó là năm học cuối cùng của anh ta và anh ta trở về nhà để tìm việc làm.

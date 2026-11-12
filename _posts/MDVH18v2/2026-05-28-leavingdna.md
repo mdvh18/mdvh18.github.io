@@ -5,6 +5,7 @@ date: 2026-05-28 12:30:00 +0700
 title: "Việt Hóa Leaving DNA Ep.5 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "Compressed"]
+price: "free"
 namebanner: "[Việt Hóa] Leaving DNA Ep.5 - [4.3GB]"
 mota: |
  Cam kết của một công tố viên hình sự đối với hệ thống công lý bị thử thách khi một cuộc điều tra vụ án giết người chưa có lời giải dẫn đến đơn vị đặc nhiệm của cha anh ta.

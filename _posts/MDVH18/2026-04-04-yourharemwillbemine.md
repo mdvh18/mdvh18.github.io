@@ -5,6 +5,7 @@ date: 2026-04-04 13:30:00 +0700
 title: "Việt Hóa Your Harem Will Be Mine - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Your Harem Will Be Mine v0.2 - [768MB]"
 mota: |
  Norman là một chàng trai trẻ khá đào hoa và được các cô gái săn đón. Một ngày nọ, anh phát hiện ra vợ mình đang lén lút ngoại tình với một huấn luyện viên cá nhân. Anh quyết định ly hôn với cô ta và quay trở về nhà bố mẹ đẻ...

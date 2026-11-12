@@ -5,6 +5,7 @@ date: 2026-06-08 15:30:00 +0700
 title: "Việt Hóa Jennifer's Lustful Journey - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Jennifer's Lustful Journey Completed - [1GB]"
 mota: |
  Jennifer là một phụ nữ trẻ vừa mới tốt nghiệp đại học. Cô ấy đang chuyển đến Santa City để bắt đầu kỳ thực tập của mình, nơi Nick - bạn trai cô ấy đang sống. Hãy đồng hành cùng Jennifer trong một câu chuyện ngắn về ngày đầu tiên sống tại Santa City với sự giúp đỡ của Cassandra, người bạn lâu năm của mẹ cô ấy.

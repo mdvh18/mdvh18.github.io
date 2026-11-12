@@ -5,6 +5,7 @@ date: 2026-09-13 11:30:00 +0700
 title: "Việt Hóa Fiery Passions - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Fiery Passions v0.3.5 Cheat - [1GB]"
 mota: |
  Fiery Passions là một tựa game visual novel kết hợp yếu tố sandbox. Đôi khi, ngắt kết nối với thế giới số lại là cách tốt nhất để thực sự kết nối với mọi người.

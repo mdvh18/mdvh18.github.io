@@ -5,6 +5,7 @@ date: 2026-06-30 19:30:00 +0700
 title: "Việt Hóa Loli Health Checkup 2 - MDVH18"
 tags: [all, mdvh18, allvh, pc, com]
 typegame: ["PC"]
+price: "free"
 namebanner: "[Việt Hóa] Loli Health Checkup 2 FIX LỖI K SAVE - [109MB]"
 mota: |
  Kiểm tra các học sinh tại phòng y tế tại một trường nữ sinh, ở đây bạn có cơ hội khám phá và kiểm tra các em nữ sinh 'kỹ' hơn.

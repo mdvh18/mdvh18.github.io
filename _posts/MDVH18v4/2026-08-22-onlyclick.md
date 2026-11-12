@@ -5,6 +5,7 @@ date: 2026-08-22 10:00:00 +0700
 title: "Việt Hóa OnlyClicks v1.1 Completed - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk, com]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] OnlyClicks v1.1 Completed - [278MB]"
 mota: |
  OnlyClicks là một trò chơi clicker ngắn gọn tập trung vào quá click, các phần thưởng có thể mở khóa, và chứng kiến Ava lớn lên từ một người mới bắt đầu rụt rè thành một nhà sáng tạo trực tuyến tự tin.

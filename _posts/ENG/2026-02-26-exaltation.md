@@ -5,6 +5,7 @@ date: 2026-02-26 14:30:00 +0700
 title: "ENG  Exaltation! v1.1 - MDVH18"
 tags: [all, english, pc]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[ENG]  Exaltation! v1.1 - [764MB]"
 mota: |
  Exaltation! là một tiểu thuyết trực quan ngắn kể về một người đàn ông luôn tự ti về bản thân. Qua mạng xã hội, anh ta đã làm quen và quyết định gặp mặt trực tiếp một người phụ nữ có cá tính bạo liệt ngoài đời thực. Liệu anh ta sẽ tận hưởng trải nghiệm đầu tiên của mình trong thế giới chứ?

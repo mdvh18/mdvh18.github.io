@@ -5,6 +5,7 @@ date: 2026-09-22 12:30:00 +0700
 title: "Việt Hóa Rebirth of Time: The Flame Rekindled - MDVH18"
 tags: [all, mdvh18, allvh, pc]
 typegame: ["PC", "Compressed"]
+price: "free"
 namebanner: "[Việt Hóa] Rebirth of Time: The Flame Rekindled STH - [10GB/5.8GB]"
 mota: |
  Bạn vào vai chủ tịch của một công ty công nghệ sinh học dược phẩm, người đã bị chính đối tác kinh doanh kiêm anh em trai của mình phản bội và sát hại. Sau đó, bạn được một nữ sinh viên tiến sĩ ngưỡng mộ mình đưa trở về quá khứ. Trong câu chuyện này, bạn sẽ nhập học tại Học viện, tận hưởng cuộc sống đại học kéo dài bốn năm.

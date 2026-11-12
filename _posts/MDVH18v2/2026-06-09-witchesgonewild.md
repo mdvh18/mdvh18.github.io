@@ -5,6 +5,7 @@ date: 2026-06-09 12:30:00 +0700
 title: "Việt Hóa Witches Gone Wild v0.1.5 - MDVH18"
 tags: [all, mdvh18, allvh, pc, apk]
 typegame: ["PC", "APK"]
+price: "free"
 namebanner: "[Việt Hóa] Witches Gone Wild v0.1.5 - [650MB]"
 mota: |
  Witches Gone Wild dựa trên cốt truyện và trò chơi trỏ và nhấp lấy bối cảnh trong Thế giới Phép thuật. Bạn sẽ vào vai một phù thủy trẻ bị gửi ngược thời gian trở về thập niên 70, cùng với những người bạn học cũ.
