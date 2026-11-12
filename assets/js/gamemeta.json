@@ -1,0 +1,21 @@
+---
+layout: null
+---
+{% assign all_items = site.documents | concat: site.pages %}
+{% assign game_items = all_items | where_exp: "p", "p.pitu_id != nil and p.pitu_id != ''" %}
+{
+  {% for post in game_items %}
+  {{ post.pitu_id | strip | jsonify }}: {
+    "title": {{ post.namebanner | default: post.title | jsonify }},
+    "date": {% if post.date %}{{ post.date | date_to_xmlschema | jsonify }}{% else %}""{% endif %},
+    "price": {{ post.price | default: "free" | jsonify }},
+    "platform": {{ post.platform | default: "PC" | jsonify }},
+    "typegame": {{ post.typegame | jsonify }},
+    "engine": {{ post.engine | default: "" | jsonify }},
+    "dungluong": {{ post.dungluong | default: "" | jsonify }},
+    "gametype": {{ post.gametype | default: "" | jsonify }},
+    "tags": {{ post.tags | jsonify }},
+    "url": {{ post.url | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+}
