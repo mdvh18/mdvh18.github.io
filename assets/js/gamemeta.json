@@ -1,13 +1,12 @@
 ---
 layout: null
 ---
-{% assign all_items = site.documents | concat: site.pages %}
-{% assign game_items = all_items | where_exp: "p", "p.pitu_id != nil and p.pitu_id != ''" %}
+{% assign first_item = true %}
 {
-  {% for post in game_items %}
-  {{ post.pitu_id | strip | jsonify }}: {
+  {% for post in site.posts %}{% if post.pitu_id and post.pitu_id != "" %}{% unless first_item %},{% endunless %}{% assign first_item = false %}
+  {{ post.pitu_id | append: "" | strip | jsonify }}: {
     "title": {{ post.namebanner | default: post.title | jsonify }},
-    "date": {% if post.date %}{{ post.date | date_to_xmlschema | jsonify }}{% else %}""{% endif %},
+    "date": {{ post.date | jsonify }},
     "price": {{ post.price | default: "free" | jsonify }},
     "platform": {{ post.platform | default: "PC" | jsonify }},
     "typegame": {{ post.typegame | jsonify }},
@@ -16,6 +15,18 @@ layout: null
     "gametype": {{ post.gametype | default: "" | jsonify }},
     "tags": {{ post.tags | jsonify }},
     "url": {{ post.url | jsonify }}
-  }{% unless forloop.last %},{% endunless %}
-  {% endfor %}
+  }{% endif %}{% endfor %}
+  {% for post in site.pages %}{% if post.pitu_id and post.pitu_id != "" %}{% unless first_item %},{% endunless %}{% assign first_item = false %}
+  {{ post.pitu_id | append: "" | strip | jsonify }}: {
+    "title": {{ post.namebanner | default: post.title | jsonify }},
+    "date": {{ post.date | jsonify }},
+    "price": {{ post.price | default: "free" | jsonify }},
+    "platform": {{ post.platform | default: "PC" | jsonify }},
+    "typegame": {{ post.typegame | jsonify }},
+    "engine": {{ post.engine | default: "" | jsonify }},
+    "dungluong": {{ post.dungluong | default: "" | jsonify }},
+    "gametype": {{ post.gametype | default: "" | jsonify }},
+    "tags": {{ post.tags | jsonify }},
+    "url": {{ post.url | jsonify }}
+  }{% endif %}{% endfor %}
 }
