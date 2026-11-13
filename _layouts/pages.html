@@ -98,12 +98,12 @@
 <script src="{{ '/assets/js/pitumdgame.js' | relative_url }}"></script> 
 <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/pitu-pagination.js' | relative_url }}"></script>
-<script src="{{ '/assets/js/search.js' | relative_url }}"></script>
-    
+<script src="{{ '/assets/js/search.js' | relative_url }}"></script>  
+
 <div class="main-content-wrapper" style="display: flex; gap: 5px; align-items: flex-start; width: 100%;">
   
   <div class="game-grid">
-    {% assign posts = site.posts | where_exp: "item", "item.hidden != 'True' and item.hidden != 'true' and item.hidden != true" %}
+    {% assign posts = site.posts | where_exp: "item", "item.hidden != 'True'" | where_exp: "item", "item.hidden != 'true'" | where_exp: "item", "item.hidden != true" %}
 
     {% if page.gametype %}
       {% assign posts = posts | where: "gametype", page.gametype %}
@@ -111,12 +111,13 @@
 
     {% if page.genre %}
       {% assign filtered_posts = "" | split: "" %}
+      {% assign target_genre = page.genre | downcase %}
       {% for post in posts %}
         {% if post.genre %}
           {% assign genres = post.genre | downcase | split: "," %}
           {% for genre in genres %}
             {% assign clean_genre = genre | strip %}
-            {% if clean_genre == page.genre | downcase %}
+            {% if clean_genre == target_genre %}
               {% assign filtered_posts = filtered_posts | push: post %}
               {% break %}
             {% endif %}
