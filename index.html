@@ -100,8 +100,8 @@ layout: default
 <script src="{{ '/assets/js/slider.js' | relative_url }}"></script>   
 <script src="{{ '/assets/js/main.js' | relative_url }}"></script>  
 
-{% assign visible_posts = site.posts | where_exp: "item", "item.hidden != 'True' and item.hidden != 'true' and item.hidden != true" %}
-{% assign posts = visible_posts | limit: 5 %}
+{% assign visible_posts = site.posts | where_exp: "item", "item.hidden != 'True'" | where_exp: "item", "item.hidden != 'true'" | where_exp: "item", "item.hidden != true" %}
+{% assign posts = visible_posts | slice: 0, 5 %}
 
 <section class="hero-slider">
   <div class="slides">
@@ -442,7 +442,7 @@ const backToTopBtn = document.getElementById('back-to-top');
     })();
 </script>
 <script>
-  {% assign visible_games = site.posts | where_exp: "item", "item.hidden != 'True' and item.hidden != 'true' and item.hidden != true" %}
+  {% assign visible_games = site.posts | where_exp: "item", "item.hidden != 'True'" | where_exp: "item", "item.hidden != 'true'" | where_exp: "item", "item.hidden != true" %}
   window.ALL_GAMES_DATA = [
     {% for post in visible_games %}
       {% assign game_id = post.url | split: '/' | last | remove: '.html' %}
