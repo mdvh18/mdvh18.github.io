@@ -100,12 +100,12 @@
 <script src="{{ '/assets/js/pitu-pagination.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/search.js' | relative_url }}"></script>  
 
-{% assign posts = site.posts | limit: 5 %}   
+{% assign posts = site.posts | where_exp: "item", "item.hidden != 'True' and item.hidden != 'true' and item.hidden != true" | limit: 5 %}   
     
 <div class="main-content-wrapper" style="display: flex; gap: 5px; align-items: flex-start; width: 100%;">
   
   <div class="game-grid">
-    {% assign posts = site.posts %}
+    {% assign posts = site.posts | where_exp: "item", "item.hidden != 'True' and item.hidden != 'true' and item.hidden != true" %}
 
     {% if page.gametype %}
       {% assign posts = posts | where: "gametype", page.gametype %}
