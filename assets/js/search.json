@@ -2,8 +2,6 @@
 layout: null
 permalink: /search.json
 ---
-
-{% assign visible_posts = site.posts | where_exp: "item", "item.hidden != 'True' and item.hidden != 'true' and item.hidden != true" %}
 [
 {% for post in visible_posts %}
 {
