@@ -98,9 +98,7 @@
 <script src="{{ '/assets/js/pitumdgame.js' | relative_url }}"></script> 
 <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/pitu-pagination.js' | relative_url }}"></script>
-<script src="{{ '/assets/js/search.js' | relative_url }}"></script>  
-
-{% assign posts = site.posts | where_exp: "item", "item.hidden != 'True' and item.hidden != 'true' and item.hidden != true" | limit: 5 %}   
+<script src="{{ '/assets/js/search.js' | relative_url }}"></script>
     
 <div class="main-content-wrapper" style="display: flex; gap: 5px; align-items: flex-start; width: 100%;">
   
