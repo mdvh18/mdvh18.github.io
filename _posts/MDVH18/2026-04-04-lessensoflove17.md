@@ -1,0 +1,24 @@
+---
+layout: game
+pitu_id: "lessensoflove17"
+date: 2026-04-04 11:30:00 +0700
+title: "Việt Hóa Lessons of love and lust - MDVH18"
+tags: [all, mdvh18, allvh, pc, apk, com]
+typegame: ["PC", "APK"]
+price: "buy"
+hidden: "True"
+namebanner: "[Việt Hóa] Lessons of love and lust Ch. 1-7 - [1.6GB]"
+mota: |
+ Mọi chuyện bắt đầu giống như bất kỳ câu chuyện nào khác. Một công việc mới là giáo viên. Nhưng đây là một câu chuyện khiêu dâm. Nó sẽ dẫn dắt bạn gặp gỡ thân mật với rất nhiều cô gái nóng bỏng. (Chỉ có bạn mới có thể làm họ thỏa mãn. Bạn có làm được không?)
+gametype: "Visual Novel"
+language: "Tiếng Việt"
+mdvh18: "MDVH18"
+platform: "APK/PC"
+dungluong: "1.6GB"
+phienban: "Ch. 1-7"
+dev: "kraguto games"
+genre: "Completed, 3dcg, ahegao, anal sex, animated, bdsm, big ass, big tits, bukkake, cosplay, creampie, exhibitionism, footjob, groping, group sex, handjob, harem, male protagonist, masturbation, milf, monster girl, oral sex, parody, pov, pregnancy, romance, school setting, sex toys, sleep sex, stripping, teasing, titfuck, vaginal sex, voyeurism"
+
+linkpixelapkpc: ""
+linkteraapkpc: ""
+---

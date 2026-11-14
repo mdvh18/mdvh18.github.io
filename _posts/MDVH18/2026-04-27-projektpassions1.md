@@ -1,0 +1,25 @@
+---
+layout: game
+pitu_id: "projektpassions1"
+date: 2026-04-27 12:30:00 +0700
+title: "Việt Hóa Projekt: Passion S1 - MDVH18"
+tags: [all, mdvh18, allvh, pc, apk, com]
+typegame: ["PC", "APK"]
+price: "buy"
+hidden: "True"
+namebanner: "[Việt Hóa] Projekt: Passion S1 v0.7 Completed - [1.7GB]"
+mota: |
+ Trái Đất đã bị bỏ hoang từ lâu, và những gì còn lại của nhân loại giờ đây đang rải rác khắp thiên hà. Vậy chuyện gì đã xảy ra với Trái Đất? Phần lịch sử đó từ lâu đã bị vùi lấp vào quên lãng. Nhưng bạn quan tâm làm gì chứ? Bạn còn có những vấn đề của riêng mình phải giải quyết mà.
+gametype: "Visual Novel"
+engine: "Renpy"
+language: "Tiếng Việt"
+mdvh18: "MDVH18"
+platform: "APK/PC"
+dungluong: "1.7GB"
+phienban: "S1 v0.7"
+dev: "Classy Lemon"
+genre: "Completed, 3DCG, Animated, Harem, Voiced, Handj, Sci-fi, Footjb, Mobile game"
+
+linkpixelapkpc: ""
+linkteraapkpc: ""
+---

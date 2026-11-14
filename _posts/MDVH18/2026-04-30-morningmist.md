@@ -1,0 +1,25 @@
+---
+layout: game
+pitu_id: "morningmist"
+date: 2026-04-30 7:30:00 +0700
+title: "Việt Hóa Serendipity Morning Mist: DTWS - MDVH18"
+tags: [all, mdvh18, allvh, pc, com]
+typegame: ["PC"]
+price: "buy"
+hidden: "True"
+namebanner: "[Việt Hóa] Serendipity Morning Mist: Dawn, Tobacco, Your Scent v1.3.0 - [245MB]"
+mota: |
+ Bạn gái của bạn, Chisa Tsukiyama, đột nhiên quyết định ra nước ngoài du học. Mỗi cái chạm vương vấn, mỗi hơi thở gấp gáp, mỗi cảm giác nhói đau nhè nhẹ để lại đều trở thành minh chứng thầm lặng rằng các bạn vẫn còn tồn tại trong đời nhau.
+gametype: "Simulator"
+engine: "Unity"
+language: "Tiếng Việt"
+mdvh18: "MDVH18"
+platform: "PC"
+dungluong: "245MB"
+phienban: "v1.3.0 Final"
+dev: "Cat Language/NekoGotoStudio"
+genre: "Completed, 2DCG, Animated, Big tits, Censored, Creampie, Groping, Japanese Game, Male protagonist, Masturbation, Oral sex, Romance, Simulator, Vaginal sex"
+
+linkpixel: ""
+linktera: ""
+---

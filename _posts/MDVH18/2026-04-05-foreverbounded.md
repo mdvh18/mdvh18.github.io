@@ -1,0 +1,25 @@
+---
+layout: game
+pitu_id: "foreverbounded"
+date: 2026-04-05 14:30:00 +0700
+title: "Việt Hóa Forever Bounded - MDVH18"
+tags: [all, mdvh18, allvh, pc, apk, com]
+typegame: ["PC", "APK"]
+price: "buy"
+hidden: "True"
+namebanner: "[Việt Hóa] Forever Bounded v1.0 Completed - [178MB]"
+mota: |
+ Oly yêu bạn. Bạn thức dậy trong một căn phòng có vẻ lạ lẫm, với người bạn đồng hành duy nhất là một cô gái sẵn sàng làm bất cứ điều gì để có được tình yêu của bạn.
+gametype: "Sandbox"
+engine: "Renpy"
+language: "Tiếng Việt"
+mdvh18: "MDVH18"
+platform: "APK/PC"
+dungluong: "178MB"
+phienban: "v1.0"
+dev: "D-R-69"
+genre: "Completed, 3dcg, animated, sex toys, bdsm, groping, vaginal sex, lesbian, female protagonist, pov, school setting, sandbox, oral sex, big ass, big tits"
+
+linkpixelapkpc: ""
+linkteraapkpc: ""
+---

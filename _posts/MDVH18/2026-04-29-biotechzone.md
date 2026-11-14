@@ -1,0 +1,25 @@
+---
+layout: game
+pitu_id: "biotechzone"
+date: 2026-04-29 17:40:00 +0700
+title: "Việt Hóa Biotech Forbidden Zone - MDVH18"
+tags: [all, mdvh18, allvh, pc, com]
+typegame: ["PC"]
+price: "buy"
+hidden: "True"
+namebanner: "[Việt Hóa] Zombie Containment Zone Final - [87MB]"
+mota: |
+ Một đợt bùng phát virus sinh học xảy ra tại Thành phố R. Nhân vật chính, Eisha, nhận lệnh từ cấp trên và lên đường thực hiện một cuộc điều tra độc lập. Tác phẩm này là một trò chơi hành động màn hình ngang.
+gametype: "Side-scroller"
+engine: "Unity"
+language: "Tiếng Việt"
+mdvh18: "MDVH18"
+platform: "PC"
+dungluong: "87MB"
+phienban: "Final"
+dev: "Fuurinsousha"
+genre: "Completed, 2dcg, animated, female protagonist, combat, japanese game, censored, combat, graphic violence, monster, groping, teasing, rape, tentacles, side-scroller, big ass, big tits, vaginal sex, anal sex, creampie, oral sex, tits fuck, group sex, multiple penetration, creampie"
+
+linkpixelapkpc: ""
+linkteraapkpc: ""
+---
