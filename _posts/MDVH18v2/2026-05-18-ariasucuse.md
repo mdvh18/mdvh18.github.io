@@ -1,0 +1,25 @@
+---
+layout: game
+pitu_id: "ariasucuse"
+date: 2026-05-18 15:20:00 +0700
+title: "Việt Hóa Aria Sucuse v1.20 Completed - MDVH18"
+tags: [all, mdvh18, allvh, pc, com]
+typegame: ["PC"]
+price: "buy"
+hidden: "True"
+namebanner: "[Việt Hóa] Aria Sucuse v1.20 Completed - [576MB]"
+mota: |
+ Đây là một trò chơi trong đó bạn sẽ có một cuộc chiến với một nữ quỷ succubus trong vòng 10 ngày cho đến khi hợp đồng nô lệ được chính thức ký kết.
+gametype: "Sandbox"
+engine: "Unity"
+language: "Tiếng Việt"
+mdvh18: "MDVH18"
+platform: "PC"
+dungluong: "576MB"
+phienban: "Completed"
+dev: "Kamakurara"
+genre: "Completed, 2DCG, Voiced, Ahegao, Animated, Big ass, Titfuck, Big Tits, Creampie, Vaginal Sex, Handjob, Female Domination, Oral Sex, Monster Girl, Male Protagonist, Romance"
+
+linkpixelapkpc: ""
+linkteraapkpc: ""
+---

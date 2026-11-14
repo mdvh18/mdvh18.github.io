@@ -1,0 +1,26 @@
+---
+layout: game
+pitu_id: "acourtofchaos"
+date: 2026-05-27 16:30:00 +0700
+title: "Việt Hóa A Court of Chaos v1.1.0 - MDVH18"
+tags: [all, mdvh18, allvh, pc, apk, com]
+typegame: ["PC", "APK"]
+price: "buy"
+hidden: "True"
+namebanner: "[Việt Hóa] A Court of Chaos v1.1.0 - [1.4GB]"
+mota: |
+ Briggs, một chú yêu tinh, có một mục tiêu duy nhất: đưa nữ hoàng về đúng vị trí của mình. Hãy âm mưu với triều đình để hạ bệ vị bạo chúa nuông chiều và hỗn xược này. Cốt truyện nhẹ nhàng, tập trung nhiều vào sự sa đọa, những trò đùa tinh quái và sự nhục nhã nơi công cộng.
+gametype: "Sandbox"
+engine: "Renpy"
+language: "Tiếng Việt"
+mdvh18: "MDVH18"
+platform: "APK/PC"
+dungluong: "1.4GB"
+phienban: "v1.1.0"
+dev: "The Sexy Chinaman"
+genre: "Completed, 3DCG, Sandbox, Big Ass, Big Tits, Voyeurism, Corruption, Sexual Harassment"
+
+linkpixelapk: ""
+linkpixelpc: ""
+linkteraapkpc: ""
+---

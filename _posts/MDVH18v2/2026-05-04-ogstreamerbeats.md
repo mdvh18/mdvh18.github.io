@@ -1,0 +1,25 @@
+---
+layout: game
+pitu_id: "ogstreamerbeats"
+date: 2026-05-04 14:30:00 +0700
+title: "Việt Hóa OG Streamer Beats - MDVH18"
+tags: [all, mdvh18, allvh, pc, com]
+typegame: ["PC"]
+price: "buy"
+hidden: "True"
+namebanner: "[Việt Hóa] OG Streamer Beats v1.0.004 - [552MB]"
+mota: |
+ Chán ngán với thực tại? Hãy tải xuống 《OG Streamer Beats》, ứng dụng streamer đang thịnh hành! Gặp gỡ những streamer tài năng, lôi cuốn đang phô diễn kỹ năng của họ. Mục tiêu của bạn là gây ấn tượng với họ—thậm chí có thể giành được một buổi hẹn hò ngoài đời thực! Hãy đắm mình vào thế giới ảo thú vị này và xem sức hút của bạn sẽ dẫn lối đến đâu!
+gametype: "Simulator"
+engine: "Unity"
+language: "Tiếng Việt"
+mdvh18: "MDVH18"
+platform: "PC"
+dungluong: "552MB"
+phienban: "v1.0.004"
+dev: "Triple-S"
+genre: "Completed, 2DCG, Animated, Big tits, Dating sim, Group, Handjb, Male protagonist, Romance, Rpg, Sci-fi, Side-scroller, Voiced"
+
+linkpixel: ""
+linktera: ""
+---

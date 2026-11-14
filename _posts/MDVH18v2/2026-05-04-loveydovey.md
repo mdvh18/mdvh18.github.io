@@ -1,0 +1,25 @@
+---
+layout: game
+pitu_id: "loveydovey"
+date: 2026-05-04 15:30:00 +0700
+title: "Việt Hóa Lovey-Dovey Sex With a Big-Breasted Girl!! Final - MDVH18"
+tags: [all, mdvh18, allvh, pc, apk, com]
+typegame: ["PC", "APK"]
+price: "buy"
+hidden: "True"
+namebanner: "[Việt Hóa] Lovey-Dovey Sex With a Big-Breasted Girl!! Final - [84MB]"
+mota: |
+ Một cô gái dịu dàng đang ở ngay trước mặt bạn, sẵn sàng để bạn chà đạp bao nhiêu tùy thích...
+gametype: "Simulator"
+engine: "Unity"
+language: "Tiếng Việt PC, ENG APK"
+mdvh18: "MDVH18"
+platform: "APK/PC"
+dungluong: "84MB"
+phienban: "Final"
+dev: "Ryugujo"
+genre: "Completed, Japanese game, Censored, Voiced, Animated, 2DCG"
+
+linkpixelapkpc: ""
+linkteraapkpc: ""
+---

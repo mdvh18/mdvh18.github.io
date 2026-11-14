@@ -1,0 +1,26 @@
+---
+layout: game
+pitu_id: "islandcorruption"
+date: 2026-05-29 11:30:00 +0700
+title: "Việt Hóa Island of Corruption Completed - MDVH18"
+tags: [all, mdvh18, allvh, pc, apk, com]
+typegame: ["PC", "APK"]
+price: "buy"
+hidden: "True"
+namebanner: "[Việt Hóa] Island of Corruption Completed - [1.9GB]"
+mota: |
+ Tựa game này là một AVN, cụ thể thuộc thể loại phụ Thôi miên/Kiểm soát tâm trí. Trò chơi này chứa nhiều cảnh.
+gametype: "Visual Novel"
+engine: "Renpy"
+language: "Tiếng Việt"
+mdvh18: "MDVH18"
+platform: "APK/PC"
+dungluong: "1.9GB"
+phienban: "Completed"
+dev: "FPCGameSoftware"
+genre: "Completed, 3DCG, Animated, Big tits, Group sex, Interracial, Lesbian, Male protagonist, Milf, Mind control, Monster girl, Oral sex, Spanking, Teasing, Vaginal sex"
+
+linkpixelapk: ""
+linkpixelpc: ""
+linkteraapkpc: ""
+---
