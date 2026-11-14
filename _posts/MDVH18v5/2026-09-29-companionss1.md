@@ -1,0 +1,26 @@
+---
+layout: game
+pitu_id: "companionss1"
+date: 2026-09-29 10:00:00 +0700
+title: "Việt Hóa Companion of Darkness SS1 Fix tiếng - MDVH18"
+tags: [all, mdvh18, allvh, pc, apk, com]
+typegame: ["PC", "APK"]
+price: "buy"
+hidden: "True"
+namebanner: "[Việt Hóa] Companion of Darkness SS1 Chap 9 Mod Fix cảnh H - [8GB/2.7GB]"
+mota: |
+ 3 năm sau một biến cố đau thương, bạn trở về quê nhà của mình. Ngay trước khi đến nơi, bạn chứng kiến hai thế lực siêu nhiên đang dốc sức chiến đấu sinh tử với nhau. Có vẻ như bạn đã bị phát hiện và bị áp đảo một cách dễ dàng, nhưng thay vì bỏ mạng, bạn lại tỉnh dậy trên giường của mình như thể chưa từng có chuyện gì xảy ra.
+gametype: "Visual Novel"
+engine: "Renpy"
+language: "Tiếng Việt"
+mdvh18: "MDVH18"
+platform: "APK/PC"
+dungluong: "8GB/2.7GB"
+phienban: "SS1 Chap 9"
+dev: "Berkili4"
+genre: "Completed, 3DCG, Male protagonist, Animated, Mobile game, Ahegao, Exhibitionism, Female domination, Handjob, Harem, Lesbian, Masturbation, Oral sex, Teasing, Romance, Voyeurism, Big tits, Big ass, Dating sim, Contemporary fantasy, Interracial, Humor, Graphic violence, Paranormal, POV, Superpowers, Twins, Creampie, Footjob, Virgin, Vaginal sex, Monster Girl, Group sex, Multiple Penetration(MC+Toy), Sex toys, Anal sex, Pregnancy"
+
+linkpixel: ""
+linkgofile: ""
+linkggdrive: ""
+---
