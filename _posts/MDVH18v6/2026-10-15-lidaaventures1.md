@@ -7,6 +7,7 @@ tags: [all, mdvh18, allvh, pc, ntr]
 typegame: ["PC"]
 price: "buy"
 hidden: "True"
+bundle: "true"
 namebanner: "[Việt Hóa] Lida's Adventures Ep 1 (NTR) FIX - [1.2GB]"
 mota: |
  Lida vừa đến một thành phố khác cùng với người chồng Dima của cô ấy! Nhưng đột nhiên, chồng cô ấy đã bị những kẻ ác lạ mặt bắt cóc...
