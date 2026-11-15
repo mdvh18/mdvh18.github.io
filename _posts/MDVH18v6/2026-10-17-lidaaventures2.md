@@ -6,6 +6,7 @@ title: "Việt Hóa Lida's Adventures Ep 2 - MDVH18"
 tags: [all, mdvh18, allvh, pc, ntr]
 typegame: ["PC"]
 price: "buy"
+bundle: "true"
 hidden: "True"
 namebanner: "[Việt Hóa] Lida's Adventures Ep 2 (NTR) - [4.6GB]"
 mota: |
